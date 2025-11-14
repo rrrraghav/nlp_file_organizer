@@ -1,0 +1,85 @@
+PHILIP MORRIS JOB ORDER REQUEST FORM
+(Two Page Form: Instructions on Reverse Side)
+
+R1092 7/92
+Page 1 of 2
+TITLE:
+Binding Foreign Material Separation
+JOB DESCRIPTION (E LEVEL ONLY):
+Install processing equipment to remove foreign materials
+(metal, paper, paper and other foreign item) from stem and
+plant yield material being discarded.
+
+What asset is currently being used?
+None for this specific purpose.
+
+Is this asset or function being replaced?
+N/A
+
+Does this job order relate to an existing "In-Force"
+project or another planned project?
+No.
+
+GENERAL INFORMATION:
+DATE 10/26/92
+Park 500
+COST CENTER U75
+ENVIR. CNTRL NO. 2010
+REQUESTOR M.J. Abel
+COORDINATOR J.M. Campbell
+
+A) Is the retirement of any P.M. equipment involved? NO X YES
+B) Is any P.M. factory labor involved? NO X YES
+C) Are any P.M. parts or materials involved? NO X YES
+D) Is the modification of P.M. equipment involved? NO X YES
+E) Is any auxiliary to be relocated? NO X YES
+F) Can this equipment reasonably be leased? NO X YES
+G) Does this project include an initial forecast? NO X YES
+H) Was this equipment purchased for capital reasons? NO X YES
+
+APPROVALS:
+1. 20/26/92
+     w. J. Campbell
+
+2. 10/27/92
+      J.M. Campbell
+
+EST. START DATE 11/16/92
+EST. COMPL. DATE 5/15/93
+
+ATTACH DISPOSAL REQUEST
+$11,000 (included above)
+ASSET 5-2 (attached above)
+
+ATTACH LEASE/PURCHASE ANALYSIS
+$10,000 (included above)
+
+ATTACH EQUIPMENT REVIEW
+(see attached document)
+
+X YES
+X YES
+X YES
+X YES
+X NO
+X YES
+X NO
+
+PROJECT CODE 47,000
+ASSET TRANSFER (see attached)
+ATTACH LEASE/PURCHASE ANALYSIS
+$10,000 (included above)
+
+ATTACH EQUIPMENT REVIEW
+(see attached document)
+
+PROJECT CODE 47,000
+
+EST. CAPITAL COST $80,000
+WORKING CAP. $ 5,000
+TOTAL COST $150,000
+PREVIOUS REQ.
+
+NOTES:
+(Use additional pages if necessary)
+REFER TO PROJECT CODE 47,000 FOR ALL CORRESPONDENCE.

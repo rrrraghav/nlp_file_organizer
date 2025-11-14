@@ -1,0 +1,76 @@
+REPUBLIQUE T°URQUE
+
+TO 1359*
+
+Ministère de l'Industrie et de la Technologie
+Direction de la propriété industrielle
+
+Datum/Date
+Zeichen und Datum des Antrags 14/11/91
+Applicant's reference and date 91/1081 - 2430 - 16/04/92
+Mandataire/reference
+Vertreter und Zeichen 21838/91
+Industrial Property Services A.S.
+Patentantmeldung
+Patent application
+
+Einreichungstag
+Date de dépôt
+
+Beanspruchte Priorität
+Priority claimed
+
+USA 613160 14/11/90
+Priority revendiquée
+
+RAPPORT / SEARCH REPORT / RECHERChenbericht
+
+établi par } Office européen des brevets
+established by } European Patent Office
+erstellt vom }
+
+- Les documents cites dans le present rapport peuvent affecter la potentiatilité de l'invention which is the subject of the
+application. The search has been performed taking into account articles 2, 5 and 37 of the Patent Law.
+
+- Die in diesem Gutachten genannten Dokumente sind geeignet die Patentierbarkeit der Gegenstand der
+Patentanmeldung zu beeinträchtigen. Die Nachforschung wurde unter Berücksichtigung der Artikel 2, 5 und 37 des
+Türkischen Patentengesetzes durchgeführt.
+
+- La recherche a été effectuée pour les documents qui sont à la disposition de l'Office au moment de l'exécution de celle-ci. Il faut tenir compte du fait
+qu’un certain temps s’écoule entre la date de dépôt des documents et leur mise à disposition.
+
+La documentation de recherche comprend les documents de l'Office européen des brevets et ses sources d’information (EPO, [1980] Grande-Bretagne
+[1932], Luxembourg, [1976] Etats-Unis). La recherche a été effectuée en utilisant les bases de données disponibles auprès de l’Office (EPO, [1980] Grande-Bretagne
+[1932], Luxembourg, [1976] Etats-Unis).
+
+Le présent rapport a été établi en novembre 1991. La recherche a été effectuée par M. J. SCHMIDT.
+
+Les documents suivants ont été considérés comme pertinents :
+
+D1 : US-A-4 268 735 (1981)
+D2 : DE-A-3 407 658 (1985)
+D3 : FR-A-2 476 081 (1979)
+D4 : FR-A-2 513 860 (1977)
+D5 : FR-A-2 476 081 (1979)
+
+Les documents D1 et D2 décrivent des systèmes de freinage pour véhicules à deux roues, comprenant un dispositif de contrôle électronique du freinage.
+Ces systèmes sont équipés d’un capteur de vitesse des roues et d’une unité de contrôle qui ajuste la pression de freinage en fonction de la vitesse des roues.
+Le document D1 décrit un système qui utilise une mémoire pour stocker des informations sur le comportement du conducteur et ajuste la pression de freinage en fonction de ces informations.
+
+Le document D3 décrit un système de freinage pour véhicules à deux roues qui utilise un capteur de vitesse des roues et une unité de contrôle pour ajuster la pression de freinage. Le document D4 décrit un système similaire à celui décrit dans le document D3, mais il utilise un capteur de vitesse des roues différent.
+
+Le document D5 est identique au document D3.
+
+L’invention revendiquée dans la demande de brevet concerne un système de freinage pour véhicules à deux roues qui utilise une mémoire pour stocker des informations sur le comportement du conducteur et ajuste la pression de freinage en fonction de ces informations.
+
+Ce système est considéré comme étant le plus proche de l’invention revendiquée.
+
+Le document D1 révèle un système qui utilise une mémoire pour stocker des informations sur le comportement du conducteur et ajuste la pression de freinage en fonction de ces informations.
+
+Ce système est considéré comme étant le plus proche de l’invention revendiquée.
+
+Le document D1 révèle un système qui utilise une mémoire pour stocker des informations sur le comportement du conducteur et ajuste la pression de freinage en fonction de ces informations.
+
+Ce système est considéré comme étant le plus proche de l’invention revendiquée.
+
+Le document D1 révèle un système qui utilise une mémoire pour stocker des informations sur le

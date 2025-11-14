@@ -1,0 +1,41 @@
+CRC CONTRACT RESEARCH CENTER
+
+FORM NO. 27 CW 96 KMH/MCM Form approved:
+                                         250514689
+
+DETERMINATION OF CIGARETTE PUFF VOLUME PROJECT NO.: B
+
+Day of study :
+Time :
+Group code :
+Smoking machine no. :
+Pressure in smoking machine (mbar) :
+Cigarette type / code :
+Number of cigarettes :
+Factor of flowmeter :
+
+PUFF ALTITUDE RANGE OF DIFFERENCE MEAN PUFF REMARKS
+N. LAMELLA B-A (mm) C (ml/puff)*
+RSD%*
+
+0 A (mm)
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+
+Mean b: Date:
+RSD%* Oracle Date:
+Error codes. A writing, B calculation, C mixing up, D: reading, E: copy, F: other with explanation Initials:
+Initials SD:
+
+* C = (B - A) x f
+b calculation: see attached sheet
+
+02/17

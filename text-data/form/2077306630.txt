@@ -1,0 +1,46 @@
+Confirmation on Report-Memory Send
+
+Time Dec-05 12:29
+Tel Line 1 : +2023470506
+Tel Line 1 : +2023472885
+Job number : 265
+
+: 8610928
+Document Pages : 03
+
+Start time : Dec-05 12:28
+End time : Dec-05 12:29
+Pages sent : 03
+
+*** SEND SUCCESSFUL ***
+
+Job number : 265
+
+PHILIP MORRIS
+COMPANIES INC.
+120 PARK AVENUE, NEW YORK, NY 10017
+
+Facsimile Transmission
+Phone: 212-880-3074
+Fax : 212-949-2395
+
+STEVEN C. PARRISH
+Senior Vice President
+Corporate Affairs
+
+DATE: Distribution
+TO: Distribution
+PAGES TO FOLLOW: 2
+
+FYI:
+
+This facsimile transmission (and/or documents accompanying it) may contain
+confidential information belonging to Philip Morris. The information
+is intended only for the use of the addressee(s) named above. If you are
+not the intended recipient, you are specifically notified that the
+distribution or use of this information is strictly prohibited. You are
+immediately notify us by telephone to arrange for the return of the document.
+
+
+
+2077306630

@@ -1,0 +1,16 @@
+TRANSMISSION REPORT
+
+***********************************
+*                                 *
+*       :MM MEDIA DEPT           *
+*                                 *
+*        ( NOV 23 '98 02:15PM ) *
+*                                 *
+***********************************
+
+DATE       START     REMOTE TERMINAL   MODE      TIME        RESULTS  TOTAL DEPT. FILE
+             TIME    IDENTIFICATION                   PAGE(S)   CODE NO.
+
+NOV 23  02:13PM    510 487 710B G3ST       01 '48"    OK      03
+
+***********************************

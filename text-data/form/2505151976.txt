@@ -1,0 +1,32 @@
+CRC CONTRACT RESEARCH CENTER
+
+FORM NO. 9 CW 93 KM/HMOM [PERFORM/VALDOCONC?]
+
+Form approved:
+
+DETERMINATION OF ALDEHYDE CONCENTRATIONS PROJECT NO.: B 1033
+
+Sample site: 53 Day of study: 15
+
+GROUP CONCENTRATION ACETOLDEHYDE ACROLEIN PROPANALDEHYDE
+
+code (µg/l) (ppm) (µg/l) (ppm) (µg/l) (ppm) (µg/l) (ppm)
+
+1er 0.064 0.003 ND ND 0.046 0.001 0.025 0.000
+0.195 0.001 6.988 3.800 0.658 0.476 0.045 0.001
+3er 0.703 0.046 8.656 1.458 0.833 0.610 1.072 0.046
+4er 1.454 1.172 7.608 4.176 1.882 0.813 0.946 0.190
+
+0 reading, B = other with explanation
+
+Initial: M
+Date: 10 Aug.93
+Error codes: ND = Not detected
+
+draft calculations
+
+25056151976
+0982
+1389
+
+19 Aug. 93

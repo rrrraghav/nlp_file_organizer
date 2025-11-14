@@ -1,0 +1,43 @@
+INIBIFO Institut für biologische Forschung - Köln
+DAT: 1-11
+
+AKUTE TOXIZITÄT MIT BESTIMMUNG DER LD50
+UND LETALITÄT
+
+ÜBERSICHT: POSIERUNG DICHTE: g/ml (a)
+UND LETALITÄT Dichte: g/al (a)
+
+LÖSUNGsmittel:
+MITTEL:
+APPL.-ART.:
+MAX.
+INIBIFO-SU.
+g/ml (a)
+(a) 15 ml/kg (3)
+
+1. DOSENFOLGE DES GESCHL.: WEIBL., DAT:
+UND LETALITÄT Dichte: g/al (a)
+
+U.-SUBST. U.-SUBST.
+(mg/kg) (mg/ml)(b)
+100
+316
+1000
+3160
+31600
+
+APPL.-VOL. (ml/kg)
+LE TALITÄT n/5
+24 h 48 h 7 d
+m. w. m. w. m. w.
+
+BE MERKUNGEN
+
+(mg/kg)
+24 h
+m. w. m. w.
+n/10
+
+(a) gerupft zur nächsten W 24-Zahl
+(b) entspricht Konzentration der Unters.-Substans in der Applikationslösung (µl/ml)
+(c) älliges Lösungsmittel

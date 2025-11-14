@@ -1,0 +1,37 @@
+AMES ASSAY FOR MUTAGENICITY
+
+ COMPOUND Diethyl 3,3-Dimethyl-2-oxo-1,4-cyclopentanecarboxylate
+ SOURCE Lorillard - Organic Chemistry LORILLARD NO. A123 LOT NO. OR67-13
+ DATE RECEIVED: unknown TESTED 3/18/81-4/8/81 REPORTED: 4/4/81
+ INVESTIGATOR(S): H. S. Tong & A. A. Poole
+ SIGNATURE(S)  A.A. Poole
+
+ TOXICITY (% SURVIVAL)
+ 50 80 100
+ CONCENTRATION (mg/ml) .025
+ SOLVENT: X DMSO, ☐ WATER
+ ☐ OTHER
+
+ S TYPHIMURIUM
+ CONTROL REVERTANTS PER PLATE (X IN % OF SOLVENT) 9.67 14.00 118.00 127.00 9.00 21.00
+
+ COMPOUND (µg/plate)
+ REVERSION RATE (TEST REVERTANTS-CONTROL REVERTANTS PER PLATE)
+ 25 .76 .87 .65
+ 12.5 1.10 1.12 1.07 .82 .71
+ 6.25 .52 .88 .78
+ POSITIVE CONTROL
+ 4.0 .72 3.07 .98 4.26 .22 20.10
+ 2.0 1.24 2.86 .76 3.63 .67 18.81
+ Streptozotcin
+ 1.0 6.41 31.14 1.60 3.11
+ 0.5 2.88 12.29 1.08 1.99
+
+ CONCLUSION: This compound is judged non-mutagenic in this test system.
+ Copies to the following: H. J. Minnemeray
+
+ L. B. Gray
+
+ 0102843
+ LORILLARD RESEARCH CENTER
+ FORM 9 (5/60)

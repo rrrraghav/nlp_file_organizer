@@ -1,0 +1,56 @@
+For Customer: MSCP11 SHOREWOOD PACKAGING Printed 2/07/99
+                                      Revised 2/07/99
+
+SECTION 1 PRODUCT IDENTIFICATION
+Manufacturer: INX International Ink Co.  Emergency Phone: (404) 131-1301
+7996-B Second Flag Drive   Phone: (800) 535-5055
+INFO TRAC  (800) 535-5055
+
+Prepared By: TECHNICAL DIRECTOR
+Title :  ERIC G. SEDGMAN
+
+SECTION II HAZARDOUS INGREDIENTS
+                                      Exposure Limits
+Ingredients           CAS #         Weight   ACGIH/TLW OSHA/PEL  US  HG
+PETROLEUM DISTILLATE   64741-86-2 20-50  ng/M3   .70F
+PETROLEUM DISTILLATES 8042-49-5  1-5   ng/M3 .70F
+
+*** ALL Ingredients in this product are listed in the T.S.C.A. Inventory. ***
+
+Ingredients not specifically listed above are interpreted to be
+non-hazardous per the OSHA Hazard Communication Standard.
+
+SECTION III PHYSICAL DATA
+Boiling Range: 510 - 860 Deg. F   Vapor Density Heavier than Air
+Vapor Pressure:  Lower than Butyl Acetate Liquid Density 7.38 lbs/gallon
+Appearance: COLORED PASTE, TRANSFER  Spec. Gravity 0.9389
+Odor: Solvent Odor
+
+SECTION IV FIRE AND EXPLOSION DATA
+Flash Point: 150 Deg. F  (Seta Closed Cup)   Auto Ignition Temperature: 460 Deg. F
+Extinguishing Media: Carbon Dioxide, Dry Chemical, Alcohol Foam. Use water spray to cool fire exposed containers.
+Special Fire Fighting Procedures: Wear self-contained breathing apparatus and protective clothing to prevent contact with skin and eyes.
+Unusual Fire & Explosion Hazards: Vapors may travel to a source of ignition and flash back.
+
+SECTION V REACTIVITY DATA
+Stability: Stable under normal conditions.
+Conditions to Avoid: Excessive heat, sparks, open flame.
+Incompatibility: Strong oxidizing agents.
+Hazardous Decomposition Products: Carbon Monoxide, Carbon Dioxide.
+
+SECTION VI HEALTH HAZARD DATA
+Routes of Entry: Inhalation, Skin Contact, Eye Contact.
+Acute Effects: May cause irritation to eyes, nose and throat. Prolonged or repeated skin contact may cause dermatitis.
+Chronic Effects: No known chronic effects.
+
+SECTION VII PRECAUTIONS FOR SAFE HANDLING AND USE
+Eye Protection: Safety glasses with side shields are recommended.
+Skin Protection: Wear impervious gloves and protective clothing to prevent skin contact.
+Respiratory Protection: Use with adequate ventilation. If exposure limits are exceeded, use a NIOSH approved respirator appropriate for the concentration of vapors present.
+Ventilation: Local exhaust ventilation is recommended to maintain vapor concentrations below exposure limits.
+Storage & Handling: Keep containers tightly closed when not in use. Store in a cool, dry place away from heat and ignition sources.
+Waste Disposal: Dispose of in accordance with federal, state and local regulations.
+
+SECTION VIII OTHER INFORMATION
+This Material Safety Data Sheet is prepared in accordance with the Hazard Communication Standard (29 CFR 1910.1200).
+DISCLAIMER: The information contained herein is based on our current knowledge and experience. However, no warranty or guarantee is made with respect to its accuracy or completeness. It is the user’s responsibility to determine the suitability of this product for their particular use and to adopt such precautions as may be necessary for the safe handling and use of this product.

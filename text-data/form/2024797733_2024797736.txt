@@ -1,0 +1,45 @@
+PDMT CLOSE OUT REPORT C&I Number (if applicable): 75
+
+PROBLEM
+STATEMENT
+
+START DATE
+
+- 100% Compliance by 12/31/92
+- Minimize future audit findings/issues
+
+PROBLEM SOLVING
+OBJECTIVE
+
+D. L. Jenkins - Leader
+TEAM MEMBERS
+& LEADER J. O. Gliss
+W. G. Estes
+L. F. Puliano
+A. O. Hayes
+R. H. Cummins
+J. S. Brown
+
+See Attached
+
+SOLUTIONS IMPLEMENTED
+AND DATE(S)
+
+# of Nonconformances to Policy
+
+MEASURES OF
+EFFECTIVENESS
+BEFORE
+
+# of Nonconformances to Policy
+
+MEASURES OF
+EFFECTIVENESS
+AFTER
+
+01/04/93 (passed to QC for continued work/follow-up)
+
+CLOSE OUT DATE
+
+202479733
+aclose75.xls

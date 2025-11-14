@@ -1,0 +1,18 @@
+System Maintenance Requisition Form
+
+User Ref KEIS 082693 MIS Ref
+
+User Name E.Y. Yi Date 8/26/93
+Department Location
+Application Name
+EIS Daily Sales System (data entry) New Job
+
+EIS Segmentation (data entry) Enhancement
+PERFORMANCE of "SEOUL" AREA MORE IN DETAIL FURTHER TO THE CURRENT DAILY SALES REPORTS GENERATED FROM EIS.
+
+Priority : High/ Medium / Low
+
+Authorities
+User Signature 2, yee Date 8/26/93
+Management Approval Date 8/26/93
+System Owner Approval Date

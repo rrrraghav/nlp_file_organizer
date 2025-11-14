@@ -1,0 +1,56 @@
+System Input Code Request Form
+
+Promotion Code - Approval
+
+Trade Marketing Manager Approval:
+
+Brand Manager Approval:
+
+Date:
+PM# Promo ID:
+
+Payment Information
+
+General Promotion Information
+
+Requester:
+Date:
+3/12/97
+
+Promotion Description
+Distributor Assembly
+Utility 804-376-1997 P.O.
+Balanced 504-376-1997 P.
+
+If Promotion is Marketed Or Geographically
+Targeted, Please Specify Here:
+
+20726440
+
+Promotion Code - Worksheet (N.)
+Fixed Fund Deduction (N.)
+Dollar Amount Payable or State of Action (N.)
+
+Payment for Receipt or Incentive (D.)
+
+Incentive POS Number:
+Military (N.)
+Pack 
+Date Start Date End Date
+3/12/97 4/30/97
+
+CSS Use
+
+Type
+Sub-type
+WIB - R
+Display Size
+INCENTIVE POS Number:
+
+Dollar Amount Payable (N.)
+Quantity - 
+(C.)
+
+Check or Carton Promotion (C.)
+
+WIB - R

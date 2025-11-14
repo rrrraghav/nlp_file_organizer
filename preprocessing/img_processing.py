@@ -43,8 +43,6 @@ def get_folder_files(folder_path: str):
 # docs-sm for list_folders and result is ['adv', 'email'] etc
 # for each folder we need to run get_folder_files with prepended docs-sm/... -> file paths
 
-# here
-
 # for each file in the folder prepend with docs-sm and folder name to then pass to image processing
 # create a .txt file for of output from llm 
 # .txt file needs to be stored in text-data/original_folder/same_id.txt
@@ -77,49 +75,46 @@ def process_image_llm(image_path):
     response = requests.post(BASE_URL, json=payload)
     return response.json()['choices'][0]['message']['content']
 
-# we want to do this so we can use sklearn:
-"""
-load_files from sklearn:
-
-Expects a folder structure like this:
-
-dataset_root/
-├─ class_1/
-│  ├─ file1.txt
-│  ├─ file2.txt
-├─ class_2/
-│  ├─ file3.txt
-│  ├─ file4.txt
-
-Each subfolder name becomes a class label.
-
-Each file inside the folder is treated as a sample/document.
-
-Reads all the files and returns a Python object containing:
-- data: list of strings (text content of each file) → ready for vectorization.
-- target: list of integer labels (0, 1, 2…) corresponding to the class of each file.
-- target_names: list of class names (subfolder names).
-- filenames: list of paths to each file (optional, useful for debugging).
-"""
-
-"""
-from sklearn.datasets import load_files
-
-# Load data from folder structure
-data = load_files('text-data', encoding='utf-8', decode_error='ignore')
-
-# Access content
-X = data.data           # list of text documents
-y = data.target         # list of labels as integers
-class_names = data.target_names  # list of class names
-print(class_names)      # e.g., ['advertisement', 'email', 'invoice']
-
-from sklearn.feature_extraction.text import TfidfVectorizer
-from sklearn.linear_model import LogisticRegression
-
-vectorizer = TfidfVectorizer()
-X_vectors = vectorizer.fit_transform(X)
-
-model = LogisticRegression(max_iter=1000)
-model.fit(X_vectors, y)
-"""
+def main():
+    
+    source_root = "docs-sm"
+    output_root = "text-data"
+    
+    os.makedirs(output_root, exist_ok=True)
+    
+    # get all category folders (advertisement, budget, email, etc.)
+    category_folders = list_folders(source_root)
+    
+    # process each category folder
+    for category in category_folders:
+        # create corresponding output folder
+        output_category_path = os.path.join(output_root, category)
+        os.makedirs(output_category_path, exist_ok=True)
+        
+        # get all image files in this category
+        category_path = os.path.join(source_root, category)
+        image_files = get_folder_files(category_path)
+        
+        # process each image file
+        for image_path in image_files:
+            # get filename without extension (ex "0000022394" from "0000022394.jpg")
+            filename = os.path.basename(image_path)
+            file_id = os.path.splitext(filename)[0]
+            
+            # make output txt file path
+            output_text_path = os.path.join(output_category_path, f"{file_id}.txt")
+            
+            # check if already processed
+            if os.path.exists(output_text_path):
+                continue
+            
+            # extract text from image using google/gemma-3-12b vision model
+            extracted_text = process_image_llm(image_path)
+                
+            # save text to file
+            with open(output_text_path, 'w', encoding='utf-8') as txt_file:
+                txt_file.write(extracted_text)
+                    
+            
+if __name__ == "__main__":
+    main()

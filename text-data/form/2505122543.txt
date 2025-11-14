@@ -1,0 +1,27 @@
+CRC CONTRACT RESEARCH CENTER
+
+FORM approved: 
+PROJECT NO.: B 1021
+
+MEAN CONCENTRATION OF TEST ATMOSPHERE
+COMPONENTS
+
+COMPONENT/ 
+PARAMETER	GROUP CODE
+TPM (µg/m) Sample 6+1 0.22 1.67 3.93 8.88 0.63 1.30 2.69
+CO (ppm) 0.06 6.07 42.9 29.61 5.30 44.27 29.71
+INLET:
+CO2 (ppm) 
+OUTLET:
+NO (ppm) 
+NOx (ppm) 
+Formaldehyde (ppm) 
+Acetaldehyde (ppm) 
+Acrolein (ppm) 
+Propionaldehyde (ppm) 
+
+draft calculations Date: 15-JUN-91
+Initials: K.T.
+
+2505122543 
+5-27
