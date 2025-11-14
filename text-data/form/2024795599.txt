@@ -1,0 +1,38 @@
+Date:
+
+Philip Morris, ABG
+Number: 83-C958
+
+1. Originator: Jack Dillon
+
+2. Proposed change to : A. Parameters (Prep. Soils. Batch Make-Up)
+B. Standards
+C. Control Moves
+
+3. Problem Statement: Prep Soils. X & S TQM’s, Line 1
+
+What is the objective of making this change?
+lower humectant levels.
+
+4. List evidence, provide data to support need for change:
+Prep Soils. X & S TQM’s, Line 3
+
+5. Describe what will be improved if problem is resolved:
+
+6. Identify probable causes of problem (attach C&E).
+Lack of follow-up to ensure systems were updated upon implementing Prep Soils. X & S TQM’s, Line 3
+
+7. Describe proposed system change:
+Change the water/DN make-up matrix for Prep Soils. per the attached.
+
+8. Recommend measurements of effectiveness of proposed change:
+
+9. Describe action plan for implementing proposed change (attach if need more space).
+Distribute New Matrix to #1 Operators & Upgrade #1 Operators & MR Suvps.
+
+10. List personnel affected by change:
+# 1 & Upgrade #1 Operators SIT
+Machine Room Suvps. Lab Services Process Stage Accountable
+SPC Specialists Quality Services
+
+204795539

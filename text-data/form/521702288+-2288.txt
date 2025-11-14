@@ -1,0 +1,61 @@
+#1906
+
+Material Safety Data Sheet QUICK IDENTIFIER (to Plant Common Name)
+
+Manufacturer’s
+Name Industrial Color Incorporated
+Address 50 Industry Avenue, Joliet, Illinois 60431
+Emergency Telephone No. (815) 722-7102
+Signature of Preparer Ronnie D. Stropaylor Date Prepared January 2, 1986
+
+SECTION 1- IDENTITY
+
+Common Name (used on label) #1906
+(Trade Name & Synonyms)
+Chemical Formula Phthalo. Blue (G.KC) (Pig. Blue 15:3)
+Cas No. 1147-14-8
+
+Copper Phthalocyanine of the Beta crystal form.
+SECTION 3- PHYSICAL & CHEMICAL CHARACTERISTICS (Fire & Explosion Data)
+
+Boiling N/A
+Pour. Gravity 1,5
+Specific Vapor Pressure (mm Hg) N/A
+% Volatile Unknown Density 1.5 Heavier Evaporation Rate N/A
+
+Appearance Bright greenish blue. Autotemp. 2470°C
+Odor Pungent, slightly odorless. Reactivity with Water None
+
+Flash Point N/A Flammable Limits Lower N/A Upper N/A Auto-Ignition °F 480°C
+Procedure for fire conditions. Employ techniques that do not create dusts.
+
+Unusual Fire and Explosion Hazards Will burn, support combustion, or decompose with emission of dense smoke.  Inhibits polymerization of some resins.  May react violently if heated to sufficiently high temperatures.  Avoid contact with strong oxidizers, for sufficiently long periods of time.
+
+SECTION 10- STABILITY & REACTIVITY
+
+Stability Stable under normal conditions.
+Conditions to Avoid Heat, strong oxidizers.
+Materials to Avoid Strong oxidizing agents.
+Hazardous Decomposition Products Carbon Monoxide, CO₂, Hydrogen Chloride
+
+SECTION 12- ECOLOGICAL INFORMATION
+
+Ecotoxicity Data N/A
+Persistence & Degradability N/A
+Bioaccumulation Potential N/A
+
+SECTION 14- TRANSPORT INFORMATION
+
+DOT Proper Shipping Name Not Regulated
+DOT Identification Number N/A
+Water Pollution Control Act Information This product is not subject to the Water Pollution Control Act.
+
+SECTION 15- REGULATORY INFORMATION
+
+SARA Title III Information:
+Sections 302, 311, 312 & 313: Not applicable.
+CERCLA (Superfund) Information:  Not listed on List of Hazardous Substances.
+
+SECTION 20- OTHER INFORMATION
+
+This Material Safety Data Sheet is furnished as a courtesy and in good faith.  We make no warranty or representation of any type, express or implied, with respect to the accuracy or completeness of this information.  We assume no responsibility for any loss or damage resulting from its use.

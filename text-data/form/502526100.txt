@@ -1,0 +1,56 @@
+JUN 06 1984
+
+CAS No.: 106-24-1
+FEMA SUR CODE No.: X
+
+(RTR)
+SECRET
+No. 11 By
+
+DAILY INTAKE
+ug/40 cigarettes: X
+
+PRODUCT USAGE:
+X
+
+TOXICITY DATA
+
+CHEMICAL INFORMATION FILE
+
+M1
+Filter: X
+STP: X
+Other: 
+
+Toxicology:
+The following ug/kg have been reported:
+Oral LD50 in rats - 3.6 g/kg
+(P. K. Jenner, et al., Food Cosmet. 2 367 (1964).
+Intravenous LD50 in rats - 50 ug/kg.
+(T. Yamasaki, Journal of Toxicological Science 1963).
+
+Germany: Yes
+(T. Yamasaki, Report to RTM November 1972;
+O. M. Morano, Food Cosmet. 12 861 (1974).
+
+Hunter: Yes
+
+Toxicological, in rabbits - 58 ug/kg.
+(P. K. Jenner, Food Cosmet. 12 861 (1974).
+
+Cigarette: X
+Smoke Isolate: Yes
+
+In two feeding studies in rats, neither no effect on growth nor 1000 ppm in the diet for 28 weeks produced any effect on growth. At termination, there were no pathological or microscopic changes in the liver, kidney, heart, or other tissues.
+
+(P. K. Jenner, et al., Food Cosmet. 2 5141 (1967).
+
+GRADE AND PURITY:
+CO E.: 2507
+
+CHEMICAL STRUCTURE:
+
+FMA: 182.60
+Yes
+
+CACH

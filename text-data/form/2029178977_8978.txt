@@ -1,0 +1,29 @@
+INBI FO Institut für biologische Forschung - Köln
+19 Dec. 94 NDA/MWO X:MWO\OA\QAT3192.DOC
+
+ÜBERPRÜFUNG VON P 050/3192 DURCH QA
+
+SEITE-NR.: 1 von 2
+
+TITEL:
+Mutagenicity of the Mainstream Smoke Condensate of the Test Cigarettes
+X5D2BVI, X5D2BVJ, X5D2BVK, and X5D2BVJ in the Salmonella Typhimurium
+Strains TA98 and TA100
+(PT)
+
+PRÜFZEITPUNKT: vor Ausgang des Reports (15.Dez.94)
+
+ÜBERPRÜFTER PARAMETER
+BEANSTANDUNG
+
+Report Die Anzahl der Zigarretten zur Bestimmung
+der Zugzahl beträgt 30 statt 10
+
+Rohdaten keine
+
+BEMERKUNG:
+
+16.Dez.94
+QA: DATUM/ZN
+
+202312315207

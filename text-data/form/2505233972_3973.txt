@@ -1,0 +1,37 @@
+INBIFO Institut für biologische Forschung · Köln
+
+20 Sep. 00
+
+ÜBERPRÜFUNG VON P 0500/3362 DURCH QA
+
+TITEL: Chemical Analysis of Mainstream Smoke from HYDRA Cigarettes with and
+without AMP in the Cigarette Overwrap and from 1R4F
+(9575-18)
+
+PRÜFZIEITPUNKT: vor Ausgang des Reports (15.Sep.2000)
+
+ÜBERPRÜFTER PARAMETER	BEANSTANDUNG
+
+Report, Rohdaten
+PAHs 
+Hydrocarbons
+
+Für die Kalibrierkontrollproben gibt es
+Abweichungen von ca. 20 % zur Sollkon-
+zentration. Es gibt jedoch keinen Hinweis in
+den Rohdaten, welche Konsequenzen das
+für die Messwerte hat.
+
+Aus den Ergebnisausdrucken in den Roh-
+daten wird nicht klar, ob die Messwerte der
+verdünnten oder der unverdünnten Proben
+sind.
+
+BEMERKUNG: Studie nach den GLP-Grundsätzen des ChemG
+
+260523972
+20.Sep.2000
+
+QA: DATUM/ZN
+
+B.KW84

@@ -1,0 +1,23 @@
+TRANSMISSION RESULT REPORT (APR 29 '96 03:05AM) (AUTO)
+
+FILE FILE TYPE TEL NO. PAGE RESULT
+BS2 MEMORY TX 918164215547 02/02 OK
+
+Philip Morris
+& Confidential
+Facsimile Transmission
+Legal Department
+120 Park Avenue
+New York, NY 10017-5592
+
+Date: 4/30/96
+
+Attention: Leo Dreyer, Esquire
+Company: Shook, Hardy & Bacon
+Fax #: 816/421-5547
+Subject: Heller Ehrman/CD ROM/ETS
+
+20754871553
+
+ERRORS
+1) HANG UP OR LINE FAIL 2) BUSY 3) NO ANSWER 4) NO FACSIMILE CONNECTION
