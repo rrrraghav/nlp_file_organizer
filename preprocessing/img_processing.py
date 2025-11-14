@@ -1,4 +1,6 @@
 import os
+import requests
+import base64
 
 def list_folders(folder_path: str):
     """
@@ -40,9 +42,40 @@ def get_folder_files(folder_path: str):
 
 # docs-sm for list_folders and result is ['adv', 'email'] etc
 # for each folder we need to run get_folder_files with prepended docs-sm/... -> file paths
+
+# here
+
 # for each file in the folder prepend with docs-sm and folder name to then pass to image processing
 # create a .txt file for of output from llm 
 # .txt file needs to be stored in text-data/original_folder/same_id.txt
+
+# here
+BASE_URL = "http://127.0.0.1:1234/v1/chat/completions"
+MODEL = "google/gemma-3-12b"
+
+def process_image_llm(image_path):
+    with open(image_path, "rb") as f:
+        base64_image = base64.b64encode(f.read()).decode()
+
+    prompt = "Extract all text from this image exactly as it appears. Output only the raw text with no formatting, " \
+             "no explanations, no markdown, no bullet points. Preserve the original spacing and line breaks. " \
+             "Pay close attention to spelling. Transcribe every word character-by-character exactly as shown, " \
+             "including unusual spellings or names. Do not autocorrect or fix anything."
+    
+    payload = {
+        "model": MODEL,
+        "messages": [{
+            "role": "user",
+            "content": [
+                {"type": "text", "text": prompt},
+                {"type": "image_url", "image_url": {"url": f"data:image/jpeg;base64,{base64_image}"}}
+            ]
+        }],
+        "max_tokens": 1000
+    }
+    
+    response = requests.post(BASE_URL, json=payload)
+    return response.json()['choices'][0]['message']['content']
 
 # we want to do this so we can use sklearn:
 """
