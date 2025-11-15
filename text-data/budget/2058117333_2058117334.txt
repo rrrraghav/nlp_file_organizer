@@ -1,0 +1,33 @@
+08/18/88 14:53 003
+
+BUDGET ANALYSIS - Primary Drying Oven Thru Sintering
+
+Ref.: CNS Production Plant: 125 Million/Month
+
+Cash Flow Report
+
+Task No. Description Planned Planned Total
+Planned Fixed Cost Resource Cost Planned Cost
+41 Design primary drying oven $ 211,093 $10,873 $ 221,916
+42 Pur/fab primary drying oven 571,000 3,991 574,991
+43 Install primary drying oven 360,000 5,656 365,656
+44 Design primary oven matl. hdl. 39,500 6,152 45,652
+45 Pur/fab primary oven matl. hdl. 147,300 11,182 158,482
+46 Install primary oven matl. hdl. 60,000 5,337 65,337
+
+Sub Total $1,689,193 $41,041 $1,730,234
+
+50 Design sinter oven conveyor system 15,300 1,495 16,795
+51 Pur/fab sinter oven conveyor system 115,400 1,612 117,012
+52 Design/test sinter oven 76,500 13,709 90,209
+53 Purchase fab sinter oven 623,000 6,795 629,795
+54 Install sinter oven 27,800 4,162 31,962
+55 Install sinter oven conveyor system 100,100 4,067 104,167
+
+Sub Total $ 938,300 $31,770 $ 970,270
+
+Total $2,627,493 $72,811 $2,700,304
+
+
+
+2058117333

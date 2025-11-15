@@ -1,0 +1,57 @@
+CONTRIBUTION REQUEST
+
+Date: 1/22/90
+
+First Name: Bill
+Middle Name:
+Last Name: Smitherman
+Suffix:
+OR
+Group Name:
+
+Address 1: 419 John Cherberg Building
+Address 2:
+City: Olympia State: WA Zip: 98504
+
+Title: Senator
+Salutation: Senator Smitherman
+
+Current Position: IN/ST/LE/UP
+(IN or GR / ST of LO / LE or EX / UP or LO or CI or CO)
+
+Aspired Position: IN/ST/LE/UP
+(IN or GR / ST of LO / LE or EX / UP or LO or CI or CO)
+
+Member of Leadership: N
+(Y or N; explain in Other)
+
+Active Legislator: Y
+(Y - currently holds some office; N - not in office)
+
+Party: D
+(R, D, O)
+
+Committees
+Business: Y Finance: Y Health: N Rules: N Judiciary: N
+(Y or N - generic committee jurisdiction, not name)
+
+Other: Higher Education
+(other committees, chairmanships, leadership position, etc.)
+
+***********************************
+Amount: $200.00
+Check Payable to: Bill Smitherman Campaign Fund
+
+Address 1:
+Address 2:
+City/State/Zip:
+(only if different from address above)
+
+Event Detail: Campaign Fund
+(state ID #; other information)
+
+Approval:
+[Signature]
+Regional Vice President
+
+TNWL.0034619

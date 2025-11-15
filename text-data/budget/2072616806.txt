@@ -1,0 +1,42 @@
+Page la
+
+PROJECT PROJECT
+NUMBER NAME BUDGETED SPENT (Oct. 1975) % SPENT
+
+1004 Science Information Administration $49,843 $34,233 69.3
+1007 Miscellaneous Supplies 4,000 3,685 92.1
+1012 Computer System Dev. 5,000 942 18.8
+1014 Data Processing 37,300 34,385 92.1
+1015 Internal Reports & Notebooks 4,000 661 16.5
+1017 Tobacco Research 13,000 11,725 90.2
+1019 Service to Science Information 13,000 11,725 90.2
+1020 Service to Research General 17,000 14,687 86.4
+1021 Service to Analytical Division 12,000 10,361 86.3
+1022 Service to Chemical Division 35,200 29,885 84.5
+1024 Service to Marketing Research 17,000 14,346 84.4
+1025 Service to Archer-Rural Research 4,000 3,446 86.1
+1026 Tobacco Production Research 12,000 9,887 82.4
+1027 General Services - RJR Tobacco $20,000 31,430 157.2
+1028 Service to RJR Tobacco 16,000 8,887 55.5
+1031 Service to RJR Foods-Eng. 4,000 3,963 99.1
+1032 Service to RJR Foods-G. Carlson 2,000 2,001 100.1
+1037 Service to RJR Foods-Quality Control 5,000 4,085 81.7
+1038 Service to Corporate Research 16,000 9,592 59.9
+1039 Service to Tobacco Prod. Dev. 17,000 15,537 91.4
+1040 Service to Special Processes-Tob. 4,000 3,119 77.9
+1042 Service to Foods Development 8,700 8,116 93.3
+1045 Service to RJR Archer-Curr. 1,000 477 47.7
+4074 Information Services 1,000 1,000 100.0
+4075 Service to RJR Archer-Secretarial 2,000 1,734 86.7
+
+TOTALS: $391,743 $327,174 83.4
+
+
+
+(cont.) on page 1b
+
+
+
+
+8063 577
+9/27/1980

@@ -1,0 +1,133 @@
+MACROSOFT.XLS
+
+10/92
+
+                                    WAREHOUSE & PRODUCTION REPORT
+
+
+
+EQUIPMENT TYPE                 COST N°    NUMBER      INSTALLATION COST   MAINTENANCE COST  TOTAL COST       TOTAL
+                                                                                                             
+D/C BOX
+COMPLEX
+CHILLER
+CONDENSER
+CONVEYOR
+GRIND PARTS RT
+GRIND MACHINE
+BUILT TO BUT MOD
+PLAST. REC.
+PLAST. MOLD
+PIPE
+HYB. BATCH
+CASE PACKER
+CARTON CONVETOR
+
+839,600
+839,600
+839,600
+839,600
+839,600
+250,000
+250,000
+175,000
+175,000
+175,000
+476,300
+476,300
+476,300
+
+8
+8
+8
+8
+8
+2
+2
+2
+2
+2
+2
+2
+2
+
+ 51,184   
+ 51,184   
+ 51,184   
+ 51,184   
+ 51,184   
+ 26,900  
+ 26,900  
+ 17,500  
+ 17,500  
+ 17,500  
+ 3,104  
+ 3,104  
+ 3,104
+
+ 8,396   
+ 8,396   
+ 8,396   
+ 8,396   
+ 8,396   
+ 1,750   
+ 1,750   
+ 1,750   
+ 1,750   
+ 1,750   
+ 476  
+ 476  
+ 476
+
+ 63,880    
+ 63,880    
+ 63,880    
+ 63,880    
+ 63,880    
+ 29,150   
+ 29,150   
+ 19,250   
+ 19,250   
+ 19,250   
+ 4,580  
+ 4,580  
+ 4,580
+
+ 637,224
+ 637,224
+ 637,224
+ 637,224
+ 637,224
+ 175,000
+ 175,000
+ 175,000
+ 175,000
+ 175,000
+ 480,900
+ 480,900
+ 480,900
+
+OPERATORS
+MECHANICS
+ATTENDANTS
+MISCELLANEOUS
+TOTAL
+
+10
+5
+3
+2
+22
+
+FLAVOR KITCHEN
+TOTAL MFG.
+
+263
+
+
+
+2020346933
+
+Page 1
+
+R.E. Lee

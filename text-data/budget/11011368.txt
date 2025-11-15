@@ -1,0 +1,58 @@
+CONTRIBUTION REQUEST JUL 28 1989
+
+Date: July 25, 1989
+
+First Name: Emil
+Middle Name:
+Last Name: Jones
+Suffix: Jr.
+OR
+Group Name:
+
+Address 1: 507 West 111th Street
+Address 2:
+City: Chicago, State: IL Zip: 60628
+
+Title: Senator
+Salutation: Dear Senator Jones
+
+Current Position: IN /ST /LE /UP
+(IN or GR / ST or LD / LE or EX / UP or LO or CI or CO)
+
+Aspired Position: IN /ST /LE /UP
+(IN or GR / ST or LD / LE or EX / UP or LO or CI or CO)
+
+Member of Leadership: N
+(Y or N: explain in Other)
+
+Active Legislator: Y
+(Y - currently holds some office; N - not in office)
+
+Party: D
+(R, D, O)
+
+Committees
+Business: Finance: Health: X Rules: Judiciary:
+(Y or N – generic committee jurisdiction, not name)
+
+Other: (Other committees, chairmanships, leadership position, etc.)
+
+$200.00
+
+Amount:
+Check Payable to: Citizens to Elect Emil Jones, Jr.
+
+Address 1: Same as above
+Address 2:
+City/State/Zip:
+(only if different from address above)
+
+Event Details: TVND 0010946
+(state ID #; other information)
+
+Approval: Bill Frisler
+(Regional Vice President)
+
+
+
+TILBC 023796

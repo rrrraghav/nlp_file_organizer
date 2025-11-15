@@ -1,0 +1,22 @@
+1990 SECON
+
+|| COMPANY || MAGAZINES || MAG
+SOV || NEWSPAPERS || NEWS
+SOV ||
+PM || $42,384.3 || 56 || $1,221.8 || 18 ||
+RR || $8,763.7 || 12 || $3,436.2 || 51 ||
+B&W || $8,368.4 || 8 || $246.4 || 4 ||
+LOR || $5,956.9 || 8 || $1,538.6 || 23 ||
+AMER || $12,082.7 || 16 || $264.3 || 4 ||
+L&M || $110.7 || 0 || $42.1 || 1 ||
+|| TOTAL || $75,666.7 || 100 || $6,749.3 || 100 ||
+
+Sources:
+Leo Burnett - Outdoor, Sunday Metro, Independent Supplements
+LTS - Magazines, Daily Newspapers ("A" papers), Syndicated Supp
+USSI - Suburban Press Newspapers
+FSI Reports - Free Standing Inserts
+
+
+
+2065.532208

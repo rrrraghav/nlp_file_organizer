@@ -1,0 +1,37 @@
+VENDOR DOC
+
+
+
+                                    VENDOR CONTRACT PAYMENTS
+NUMBER   DOC      STATE/VENDOR                       ACCT NO.    JAN       FEB        MAR       APR       MAY       JUN       JUL       AUG       SEP       TOTAL
+00012 Oct BP W.H. Anderson, Inc.  7501119 11330 X 11330 X 11330 X 11330 X
+00013 Oct BP All-State, The   7501120 14860 X 14860 X 14860 X 14860 X
+00014 Oct BP All-State, The  7501120 3900 X 3900 X
+00015 Oct BP All-State, The   7501120 3900 X
+00016 Oct BP B.P. Industrial Supply 8001 4000 X 4000 X
+                                    VENDOR
+00020 Oct BP Brown & Caldwell, Eng.  8001 7500 X
+00021 Oct BP Brown & Caldwell, Eng.  8001 7500 X
+00022 Oct BP Brown & Caldwell, Eng.  8001 7500 X
+00023 Oct BP Brown & Caldwell, Eng.  8001 7500 X
+00024 Oct BP C.H. Hassert & Co.   7501119 1600 X 1600 X
+00025 Oct BP D’Angelo Electric Supply 7501119 7500 X 7500 X
+00026 Oct BP D’Angelo Electric Supply 7501119 7500 X
+00027 Oct BP D’Angelo Electric Supply 7501119 7500 X
+00028 Oct BP First Heritage, Inc.  7501119 1600 X 1600 X
+00029 Oct BP Frank L. Stewart & Sons 7501119 14300 X
+00030 Oct BP G.E. Industrial Solutions 8001 14000 X
+                                    VENDOR
+00036 Oct BP H.C. Starck Talley, Inc.  7501120 4790 X 4790 X 4790 X 4790 X
+00037 Oct BP H.C. Starck Talley, Inc.  7501120 14000 X 14000 X
+00038 Oct BP H.C. Starck Talley, Inc.  8001 14000 X
+                                    VENDOR
+00046 Oct BP William L. Mitchell, A. 8001 5790 X 5790 X 5790 X
+00047 Oct BP William L. Mitchell, A. 8001 3200 X 3200 X
+00048 Oct BP William L. Mitchell, A. 7501119 3200 X
+
+
+
+TVND 0002194
+
+TILBC 023579

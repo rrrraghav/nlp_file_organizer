@@ -1,0 +1,243 @@
+T1681-1114
+
+TOBACCO INSTITUTE
+
+
+
+Payroll Summary
+
+
+
+
+
+Batch 3192 Period Ending 02/15/2000 Week 06
+Pay Date 02/11/2000 Page 1
+
+
+
+
+STANDARDS
+
+
+
+
+
+EMPLOYEE
+3087101
+ADMINISTRATION
+3087101
+GRAND TOTAL
+
+
+
+Reg
+1.00
+1.00
+846.19
+
+
+
+OT Hours 3 & 4
+16.25
+0.00
+21.00
+
+
+
+
+
+EARNINGS
+
+
+
+
+Reg
+16.25
+0.00
+21.00
+
+
+
+
+
+Deductions
+
+
+
+
+
+CODES
+Earns 3 & 4
+13,298.44
+13,298.44
+
+
+
+STANDARD DEDUCTIONS
+FEDERAL
+47.58
+47.58
+6.00
+6.00
+27.00
+27.00
+1, 868.82
+1, 868.82
+392.00
+392.00
+274.23
+274.23
+
+
+
+STATE DEDUCTIONS
+5.00
+5.00
+1.00
+1.00
+23.48
+23.48
+
+
+
+
+SUM
+
+
+
+
+
+NET PAY
+312.56
+8.00
+2, 982.87
+312.56
+
+
+
+Memo Analysis:
+
+FEDERAL DEDUCTIONS
+TAX
+47.58
+6.00
+27.00
+1, 868.82
+392.00
+274.23
+103.85
+103.85
+1, 143.53
+1, 143.53
+
+
+
+STATE DEDUCTIONS
+TAX
+5.00
+1.00
+23.48
+
+
+
+
+TOTAL
+2, 612.00
+
+
+
+
+
+Federal Taxes Analysis and
+State Taxes Analysis and
+Employer Unemployment Liability
+Employer Unemployment Liability
+
+FEDERAL
+TAXABLE
+3, 971.19
+3, 971.19
+3, 971.19
+3, 971.19
+6.00
+6.00
+2.19
+2.19
+0.00
+0.00
+0.00
+0.00
+4.58
+4.58
+0.00
+0.00
+3, 971.19
+3, 971.19
+
+
+
+STATE
+TAXABLE
+3, 971.19
+3, 971.19
+3, 971.19
+3, 971.19
+6.00
+6.00
+2.19
+2.19
+0.00
+0.00
+0.00
+0.00
+4.58
+4.58
+0.00
+0.00
+
+
+
+TOTAL LIABILITY
+3, 971.19
+
+
+
+
+Federal Liability
+
+FICA - Social Security Withheld
+FICA - Medicare Withheld
+Federal Income Tax Withheld
+Federal Unemployment Tax Withheld
+IRS Recapture
+TOTAL
+
+
+
+
+
+STATE Liability
+
+State Income Tax Withheld
+State Disability Insurance Withheld
+State Unemployment Tax Withheld
+TOTAL
+
+
+
+2, 179.77
+183.56
+3, 084.33
+17.88
+0.00
+
+
+
+
+4, 265.54
+
+
+
+
+
+ALL CROSS-ROBOTS OK

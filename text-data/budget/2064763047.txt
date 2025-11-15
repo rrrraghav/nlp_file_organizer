@@ -1,0 +1,33 @@
+SUMMARY
+
+Study Protocol # Compound Finance
+
+
+
+Group #   Study Protocol #      Stroke             Proposed       Oct '07     Nov '07    Dec '07     Remaining $?
+1  Program Management   AC-3854        Medication/Supplement   $12,964.14  $10,030.48  $10,030.48  $1,933.66
+2   AC-3854                Medication/Supplement    $10,782.31  $8,700.11  $8,700.11  $2,082.20
+3   AC-3854                Medication/Supplement   $10,782.31  $8,700.11  $8,700.11  $2,082.20
+4   AC-3854                Medication/Supplement    $10,782.31  $8,700.11  $8,700.11  $2,082.20
+5   AC-3854                Medication/Supplement   $10,782.31  $8,700.11  $8,700.11  $2,082.20
+6   AC-3854                Medication/Supplement    $10,782.31  $8,700.11  $8,700.11  $2,082.20
+7   AC-3854                Medication/Supplement   $10,782.31  $8,700.11  $8,700.11  $2,082.20
+8   AC-3854                Medication/Supplement    $10,782.31  $8,700.11  $8,700.11  $2,082.20
+9   AC-3854                Site/System     $6,672.00  $5,619.17  $5,619.17  $1,052.83
+10  AC-3854                Medication/Supplement   $12,964.14  $10,030.48  $10,030.48  $1,933.66
+11  AC-3854                Medication/Supplement    $12,964.14  $10,030.48  $10,030.48  $1,933.66
+12  AC-3854                Site/System     $6,672.00  $5,619.17  $5,619.17  $1,052.83
+13  AC-3854                Medication/Supplement   $12,964.14  $10,030.48  $10,030.48  $1,933.66
+14  AC-3854                Medication/Supplement    $12,964.14  $10,030.48  $10,030.48  $1,933.66
+15  AC-3854                Site/System     $6,672.00  $5,619.17  $5,619.17  $1,052.83
+16  AC-3854                Medication/Supplement   $12,964.14  $10,030.48  $10,030.48  $1,933.66
+17  AC-3854                Medication/Supplement    $12,964.14  $10,030.48  $10,030.48  $1,933.66
+18  AC-3854                Site/System     $6,672.00  $5,619.17  $5,619.17  $1,052.83
+
+Total   $141,272.86  $113,446.36  $113,446.36  $17,707.58
+
+
+
+Page 1
+
+20064763047

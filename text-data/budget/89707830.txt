@@ -1,0 +1,616 @@
+RED
+1541
+
+LORICARD
+Initial Date
+
+
+
+BLACK
+OUTDOOR
+
+
+
+
+1
+2
+3
+4
+5
+6 JAN
+7
+8 Feb
+9
+10 Mar
+11
+12 Apr
+13
+14 May
+15
+16 June
+17
+18 July
+19
+20 Aug
+21
+22 Sep
+23
+24 Oct
+25
+26 Nov
+27
+28 DEC
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+46
+47
+48
+49
+50
+51
+52
+53
+54
+55
+56
+57
+58
+59
+60
+
+
+
+addresing 8/4/17
+sale v.p. ok 1693.00
+7.44
+sales inc 4796.17
+income tax
+210.99
+tax rate
+11.97%
+4796.17
+57.70 75
+income
+188.09
+income tax
+19.73
+income tax
+10.75
+income tax
+91.57
+income tax
+239.66 239.66 75
+income
+11.57
+income tax
+4796.17
+income tax
+188.09
+income tax
+19.73
+income tax
+10.75
+income tax
+91.57
+income tax
+239.66 239.66 75
+income
+417.00
+income tax
+188.09
+income tax
+19.73
+income tax
+10.75
+income tax
+91.57
+income tax
+239.66 239.66 75
+income
+417.00
+income tax
+188.09
+income tax
+19.73
+income tax
+10.75
+income tax
+91.57
+income tax
+239.66 239.66 75
+income
+417.00
+income tax
+188.09
+income tax
+19.73
+income tax
+10.75
+income tax
+91.57
+income tax
+239.66 239.66 75
+
+
+
+84707830
+
+
+
+
+
+sales inc
+sales inc
+tax rate
+tax rate
+tax rate
+tax rate
+tax rate
+tax rate
+tax rate
+tax rate
+tax rate
+tax rate
+tax rate
+tax rate
+tax rate
+tax rate
+tax rate
+tax rate
+tax rate
+tax rate
+tax rate
+tax rate
+tax rate
+tax rate
+tax rate
+tax rate
+tax rate
+tax rate
+tax rate
+tax rate
+tax rate
+tax rate
+tax rate
+tax rate
+tax rate
+tax rate
+tax rate
+tax rate
+tax rate
+tax rate
+tax rate
+tax rate
+tax rate
+tax rate
+tax rate
+tax rate
+tax rate
+tax rate
+tax rate
+tax rate
+tax rate
+tax rate
+tax rate
+tax rate
+tax rate
+tax rate
+tax rate
+tax rate
+tax rate
+tax rate
+tax rate
+tax rate
+tax rate
+tax rate
+tax rate
+tax rate
+tax rate
+tax rate
+tax rate
+tax rate
+tax rate
+tax rate
+tax rate
+tax rate
+tax rate
+tax rate
+tax rate
+tax rate
+tax rate
+tax rate
+tax rate
+tax rate
+tax rate
+tax rate
+tax rate
+tax rate
+tax rate
+tax rate
+tax rate
+tax rate
+tax rate
+tax rate
+tax rate
+tax rate
+tax rate
+tax rate
+tax rate
+tax rate
+tax rate
+tax rate
+tax rate
+tax rate
+tax rate
+tax rate
+tax rate
+tax rate
+tax rate
+tax rate
+tax rate
+tax rate
+tax rate
+tax rate
+tax rate
+tax rate
+tax rate
+tax rate
+tax rate
+tax rate
+tax rate
+tax rate
+tax rate
+tax rate
+tax rate
+tax rate
+tax rate
+tax rate
+tax rate
+tax rate
+tax rate
+tax rate
+tax rate
+tax rate
+tax rate
+tax rate
+tax rate
+tax rate
+tax rate
+tax rate
+tax rate
+tax rate
+tax rate
+tax rate
+tax rate
+tax rate
+tax rate
+tax rate
+tax rate
+tax rate
+tax rate
+tax rate
+tax rate
+tax rate
+tax rate
+tax rate
+tax rate
+tax rate
+tax rate
+tax rate
+tax rate
+tax rate
+tax rate
+tax rate
+tax rate
+tax rate
+tax rate
+tax rate
+tax rate
+tax rate
+tax rate
+tax rate
+tax rate
+tax rate
+tax rate
+tax rate
+tax rate
+tax rate
+tax rate
+tax rate
+tax rate
+tax rate
+tax rate
+tax rate
+tax rate
+tax rate
+tax rate
+tax rate
+tax rate
+tax rate
+tax rate
+tax rate
+tax rate
+tax rate
+tax rate
+tax rate
+tax rate
+tax rate
+tax rate
+tax rate
+tax rate
+tax rate
+tax rate
+tax rate
+tax rate
+tax rate
+tax rate
+tax rate
+tax rate
+tax rate
+tax rate
+tax rate
+tax rate
+tax rate
+tax rate
+tax rate
+tax rate
+tax rate
+tax rate
+tax rate
+tax rate
+tax rate
+tax rate
+tax rate
+tax rate
+tax rate
+tax rate
+tax rate
+tax rate
+tax rate
+tax rate
+tax rate
+tax rate
+tax rate
+tax rate
+tax rate
+tax rate
+tax rate
+tax rate
+tax rate
+tax rate
+tax rate
+tax rate
+tax rate
+tax rate
+tax rate
+tax rate
+tax rate
+tax rate
+tax rate
+tax rate
+tax rate
+tax rate
+tax rate
+tax rate
+tax rate
+tax rate
+tax rate
+tax rate
+tax rate
+tax rate
+tax rate
+tax rate
+tax rate
+tax rate
+tax rate
+tax rate
+tax rate
+tax rate
+tax rate
+tax rate
+tax rate
+tax rate
+tax rate
+tax rate
+tax rate
+tax rate
+tax rate
+tax rate
+tax rate
+tax rate
+tax rate
+tax rate
+tax rate
+tax rate
+tax rate
+tax rate
+tax rate
+tax rate
+tax rate
+tax rate
+tax rate
+tax rate
+tax rate
+tax rate
+tax rate
+tax rate
+tax rate
+tax rate
+tax rate
+tax rate
+tax rate
+tax rate
+tax rate
+tax rate
+tax rate
+tax rate
+tax rate
+tax rate
+tax rate
+tax rate
+tax rate
+tax rate
+tax rate
+tax rate
+tax rate
+tax rate
+tax rate
+tax rate
+tax rate
+tax rate
+tax rate
+tax rate
+tax rate
+tax rate
+tax rate
+tax rate
+tax rate
+tax rate
+tax rate
+tax rate
+tax rate
+tax rate
+tax rate
+tax rate
+tax rate
+tax rate
+tax rate
+tax rate
+tax rate
+tax rate
+tax rate
+tax rate
+tax rate
+tax rate
+tax rate
+tax rate
+tax rate
+tax rate
+tax rate
+tax rate
+tax rate
+tax rate
+tax rate
+tax rate
+tax rate
+tax rate
+tax rate
+tax rate
+tax rate
+tax rate
+tax rate
+tax rate
+tax rate
+tax rate
+tax rate
+tax rate
+tax rate
+tax rate
+tax rate
+tax rate
+tax rate
+tax rate
+tax rate
+tax rate
+tax rate
+tax rate
+tax rate
+tax rate
+tax rate
+tax rate
+tax rate
+tax rate
+tax rate
+tax rate
+tax rate
+tax rate
+tax rate
+tax rate
+tax rate
+tax rate
+tax rate
+tax rate
+tax rate
+tax rate
+tax rate
+tax rate
+tax rate
+tax rate
+tax rate
+tax rate
+tax rate
+tax rate
+tax rate
+tax rate
+tax rate
+tax rate
+tax rate
+tax rate
+tax rate
+tax rate
+tax rate
+tax rate
+tax rate
+tax rate
+tax rate
+tax rate
+tax rate
+tax rate
+tax rate
+tax rate
+tax rate
+tax rate
+tax rate
+tax rate
+tax rate
+tax rate
+tax rate
+tax rate
+tax rate
+tax rate
+tax rate
+tax rate
+tax rate
+tax rate
+tax rate
+tax rate
+tax rate
+tax rate
+tax rate
+tax rate
+tax rate
+tax rate
+tax rate
+tax rate
+tax rate
+tax rate
+tax rate
+tax rate
+tax rate
+tax rate
+tax rate
+tax rate
+tax rate
+tax rate
+tax rate
+tax rate
+tax rate
+tax rate
+tax rate
+tax rate
+tax

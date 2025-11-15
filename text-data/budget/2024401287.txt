@@ -1,0 +1,110 @@
+Sludge Drying Operating Costs at 25 Dry Tons/Day
+
+Confidential
+Proprietary to ABC
+Item Amount Unit Cost Total Cost/Year
+
+
+
+Salaried Personnel No Change $0
+Hourly Personnel No Change $0
+
+
+
+
+Steam and Condensate
+Steam to Dryer(s) 14000#/hr $1.83/1000 # $259,563
+Steam Credit for Preheat of Process Water 7000#/hr $1.83/1000 # ($128,282)
+Steam Condensate Returned to Boiler House 27 gpm $0.04/1000 gal $0
+
+
+
+Electricity
+675 horse power 300 kvs $0.04/kwhr. $105,120
+
+
+
+
+Effluent Water Use
+Effluent Water-Wash Down-10gpm for 4 hours
+per day $0
+Effluent Water-Wet Cyclones(2) 10 gpm $0 $0
+Effluent Water-Venturi Scrubbers(2) 4gpm $0 $0
+
+
+
+
+Process Water
+Cooling Tower Make Up 40gpm $0.19/1000 gal $5,783
+
+
+
+Demineralized Water
+Desuperheater Feed 2 gpm $5.43/1000 gal $6,771
+
+
+
+Total Waste Water Treatment 40.1 gpm $0.68/1000 gal $14,272
+Wash Down 1.7gpm
+Cooling Tower Blowdown 9gpm
+Sludge Vapor Condensate 19.4gpm
+Wet Cyclones(2) 10 gpm
+Venturi Scrubbers(2) 4gpm
+
+
+
+Compressed Air 30gpm negligible
+
+
+
+
+Cooling Tower Chemicals-40gpm make up rate 40gpm $0.00/gal $10,819
+
+
+
+
+Maintenance
+HVAC $145,000 2% investment $2,900
+Sludge Pit $37,600 2% investment $752
+Ducting $11,518 2% investment $230
+Process Equipment $16,500 2% investment $330
+Building Maintenance $43,938 2% investment $879
+Total Maintenance $254,586
+
+
+
+Power
+Sludge Drying 11,518 kwhr/day $0.04/kwhr $461
+Boiler Fuel Oil 10,000 gal/day $0.30/gal $3,000
+Total Power $3,461
+
+
+
+Labor
+Sludge Drying Operator(s) 2 hrs/day $25/hr $182.50
+Maintenance Personnel 2 hrs/day $25/hr $99.99
+Total Labor $282.49
+
+
+
+
+Miscellaneous
+Chemicals 3,760 lbs/yr $1.00/lb $3,760
+Scale Control 10gpm $0.10/1000 gal $1,045
+Filter Media 100 lbs/yr $2.00/lb $200
+
+
+
+Total Operating Costs $898,333
+
+
+
+
+Notes:
+1) Assumes 6500 hrs/year of operation
+2) Cost based on $0.75/therm
+3) Includes labor for maintenance and sludge drying operations.
+4) Chemical usage is an estimate.
+
+202401257
+KSE

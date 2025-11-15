@@ -1,0 +1,37 @@
+ESTIMATED BALANCES
+AS OF 12/31/94
+(In Thousand)
+
+World Wide Regulatory Affairs
+
+57001701 - Legal
+Annual Accrual	24,000
+Actual Payments	4,840
+Estimated Payments	3,630
+Estimated 12/31/94 Balance	15,530
+
+57001702 - Special Projects
+Annual Accrual	19,351
+Actual Payments	10,875
+Estimated Payments	8,155
+Estimated 12/31/94 Balance	320
+
+57001703 - Advertising
+Annual Accrual	15,000
+Actual Payments	8,993
+Estimated Payments	6,744
+Estimated 12/31/94 Balance	(737)
+
+57001704 - Professional Services
+Annual Accrual	5,000
+Actual Payments	618
+Estimated Payments	464
+Estimated 12/31/94 Balance	3,918
+
+Corporate Scientific Affairs
+
+57001805 - Professional Services
+Annual Accrual	6,275
+Actual Payments	2,842
+Estimated Payments	2,207
+Estimated 12/31/94 Balance	1,126

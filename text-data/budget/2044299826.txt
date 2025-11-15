@@ -1,0 +1,153 @@
+INTERMEDIATE INCOME STATEMENT
+FOR THE YEAR ENDED DECEMBER 31, 2022
+(In Thousands of Dollars)
+
+ACCOUNT
+DESCRIPTION
+REVENUE
+5000 Sales
+5010 Product Sales
+5020 Service Revenue
+5030 Other Revenue
+TOTAL REVENUE
+
+COST OF GOODS SOLD
+6000 Direct Materials
+6010 Direct Labor
+6020 Manufacturing Overhead
+6030 Subcontractor Costs
+6040 Warranty Expense
+TOTAL COST OF GOODS SOLD
+
+GROSS PROFIT
+
+OPERATING EXPENSES
+7000 Salaries & Wages
+7010 Sales Commissions
+7020 Rent
+7030 Utilities
+7040 Depreciation & Amortization
+7050 Advertising
+7060 Travel & Entertainment
+7070 Insurance
+7080 Professional Fees
+7090 Other Operating Expenses
+TOTAL OPERATING EXPENSES
+
+OPERATING INCOME
+
+NON-OPERATING REVENUE/EXPENSE
+8000 Interest Income
+8010 Investment Income
+8020 Dividend Income
+8030 Interest Expense
+TOTAL NON-OPERATING REVENUE/EXPENSE
+
+INCOME BEFORE TAXES
+
+PROVISION FOR INCOME TAXES
+9000 Federal Income Taxes
+9010 State Income Taxes
+TOTAL PROVISION FOR INCOME TAXES
+
+NET INCOME
+
+
+
+YEAR
+2022
+$ 3,785,647 $ 64,419 $ 3,850,066
+$ 2,998,853 $ 56,878 $ 3,055,731
+$ 500,000 $ 0 $ 500,000
+$ 286,794 $ 7,541 $ 294,335
+$ 3,785,647 $ 64,419 $ 3,850,066
+
+$ 1,692,318 $ 28,585 $ 1,720,903
+$ 750,000 $ 0 $ 750,000
+$ 400,000 $ 0 $ 400,000
+$ 100,000 $ 0 $ 100,000
+$ 28,936 $ 0 $ 28,936
+$ 2,971,254 $ 28,585 $ 3,000,000 - 28,585
+
+$ 1,814,393 $ 35,834 $ 1,850,227
+
+$ 600,000 $ 10,000 $ 610,000
+$ 150,000 $ 0 $ 150,000
+$ 30,000 $ 0 $ 30,000
+$ 20,000 $ 0 $ 20,000
+$ 15,000 $ 0 $ 15,000
+$ 10,000 $ 0 $ 10,000
+$ 5,000 $ 0 $ 5,000
+$ 3,000 $ 0 $ 3,000
+$ 2,000 $ 0 $ 2,000
+$ 4,000 $ 0 $ 4,000
+$ 839,000 $ 10,000 $ 849,000
+
+$ 975,393 $ 25,834 $ 1,001,227
+
+$ 11,000 $ 0 $ 11,000
+$ 2,500 $ 0 $ 2,500
+$ - $ 0 $ -
+$ 13,500 $ 0 $ 13,500
+
+$ 961,893 $ 25,834 $ 987,727
+
+$ 165,000 $ 5,000 $ 170,000
+$ 10,000 $ 0 $ 10,000
+$ 175,000 $ 5,000 $ 180,000
+
+$ 786,893 $ 20,834 $ 807,727
+
+
+
+YEAR
+2021
+$ 3,621,247 $ 60,000 $ 3,681,247
+$ 2,851,197 $ 55,000 $ 2,906,197
+$ 500,000 $ 0 $ 500,000
+$ 270,050 $ 5,000 $ 275,050
+$ 3,621,247 $ 60,000 $ 3,681,247
+
+$ 1,600,000 $ 25,000 $ 1,625,000
+$ 700,000 $ 0 $ 700,000
+$ 350,000 $ 0 $ 350,000
+$ 90,000 $ 0 $ 90,000
+$ 28,000 $ 0 $ 28,000
+$ 2,768,000 $ 25,000 $ 2,793,000 - 25,000
+
+$ 1,853,247 $ 35,000 $ 1,888,247
+
+$ 580,000 $ 10,000 $ 590,000
+$ 140,000 $ 0 $ 140,000
+$ 30,000 $ 0 $ 30,000
+$ 20,000 $ 0 $ 20,000
+$ 15,000 $ 0 $ 15,000
+$ 10,000 $ 0 $ 10,000
+$ 5,000 $ 0 $ 5,000
+$ 3,000 $ 0 $ 3,000
+$ 2,000 $ 0 $ 2,000
+$ 4,000 $ 0 $ 4,000
+$ 829,000 $ 10,000 $ 839,000
+
+$ 1,024,247 $ 25,000 $ 1,049,247
+
+$ 11,000 $ 0 $ 11,000
+$ 2,500 $ 0 $ 2,500
+$ - $ 0 $ -
+$ 13,500 $ 0 $ 13,500
+
+$ 1,010,747 $ 25,000 $ 1,035,747
+
+$ 165,000 $ 5,000 $ 170,000
+$ 10,000 $ 0 $ 10,000
+$ 175,000 $ 5,000 $ 180,000
+
+$ 835,747 $ 20,000 $ 855,747
+
+
+
+TOTAL ADVERTISING
+$ 839,000 $ 10,000 $ 849,000
+$ 829,000 $ 10,000 $ 839,000
+
+2044299826

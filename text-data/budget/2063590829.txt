@@ -1,0 +1,18 @@
+Expenses
+
+Year, month: 1996, February
+
+Purpose of travel: consultancy and lectures according to detailed information to Dr
+Carchiman
+
+Exchange rates:
+
+$ = 5.98 D Cr £ =
+$ = 1.18 $ AU $ = Fr fr
+$ = Sw Fr $ =
+
+Item
+Day Air Surf Hotel Meal Misc Currency Amount Dollars Remarks
+X DCr 62.680.- 10481.61
+X AU 368.- 311.86
+X SwCr 3.660.- 544.64

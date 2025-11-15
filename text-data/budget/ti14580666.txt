@@ -1,0 +1,31 @@
+Public Relations Division Variance Analysis
+
+Media Relations
+Cost Center Name
+1003
+Cost Center Number
+
+April 1991
+Month
+
+Freeman M. Davison
+Cost Center Manager
+
+Account# Year-to-date Year-to-date Amount Projected Amt
+Description Expense Budget Over/ (Under)
+Budget at
+Dec. 31, 1991. Explanation
+
+5101/Post. -0- $ 18.3 $ (0 18.3) ( 20.0 ) Large scale mailings deferred to 3rd & 4th quarter.
+
+5201/Repro.
+& Print & Draft 8.1 15.0 ( 6.9 ) ( 10.0 ) Lower than anticipated reproduction needs – more done in-house.
+
+5601/Other
+Office 20.6 30.0 ( 9.4 ) ( 5.0 ) A couple of months with low tape transcription requests due to higher news coverage.
+
+7301/Prof. fees 48.3 133.3 ( 84.5 ) ( 100.0 ) Light activity/requests for SAD and special projects.
+
+Totals 125.1 245.7 ( 120.6 ) ( 135.0 )
+
+TI1458-0666

@@ -1,0 +1,9 @@
+Schedule and Budget Summary
+
+Area/Personal Monitor Comparison
+
+Task                Budget          Duration         Completed
+Component 1 Laboratory Validation   $25,000           4 Months        6-1-89
+Component 2 Field Investigation    $90,000           6 Months        12-1-89
+
+Year 1 Total                   $125,000

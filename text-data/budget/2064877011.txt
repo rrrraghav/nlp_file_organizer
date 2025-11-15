@@ -1,0 +1,24 @@
+Schedule A
+
+Rate Cartons of Philip Morris
+Factor Products Sold Per Week
+
+1 Less than 30 Cartons $0 $0 $0 N/A
+2 30 to 48 cartons $0 $0 $0 N/A
+3 49 to 64 cartons $147 $24 $171 $24
+4 65 to 77 cartons $184 $31 $215 $31
+5 78 to 89 cartons $217 $36 $253 $36
+6 90 to 103 cartons $251 $42 $293 $42
+7 104 to 122 cartons $293 $49 $342 $49
+8 123 to 146 cartons $349 $58 $407 $58
+9 147 to 177 cartons $421 $70 $491 $70
+10 178 to 210 cartons $421 $84 $505 $98
+
+Additional levels and corresponding rebate payments are available on request for those locations having
+Philip Morris product volumes greater than 210 cartons per week via the local Philip Morris field offices.
+
+
+
+20647011
+
+#9-0007/Rev. 9/95
