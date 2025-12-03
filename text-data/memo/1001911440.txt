@@ -1,0 +1,37 @@
+6900
+
+Dr. Horton Comer June 2, 1966
+
+John E. Tindall
+
+Analysis of House Respiratory Rate Data
+
+The analysis performed consisted of ten single-classification
+analyses of variance for differences in per cent decrease in
+respiratory rate for the cigarettes. One such analysis was
+performed for each set of measurements at the five different
+times and the two different puff volumes.
+
+The F-test ratios for these tests were as follows:
+
+10mm Puff 50mm Puff
+
+15 seconds .61 2.86*
+30 seconds 1.72 6.33*
+45 seconds 1.41 4.40*
+60 seconds 2.40* 5.74*
+1 minute after 1.67 4.46*
+exposure
+
+*significant at 5% level
+
+A separation of means revealed the following individual
+differences between cigarettes in those groups in which over-
+all significant differences were found: (Any two means not
+included in the same bracket are significantly different. Any
+two means [included in the same bracket are not significantly
+different.]
+
+
+
+100819440

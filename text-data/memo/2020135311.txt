@@ -1,0 +1,23 @@
+PHILIP MORRIS U. S. A.
+
+INTER - OFFICE CORRESPONDENCE
+
+Richmond, Virginia
+
+To: S. Deevi Date: 8-25-89
+
+From: M.R. Hajaligol
+
+Subject: Monthly Report for July 1989
+
+Followings are the high lights and summary of work:
+
+1-Nitridation of iron pellets was continued during this month. It was found that high temperatures favor formation of Fe4N phase while low temperatures favor formation of Fe2N phase. However, nitridation process follows the sequence of formation of Fe4N then Fe3N and eventually Fe2N. At low temperatures ( < 450 C ) the reaction proceeds to Fe2N and at higher temperature the reaction stops either at Fe3N ( < 500 C ) or Fe4N ( > 500 C ) levels.
+
+2-Effect of heating rate on the baking and reducing processes of pellets were also investigated during this month. Heating rates of 0.5 to 10 C/min were employed in this study. Pellets were heated at a prescribed heating rate to 700 C where they were held for 10 Minutes. Results of Cain TGA show that the weight loss from binder reduces while reduction of iron oxide increases as heating rate reduces. Pellets will be tested for lightability, mechanical strength and other properties later.
+
+3-Usage of a reducing gas such as hydrogen was eliminated from baking and reducing steps. Search for the optimum processing conditions in a laboratory scale fixed-bed reactor is underway.
+
+4-Effect of temperature and time on the formation and consumption of different phases of iron oxides and iron in the reduction trend of pellets is currently being studied. Results of work at 750 C show a steep from FeO to Fe phase as holding time at this temperature increases. Strength of pellets also reduces as holding time increases and Fe phase grows.
+
+202011091138

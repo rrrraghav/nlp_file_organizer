@@ -1,0 +1,18 @@
+FORM 29/89 MIVIAHA PY15
+ZÄHLUNG DER BLUTZELLEN SOMME DIE BESTIMMUNG DER PARAMETER MCV UND MCHT
+
+DEPART. (D)SA
+VERSUCHSZEITPUNKT
+GEBÄT Counter Model ZE m einem Zusatzmodul MCV/MCHT-Accessory und Hämatometer
+GRUPPE NR. GESCHLECHT MESSUNG
+213 4 1
+214 4 2
+1/R 4 2
+1/R 4 2
+1/R 4 2
+
+250536733 QA
+8. Juli 1999
+WICHTIG: Vor jeder Messung ist die Kontrollmessung vorzunehmen (s. Gebrauchsanweisung für Counter Model(ZE))
+DATUM 12.0.95
+Zn

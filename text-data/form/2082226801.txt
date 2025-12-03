@@ -1,0 +1,15 @@
+TRANSMISSION REPORT
+
+***************************************************
+PHILIP MORRIS R&D T7 ( SEP 15 '00 01:31PM )
+***************************************************
+
+DATE START REMOTE TERMINAL MODE TIME RESULTS TOTAL DEPT. FILE
+TIME IDENTIFICATION PAGES CODE NO.
+
+SEP 15 01:31PM
+8047525600 G3EST 00'49" OK 02
+
+
+
+208228601

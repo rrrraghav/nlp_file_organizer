@@ -1,0 +1,43 @@
+PROCEDURE NOTE
+
+Procedure No. 96-09 Date: 5/10/96
+
+Temporary X Effective Date Termination Date
+
+Permanent
+
+Type: Product Process Packaging Flavor
+Tobacco Material Specification X
+
+SUBJECT: Establish a Specification For Upper Reject Limit On % Stem Content
+For UTI/GP2
+
+OBJECTIVE: To review and update specifications on % Stem Content for UTI/GP2 at
+CRES Tobacco.
+
+BACKGROUND: Referencing Procedure Note 94-11R3, an upper limit of 0.5% stem
+content for the UTI product produced by CRES Tobacco Company at 605-11 was
+recommended. The 0.5% upper limit specification was based on historical Cardwell
+Test Method data. A more sensitive Cardwell Stem Test Method has been evaluated
+which gives better definition of stem content. An investigation/review of Historical (over
+time) QA capabilities data (CP & CPK data) using the new test method has been
+completed and utilized as a basis for developing % Stem Content upper reject limit.
+
+PRODUCT IMPACT: Since no process change is being implemented, there should not
+be any negative impact and should provide a higher quality product because of the
+more sensitive test method.
+
+PRODUCT DISPOSITION: Quip out of spec material and re-run through the process.
+
+RISK ASSESSMENT: We do not see any risk associated with the proposal at this
+time, in fact, the more sensitive setup of the Cardwell Test Method will provide a more
+consistent product.
+
+RECOMMENDATION: It is recommended that this specification be accepted by the
+PAC Committee. This procedure note will be reviewed in light of process capability
+upon the completion of a 90 day review period.
+
+5077 .4974
+
+RJRU000000537013666
+7060 2552

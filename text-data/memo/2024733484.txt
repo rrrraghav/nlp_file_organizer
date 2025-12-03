@@ -1,0 +1,72 @@
+CONFIDENTIAL
+
+INTER - OFFICE CORRESPONDENCE RECEIVED
+
+Richmond, Virginia
+
+JUL 31 1989
+R.A. Fenner
+
+To: B. Handy Date: July 19, 1989
+
+From: S. Ben Baronian
+
+Subject: Jet Cigarette Aging Study, Nicotine Content
+
+Samples of ASH and ASL ART cigarette filler representing a time period
+of 0 to 42 days were analyzed in replicate for nicotine content on an "as
+is" basis by an HPLC method. The nicotine results are in the table below
+and are represented by the graph in Attachment 1. A sample of ASJL was not
+available for analysis, however, it is treated as a duplicate of ASHJI for
+reporting purposes in all determinations.
+
+TABLE I
+
+ASH & ASL Filler Nicotine Results HPLC
+
+Sample ug/ml (1) ug/ml (2) wt. mg. mean ug/ml % Nic Time
+
+ashjl 5.4322 5.3863 498.5 5.40425 0.05 0
+ashj1-1 15.4823 15.7378 505.0 15.61005 0.15 2
+ashj2-1 11.5675 12.8640 501.4 12.21575 0.12 7
+ashj2-2 13.2126 12.2198 505.1 12.7162 0.13 7
+ashj2-3 9.4274 9.5325 503.3 9.48000 0.09 8
+ashj3-1 16.2944 12.1829 501.3 14.23860 0.14 14
+ashj3-2 12.4453 11.1817 499.8 11.81350 0.12 18
+ashj3-3 10.1761 10.0951 500.5 10.13560 0.10 20
+ashj4-1 11.3200 10.0584 503.8 10.68920 0.11 28
+ashj4-2 9.4151 10.3094 504.5 9.86225 0.10 42
+ashj4-3 11.3916 11.3287 501.8 11.36015 0.11 42
+
+asjl
+ashjl-1 5.4322 5.3863 498.5 5.40425 0.05 0
+ashjl-2 5.4173 5.3587 499.1 5.38800 0.05 0
+ashjl-3 5.4691 6.2157 500.2 5.84240 0.07 0
+ashj2-2 11.5675 12.8640 501.4 12.21575 0.12 7
+ashj2-3 13.2126 12.2198 505.1 12.7162 0.13 7
+ashj3-1 16.2944 12.1829 501.3 14.23860 0.14 14
+ashj3-2 12.4453 11.1817 499.8 11.81350 0.12 18
+ashj3-3 10.1761 10.0951 500.5 10.13560 0.10 20
+ashj4-1 11.3200 10.0584 503.8 10.68920 0.11 28
+ashj4-2 9.4151 10.3094 504.5 9.86225 0.10 42
+ashj4-3 11.3916 11.3287 501.8 11.36015 0.11 42
+
+asjl-1 5.4322 5.3863 498.5 5.40425 0.05 0
+asjl-2 5.4173 5.3587 499.1 5.38800 0.05 0
+asjl-3 5.4691 6.2157 500.2 5.84240 0.07 0
+
+TABLE II
+
+ASH & ASL Filler Nicotine Results HPLC (Duplicate Analyses)
+
+Sample ug/ml (1) ug/ml (2) wt. mg. mean ug/ml % Nic Time
+
+ashjl 5.4322 5.3863 498.5 5.40425 0.05 0
+ashj1-1 15.4823 15.7378 505.0 15.61005 0.15 2
+ashj2-1 11.5675 12.8640 501.4 12.21575 0.12 7
+ashj2-2 13.2126 12.2198 505.1 12.7162 0.13 7
+ashj2-3 9.4274 9.5325 503.3 9.48000 0.09 8
+
+2024733847
+
+Attachment 1

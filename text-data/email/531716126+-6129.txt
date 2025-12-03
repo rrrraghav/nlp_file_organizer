@@ -1,0 +1,31 @@
+Proposal: Pilferage Study
+
+Background
+
+Cumberland Farms, a 800+ retail c-store chain in the northeast, believes that pilferage has increased. Two factors appear to be driving those increased rates of pilferage. First, a rebounding New England economy has created a higher than usual personnel turnover for Cumberland Farms. Secondly, the enforcement by Cumberland Farms of the “age verification law” has increased pilferage by minors. These conditions, primarily the second appear to be of a larger concern at store locations with self-service cigarette displays.
+
+Research Question
+
+The overall research issue that is important to Cumberland Farms can be summarized as follows: "As age verification enforcement by Cumberland Farms has increased, due to new legislation, the rate of pilferage has increased to unacceptable levels” principally in stores with self-service displays. Internal Cumberland Farms audits suggest that the level of pilferage has reached levels that exceed manufacturer’s RDA payments. The questions in this research are: What is the level of pilferage? Is it internal or consumer driven?
+
+Methodology
+
+The following methodology is being used to answer the research question(s). A 20 store panel, chosen by Cumberland Farms is being created. Ten of these stores already have cigarettes in a non-self service place, and the other 10 stores will be matched with displays on a self-service basis.
+
+The standard audit method will be used to measure pilferage:
+
+Step 1: Step 2: Step 3:
+Opening Inventory Movement Pilferage = % Pilferage
++ Deliveries Movement Sales (scan)
+Closing Inventory = Pilferage
+
+These results will be compared on a store by store basis and in aggregate to the control stores.
+
+A control item of 1 ½ milk will be used as a scan check item. This is to estimate an error rate due to scanning or bookkeeping processes, and this factor will be used to adjust the % pilferage rate.
+
+This methodology will attempt to measure pilferage to the UPC level so that a % pilferage rate can be created for every style of cigarettes in the category as well as to the brand family level. This will be helpful, for example, in determining if a brand on display is pilfered at a higher rate than a brand not on display in a store that maintains self-service displays.
+
+BS111 6126
+
+RJR000000417135646
+72065 989

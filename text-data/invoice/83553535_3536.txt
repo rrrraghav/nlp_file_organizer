@@ -1,0 +1,34 @@
+1129.10 Expert Witnesses 7,893.75
+
+PAYMENT
+RECORD
+
+General Account 1129.10 7,893.75
+
+*131 (691)
+
+Professional Services
+
+Description Title Rate Hours Amount
+W. Ed Whitlaw Exp Witness/Sr Econ 250.00 12.75 $3,187.50
+Edward MacMullan Economist 1 90.00 28.00 $2,610.00
+Rose Mary Jackson Clerical 40.00 0.25 $10.00
+Mark Stevens Technical Asst 1 40.00 1.50 $645.00
+
+Total Professional Services $6,852.50
+
+Reimbursable Expenses
+
+Associates 2,041.25
+2,041.25
+
+Total Reimbursable Expenses $2,041.25
+
+Total Current Billing $7,893.75
+
+Previous Balance less payments/credits received $0.00
+Late Charge $0.00
+
+Total Due $7,893.75
+
+83553535

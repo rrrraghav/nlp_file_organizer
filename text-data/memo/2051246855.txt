@@ -1,0 +1,45 @@
+COPY: JAMISON/KIRBY/
+MCCONNELL/MURPHY/
+NARRON/NEWMAN/NIENOW
+PERKINSON/TUCKER/ESSERY
+6/16/93
+
+PHILIP MORRIS U.S.
+
+INTER - OFFICE CORRESPONDENCE
+
+Richmond, Virginia
+
+TO: Distribution DATE: 1 June 1993
+
+FROM: J.F. McCracken
+
+SUBJECT: RJR Approach to Scheduling
+
+I attended an Advanced Manufacturing Research Conference in late May. The conference was attended by representatives of several major manufacturing companies active in the business reengineering arena, including RJR.
+
+I learned the a few things before the RJR representative (Vic Walsh) figured out where I worked:
+
+WHERE THEY ARE TODAY
+
+* RJR makes 875 "brand styles"
+
+* R&D is responsible for specifications. They reside on the host computer and are downloaded from the host directly to the plants.
+
+* RJR’s scheduling system is a “hybrid” (custom code) which was developed in 1979. In 1980, they decided to put the schedule and computers on the production floor, and train their operators to use them. Each module has a computer workstation and its own production schedule.
+
+* Long Range Production Planning is done in weekly buckets by a central organization. It is based on “Family Group” (possibly equivalent to size group) level scheduling until "ready to run". Once "ready to run", 3 to 4 weeks in advance of production, the schedule is downloaded to the plants, who then own the schedule.
+
+* Distribution gives SKU requests directly to the plants.
+
+* They typically require 2 to 3 weeks lead time for materials. (Having an in-house supplier in RJR Archer probably helps)
+
+* They run "standard product" unless told otherwise by distribution.
+
+* 10 minutes before a run is to end, materials are electronically called for from the hi-rise storage system.
+
+* Operators are allowed to intercede in the schedule for their module as long as materials are on hand.
+
+* RJR has a minimum inventory policy. No details on this.
+
+2051246855

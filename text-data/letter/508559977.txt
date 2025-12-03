@@ -1,0 +1,21 @@
+Subject: MEETING WITH SCHWEITZER RESEARCH REPRESENTATIVES Date: January 29, 1979
+
+To: Dr. M. E. Stowe From: D. E. Townsend
+
+On January 24, John Matthews, Charles Mattina, and David Durocher from the Schweitzer Research Department gave a presentation to members of Tobacco Development and Research. John Reynolds, Alan Norman, and I attended the meeting.
+
+Mattina presented results which had been published earlier on the influence of the cigarette wrapper on the smoke (Mattina & Selke, Proc. ACS Symp., 173rd ACS Meeting - Agri & Food Chem Div, 1977). A comparison was made of the permeability curves (flow vs AP) of inherently porous (IP) and electrostatically perforated (EP) papers. While IP and EP papers may have the same Coresta permeability (air flow at 10 cm H2O head), it has shown that the EP papers at ΔP < 10 cm H2O permit greater air flow and hence behave differently on a cigarette.
+
+Free burn time decreases from about 12.5 to 7 minutes/40 mm with an increase in Coresta permeability from about 5 to 100 cm/sec (constant blend and citrate level).
+
+The influence of paper burn additives on combustion with respect to CO production was discussed. Phosphate burn additive resulted in higher CO deliveries than the citrate or untreated papers. While a number of prospective burn additives have been evaluated, none have been found to result in CO deliveries as low as those observed with untreated papers. Also it was reported that on a per cigarette basis ΔO deliveries pass through a maximum with increasing citrate level. The maximum CO delivery occurs at about 0.8% citrate, a value close to that used in our commercial papers.
+
+Mattina presented briefly the results of a study of CO diffusion through the wrapper of a cigarette. The results have been described in detail previously (Beitrage zur Tabak., 9(4), 201, 1978). In this study it was concluded that is little difference in the amount of CO diffusion from cigarettes wrapped in papers of widely differing degrees of natural permeability.
+
+John Matthews discussed the permeability range of commercial papers. He stated that IP papers range from 6-200 cm/sec with 170-180 as a more practical upper limit. Electrostatic papers range from 6-100 cm/sec in this country with a substantially higher (180-200) upper limit in Europe.
+
+Matthews discussed dilution air flow in vented filters as presented in two earlier articles (Beitrage zur Tabak., 9(4), 197, 1978 and Schweitzer Research Bulletin, July 1978). The effect of filter construction and two test techniques for determining ventilation rate were described.
+
+K. K. Duracher discussed wrapper strength measurements. He presented data on the tensile and burst properties of wrappers with respect to paper engineer’s trials.
+
+rjk/2-25-79

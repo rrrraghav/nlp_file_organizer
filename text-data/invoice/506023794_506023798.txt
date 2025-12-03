@@ -1,0 +1,39 @@
+MISCELLANEOUS INVOICING REQUEST HEALTH CARE GROUP
+
+DISTRIBUTION:
+
+BY: Scott E. Gelnett DATE: November 3, 1986
+
+DIV: 01 GROUP: PLANT: WON: REL:
+CUSTOMER: Crotts & Saunders Engineering, Inc. SHIP-TO #:
+BILL-TO #: 86-19133 PO DATE: March 10, 1986
+PO #:
+
+ACCT CHGR INVOICING DESCRIPTION
+CODE CODE QUANTITY & PRODUCT NUMBER PRICE UOM
+
+01-08-01-0120 Balance of Project Costs Against
+P.O. #86-19133.
+
+A. Production Machinery & Tooling 97,471.50
+B. Engineering Development Costs 55,346.00
+
+Cost Over Runs Per Attached Schedule
+
+A. Production Machinery & Tooling 32,215.59
+B. Engineering Development Costs 21,629.21
+
+TOTAL OF INVOICE
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+206,662 .30
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+FURTHER EXPLANATION (if necessary)
+
+SEC02 3794
+
+✓ 12/3/85 7267
+
+AUTHORIZATIONS:
+Mkt VP Date Accting Date

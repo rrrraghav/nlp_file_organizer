@@ -1,0 +1,25 @@
+Lerilland
+
+MEMORANDUM July 18, 1978
+
+TO: Dr. P. D. Schickedantz
+Dr. H. J. Minnemeyer
+Dr. R. S. Marmor
+
+FROM: H. S. Tong
+
+SUBJECT: 2 - Methoxynaphthalene - Safety Evaluation
+
+Acute Intraperitoneal Toxicity in the Mouse
+
+The compound was obtained from Aldrich Chemical Coporation (Lot JB 111057). A 10% (w/v) solution was prepared with corn oil for injection in male mice (18-23 gm, ICR Sinesis/Webster, Cann Research Institute, N. J.). After 48 hours of compound administration, no mortality was noted in the highest dose group (2000 mg/kg). Although depression and labored breathing were observed 15-30 minutes post treatment, righting reflex was present throughout which indicated that no major neuro-muscular toxicity was present at that dose. The toxicity symptoms were reversible and the animals regained their normal appearance and activity after 6 hours.
+
+Ames’ Salmonella/Microsome Mutagenicity Test
+
+The compound was tested in strain TA1535, TA100 and TA98 at 250, 500, 1000, and 2000 micrograms per plate. It was toxic to all strains only at 1000 and 2000 mcg/plate. This means that we used adequate test doses. It was non-mutagenic in all strains, with or without microsome, at 250 and 500 mg/plate. This means that the compound itself and its metabolite(s), if any, are not mutagenic in this system.
+
+Summary
+
+In my judgement, an inhalation dose of 0.6 mg/kg man most probably would give a safety factor of 100, which is a safe dose for food additives. In this instance, a dose of less than or equal to this would be safe for a single trial.
+
+01090483

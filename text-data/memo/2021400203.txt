@@ -1,0 +1,33 @@
+PHILIP MORRIS U.S.A.
+
+INTER-OFFICE CORRESPONDENCE
+
+Richmond, Virginia
+
+To: Frank Daylor Date: June 18, 1991
+From: Gordon Bokelman
+Subject: Request for Written Clearance to use Existing Magnesite Papers in a POL
+
+We previously discussed a request made by Dick Heretick for written clearance to use existing magnesite papers (PIEL, PIEN, PIEN and PIEO) to prepare cigarettes for POL evaluation. The issue of concern is minor contamination of the Baymag magnesite (magnesium carbonate) filler with organic bromides which occurred during processing through a hammer mill at Midwest Custom Services, Inc. The contaminating organic bromides, which are routinely milled at Midwest Custom Services, Inc., are believed to be alkenyl haloaryl ethers and cyclic alkyl bromides (see enclosed Material Safety Data Sheets).
+
+The starting material for this process naturally contains <3.0 ppm bromine. Since the magnesite papers produced at Ecuata incorporate only <25% magnesite filler, the resultant papers would have been expected to have less than 1.0 ppm bromine. Instead these papers actually contained 3.1-5.8 ppm bromine. For the sake of comparison, Bob Jenkins has indicated that for Kentucky 2R1 reference cigarettes, the wrapper contains 2.0±0.2 ppm bromine and the whole cigarette contains 1.24 ppm bromine. I have asked Doug McRae to look up the published data which exists on the transference of bromine, so that you and your colleagues could determine whether additional experiments need to be performed in order to obtain all the information you need to make a decision concerning this request.
+
+I have also included a copy of Doug McRae’s memo which includes the data for the bromine analyses (performed by neutron activation analysis) which are cited above.
+
+Thank you for your cooperation in handling this request. Please let me know if there is anything else I can do to help you.
+
+Sherry Baldwin has indicated that she also would like to discuss this matter with you.
+
+Enclosures: 3
+
+cc: S. Baldwin
+R. Czechman
+R. Heretick
+D. McRae
+H. Spielberg
+
+
+
+Gordon H. Bokelman
+
+2021-09-08

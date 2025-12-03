@@ -1,0 +1,24 @@
+Lorillard
+TOBACCO COMPANY
+
+MEMORANDUM
+
+February 21, 1992
+
+TO: M. S. Ireland
+
+FROM: R. M. Striegel
+
+SUBJECT: Progress Report on Capillary GC/FID and GC/NPD Organic Gas Phase Analysis (PROJECT B 470, GPSA)
+
+Project Review
+
+Method development on gas phase analysis began with the purchase of the Varian 3600 multiple detector gas chromatograph in November of 1988. A 60 meter DBWAX column was initially used and evaluated with injections of gas phase components. A six port valve was installed on the Varian GC in March of 1989 for introducing gas phase smoke to the column via a sampling loop and a portable smoking machine. With the addition of a liquid nitrogen cooled oven cryogenic cooling, a 30 meter DB5 capillary column was installed (1). A splitter was connected at the end of the column dividing the column effluent to both the FID and NPD detectors. The output signal from the FID and NPD detectors was linked to the Dec system using the Nelson software in September 1989. Various columns and combination of column were tested to improve separa-tion and resolution. In December of 1989 a 100 meter X 0.25 mm X 0.5 µm was purchased form Supelco and installed initially on the Finnigan 1050/MS and used for gas phase component identifi-cation. Early in 1990 the Petrodec column was installed on the Varian 3600 (1). A Borgwaldt RM 1/G single port smoker was purchased and installed in March of 1990. The fifth puff was initially selected for analysis, later the puff selected was modified to be the next puff after the burnline passed a point 35mm from the tipping paper.
+
+Gas Phase Development for 1992
+
+In conversations with Jim Bell dr. Vello Norman it was suggested that a method for collecting and analyzing all the puffs would give more representative data than twenty-port Borgwaldt RM 20/CS smoking machine purchased by Jim Bell’s group and loaned to Analytical Development in October of 1991.
+
+Development of this method is now being pursued. The Borgwaldt 20/CS puffer is loaded with the brand of cigarettes equal to the number of puffs in a particular Num. Cigarette line up Dave Stark it is planned to a 500mg gas syringe mounted prior to twenty of the cigarettes. The cigarettes are as set mid puff at
+
+87293643

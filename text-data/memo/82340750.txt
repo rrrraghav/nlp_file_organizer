@@ -1,0 +1,32 @@
+Memorandum
+
+To: Distribution
+From: JoAnn Paradiso
+Date: February 1, 1995
+Subject: Direct Marketing Project - Status
+
+The following documents outline progress made since the last status was distributed in early
+December of 1994. The business model for the Direct Marketing pilot is being built with the
+current Kent and True promotions. If necessary, MIS will modify the model based on feedback
+from the Market Planning and Brand Management members of the project team. Upon
+acceptance of the model by the project team, activities to incorporate all of the Epsilon data will
+begin.
+
+Cognos PowerPlay training has been scheduled for March 29th and 30th, in the 14th floor
+training room. "Teach Yourself Windows" computer based training has been installed on the
+Marketing LAN and is accessible by the Direct Marketing project team. This self training
+course can be used to help Marketing and Brand Management become more comfortable with
+the Windows environment. Refer to the attached training schedule for more details.
+
+JP-na
+FD-05-95
+
+Dist: Direct Marketing Project Team
+T Baylies, S Benson, S Evans, M. Orlowsky, A. Pasheluk, S. Smith, T. Smith,
+P. Tsiglikes, R. Yang
+
+cc: A. Alexander, S. Cleary, A. Chan, F. D’Aurizio, M. Nelson, R. Tatonetti, G. Telford
+
+
+
+82340750

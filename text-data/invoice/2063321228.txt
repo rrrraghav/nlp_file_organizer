@@ -1,0 +1,53 @@
+CRAWFORD AND COMPANY
+
+TIME SHEET
+AND
+STATEMENT OF CHARGES
+
+DATE 0/11/83 COV. 12/17/82 FILE NUMBER 85 62235 PAGE
+
+EMP. DATE HOURS WORK DONE OTHER EXPENSES EXPLANATION
+NO. DATE WORKED ITEM AMOUNT AMT. TOTAL
+5971 12/19/82 1.0 . . . . . 1.50 CASE CREATION 4 3 1
+5971 12/20/82 . . . . . . . . . .
+5971 12/21/82 1.0 . . . . . 1.20
+5971 12/22/83 . . . . . . . . . .
+8054 12/23/83 . . . . . . . . . . .85
+8054 12/26/83 . . . . . . . . . . .85
+8054 12/27/83 . . . . . . . . . . .35
+6159 12/28/83 . . . . . . . . . .
+6159 12/29/83 . . . . . . . . . .
+5971 12/30/83 1.0 . . . . . 1.50
+5971 12/31/83 . . . . . . . . . .
+7141 01/03/84 . . . . . . . . . .
+7141 01/04/84 6.0 . . . . . 7.45
+
+TOTAL
+FOR CONTRACT 199.45
+CLAIM#
+
+20532128
+
+
+
+CODES FOR WORK DONE CODES FOR KIND OF EXPENSE
+CODE # DESCRIPTION CODE # EXPENSE CODE # EXPENSE
+1. ATTORNEY CONTACT WITNESS 19. MEDICAL EXAMINATION 21. VIALS . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+2. ATTORNEY CONTACT INSURED 20. INVESTIGATION 22. POSTAGE . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+3. ATTORNEY CONTACT CLAIMANT 21. EXPERT WITNESS 23. PHOTOGRAPHS . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+4. ATTORNEY CONTACT GUARDIAN 22. TRIALS AND HEARINGS 24. REPRODUCTIONS . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+5. DEPOSITION 23. COURT REPORTER 25. MILEAGE . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+6. EXPERT REVIEW 24. TRAVEL EXPENSE 26. STRAIGHT APPRAISAL . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+7. PHYSICAL DAMAGE ASSESSOR 25. CONSULTANT . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+8. LOCATION OF WITNESS 26. PHYSICAL DAMAGE STAFF 27. PHONE . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+9. ATTENDANCE AT JURY SELECTION 27. INDEPENDENT INVESTIGATION 28. RADIO . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+10. ATTENDANCE AT TRIAL 28. RECORDING EXPENSE 29. TAPE . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+11. DEPOSITION OF WITNESS 29. EXPERT REVIEW FEE 30. CASSETTE . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+12. PREPARATION OF EXHIBITS 30. OTHER TRAVEL 31. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+13. EXPERT CONSULTATION 31. PRINTING . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+14. TRAVEL EXPENSE TO TRIAL 32. PHOTOCPIES . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+15. COURT COSTS 33. LABOR . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+16. JURY EXPENSES 34. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+17. EXPERT APPRAISAL 35. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+20. INDEPENDENT INVESTIGATION (cont.)

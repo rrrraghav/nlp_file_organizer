@@ -1,0 +1,42 @@
+MASTER CONTRACT
+
+Cont act No. 9601.XX
+
+Supplier (PNII)
+
+Total Contract Amount
+
+$ Amount Revisions (1) (2) $ 100,000
+
+ADDENDUMS/AMENDMENTS
+
+# Date Description/ Term $ Amount Charge Code Compensation Due Date Amount Contract Balance
+90 9/21 S.D. Supply 125 EHH (300-830-855)
+91 9/21 4470 EHH (300-830-855)
+92 9/21 6,600 EHH (300-830-855)
+93 9/21 2,600 EHH (300-830-855)
+94 9/21 8,740 EHH (See Add.)
+95 9/21 1,120 EHH (300-830-855)
+96 9/21 2,130.75 EHH (300-830-855) See Add. (Good)
+97 9/21 493.2 EHH (300-830-855)
+98 9/21 1,270 EHH (300-830-855)
+99 9/21 5600 EHH (300-830-855)
+PAYMENT SUMMARY
+
+Approval Invoice Invoice Invoice Addendum Contract Date
+Routed Number Date Amount Number $ Balance $ Balance to A/P Comments
+90 63176 9/7 11,250 93
+90 63176 9/7 4,862 94
+90 63176 9/7 11,250 95
+90 63176 9/7 9,930 96
+91 63176 9/11 1,890 97
+92 63176 9/11 4,930 98
+92 63176 9/11 1,270 99
+93 63176 9/18 3,650 100 165,000
+94 63176 9/18 2,130.75 101
+95 63176 9/21 493.2 102
+96 63176 9/21 1,270 103 431.68
+101 63176 9/25 1,120 104
+102 63176 10/2 385 105
+
+51399.2575

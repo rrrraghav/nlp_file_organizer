@@ -1,0 +1,49 @@
+(physt!) BAPTIST HOSPITAL PROJECT 2/8/89
+
+42nd Tobacco Chemists’ Research Conference
+
+October 25, 1988 • Department of Agronomy • University of Kentucky
+Lexington, Kentucky 40546-0091
+
+OBJECT: To assess whether commercially available control equip-
+ment is capable of providing acceptable air quality in
+lieu of implementing smoking restrictions!
+System performance.
+
+Define operation and maintenance domain for
+evaln. Assesses representativeness of position in market
+for Smokerter. [Provides avenue for generalizing
+from results]
+
+System performance will depend on:
+(a) EVS level Factors are interde-
+(b) System O&M pendent
+(c) HVAC system performance
+
+e.g., (a) “ETS” level Available
+i) time of day ETS Indicators
+ii) number of occupants Nicotine (Nic)
+iii) number of smokers RSP
+iv) demographics UPM
+v) time of year/week FPM
+vi) type of cigarettes 3YP
+vii) ACH [air changes/hour] CO
+viii) human activity -CO2
+ix) outdoor level of CO, RSP,...
+x) Volume of Space ETS Predictors
+xi) air mixing # occupants/m³
+xii) microenvironmental # cigarettes/m³/h
+inhomogeneities ACH/CO[ventilation]
+xiii) indoor sources of CO, Correlations between
+RSP,... indicators and predic-
+*Basic philosophical rut: define tors should in many
+“acceptable air quality” once done, cases be statistically
+unacceptable air quality is defined significant (at α = 0.05)
+as well. Air quality bans operation
+of air cleaner to be unacceptable other- Air Quality Indicators
+wise meeting the proper objective (more general)
+cannot be unambiguously demon- ACH/CO[ventilation]
+strated. Relative Humidity
+Temperature
+
+SO8SO 6796

@@ -1,0 +1,49 @@
+請求書
+INVOICE
+
+Carolina Cigarette Company
+
+日付 DATE 請求書番号
+DATE INVOICE NO.
+10/26/94 CCC94-114
+
+Est#: 94-Oct-4
+
+J/O#CCC94-1: HARLEY-DAVIDSON MILDS - Color Copy Cost for H-D Advertising
+
+DESCRIPTION  原価 NET COST  手数料
+AGENCY COMMISSION  請求金額
+TOTAL INVOICE
+
+1. Video Print-out Cost (TVCF)   ¥13,000
+
+2. Color Copy Cost:
+    1) A3 size x 120 (8#450): Newspaper ad.  54,000
+    2) B4 size x 120 (8#350): Magazine ad.   42,000
+    *) A4 size x 120 (8#280): TVCF  33,600
+
+G. Total   ¥142,600
+
+Please remit in Japanese yen to
+Daiichikangyo Bank Head Office
+1-5, Uchisaiwaicho 1-Chome
+Chiyoda-ku, Tokyo, Japan
+Current A/C No.: 4142032 of
+Dentsu Young & Rubicam Inc.
+
+D-9
+
+
+
+Hirolala
+
+9341659
+
+PB International, Inc.
+Hirakawacho KS Bldg., 4-4, Hirakawacho 2-Chome
+Chiyoda-ku, Tokyo 100 Japan  ¥12,000,000 7-12, Kioicho, Chuo-ku, Tokyo, Japan (03)3278-4953
+
+
+
+CLIENT
+SL

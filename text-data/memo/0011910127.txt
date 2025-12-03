@@ -1,0 +1,30 @@
+To: Darryl Brickey 9/28/92
+
+From: Darrel Gray
+
+Please change material codes and descriptions for the items indicated for the following brand:
+
+Brand: American Full Flavor 100’s – 10M Export
+
+Key Field Code: 004501327
+
+Variation Code: 019500009
+
+Label/Box Change To: 114.3mm x 155.8mm - 20 cigare/label
+White, red, black, blue, tan and gold
+“FULL FLAVOR” copy printed in white
+"AMERICAN FULL FLAVOR" printed in white on red top flap
+of bottom panel; “100’s” printed in white on red on
+bottom flip of bottom panel
+“Tar” copy 1.7mg and Nicotine copy 1.3mg on side panel
+opposite the UPC symbol panel
+Domestic warning notice
+UPC No. 433853
+MC 4785
+
+Darryl, Please go ahead and input this change into the spec file.
+
+Bill Fargis: Activate this spec change once all inventories of MC 4442
+have been exhausted.
+
+634072063

@@ -1,0 +1,45 @@
+MARLIN - PROMOTION PRICING
+Key Full Price Brands
+December 1999
+
+Total U.S.
+
+Camel Winston Wingsbase Winstel Marlboro Marlboro
+EX/NE          
+
+Share of Volume   4.83  5.11  4.86  0.24  35.70  33.40
+Share of Volume - Diff vs PP  -0.16  -0.08  -0.06  0.00  -0.98  0.33
+Share of FP/SAV   6.61  6.99  6.65  0.33  48.86  58.46
+Share of FP/SAV - Diff vs PP  -0.22  -0.12  -0.11  0.00  0.39  0.45
+
+% CIV Any Promo   61.20  62.08  61.87  31.03  66.30  60.77
+% CIV Any Promo - Diff vs PP  2.12  1.10  1.08  -2.12  -4.26  2.28
+% CIV Any Display   46.71  45.00  44.87  11.23  47.16  40.43
+% CIV Any Display - Diff vs PP  -2.92  -5.05  -5.02  0.33  -5.98  -0.06
+
+% Vol Any Promo   
+% Vol Any Promo - Diff vs PP  4.83  45.31  45.39  43.61  -46.65  -46.67
+% Vol BGSF   3.30  1.95  2.08  -0.78  -0.30  -0.13
+% Vol BGSF - Diff vs PP  3.73  2.77  2.91  0.00  0.56  0.42
+% Vol Coupon/Discount   -1.30  -4.06  -4.26  0.00  -0.20  0.18
+% Vol W Cp/Disc   43.96  43.89  43.96  43.61  48.13  46.21
+% Vol W Cp/Disc/Discount - Diff vs PP  -2.51  3.45  3.66  0.78  -0.67  -0.37
+% Vol W Cp/Disc/Discount diff vs pp   4.82  9.84  45.33  -0.76  18.31  4.00
+% Vol Cp/Disc/Dist - Diff vs PP   3.31  1.95  2.08  -0.78  -0.30  -0.13
+
+Price Promo/n    2.41  2.41  2.41  2.26  2.33  2.33
+Price Avg Selling/n   5.92  6.43  6.84  2.87  5.93  6.14
+Price Cp/Disc/BGSF/n    -0.32  -1.62  -1.86  0.00  0.13  0.13
+Price Avg Selling(Cp)   5.73  6.29  6.64  2.87  5.81  6.01
+Price Avg Selling(Disc)   5.73  6.29  6.64  2.87  5.81  6.01
+Price Avg Selling(BGSF) - Diff vs PP   -0.24  -0.33  -0.28  0.00  0.07  0.09
+Price Avg Selling(Cp) - Diff vs pp   5.73  6.29  6.64  2.87  5.81  6.01
+Price Avg Selling(Disc) - Diff vs pp   5.73  6.29  6.64  2.87  5.81  6.01
+Price 2 for $    -0.54  -0.54  -0.54  0.00  0.00  0.00
+Price 3 for $   -0.69  -0.69  -0.69  0.00  0.00  0.00
+Price 5 for $   -1.24  -1.24  -1.24  0.00  0.00  0.00
+Price Any Premium/n   7.68  7.68  7.68  3.93  7.68  7.68
+Price Any Premium - Diff vs PP   -1.24  -1.24  -1.24  0.00  0.00  0.00
+
+70% 12/1999
+(R) 63,64,65

@@ -1,0 +1,160 @@
+26
+July 18th, 2019
+Good St. Jean can you call me?
+6/18/19
+
+LANDON ASSOCIATES, INC.
+GEOPHYSICAL ENGINEERING
+ENVIRONMENTAL SERVICES
+3545 N.W. 78TH AVENUE
+MIAMI, FLORIDA 33122
+
+WELL: 10
+LOCATION: 40.1114°N 89.6333°W
+ELEVATION: 1000 FT. MSL
+DATE DRILLED: 5/17/19
+PROJECT NO.: 91118-2
+
+WELL NAME:  S11118-1
+COUNTY:  Champaign
+STATE: Illinois
+
+                                    DEPTH
+   INTERVAL    GEOLOGIC LOG
+FOOTAGE      DESCRIPTION
+   0 - 5        Brown sandy silt, trace gravel.
+   5 - 10       Brown silty sand, some shell fragments.
+  10 - 15       Gray silty clay, trace organic matter.
+  15 - 20       Tan sandy clay, some fine sand.
+  20 - 25       Gray clayey silt, trace gravel.
+  25 - 30       Brown sandy silt, trace shell fragments.
+  30 - 35       Gray silty clay, some organic matter.
+  35 - 40       Tan sandy clay, some fine sand.
+  40 - 45       Gray clayey silt, trace gravel.
+  45 - 50       Brown sandy silt, trace shell fragments.
+  50 - 55       Gray silty clay, some organic matter.
+  55 - 60       Tan sandy clay, some fine sand.
+  60 - 65       Gray clayey silt, trace gravel.
+  65 - 70       Brown sandy silt, trace shell fragments.
+  70 - 75       Gray silty clay, some organic matter.
+  75 - 80       Tan sandy clay, some fine sand.
+  80 - 85       Gray clayey silt, trace gravel.
+  85 - 90       Brown sandy silt, trace shell fragments.
+  90 - 95       Gray silty clay, some organic matter.
+  95 - 100      Tan sandy clay, some fine sand.
+
+                                    DEPTH
+   INTERVAL    GEOLOGIC LOG
+FOOTAGE      DESCRIPTION
+ 100 - 105     Gray clayey silt, trace gravel.
+ 105 - 110     Brown sandy silt, trace shell fragments.
+ 110 - 115     Gray silty clay, some organic matter.
+ 115 - 120     Tan sandy clay, some fine sand.
+ 120 - 125     Gray clayey silt, trace gravel.
+ 125 - 130     Brown sandy silt, trace shell fragments.
+ 130 - 135     Gray silty clay, some organic matter.
+ 135 - 140     Tan sandy clay, some fine sand.
+ 140 - 145     Gray clayey silt, trace gravel.
+ 145 - 150     Brown sandy silt, trace shell fragments.
+ 150 - 155     Gray silty clay, some organic matter.
+ 155 - 160     Tan sandy clay, some fine sand.
+ 160 - 165     Gray clayey silt, trace gravel.
+ 165 - 170     Brown sandy silt, trace shell fragments.
+ 170 - 175     Gray silty clay, some organic matter.
+ 175 - 180     Tan sandy clay, some fine sand.
+ 180 - 185     Gray clayey silt, trace gravel.
+ 185 - 190     Brown sandy silt, trace shell fragments.
+ 190 - 195     Gray silty clay, some organic matter.
+ 195 - 200     Tan sandy clay, some fine sand.
+
+RESONDER:  S11118-1
+ISSUE:
+NAME #
+PRINTED
+DWN. BY
+APP’D
+DATE
+CHK’D
+DATE FIELD
+CHECK #
+
+TJW
+09/17/15
+5/31/19
+33390V
+6/18/19
+6049
+
+RESONDER:  S11118-2
+ISSUE:
+NAME #
+PRINTED
+DWN. BY
+APP’D
+DATE
+CHK’D
+DATE FIELD
+CHECK #
+
+TJW
+09/17/15
+5/31/19
+33390V
+6/18/19
+6049
+
+                                    DEPTH
+   INTERVAL    GEOLOGIC LOG
+FOOTAGE      DESCRIPTION
+  200 - 205     Gray clayey silt, trace gravel.
+  205 - 210     Brown sandy silt, trace shell fragments.
+  210 - 215     Gray silty clay, some organic matter.
+  215 - 220     Tan sandy clay, some fine sand.
+  220 - 225     Gray clayey silt, trace gravel.
+  225 - 230     Brown sandy silt, trace shell fragments.
+  230 - 235     Gray silty clay, some organic matter.
+  235 - 240     Tan sandy clay, some fine sand.
+  240 - 245     Gray clayey silt, trace gravel.
+  245 - 250     Brown sandy silt, trace shell fragments.
+  250 - 255     Gray silty clay, some organic matter.
+  255 - 260     Tan sandy clay, some fine sand.
+
+RESONDER:
+NAME #
+PRINTED
+DWN. BY
+APP’D
+DATE
+CHK’D
+DATE FIELD
+CHECK #
+
+S11118-3
+TJW
+9/17/15
+5/31/18
+33800
+6/18/19
+7892
+
+RESONDER:
+NAME #
+PRINTED
+DWN. BY
+APP’D
+DATE
+CHK’D
+DATE FIELD
+CHECK #
+
+S11118-4
+TJW
+9/17/15
+5/31/18
+33800
+6/18/19
+7892
+
+91118-2.0
+6/18/19
+18/19

@@ -1,0 +1,36 @@
+Cxt. Paper = box
+
+24
+25
+120
+
+AJN       Smith
+BBW        5         1
+Periods   3 Retron 5%    100 R/B/P
+Totals     15          100
+BBW Act  200           150
+water
+
+BBW Limit 4.7      4.1
+INT Limit 4.5
+
+√ 5.0.
+√n
+
+ASSUME SAME S.O.
+(Retron) 4.1       4.1
+4.1 (cos) = 5.77 -> 11.54
+4.7 (3 cos) = 12.12
+4.5 (cs)
+
+5.77
+11.54
+
+-5     +5
+-1      +2   BBW
+
+OCCUR
+
+24
+
+52332.0232

@@ -1,0 +1,26 @@
+Filter Efficiency Methods
+
+OBJECT : To develop a more rapid method for filter efficiency determination.
+
+SUMMARY : Two methods have been developed, one based on the UV absorbance of the filters, the other based on GC determination of nicotine of both pads and filters:
+
+(a) UV method - involves extracting the filters with isopropanol with subsequent dilutions in (methanol or isopropanol), and determining the absorbance at 310.
+
+(b) GC method - utilizes the normal procedure marked for nicotine determination involving both pads and filters using term. GC detem of nicotine containing filter extract, often.
+Comparison of the two methods for obtaining tar indicates agreement within 2 %.
+
+STATUS : The essential steps in both UV (Tar) and GC (nicotine) methods have been developed with work continuing to shorten total analysis time .
+
+EQUIPMENT: 1) 20-port smoking machine with Cambridge pads and holders
+2) Beckman DU-7 Spectrophotometer with printer
+3) 1-cm flow cell
+4) 2x 50ml erlenmeyer flasks
+5) 100 ml volumetric flasks
+6) 2nd volumetric pipettes
+7) Methanol and/or isopropanol
+
+CONCLUSIONS: Both methods indicate good reproducibility and rapid analysis time. The UV method would require one person’s time for sample preparation and absorbance measurements, whereas the GC nicotine method would allow sample flow into the normal work load.
+
+While past methods have indicated the use of methanol as the extracting solution, we have found isopropanol to be equally effective, less hazardous to handle, and less expensive.
+
+51207 4763

@@ -1,0 +1,37 @@
+5-6-87 For TAP - Patent Appl.
+
+①
+RSP - Piezolallance (µg/m³)
+Reduction vs. IRFF
+
+A 115.6 ± 13.6 -71.7%
+B 93.1 ± 26.0 -77.2%
+C 271.8 ± 20.4 -33.4%
+D 127.9 ± 6.1 -68.7%
+E 92.9 ± 29 -77.2%
+F 249.5 ± 10.9 -38.8%
+Kent III 245.5 ± 32.9 -39.8%
+Novit II 819.7 ± 39.3 -21.6%
+IRFF 408.0
+
+ONE RUN ONLY (φ pass) !!
+
+Sets are uncorrected for differences in weight burned
+in chamber experiments
+
+②
+IRFF MS Results
+
+HCN 120 ± 8 µg/cft.
+NH₃ 21.5 ± 6.0 µg/cft.
+Phenol 10.7 µg/cft. (one determination)
+Formaldehyde ~20 µg/cft.
+Aceti. no value
+Acrolein 74 µg/cft.
+Acetone ~180 "
+Prop. 70 " approximate mean value
+Cyst. 15 "
+Meth. 18 "
+IsoV. 19 "
+
+SI&O! 5938

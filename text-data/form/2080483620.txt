@@ -1,0 +1,165 @@
+DETAIL REPORT ON THE RECONCILIATION OF LOGICAL ACCOUNT BALANCES
+
+MONTHLY MANUFACTURING COST ACCOUNTING REPORT
+
+This report shows the reconciliation of logical account balances for the period ended. It is designed to track all transactions,
+including adjustments, and to provide a summary of any differences between the general ledger and cost accounting records.
+
+ALL PRIOR ADJUSTMENTS HAVE BEEN PROCESSED
+
+DETAIL OF CHANGES FOR PERIOD ENDING MARCH 2021
+
+SCHEDULE A - ACTIVITY BY COST ACCOUNT
+
+March 1997
+TP-32-ATA
+ACCOUNT SUMMARY
+
+Beginning
+Balance
+
+Amount of
+Activity
+
+Current
+Balance
+
+Amount
+Adjusted
+
+Ending
+Balance
+
+Amount
+Transferred/Reallocated
+
+
+
+(a) Total Manufacturing Costs charged to production
+(b) Total costs charged to finished goods inventory
+(c) Total costs charged to work-in-process inventory
+(d) Other manufacturing cost activity
+(e) Beginning Work-in-Process Inventory
+(f) Beginning Finished Goods Inventory
+
+16,384,927.103
+14,288,540
+4,609,393.345
+0
+10,112.100
+65,330.395
+
+
+
+SCHEDULE B - ACTIVITY BY COST CENTER
+
+Beginning
+Balance
+
+Amount of
+Activity
+
+Current
+Balance
+
+Amount
+Adjusted
+
+Ending
+Balance
+
+Amount
+Transferred/Reallocated
+
+
+
+(a) Total Manufacturing Costs charged to production
+(b) Total costs charged to finished goods inventory
+(c) Total costs charged to work-in-process inventory
+(d) Other manufacturing cost activity
+(e) Beginning Work-in-Process Inventory
+(f) Beginning Finished Goods Inventory
+
+46,458,903.06
+7,082,117.333
+311,722.002
+10,338.923
+83.380
+473,140
+
+
+
+SCHEDULE C - ACTIVITY BY PRODUCT LINE
+
+Beginning
+Balance
+
+Amount of
+Activity
+
+Current
+Balance
+
+Amount
+Adjusted
+
+Ending
+Balance
+
+Amount
+Transferred/Reallocated
+
+
+
+(a) Total Manufacturing Costs charged to production
+(b) Total costs charged to finished goods inventory
+(c) Total costs charged to work-in-process inventory
+(d) Other manufacturing cost activity
+(e) Beginning Work-in-Process Inventory
+(f) Beginning Finished Goods Inventory
+
+1,861,735
+60,290,614.35
+340
+5,107,333.215
+48,998,997.31
+
+
+
+SCHEDULE D - DETAIL BY COST ELEMENT
+
+Beginning
+Balance
+
+Amount of
+Activity
+
+Current
+Balance
+
+Amount
+Adjusted
+
+Ending
+Balance
+
+Amount
+Transferred/Reallocated
+
+
+
+(a) Direct Labor
+(b) Direct Materials
+(c) Manufacturing Overhead
+(d) Other manufacturing cost activity
+
+THIS RECONCILIATION IS MADE TO THE BEST OF OUR KNOWLEDGE. SHOWS HEREIN REFLECT THE ACCURATE ACCOUNTING AND COST DATA.
+
+SIGNATURE: _________________________ DATE: 22, 1998
+
+TOTALS
+
+Prepared by:
+Karen Kilstrom/Accounting Dept.
+35230802
+1-4-98

@@ -1,0 +1,40 @@
+PHILIP MORRIS INCORPORATED
+
+INTER-OFFICE CORRESPONDENCE
+
+RICHMOND, VIRGINIA
+
+
+
+To: Mr. P. E. Resnik Date: July 30, 1963
+
+From: Charles Varsel
+
+Subject: Evaluation of #1556 Filter Plugs (RBS #927)
+
+Filters from cigarettes coded 1556 were evaluated by the synthetic mixture - IR technique. The results of these evaluations show that these filter plugs are quite comparable in activity with the M-12 and 1010 filter plugs evaluated previously. The average gas phase reductions for these three samples are given in the following table.
+
+✓ PER CENT REDUCTION
+
+Gas Phase
+Component   1556  1010  M-12
+Isoprene    54     45     48
+Acetone     44     47     49
+Acetaldehyde .14    12     10
+Methanol    20     23     25
+Methyl chloride -0      3      0
+Methylfuran 50     48     54
+Benzene     49     49     51
+
+
+
+CJV:mro
+cc: Dr. A. Bavley
+Dr. R. B. Seligman
+Mr. L. L. Long
+Mrs. K. Sanderson
+Mr. G. Vilcins
+
+Charles Varsel
+
+10085733

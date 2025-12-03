@@ -1,0 +1,39 @@
+RJA INTER-OFFICE MEMORANDUM June 19, 1986
+
+To: Dr. Bob Suber
+From: Dr. Deborah A. Lee
+Ms. Cindy Fulip
+
+Subject: Ames results on sample H81 from Hazleton Biotechnologies, Inc.
+
+The following results were obtained for sample H81 (Firnova
+Powder 850.005):
+
+ØX S9 ACTIVATION
+
+strain TA98 strain TA100 strain 1535 strain 1537 strain 1538
+(rev/mg sample) (rev/mg sample) (rev/mg sample) (rev/mg sample) (rev/mg sample)
+
+.350 (neg) .30 (neg) .118 (.neg) .0887 (neg) negative
+
+10X S9 ACTIVATION
+
+strain TA98 strain TA100 strain 1535 strain 1537 strain 1538
+(rev/mg sample) (rev/mg sample) (rev/mg sample) (rev/mg sample) (rev/mg sample)
+
+.183 (neg) .692 (neg) 1.03 (neg) 1.05 (.neg) .816 (neg)
+
+Conclusions: The dose range tested was 0, 500, 1000, 2500, 5000, and
+10000 ug in 50 ul. There was no significant increase in
+reversion number with an increase in dose level for sample H81
+with or without S9 activation for any of the 5 strains.
+
+Please feel free to discuss these results with our lab.
+
+Cindy Fulip
+
+xc: Dr. C.K. Lee
+Dr. G.T. Burger
+Dr. J.R. Hayes
+
+51833-4135

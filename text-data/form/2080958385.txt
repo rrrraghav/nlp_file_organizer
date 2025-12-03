@@ -1,0 +1,50 @@
+PURCHASE REQUISITION
+
+ORDER FROM: Prometheus International, Inc. PO #Y15828
+5680 Bandini Boulevard
+Bell, CA 90201
+ATTN: Keith Parks
+REQ. DATE: 2/11/98
+
+SHIP TO: Catalog Resources, Inc. PAYMENT TERMS: Net 30
+155 Commerce Way F.O.B. Destination
+Dover, DE 19904
+REQUISITIONER: NAME: Sonya Rush
+BUYER NAME: Ileana Velez
+
+QUANTITY ITEM UNIT PRICE TOTAL PRICE
+
+Virginia Slims
+September '97 Fall Catalog
+Lighter
+
+CHANGE ORDER FOR ADDITIONAL QUANTITIES - NO CHANGE IN PRICE
+3.000 POS#03443 Lighter $8.60 $25,800.00
+
+Lighter to be manufactured by Philip
+Morris specification provided in bid package
+#VS088.
+Vertical Flint Wheel, Korean assembly
+6 mo. warranty; consumer returns directly to Prometheus.
+Care instructions and warranty must be provided
+by Prometheus and accompany ea. lighter.
+Prometheus must submit DOT & EB for inbound and outbound.
+ASTM F-400-92 certified.
+Prices include quality assurance testing
+specified in bid package.
+Signed agreement on file.
+Pre-production (three) and production samples
+(three) must be submitted for approval.
+Minimum Re-Order Quantity: 10,000
+Re-Order Lead Time: 90 days
+Packing Factor: 240
+Delivery Schedule:
+4/17/98
+
+Total $25,800.00
+
+PURPOSE: Wear Fall '97 Promotion: PREPARED BY: Ileana Velez
+Deb Elfar 2/13/98
+DATE DUE: See above schedule DEPT. APPROVALS
+ACCT# CODE: 0433330116741 TYPED NAME OF Sonya Rush
+APPROVAL: SIGNATURE ABOVE

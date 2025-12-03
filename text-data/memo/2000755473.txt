@@ -1,0 +1,30 @@
+DOC. NO. 512
+
+Mr. A. E. O’Keeffe
+L. O. Merola
+December 1, 1952
+
+Progress Report - Period November 16 - 30, 1952:
+Separation and Determination of Added Non-Tobacco Constituents.
+
+1. Accomplishments. None.
+
+2. Activities. During the course of work on the preparation of a new calibration curve for ethyl alcohol, it was found that the stability of the p-hydroxyphenyl solution had a marked effect on the values obtained from the Klett Colorimeter readings.
+All new solutions were prepared and the p-hydroxyphenyl was freshly prepared prior to usage. Samples containing 4, 6, 14 and 18 gamma/cc of alcohol were prepared, oxidized, distilled, developed using the freshly prepared p-hydroxyphenyl solution, and read on the Klett Colorimeter.
+
+The values obtained from the set of known alcohol samples gave a curve which followed Beer’s Law.
+
+Having obtained a valid calibration curve the amount of ethyl alcohol present in tobacco samples taken over a period of 72 hours from the cooler to the saratoga was calculated.
+
+3. Plans for Action. An exhaustive extraction will be made on a sample of tobacco from the roaster. A known amount of alcohol will be added, and up to 200 milliliters of extract will be analyzed.
+
+Investigation of tobacco smoke for the quantitative detection of acrolein will be started.
+
+ec - L. H. Davis
+po
+
+
+
+Levy O. Merola
+
+2000755473

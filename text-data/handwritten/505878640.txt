@@ -1,0 +1,23 @@
+Mainstream Delivery
+Shelf Life model #3 Aging Study
+
+Time             ○          2 months            5 months
+9820
+WTPM mg/product   21.35        22.75         23.60    444     2.38
+Nicotine mg/product  .455           .63          .772 .974 444 .476
+Glycerin mg/product   6.71            8.15        9.632 7.793 689 7.786
+Water mg/product    7.69           7.64         9.961 6.962 7.786 .970
+
+10160
+WTPM                  21.35        24.18          23.355
+N.C.                   .455           .5055         .554   444  .49
+Gly                     6.71            6.86        7.135 7.443 7.517
+Water                  7.69           6.27          9.28 6.962 7.661
+
+1540
+WTPM                 21.35         20.67        23.179 22.58 23.38
+Nic                    .455           .4085          .554   444  .49
+Gly                     6.71            6.15        8.135 6.962 6.167
+Water                  7.69           6.74         10.375 7.73 7.727
+
+50587 8640

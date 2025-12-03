@@ -1,0 +1,25 @@
+Lorillard
+TOBACCO COMPANY
+
+MEMORANDUM Aug. 24, 1992
+
+TO: A. M. Ifrig
+J. H. Bell
+
+FROM: F. R. Perini
+
+SUBJECT: Potassium Concentration on Denim Swatches Processed by Celanese (PROJECT B-448)
+
+A request was recently made by the Physical Chemistry Group for potassium ion analysis of ten different samples or swatches of denim material. These were rectangular swatches about 7 x 18 cm in size which were numbered 1 - 10. This was a single-blind test. The submitter knew the target values; the analyst did not, other than a total range up to 10000 ppm.
+
+The extraction procedure was patterned after the Lorillard-established sequence for broad-spectrum anion analysis in tobacco and other solids, and is as follows:
+
+Solid Matrix Sample Isolation.
+
+(a) Fabric (0.2-0.3 g*) is suspended in 50 mL unfiltered deionized water (dzw). Record the exact weight of the sample. The suspension is shaken on a wrist-action shaker for 20 minutes.
+
+(b) The suspension is gravity filtered. The solid sample is washed with 50 mL additional dzw, then thoroughly pressed with a spatula to squeeze out residual liquid.
+
+(c) Separately, a C4 Sep-pak cartridge (Waters Part No. 51910) is washed with 10 mL methanol, then 50 mL dzw. Remove the Sep-pak from the syringe tip after each wash to eliminate backback contamination of the Sep-pak. Then 8 mL of the sample is drawn through the first cartridge and discarded, followed with 8 mL of sample, which is collected.
+
+6785547

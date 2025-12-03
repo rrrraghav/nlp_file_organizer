@@ -1,0 +1,38 @@
+n = 12 - 16
+μm
+
+49TH TOBACCO CHEMISTS'
+RESEARCH CONFERENCE
+September 24-27, 1995
+Lexington, Kentucky
+
+I. Precision: Moments
+a) % based
+b) Geometric
+c) Geomettric
+
+II. Prep for Grammetric Analysis
+a) Compared syringe (gertight) vs micro-pipette for accuracy &
+precision @ delivering volumes (100µl 500µl) & 165 Buffer.
+1) Micro- pipette was better/more accurate during
+volume delivered more delivery.
+B) Compared various volumes (100, 500, 1000µl)
+1) Initial delivery assessed - Micr 5 vs. pipetter –
+grammetric data.  –  identifi where was a signi-
+difference in volume delivery (grammetric data).
+(a) Repeated Pipette Deliveries
+(b) Other cleaned & repeated process. (3/6/95)
+2) Determined that volume delivered was different between
+pipetter & Micr 5.
+(a) Regressed (Figures) mass vs volume for manuald
+MES.
+(b) Adjusted MES settings
+
+3) Series 2 grammetric comparison pipetter vs. Micr 5.
+a) 100, 500, 800, & 1000µl – numbers vs MES - signifi different
+b) Precision was “not” good for all grades of the batch P.C.K.
+(Figures)
+(c) Mass vs micro (pipette) vs mass (MES) regressions
+(Figures)
+
+51887.8162

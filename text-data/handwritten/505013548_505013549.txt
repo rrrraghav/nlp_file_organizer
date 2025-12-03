@@ -1,0 +1,51 @@
+10-25-94
+
+MODEL TEMPERATURE PROFILE / EXIT TEMPERATURES
+
+Peak Air Temp.(°C)
+
+700 -
+600 -
+500 -
+400 -
+300 -
+200 -
+100 -
+0 -
+
+Figure 16
+Instrumentation Specific
+to Run 89SE 10506
+System: 2.0 mm radius,
+1.7 mm height.
+
+PUFF COUNT
+
+4  Hole surround Fuel Source
+(Down Look) + 10° Substrate (Cold)
+▲ (Down Camera)
+Above + 10° Substrate (Cold)
++ 60 ms. SS
+▲ (Down Camera)
+Above + 10° Substrate (Warm)
++ 60 ms. SS (Warm)
+
+TEMP. MEAS.
+LOCATION
+
+FUEL
+INJECTOR
+
+Fuel
+Source
+
+89SE 10506
+3506
+
+20 mm OVERALL
++ Flow Gas
+
+Thermowells 10°
+& Flow Sensors
+
+MEASUREMENT SCALE

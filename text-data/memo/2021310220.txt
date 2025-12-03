@@ -1,0 +1,53 @@
+PHILIP MORRIS U. S. A.
+
+INTER - OFFICE CORRESPONDENCE
+
+Richmond, Virginia
+
+To: Dr. K. A. Cox Date: May 15, 1987
+From: C. H. Morgan
+
+Subject: Visibility Results - Project ART
+
+At the request of Dr. J. O. Lephardt, the sidestream particulate generation
+rate (PGR), surface mean size, and visibility were determined for two
+samples from Project ART. One sample was the control (pack code #3487) and
+the other was one which had a 94% reduction in nicotine by supercritical
+extraction (pack code #3609). The visibility obtained for the test sample
+was 17% less than that of the control. This decrease can be attributed
+primarily to the 15% decrease in the particulate generation rate and, to a
+lesser extent, to the 5% decrease in the surface mean size.
+
+The results are listed below, along with the results we have obtained for a
+Marlboro 85.
+
+
+
+Sample HBR PGR Size Visibility*
+(ms/min) (arb. units) (μm)
+Control 70.2 67 0.125 0.75
+Test 74.9 59 0.119 0.62
+Marlboro 85 67.3 57 0.125 0.61
+
+
+
+CHM/yl C.H. Morgan
+
+cc: J. Charles
+W. Claflin
+R. Comes
+R. Ferguson
+P. Goodman
+B. Goodman
+J. Lephardt
+A. Kassman
+C. Lilly
+Central File
+
+
+
+
+
+*The visibility, V, reported here is the extinction coefficient at 546 nm.
+It can be approximately related to the visibility, Vβ, reported by Barbro
+Goodman using the empirical relationship, V = .893[2n (1 - Vβ) ]
