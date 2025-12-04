@@ -1,0 +1,29 @@
+B3291 - B3271
+
+PRIORITY
+
+Nose, Level 1
+
+5
+¬ 1R4F-res.c.hyp
+¬ 1R4F-gob.c.hyp
+¬ 1R4F-squam met
+¬ 1R5F-res.c.hyp
+¬ 1R5F-gob.c.hyp
+¬ 1R5F-squam met
+¬ Poly. (1R4F-res.c.hyp)
+¬ Poly. (1R4F-gob.c.hyp)
+¬ Poly. (1R4F-squam met)
+
+3
+Score
+
+2
+1
+0
+B3271
+TPM [µg/l]
+64
+800
+250536018
+CRC/PMT 29 Jan.99

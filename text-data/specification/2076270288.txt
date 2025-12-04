@@ -1,0 +1,41 @@
+R&D Test Specification
+CIGARETTE SPECIFICATION
+
+PROJECT NAME: BOLD Factory Trial #1 Date: October 16, 1990
+
+CIGARETTE LENGTH : 84.0 mm
+TOBACCO ROD CIRCUMFERENCE: 24.8 mm
+TOBACCO ROD LENGTH : 57.0 mm
+FILTER LENGTH : 27.0 mm
+TIPPING LENGTH : 32.0 mm
+TOTAL R.T.D. : 100.0 mm
+DILUTION TARGET : 67 ± 5%
+
+TIPPING PAPER : KC 236M2 White (Supplied by R&D)
+
+TIPPING INFORMATION : Refer to Engineering’s Glue Roller Variable Parts
+Catalog by Type-Tipper and Cigarette Roller Brand Code
+Specification
+
+Between Rows/Band Width/TPR Cut Length/Patch Size
+24.0 1.5 27 9.6 x 20
+
+TIPPING ADHESIVE : Findley 355-381-01 62-050-A
+
+SEAM ADHESIVE : National 25-1088 61-210-A
+
+FILLER TYPE - PACK O.V. : BOLD - 244 (12.5%)
+
+CIGARETTE PAPER : 12 sec High Citrate 10-028-A
+
+INK : MF Black 37077 MK9
+
+PRINT DIE : Machine Number – No Print on Rod
+
+COMMENTS :
+
+PREPARED BY:  _Derek Gilbert_ DATE: 10/16/90
+
+
+
+2076270288

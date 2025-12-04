@@ -1,0 +1,65 @@
+(CS19PRINT) 7/30/86 Brown & Williamson Tobacco Corporation
+Corporate Specifications System 07/29/86 09:52:53 Page - 1
+All Products with Met Number = 1345
+Item Status
+No. Prod Product Type Description Size Status Change Effective
+241 1346 DOM KOD 80.50 S.I.P. NYC OFFER 1986 DEVELOPMENTAL Number Date
+KOD 80.50
+7/30/86
+
+* FILTER ROD *
+Adhesives: Material Description Length/Dry
+PLUG WRAPS 11-2023 FILM, UNBLEACHED, WHT, LM SLAT
+PLUG WRAPS 10-0111 PLUG/POROUS KD-9546 2G 5/8550
+Filter Tone: 33-0410 TONE, FILTER 7000 LB (TT)
+Filter Tone:
+Circumference: FR-5438
+Width: 24.40 mm TAPE
+Thickness: 0.016 in
+Plasticizer: 7.00 g
+Filter Rod: M# 96
+* CIG MAKER *
+Primary Cigarette design: 05-0210
+Cigarette Design: MI-042
+Cigarette Papers: 13-0880 Cig PAPER I-12786 3/8550
+Plug Top: 37-0111 TIPP CORE 6.4 3900 - 310 LP
+Plug Top Length:
+Cutting Ring:
+Cigarette cutting dimensions: 23.70 x 3500
+Circumference: 24.70 mm
+Ventilation:
+Filter Rod: LANDED
+Filter rod design: 05-0113-108710 KOD 801336
+Filter rod coating: 32-021 INK, GREEN J. FRY 87982 IN SYRINGE
+
+* CIG PACKER *
+FILMS: 14-7800 20 STICKS PER PACK
+Film: 14-7800 FILM, CELLOPHANE, BROWN 30/80 25.8000
+Film: 14-7800 FILM, CELLOPHANE, BROWN 30/80 25.8000
+Film: 14-7800 FILM, CELLOPHANE, BROWN 30/80 25.8000
+Film: 14-7800 FILM, CELLOPHANE, BROWN 30/80 25.8000
+Film: 14-7800 FILM, CELLOPHANE, BROWN 30/80 25.8000
+Film: 14-7800 FILM, CELLOPHANE, BROWN 30/80 25.8000
+Film: 14-7800 FILM, CELLOPHANE, BROWN 30/80 25.8000
+Film: 14-7800 FILM, CELLOPHANE, BROWN 30/80 25.8000
+Film: 14-7800 FILM, CELLOPHANE, BROWN 30/80 25.8000
+* PACK *
+The pack consists of a filter rod and 20 cigarettes. 1986
+The pack is wrapped in cellophane film.
+The pack is sealed with heat.
+PACK DIMENSIONS: 4.12 x 7.12 x 1.375
+PACK WEIGHT: 71.4 g
+PACK MATERIALS:
+CELLOPHANE FILM 14-7800
+ADHESIVE 11-2023
+INK 32-0221
+* TIPPER *
+TIPPER PAPER: 37-0111 TIPP CORE 6.4 3900 - 310 LP
+Tipping Adhesive: 11-2023
+Tipping Machine:
+Tipping Paper: 13-0880 Cig PAPER I-12786 3/8550
+Tipping paper length:
+Tipping paper width:
+Tipping paper thickness:
+
+3989013086

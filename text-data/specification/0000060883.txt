@@ -1,0 +1,186 @@
+SAMPLE SPECIFICATIONS/PILOT PLANT WORK REQUEST
+
+[LEVEL 1]
+uesting Dept./Proj. No.
+Date Mfg.
+ject Purpose: Xool XS - CPT Samples
+Designed by
+on No.
+CPT B-11-CPT C
+ient Brand (Specify)
+Quantity Requested
+ent Code
+(37-32)
+_ _ _ _ _ _ _
+eighs (mg)
+Tech. Dept.
+(35-36)
+_ _ _ _ _ _ _
+l Analysis Code
+Marketing Research
+(38-41)
+_ _ _ _ _ _ _
+Pack Code
+Other Dept.
+(42-43)
+_ _ _ _ _ _ _
+eco Code
+Terminal Filters
+(44)
+_ _ _ _ _ _ _
+[LEVEL 4]
+Factory No. (H)
+XLF-6410 Level II XLF-6240
+Length (mm)
+26 26
+(37-39)
+(37-39)
+_ _ _ _ _ _ _
+Perm. Type/Dist. M.E. (mm)
+(37-39)
+_ _ _ _ _ _ _
+Core (Reduced Size)
+XLF-802 Level II XLF-8121
+Perm.-Act. (Converts)
+(37-39)
+_ _ _ _ _ _ _
+Resin Wt. (gm/m²)
+Drawing No.
+(37-39)
+_ _ _ _ _ _ _
+XLF-351 07-31-77
+Filter Plant (mm)
+21 21
+(37-39)
+(37-39)
+_ _ _ _ _ _ _
+Pressure Drop (psi)
+2.0 2.0
+(40-41)
+(40-41)
+_ _ _ _ _ _ _
+Cased
+Other Parameters
+Full Full
+(Specify)
+(42-43)
+_ _ _ _ _ _ _
+Bulk Density
+(Req. Area 7x5x12/16)
+0.38 0.45
+(35-36)
+(35-36)
+_ _ _ _ _ _ _
+Sure Fin. (Rod)
+S.V. Application (Color)
+[LEVEL 3]
+14.0 14.0
+(37-39)
+(37-39)
+_ _ _ _ _ _ _
+Mask Width (mm)
+Rod
+(37-39)
+_ _ _ _ _ _ _
+h (mm)
+4.3x37 4.3x37
+Ligament
+84 84
+(37-39)
+(37-39)
+_ _ _ _ _ _ _
+influence (mm)
+Circumference (mm)
+24.6 24.6
+(37-39)
+(37-39)
+_ _ _ _ _ _ _
+Diameter (mm)
+1.0 1.0
+(37-39)
+(37-39)
+_ _ _ _ _ _ _
+Thickness (mm)
+2.6 2.6
+(37-39)
+(37-39)
+_ _ _ _ _ _ _
+e.g.
+Surface Treatment
+(Specify)
+(37-39)
+_ _ _ _ _ _ _
+No.
+Process Type (grind)
+230 230
+(37-39)
+(37-39)
+_ _ _ _ _ _ _
+e.g.
+Process Type (wet)
+e.g.
+230 230
+(37-39)
+(37-39)
+_ _ _ _ _ _ _
+e.g.
+Process Type (dry)
+e.g.
+3046 3046
+(37-39)
+(37-39)
+_ _ _ _ _ _ _
+e.g.
+XLF-8121
+XLF-8121
+(37-39)
+(37-39)
+_ _ _ _ _ _ _
+e.g.
+XLF-6410
+XLF-6240
+(37-39)
+(37-39)
+_ _ _ _ _ _ _
+e.g.
+XLF-802
+XLF-8121
+(37-39)
+(37-39)
+_ _ _ _ _ _ _
+e.g.
+XLF-351
+XLF-351
+(37-39)
+(37-39)
+_ _ _ _ _ _ _
+e.g.
+XLF-6410
+XLF-6240
+(37-39)
+(37-39)
+_ _ _ _ _ _ _
+e.g.
+XLF-802
+XLF-8121
+(37-39)
+(37-39)
+_ _ _ _ _ _ _
+e.g.
+XLF-351
+XLF-351
+(37-39)
+(37-39)
+_ _ _ _ _ _ _
+
+[LEVEL 2]
+Approved by
+Approved by
+Approved by
+Approved by
+Approved by
+Approved by
+Approved by
+Approved by
+Approved by
+Approved by

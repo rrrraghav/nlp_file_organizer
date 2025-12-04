@@ -1,0 +1,50 @@
+MONTHLY MANAGEMENT STATUS REPORT PROJECT NO.: C-194
+
+PROJECT TITLE: TOBACCO FLAVOR - 1981 DATE: Dec.31, 1981
+BUDGET: $394,670
+
+PROJECT DESCRIPTION: A variety of flavorants will be investigated. Primarily we will deal with
+specific flavor improvers, extenders, enhancers and replacements for
+tobacco flavors. The project involves synthesis, planning and
+execution of synthesis followed by preliminary screening for utility.
+Initial safety evaluation will be performed. Further work in sensory
+evaluation will be conducted. Successful evaluation by all groups would
+lead to further development. Computer applications relating to basic flavor research
+and for flavorant record keeping purposes.
+
+YEAR 81
+MONTH F J A O D
+400
+360
+320
+280
+240
+200
+160
+120
+80
+40
+0
+
+BUDGET VS ACTUAL $
+BUDGET
+ACTUAL
+PROJECT
+COMPONENTS
+Research, Planning &
+Execution of Synthesis
+Preliminary Screening
+Prod. Eval. Panel
+Biological Evaluation
+Computer Applications
+Report Writing, Record
+Keeping
+
+Little synthesis activity this month due to other project priorities.
+Some progress this month in computer applications, relating to "Contour
+Analysis."
+
+R. S. Marmor
+PREPARED BY
+H.P. Mummeyer
+8653565

@@ -1,0 +1,35 @@
+INBiFO Institut für biologische Forschung GmbH - Köln
+27 November 2002                                                                 Page 1
+_IBRA
+
+DRAFT for discussion
+
+A RISK ASSESSMENT-BASED TOXICOLOGICAL WEIGHTING OF CIGARETTE SMOKE
+CONSTITUENTS: C. Euchenhofer, J. Diekmann, B Gerstenberg, R. Stabbert, K. Rustemeier, HJ
+Haussmann. INBiFO Institut fuer biologische Forschung (a Philip Morris research lab), Cologne.
+
+Preventive health policies for humans against potential risks from chemicals are based on risk
+assessment, which deals with the qualitative classification of substances and/or the quantitative
+delineation of risk factors or reference concentrations thereof. To prioritize cigarette smoke
+constituents as targets for reduction, we applied the approach outlined in the US EPA
+guidelines for the comparative assessment of chemical mixtures (1982) and used published
+inhalation unit risks and reference exposure limits, e.g., Cal EPA (2002), for cancer and non-
+cancer risk estimates. Smoke constituent yields for the Reference Cigarettes 1R4F and 1R5F
+as well as 8 market brands were determined and weighted with the cancer and non-cancer risk
+factors. With this model, the ranking of calculated risks suggests that the major risk contribution
+comes from only a few gas phase constituents, e.g., 1,3-butadiene and acrylonitrile for cancer
+and acrolein for non-cancer. This weighting approach can also be used in the comprehensive
+assessment of the smoke chemistry of an electrically heated cigarette with ammonium magnesium phosphate in the overlap. The yields of some
+constituents were significantly reduced compared to the 1R4F, while a few were
+increased. Application of the weighting approach demonstrated an overall reduction in the
+calculated cancer and non-cancer risk estimates for the electrically heated smoking system
+compared to the 1R4F. Although this approach is somewhat limited by the uncertainty/lack of
+potency data and the inherent limitation of the chemical analysis of complex mixtures such as
+cigarette smoke, it can supplement the evidence obtained from experimental toxicological
+investigations for the overall evaluation of new cigarette designs.
+
+250364975
+
+X:\HWM\Document Collection No\02\Smoking\Schauels\GOT2003_RISK_ASSESSMENT 30Sep.doc   07/94
+
+DRAFT for discussion

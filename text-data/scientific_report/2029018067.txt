@@ -1,0 +1,41 @@
+INBiFO Institut für biologische Forschung · Köln
+REPORT P 0268/2137 MMR171SB19 6171 PAGE 1-1
+
+1 INTRODUCTION
+
+In vitro cytotoxic effects of cigarette smoke on mammalian cells
+have been investigated in various cell types. TABLE A gives some
+examples of the cell types and the end points used in the litera-
+ture.
+
+The following techniques have been utilized for the exposure of
+mammalian cells to cigarette smoke:
+
+(1) passing of the cigarette smoke over the cell cultures in
+liquid medium (Leuchtenberger, C. and Leuchtenberger, R.,
+1969, e. g. INBiFO study P 0268/2121, 1985)
+
+(2) direct contact between the cigarette smoke and the cells
+without liquid interposition (Holt and Keast, 1973b, Voisin
+et al., 1985)
+
+(3) addition of aqueous extracts of the cigarette smoke to the
+culture medium (Holt and Keast, 1973b, York et al., 1973,
+Chamson et al., 1980, INBiFO study P 0500/3065, 1983)
+
+The 4-day cytotoxicity assay is routinely used at INBiFO to
+determine the cytotoxicity of whole smoke (MWS) and
+mainstream gas/vapor phase (MGVP) of research cigarettes. The
+assay was performed on the human lung PAN-L3 cell line. The PAN-L3
+cell line was a courtesy of professor Cecile Leuchtenberger,
+I.S.R.B.C., Lausanne, and has been used at INBiFO for cytotoxicity
+studies with MWS (e. g. INBiFO study P 0268/2028, 1983), MGVP (e.
+g. INBiFO study P 0268/2060, 1982), diluted MWS and sidestream
+whole smoke (SWS) (e. g. INBiFO study P 0268/2133, 1986). When
+inoculated into nude mice, it was shown that untreated PAN-L3
+cells formed fibrosarcoma (INBiFO study P 0268/2028), which
+indicates that the cells are transformed.
+
+
+
+x:85

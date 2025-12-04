@@ -1,0 +1,44 @@
+BROWN & WILLIAMSON TOBACCO CORPORATION
+
+TIPPING - INDIVIDUAL SPECIFICATION
+
+MATERIAL NUMBER 37-4430 DATE 2/15/91
+ISSUE NO 3
+VENDOR MUNDET-HERMETITE INCORPORATED
+DESCRIPTION BELAIR FF KING SIZE RECEIVED
+Robbin Width x Length 52 mm x 2300 M FEB 19 1992
+Logo Repeat (if applicable) 24.9 mm A.C.D.
+Number of perforation lines 2
+Number of perforation holes per line per inch 35
+Perforation band width 1 mm
+Robbin edge to first perforation line (band edge) 13 mm + 1.0 mm
+Center to center measure between perforation zones 25 mm
+Type of perforations Laser
+Minimum opacity, finished bobbin 8 % See Note Below)
+Moisture content, finished bobbin 4.5 + 1.5% (As Shipped)
+Base paper, supplier and type Terwakoski A-362
+Base paper pigments Clay, CaCO3, TiO2
+Description of graphics White - Green Logo - 2 Gold Lines
+
+Inks used: Color TYPE SUPPLIER & IDENTIFICATION #
+Green C Thiele-Engdahl RGC-6143
+Gold S PPG SX-700-94
+Lip Release C Thiele-Engdahl RJC-2847
+
+Surface treatment (type & amount)
+Lip release coating (type & amount) Type C - 5 g/m²
+Minimum Tensile 4 kg per 2.54 mm (As Shipped)
+Exceptions to Master Specification See Attached Sheet (or None)
+Characteristic Target Pallet Limits Ind. Perf.
+Tolerance Max S.D. Band Limits
+
+Porosity-Coresta 600 ± 42 60 ± 78
+3/4 inch orifice
+
+NOTE: Pallet limits are based on 10 random samples/observations
+from each pallet. Individual bobbin limits are based on an average
+of three tests for any one bobbin. If three or more individual
+bobins are out of specification from any one pallet then the
+entire pallet is to be rejected.
+
+605117625

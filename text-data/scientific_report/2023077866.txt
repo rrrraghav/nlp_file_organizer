@@ -1,0 +1,51 @@
+PROJECT CHARGE: 1704
+
+PROJECT TITLE: SUPERCRITICAL FLUID PROCESSES
+
+PROJECT LEADER: F. V. Utsch
+
+WRITTEN BY: J. L. Banyasz
+
+PERIOD COVERED: July, 1986
+
+DATE OF REPORT: August 1, 1986
+
+SCF Laboratory Systems:
+
+Efforts to optimize the tobacco:CO₂:carbon ratios in the one liter
+system were continued.
+
+Further analysis of the data for nicotine solubility in supercritical
+CO₂ over tobacco suggests the equilibrium between tobacco bound and fluid
+phase nicotine can be described by a single distribution coefficient.
+Further data is needed to quantify the distribution.
+
+A Marlboro blend was treated with 3% NH₄HCO₃ and extracted in the one
+liter system. A 97% reduction in nicotine was obtained as compared to a 93%
+reduction observed in a similar extraction with an untreated control.
+Additional extraction experiments are required to determine optimum
+extraction conditions with NH₄HCO₃ treated tobacco.
+
+Preliminary investigations were initiated to find alternative methods
+for nicotine scrubbing. The extraction of 108 grams of tobacco using a
+citric acid scrub (200 ml of 2.5% citric solution) yielded an 80% nicotine
+reduction after an extraction time of two hours and twenty minutes. A
+method for increasing the gas/liquid contact efficiency will be implemented.
+
+SCF Pilot Plant and Engineering Support:
+
+On request from Engineering, experiments were carried out to determine
+the concentration of chlorides lost in the fluid phase and in the tobacco
+moisture which may come in contact with the vessel walls. The fluid phase
+was found to contain 2-3 ppm chloride while the pressed tobacco moisture
+contained a substantial but unquantified amount.
+
+Also, on request from Engineering, an attempt was made by Bruce Waymack
+to simulate low temperature in situ regeneration of spent carbon from the
+laboratory unit by heating under helium at 300°C for 90 minutes.
+Absorption isotherms were then determined for heat treated carbon. It
+was found to have a capacity of 40-60% as compared to fresh carbon.
+
+
+
+J. L. Banyasz

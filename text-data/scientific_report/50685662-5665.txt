@@ -1,0 +1,54 @@
+CTR PROGRESS REPORT
+(Do not submit this form with a FIRST RENEWAL)
+
+Grant number 3340 Progress Period from 11/01/92 to: 11/01/93
+
+Name of Investigator: Tad H. Koch
+
+Title of Original Grant: Nucleic Acid Photodeavage and Photocrosslinking
+to Associated Proteins
+
+Abstract of the Specific Aims as stated in the original application:
+Our specific aims are: 1) to identify the amino acid residue of the Bacteriophage
+R17 coat protein to which a covalent bond is formed upon 308 nm excitation of its
+photocrosslinking chromophore of the JM-15 variant RNA hairpin loop, 2) to test
+photocrosslinking to JMs with proteins bearing mutations at or near the reactive
+amino acid residue which place other reactive amino acid residues in proximity to the
+Bru, 3) to identify the amino acid residue of the GA coat protein which crosslinks to JM.
+15. 4) to participate with the Untenbeck group in modeling R17 and GA
+bacteriophages. 5) to establish in collaboration with the Czech group the amino acid
+residues of the α and β-subunits of the Oxytricha nova telomere binding protein which
+photocrosslinks to specific Bru-substituted, synthetic DNA of the form
+d(T4G4). 6) to participate with the Czech group in modeling the telomeric region
+of the Oxytricha nova telomere binding protein. 7) to use the photocrosslinking
+technique with a Bru-substituted, synthetic DNA with the repeat TTAGGG to help
+identify the human telomere binding protein, again in collaboration with the Czech
+group. 8) to identify the structural requirements for Bru specific photo cutting of RNA,
+and 9) to establish that photo reactivity from the indole chromophore can be achieved in
+the absence of possible photo reactivity from the Bru chromophore of tryptophan by
+excitation at 325 nm with emission from a HeCd laser.
+
+List any publications (author, title and journal) resulting from the current CTR award
+that contain a printed acknowledgement of CTR support:
+
+For manuscripts, the designation "in press" means you have a preprint otherwise use
+“accepted for publication by…” “submitted for publication” or “in preparation”.
+Do not list publications that do not acknowledge CTR support.
+
+Koch, Michael C., Willis, Brian J., Hicke, Olke C., Uhlenbeck, Thomas R. Czech, and Tad H.
+Koch. "Photocrosslinking of a Bru-substituted RNA." PNAS 90: 1559-1563 (1993).
+
+Brian J. Hicke, Michael C. Willis, Tad H. Koch, and Thomas R. Czech. “Telomere
+binding proteins.” Current Opinion in Genetics & Development 7: 511-518 (1997).
+
+Koch, T.H., unpublished data.
+
+Approved by:
+
+Signature of Principal Investigator: __________________________ Date: __________________
+
+I certify to the best of my knowledge that the information contained in this report is
+accurate and complete. I further certify that no portion of the work has been
+performed or subcontracted to any commercial organization.
+
+Date: 11/01/93

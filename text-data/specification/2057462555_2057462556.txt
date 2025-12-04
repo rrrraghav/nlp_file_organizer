@@ -1,0 +1,90 @@
+MSDS # 6897
+
+U.S. DEPARTMENT OF LABOR
+Occupational Safety and Health Administration
+Form No. SH-84-1032
+
+MATERIAL SAFETY DATA SHEET
+
+Required under USOL Safety and Health Regulations for Ship Repairing,
+Shipbuilding, and Shipbuilding (29 CFR 1915, 1916, 1917)
+
+SECTION I
+
+MANUFACTURER’S NAME CAKITE PRODUCTS, INC. EMERGENCY TELEPHONE NO.
+201-464-6900
+ADDRESS (Number, Street, City, State, and ZIP Code)
+35 Valley Road, Berkeley Heights, New Jersey 07922
+CHEMICAL NAME AND SYNONYMS TRADE NAME AND SYNONYMS
+Oakite Carbowax -
+CHEMICAL FAMILY Trademark Proprietary
+Solvent
+
+SECTION II - HAZARDOUS INGREDIENTS
+
+PAINTS, PRESERVATIVES, & SOLVENTS % TLV ALLOYS AND METALLIC COATINGS % TLV
+(Units)
+PIGMENT 20.01114000 0.2 TUNGSTEN
+CATALYST ALLOYS
+VEHICLE CAS #75-09-2 METALLIC COATINGS
+SOLVENTS Ethylene chloride 55 100ppm FILLER METAL
+ADDITIVES CAS No. 8002-05-9 PLUS COATING OR CORE FLUX
+OTHERS
+others Petroleum naphtha <5* 200ppm
+
+HAZARDOUS MIXTURES OF OTHER LIQUIDS, SOLIDS, OR GASES
+Cresylic acid CAS #1119-77-3 % TLV
+Chromate salt CAS #10858-01-3 (as Cr) <1 0.5 1mg/m3
+
+SECTION III - PHYSICAL DATA
+
+BOILING POINT (°F) SPECIFIC GRAVITY AT 75°F 1.69
+280
+VAPOR PRESSURE (MM HG) VAPOR DENSITY (AIR=1) 5.2
+AT 100°F  Heavier than air
+SOLIDS CONTENT % BY WEIGHT 3.4
+
+SECTION IV - FIRE AND EXPLOSION HAZARD DATA
+
+FLASH POINT (°F) AUTO-IGNITION TEMPERATURE (°F) FLAMMABILITY LIMITS IN AIR (% by volume)
+110 °F N/A LOWER UPPER
+EXPLOSIVE LIMITS  N/A N/A
+FIRE EXTINGUISHING MEDIA: Use dry chemical, carbon dioxide, or foam. Water may spread fire.
+
+SECTION V - REACTIVITY DATA
+
+STABILITY: Stable under normal conditions.
+HAZARDOUS POLYMERIZATION: Will not occur.
+CONDITIONS TO AVOID: Excessive heat, sparks, open flame.
+INCOMPATIBILITY: Strong oxidizing agents.
+HAZARDOUS DECOMPOSITION PRODUCTS: Carbon monoxide and carbon dioxide.
+
+SECTION VI - HEALTH HAZARD DATA
+
+ROUTES OF EXPOSURE: Inhalation, skin contact, eye contact, ingestion.
+EFFECTS OF ACUTE OVEREXPOSURE:
+Inhalation: Irritation of nose and throat. Headache, dizziness, nausea.
+Skin Contact: Mild irritation. Prolonged or repeated contact may cause dermatitis.
+Eye Contact: Severe irritation with pain and tearing.
+Ingestion: May cause gastrointestinal distress.
+
+EFFECTS OF CHRONIC OVEREXPOSURE: Prolonged or repeated exposure may cause dermatitis.
+PRIMARY ROUTES OF EXPOSURE: Inhalation, skin contact.
+
+SECTION VII - PRECAUTIONS FOR SAFE HANDLING AND USE
+
+AVOID CONTACT WITH SKIN AND EYES.  WEAR APPROPRIATE PERSONAL PROTECTIVE EQUIPMENT (GLOVES, GOGGLES, RESPIRATOR IF NECESSARY).
+USE ONLY IN WELL VENTILATED AREA.  DO NOT BREATHE VAPORS OR MIST.
+KEEP AWAY FROM HEAT, SPARKS, OPEN FLAME.
+STORE IN COOL, DRY PLACE.
+
+SECTION VIII - FIRST AID MEASURES
+
+EYES: Flush with water for 15 minutes and seek medical attention.
+SKIN: Wash with soap and water.
+INGESTION: Do not induce vomiting.  Seek medical attention immediately.
+INHALATION: Remove to fresh air. If breathing is difficult, give oxygen. Seek medical attention.
+
+SECTION IX - ADDITIONAL INFORMATION
+
+NOTE: This information is based on data available at the time of preparation. It is not a complete statement and should not be relied upon as a substitute for competent professional advice. The responsibility for the proper use and handling of this material is with the user.

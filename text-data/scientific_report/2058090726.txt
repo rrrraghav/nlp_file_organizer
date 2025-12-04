@@ -1,0 +1,22 @@
+Test - RPM. of ADT. Dryer EXHIBIT VII-5 1/27/72 cv
+List Code Description Log Circ.
+FILE C Control after factory dryer NO 361
+FILE A Control before factory dryer 1.2 361
+FILE B After RKD dryer - Lo Air-No Preheat- Against 1.2 355
+FILE D After Molaring Tube 1.2 356
+FILE E After Molaring Tube-After dryer-Lo Air- No Preheat-Against 1.2 379
+FILE F After Molaring Tube-After dryer-Lo Air-No Preheat- Lo RPM. 1.2 368
+
+39 -
+38 -
+37 - A
+36 - b
+35 - c
+34 - d
+33 - e
+32 - f
+Volume
+Cylinder
+EASTMAN DRAPER CO.
+253009726
+12 % Moisture 13 14

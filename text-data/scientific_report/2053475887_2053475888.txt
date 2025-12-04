@@ -1,0 +1,57 @@
+CHARGE NUMBER: 1754 DATE: October 1, 1982
+
+PROGRAM TITLE: Spectroscopic Studies of Tobacco and Smoke Components
+
+PROJECT LEADER: R. H. Cox
+
+WRITTEN BY: W. N. Einolf
+
+PERIOD COVERED: September, 1982
+
+I. Mass Spectrometry
+
+A sample of cooked flavor extract from Switzerland was analyzed
+by GC/MS, resulting in the identification of 16 compounds: 14 alkyl
+pyrazines, an oxygenated substituted pyrazine, and an internal standard
+(McCourt, Howe, Houminer) and added to our data bases.
+
+Samples of glycosylamine, galactosyiamine and the Amadori compound
+1-deoxy-prolino-fructose were analyzed for S. Haut by DCI using ammonia
+as reagent gas. The glycosylamine clearly showed a M+H adduct ion,
+but the galactosylamine did not. This behavior reflects the relative
+thermal stabilities of these compounds.
+
+The growth phase of the sucrose tetraester (STE) study was completed
+with receipt of the final air-cured burley sample. Analysis of all
+extracts by DCI should be complete by next month.
+
+A paper was presented by W. N. Einolf at the 9th International Mass
+Spectrometry Conference titled "Analysis of carbohydrates by chemical
+ionization mass spectrometry." A manuscript of the paper will appear
+in a volume of the International Journal of Mass Spectrometry and Ion
+Physics.
+
+A paper was reviewed by W. N. Einolf for the journal Biomedical
+Mass Spectrometry.
+
+II. NMR Spectroscopy
+
+Proton and carbon-13 NMR spectra have been run and analyzed for
+glycosylamine (1-amino-1-deoxyglucose, CR-1667) and diglycosylamine
+prepared by S. Haut. The glycosylamine is identical to the product
+formed by reacting glucose and ammonium hydroxide in aqueous solution (2).
+The proton NMR spectra of galactosyiamine, mannosylamine, and rhamnosylamine
+confirm that the single isomer is present (1) and prepared by heating an
+aqueous solution of sugar and ammonia and analysis of the proton-proton
+coupling constant data suggest that it is the beta isomer in each case.
+
+Initial experiments were conducted where glucose was heated with
+DAP in aqueous solution. The carbon-13 NMR spectra as a function of
+heating time show a small buildup of an intermediate (0-10 min at 93°C)
+which decomposes with further heating. During this time, the color
+of the solution changes as follows: clear-yellow-brown-black.
+Comparison of the position of the new planes on the spectra with those of
+shifts of reference compounds suggests that the intermediate may consist
+of diglycosylamine. Further study is required.
+
+2053718587

@@ -1,0 +1,24 @@
+DOCUMENT SUMMARY
+
+Document Id: 0218C
+Document Name: MEM KENT DEL EXP A VS CUR
+Operator: 982
+Author: DEVER, P. A.
+Comments: 85/01/22 I 28 ATTACH
+
+STATISTICS
+
+OPERATION DATE TIME WORKTIME KEYSTROKES
+Created 01/16/85 16:23 :13 1023
+Last Revised 01/22/85 14:06 :00 2
+Last Printed 01/22/85 14:07 onto Diskette
+Last Archived / / :
+
+Total Pages: 1 Total Worktime: :13
+Total Lines: 20 Total Keystrokes: 1039
+
+Pages to be printed 0
+
+
+
+650557285

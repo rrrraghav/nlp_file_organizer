@@ -1,0 +1,29 @@
+-6-
+
+WINSTON KS TEST NO. 2191
+
+2191-A - Present Control Winston KS. Use 603 G7.
+
+2191-B - Test Winston KS. Use new CF blend. Use 603 G7.
+
+2191-C - Test Winston KS. Use new CF blend. Decrease KF 0.5%,
+CF 0.5%, and increase G7 1%. Use G7-71.
+
+
+
+       2191-A      2191-B     2191-C
+
+Nicotine, %            1.86        1.77         1.58
+Nicotine, mg./cigt.    1.49        1.38         1.35
+FTC "Tar", mg./cigt.   19.8        19.2         19.5
+Weight, g.             1.0177      1.0135       1.0235
+Optimum Wt., g.        1.0176      1.0176       1.0176
+Draft Resistance, In.   3.90        4.11         3.78
+Corrected Firmness, 0.1 mm.  10.31       10.22       11.00
+Filling Capacity          418         423         400
+Wt. vs. Firmness
+Tobacco Rod Wt. to Yield
+Firmness of 10, g.      0.842        0.838        0.877
+Filling Capacity          432         441         414
+
+50918 1923

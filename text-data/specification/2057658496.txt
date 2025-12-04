@@ -1,0 +1,55 @@
+M/C/TEST MARKET
+HARL L.S. F.T.B. "IVY" Effective Date: December 1, 1982
+012Y (PC)
+
+CIGARETTE DESCRIPTIVE FOR MARLBORO L.S. F.T.B. "IVY-83-1"
+
+Length - 79.4mm
+
+Circumference - 25.0mm
+
+Filter - 19.0mm
+
+Cigarette Rod:
+
+Filler - Marlboro Long Size Y-83-1
+Cuts - 30/Inch
+
+Paper - Sch. 156/Ec. 756; 27.5 mm x 6500 M; P.M. Material Code 10-014-A
+
+Print Die - Marlboro
+
+Ink - Marlboro-Black #1-376 (Protos); P.M. Material Code 60-906-A
+Marlboro Black #37077 (Mark 9/Mark 9-5); P.M. Material Code 60-915-A
+
+Circumference - 25.0mm
+
+Length - 60.4mm
+
+Cigarette:
+
+Tipping - 46mm x 3000 Cork; P.M. Material Code 12-406-A USE UP AND REPLACE WITH
+46mm x 3000 Cork; P.M. Material Code 12-406-B
+
+Tipping Adhesive Fuller G-3986; P.M. Material Code 62-934-A or O.A. APPROVED EQUAL
+
+Pack Moisture - 13.10%
+
+Total R.T.D. - 4.50 inches of water - Diluted
+Plug R.T.D. - 2.60 inches of water
+
+Dilution Target - 10% ± 5%
+
+Glue Roller Drawing - #B-7747(PA-8); #B-78094 (Max S/Max 80); See Engineering for
+latest Revision number
+
+Patch Size - 5mm x 20mm
+
+Prepared by: D. J. Morgan
+
+Approved By:
+_Srichelten_
+/bjw Operations Services
+
+This supersedes specification dated October 12, 1982. REASON FOR CHANGE:
+Pack moisture target changed from 12.85%

@@ -1,0 +1,76 @@
+MATERIAL SAFETY DATA SHEET
+"ESSENTIALLY SIMILAR" TO OSHA FORM 20
+
+ADDRESS: Pennwalt Corporation
+21st & Lippincott Streets
+Philadelphia, PA 19132
+
+PRODUCT
+IDENTIFICATION
+Pennwalt Product Name  Pennwalt Code No.
+KIC-4A
+Chemical Name and Molecular Formula CS 3516
+Emergency Phone Number(s)
+Business (215) 225-7474
+
+Synonyms
+SAE-20 Lubricating Oil
+CAS #
+000000769
+Chemi
+
+HAZARDOUS
+INGREDIENTS       % w/w      HAZARD DATA (TLV, LC50, Lc50, etc.)
+Mineral Oils   .95.0    TWA 5 mg/m³ (mist)
+
+Petroleum Lubricating Oil
+
+BOILING Point/Range  FREEZING POINT
+Specific Gravity H2O(4)     °F       °C      10 °C    °C
+0.90 - 0.96   15 | 15 °C Molecular Weight (Calculated)
+Solubility in H2O  % Volatiles by Volume Evaporation Rate Mixture
+Nil                                       °F
+Appearance and Odor
+Orange to brown liquid
+Flash Point Test Method Flammable Limits Autoinflammation Temperature/Fire Point
+240 °F COC Lower Upper 450 °F
+X Water X Water vapor   CO2  X Chemical Alcohol X Foam or
+X Dry Chemical X Chemical Dry foam Sand
+SPECIAL FIRE FIGHTING PROCEDURES
+Use self-contained breathing apparatus. Allow fire to burn under supervision. Use water spray for cooling fire exposed containers.
+
+UNUSUAL FIRE AND EXPLOSION HAZARDS
+Dust explosion hazard.   Concentration  Water use
+STABILITY  X Unstable CONDITIONS CONTRIBUTING TO INSTABILITY Polymerization Contamination
+Reactivity Data
+Polymerization will not occur.
+CONDITIONS TO AVOID: High temperatures, contact with oxidizing agents.
+INCOMPATIBILITY: Strong oxidizers.
+HAZARDOUS DECOMPOSITION PRODUCTS: Carbon monoxide and carbon dioxide.
+
+TOXICOLOGICAL INFORMATION
+Acute Effects: Prolonged or repeated skin contact may cause dermatitis.
+Chronic Effects: None known.
+Carcinogenicity: No components are listed by NTP, IARC, or OSHA.
+PRIMARY ROUTES OF EXPOSURE: Skin Contact, Inhalation, Eye Contact.
+
+PREVENTATIVE MEASURES
+Eye Protection: Safety glasses with side shields or goggles.
+Ventilation: Use adequate ventilation.
+Respiratory Protection: None required under normal conditions.
+Gloves: Wear chemical resistant gloves.
+Other Protective Equipment: None required.
+
+FIRST AID MEASURES
+Eye Contact: Flush with water for 15 minutes. Get medical attention.
+Skin Contact: Wash with soap and water.
+Inhalation: Remove to fresh air.
+Ingestion: Do not induce vomiting. Get medical attention.
+
+HANDLING AND STORAGE
+Store in a cool, dry place. Keep containers closed.
+
+OTHER INFORMATION
+MSDS Creation Date: 10/23/84
+Revision Date: 10/23/84
+This information is furnished without warranty, we do not assume liability for loss or damage resulting from contact with this material.

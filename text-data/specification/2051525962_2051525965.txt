@@ -1,0 +1,48 @@
+PM MSDS # 011960
+
+RD 2553
+(10/85)
+
+
+
+MATERIAL SAFETY DATA SHEET
+Research and Development Laboratories
+Boyle-Midway Division of American Home Products Corporation
+South Avenue and Hale Street
+Cranford, New Jersey 07016
+(201/276-3900)
+
+SECTION I. PRODUCT/SUBSTANCE IDENTIFICATION
+
+Name: Three-In-One Household Oil
+
+Chemical Raw Material No. Formulated Product M.S. No. 7-10
+
+Intermediates/Bulk Concentrate No. EPA Reg. Number
+
+Item Code(s) 0390, 0391, 8719, 8720, 8727
+
+Finished Product Package:  ☐ Not applicable ☐ Aerosol ☑ Non-aerosol ☐ Pump ☐ Other
+
+Hazardous Ingredients                                  %
+Chemical/Common Name                       CAS No. Weight OSHA P.E.L. ACGIH 1
+Heavy naphthenic
+distillate (petroleum)                  54741-53-3 > 97  5 mg/m³ 5 mg/m³
+                                                                  (oil mist) (oil mi:
+
+SECTION II. PHYSICAL DATA
+
+Appearance: Clear amber liquid
+
+Odor: faint citronella-like pH: Not applicable 0.
+Boiling Point: 350 °F Melting Point: Not Freezing Point: Not Specific Gravity: 0.
+Evaporation Rate: Nil % Volatile v/v: Nil
+Vapor Density: Not determined Vapor Pressure: Not determined
+Solubility in Water: Insoluble
+
+Flammability Category: ☐ Extremely flammable aerosol  ☐ Flammable aerosol
+                                  ☐ Extremely flammable solid
+                                  ☐ Extremely flammable liquid
+                                  ☐ Combustible liquid ☑ Not flammable or combustible
+Flash Point and Above 309 °F Flame Extension Not applicable
+TAG Open Cup

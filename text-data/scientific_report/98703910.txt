@@ -1,0 +1,61 @@
+RESEARCH AND DEVELOPMENT PROJECT STATUS REPORT
+
+DATE: JUL’96
+PROJECT NO.: b-421
+PROJECT NAME: MENTHOL ANALYSIS BY NEAR-INFRARED SPECTROSCOPY (NIR)
+
+PROJECT DESCRIPTION:
+
+The primary objective is to develop a rapid, near-infrared (NIR) method for menthol on tobacco. An on-line system will be tested and a laboratory method will be developed.
+
+I. COSTS
+
+MONTH      HOURS     WAGES/OVERHEAD    OTHER       TOTAL        CUMULATIVE
+             BUDGET   ACTUAL          BUDGET   ACTUAL  BUDGET   ACTUAL   BUDGET   ACTUAL
+JAN ‘96     187       0    8,000         0      0      8,000     0      8,000     859
+FEB ’96     17        6    2,776         0      425     2,776   425     10,776     425
+MAR ‘96     37       47    3,266         0      884     3,266   884     14,042     859
+APR ’96     17        0    884          0      0      884     0      14,926     859
+MAY ‘96       9       45    833          0      347     833   347     15,759     1,206
+JUN ’96     0       66    0            0      4,098     0  4,098     15,859     5,304
+JUL ‘96     0       0    1,739         0      0      1,739     0     17,598     5,304
+AUG ’96     27        0    1,739         0      0      1,739     0     19,337     5,304
+SEP ‘96     29       0    2,253         0      0      2,253     0     21,590     5,304
+OCT ’96     0        0    0            0      0      0     0      21,590     5,304
+DEC ‘96     0        0    0            0      0      0     0      21,618     5,761
+TOTAL       300      139   21,618         8,761  0      21,618   8,761   21,618    5,761
+
+II. TECHNICAL APPROACH
+
+1. TRIAL EVALUATION OF On-line Menthol Analysis
+COMPONENT        TIME PERIOD          ESTIMATED     COMPLETED
+Calibration of Instrument         1/96 - 2/96           40       40
+Development of Mobile Phase             3/96 - 4/96           30       30
+Extraction at Menthol in Laboratory            5/96 - 6/96        30      30
+Construction of Laboratory System         7/96 - 8/96        30      30
+R&D Report               9/96                10       10
+
+2.  DEVELOPMENT OF LABORATORY METHOD
+COMPONENTS                                TIME PERIOD          ESTIMATED     COMPLETED
+Extraction and Cleanup Procedures            7/96 - 8/96           40       40
+Analysis of Standards                        9/96                 30      30
+Method Validation                              10/96               20      20
+
+III. SCHEDULED ACTIVITIES FOR NEXT REPORTING PERIOD:
+
+COMPLETE TRIAL EVALUATION OF ON-LINE MENTHOL ANALYSIS SYSTEM. PREPARE INTERIM REPORT.
+
+IV. PROBLEMS ENCOUNTERED:
+
+NONE
+
+V.  PLANNED CHANGES:
+
+NONE
+
+NEXT REPORT DUE: SEP’96
+
+
+
+[SIGNATURE AREA]
+____________________________

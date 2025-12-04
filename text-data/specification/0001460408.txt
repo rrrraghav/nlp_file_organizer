@@ -1,0 +1,48 @@
+SPECIFICATION CHANGE PROPOSAL NO. 90 - 184
+
+BRANDS: VICEROY 100 (EXP CG-01060) and LUCKY STRIKE 100 (CG-25060)
+
+MARKET: Export
+
+DESCRIPTION OF CHANGE: The subject designs will change as follows:
+
+VICEROY 100 LUCKY STRIKE 100
+Tip P.D. - Current 2.95 2.95
+  - Proposed 3.10 3.10
+
+Vent - Current 0 14
+  - Proposed 19 19
+
+Tar - Current 20 18
+  - Predicted 16.5 16.5
+
+Nic - Current 1.4 1.4
+  - Predicted 1.3 1.3
+
+REASON FOR CHANGE: To reduce the tar deliveries to 16.5 mg/cig.
+
+EFFECT ON COST: The VICEROY tipping change (non-perf to perf) will
+increase cost by about 0.10 to 0.12 $/1000 cigs. There will be
+a minimal increase in filter cost on both. (See note)
+
+REQUESTED IMPLEMENTATION DATE AND/OR CONDITIONS: The LUCKY STRIKE
+design should change on depletion of current tipping.
+The VICEROY tipping is used elsewhere, so that design can be
+changed upon receipt of the new tipping.
+
+DEVELOPED BY/DATE: H.L. Fowell 11/19 APPROVAL REQD. (check one)
+ENDORSED BY/DATE: Neewent 11/18/90EX. APPROVAL X
+RES. & DEV. INT'L. COST SPEC.
+ADMINISTRATIVE
+
+INT’L. MKTS. MKTG.
+C.Q.A.
+
+EXECUTIVE APPROVAL/DATE:
+
+SR. V.P. INT’L. V.P. MANUFAC. Wof 11/20/90
+DIR. PURCHASING SR. V.P. MKTG.
+SR. V.P. FINANCE EXECUTIVE VP.
+ISSUED BY/DATE: C.Q.A. 11/19/90
+
+621023617

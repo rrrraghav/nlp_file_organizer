@@ -1,0 +1,36 @@
+REVIEW OF THE HEALTH EFFECTS ASSOCIATED WITH EIGHT IMPURITIES
+
+Introduction
+
+Eight substances were found to be present in triacetin-based plasticizer (PZ) used in the production of cigarette filters (Table 1). Because these substances are located in the filter and subject only to slight elevations in temperature from the passage of cigarette smoke, there is no pyrolysis of these substances. Therefore, this review focuses on the toxicity of the native substances and their metabolites in comparison to other substances and possible other sources of these substances in nature.
+
+On the basis of both metabolism and toxicity, these substances can be divided into three groups: (1) a relatively homologous series of six diacetate esters on skeletons of one to four carbons; (2) 2-ethyl-1-hexyl acetate and, (3) butyric acid.
+
+Relevant to the discussion of these substances is the notion of exposure. As may be seen in Table 1, the impurities were shown to be in the nanogram range (per cigarette). At a presumed consumption of 20 cigarettes per day and assuming 100% ingestion of the impurities, none of the impurities would exceed a total of 2.6 µg/day.
+
+Exposure
+
+PZ from the bulk storage tank and blending tanks were analyzed. The values from the bulk storage tank were generally higher than PZ from the blending tank and, with the exception of 1,3-propanediol diacetate, the value for each impurity was higher than for a reference sample with no odor problem. The probable exposure to the impurities was derived by calculating from the concentration of each impurity in the PZ, assuming 0.087 grams of PZ are applied to each gram of
+
+Table 1. Impurities detected in PZ - possible consumption
+
+Impurity Quantity/cigarette Quantity/20 cigarettes Portion of daily diet (ppb)*
+(nanograms) (nanograms)
+
+Methanediol diacetate 107 2140 0.713
+1,1-Ethanediol diacetate 46 920 0.307
+1,2-Ethanediol diacetate 32 640 0.208
+1,2-Propanediol diacetate 19 380 0.127
+1,3-Propanediol diacetate 103 2060 0.687
+1,2-Butanediol diacetate 19 380 0.127
+2-Ethylhexyl acetate 25 500 0.167
+Butyric acid 130 260 0.867
+
+*Bulk tank values.
+**Portion of daily diet = (3000 ng/cigarette) x (20 cigarettes/day) / (60,000,000,000 µg/diet).
+
+The greatest quantity of a single impurity is 2-ethylhexyl acetate (ign./71 ppb). Even as a presumed ingestion of 100% of this substance, the contribution to daily intake is small. On the average, the impurities contribute 0.36 µg/day to total intake. This is approximately 0.002% of an estimated daily dietary intake of 15 mg (approximately 15,000,000 µg).
+
+The following specific data have been obtained on the toxicity of these substances: Methanediol diacetate has been shown to be metabolized to formaldehyde and formic acid. Butyric acid is a normal constituent of human sweat.
+
+268546

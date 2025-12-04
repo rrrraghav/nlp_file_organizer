@@ -1,0 +1,35 @@
+MSDS NO.: 012337
+EFF. DATE: 1/22/91
+
+MATERIAL SAFETY DATA SHEET
+
+** ** 00-403 ** **
+
+PHILIP MORRIS USA                                EMERGENCY CONTACTS:
+EMPLOYEE AND ENVIRONMENTAL PROTECTION          CHEMTREC
+P.O. BOX 26603                               (800) 424-9300
+RICHMOND, VA. 23261                              OR
+(804) 274-2432                                WITHIN PHILIP MORRIS
+                                                 (804) 274-2416
+
+I. SUBSTANCE IDENTIFICATION
+
+Substance: ** ** 00-403 ** **
+Trade Name/Synonyms: LEAF CASING
+Chemical Family: P.M. BLENDED FLAVOR
+Molecular Secret: TRADE SECRET   Mol. Wt.: UNKNOWN
+NFPA Ratings: Health = 1    Fire = 0     Reactivity = 0
+NFPA Scale (0-4): 0 = No Hazard, 4 = Highest Hazard
+
+II. COMPONENTS
+
+Component Name        Percent      TLV/PEL       CAS No.
+STAR GLYCERINE USP   > 1%         10 MG/CU.M (DUST)  56-81-5
+
+III. PHYSICAL DATA
+
+Description: Clear colorless-to-pale-yellow liquid with honey-like
+
+
+
+2051551816

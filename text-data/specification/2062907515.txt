@@ -1,0 +1,49 @@
+PHILIP MORRIS MAT'L CODE: 11-096A
+U.S.A. C.H.P.
+
+DIRECT MATERIAL SPECIFICATION SUPERSEDES: NA
+APPLICABLE G.S.: 11
+
+DESCRIPTION: Cambridge Lights 100’s Mon. Logo Repost 25,0 DATE: 12/02/87
+72mm x 3200 Meter Bobbin PAGE: 1 OF 1
+Ecuate 436 Calendered White
+REASON FOR Approved By:
+CHANGE:
+
+Copy and layout to conform to: Approved Films Dated 05/23/86 Material code 11-096A
+
+Printed Color Standards:
+Color Color Ref. No. L.S.D.* Date Standard Description
+1. Met Green (2 Lines) C.H.P. 11 S 11/27/85 Camb. Green
+2. Green (Logo) C.H.P. 11 S 11/27/85 Camb. Green
+3. Nitrocel (Overall)
+
+*L.S.D.* = Light, Standard and Dark Tolerances
+
+Individual Vendor Color Sequence: Once a vendor starts with a color sequence, it must always be adhered to
+unless the change is approved by Philip Morris.
+
+Print on the wire side of the sheet.
+
+The above films and standards information was supplied by the vendor. This information is for reference only
+and does not involve the supplier’s responsibility of complying with Philip Morris issued color standards.
+
+PROPERTY UNITS MIN TARGET MAX PROCEDURE
+Paper Base Calendered gms/m2 34.2 36.0 37.8
+Ink/Coatings gms/m2 0.8 1.0 1.2
+Total Weight gms/m2 35.0 Typical 39.0 PMP-040-81-A
+Celliper _ .001" 1.75 PMP-163-83-C
+Opacity/Printed Individual percent 86.0 PMP-060-85-B
+
+Notes: Limits apply to total weight and samples must be tested at random using a pallet strip cards representing
+a pallet for averages of 10 samples.
+
+To obtain valid test results, carrier tests should be conducted on a pallet or TARP and TARP standards.
+
+Rated values are based on PHILIP MORRIS RICHMOND A, Inst.
+
+STOCK VALUES ON ROLLS (BOBBIN) Pallet Richmond A, Inst. (approx.) PALLET WEIGHTS (lbs.)
+11-096A 32.8 37.5 38.4 39.4 39.8 40.2 40.6 41.0 41.4 41.8 42.2 42.6
+32.8 37.5 38.4 39.4 39.8 40.2 40.6 41.0 41.4 41.8 42.2 42.6
+
+002492097135

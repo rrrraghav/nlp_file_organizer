@@ -1,0 +1,54 @@
+Date: MAR 6, 1985 Page 1
+Requested by: WALLACE, G.H. (5951)
+Classification: WINS KS
+Test Purpose: TO EVALUATE TWO WKS PROTOTYPES ON NFO PANELS
+
+CT00478A CT00478B
+
+CIGARETTE
+Wt. Grns.(Ind.) 1.0007 1.0203
+Length, mm. 84.00 84.00
+Cigt. Draft 117. 120.
+Circumference,mm. 24.82 24.86
+Firmness, 0.1 mm. 9.89 10.15
+Filter Length,mm. 21.00 21.00
+
+TIPPING
+Length 25.0 25.0
+Color CORK CORK CENTURY COLOR
+Perf. Method ESP ELECTROSTATIC
+EP Zone 4.0 4.0
+C to C 30.0 30.0
+
+Air Dilution, % 16.8 11.8
+
+Moisture, % 12.92 12.52
+Bonded Moisture, % 13.09 12.72
+GL, % 17.16 11.91
+
+Smoke Analysis
+Butt Length, mm. 28.0 28.0
+Puff Count 9.1 9.1
+Nicotine, mg./cigt 1.13 1.17
+mg./puff .12 .13
+FTC Tar, mg./cigt. 15.9 17.0
+mg./puff 1.75 1.88
+CO, mg./cigt. 14.15 15.69
+
+Production Date
+Product Source
+
+Parts Released R
+Parts to be frozen (All); (Remaining)
+Quantity to be frozen
+
+Project Leader Signature 6/11/85
+Brand Manager
+Division Manager
+
+Occurrence Product Maintenance Signature Date
+Concurrency Marketing Signature THALL Date 3/11/85
+
+
+
+SQ577 27 50

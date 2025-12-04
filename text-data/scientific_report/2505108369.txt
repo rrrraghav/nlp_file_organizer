@@ -1,0 +1,137 @@
+DVE
+
+Page 1
+
+TPM in DMSO
+
+Drug Type:
+Compound (ug/day):
+Annexin Apoptosis (ug/day):
+tagged Apoptosis (ug/day):
+historical EC50 Acrolein (ug/ml):
+historical EC50 of 1RAF (ug/ml):
+historical EC50 of TPM (ug/ml):
+calculated EC50 of 1RAF (ug/ml):
+calculated EC50 of TPM (ug/ml):
+
+3366
+70.0
+49
+0.98
+0.0175
+0.11
+0.100
+0.0101
+0.0101
+
+VEG-S of Acrolein/TPM
+TPM-Sammenstilling
+
+1RAF-TPM
+
+DMSO Vol (Filter)
+water content of TPM (%)
+
+8
+10
+mg TPM/ml
+mg TPM/ml DMSO
+ug TPM/day
+ug/ml DMSO
+
+9.2
+11.86
+1.20
+1.625
+
+REHE-HR
+
+blank
+REHE 1
+REHE 2
+REHE 3
+REHE 4
+REHE 5
+REHE 6
+REHE 7
+REHE 8
+REHE 9
+REHE 10
+REHE 11
+REHE 12
+
+0.00
+1.80
+3.90
+5.35
+7.80
+9.45
+11.65
+13.75
+15.80
+
+blank
+0.0000
+0.00215
+0.00398
+0.00579
+0.00804
+0.01137
+0.01402
+0.01653
+0.01886
+
+mg TPM/ml
+PBS
+DMSO
+TPM
+blank
+0.0000
+10000
+10000
+0.0000
+0.00215
+9.10
+740
+0.00398
+9.10
+740
+0.00579
+9.10
+740
+0.00804
+9.10
+740
+0.01137
+9.10
+740
+0.01402
+9.10
+740
+0.01653
+9.10
+740
+0.01886
+9.10
+740
+
+GVP
+
+0
+0
+12
+24
+36
+48
+60
+72
+84
+96
+0
+
+19-4-2020 17:46 Nucleos.xls
+68630L505Z
+
+
+
+0117

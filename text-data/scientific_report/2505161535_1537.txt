@@ -1,0 +1,41 @@
+PROJECT SUMMARY REPORT
+
+NO. -/1297 TITLE smoke inhalation study with added acetaldehyde
+to diluted smoke and air on male and female rats
+PART 2: analytical data
+
+DATE May 11, 1977
+
+FINAL  x INTERIM
+
+EXPERIMENT
+
+Effects of diluted smoke with added acetaldehyde and of diluted
+acetaldehyde vapor on the respiratory tract.
+Animals: CD-rats, 40 male and 40 female per group, age at start
+of inhalation approx. 52 d.
+cigarettes: 2R1; dilution 1:60; TPM: 0.53 mg/l; nicotine: 31.40 /l;
+CO: 322 ppm; acetaldehyde from 21 to 599 ppm.
+exposure: 420 min/d, 5 consecutive days with 3-days training.
+dissections after 7, 14 and 21 d.
+
+RESULTS
+
+GROUP TPM NICOTINE CO ACETALDEHYDE
+CONCENTR. CONCENTRATION CONCENTRATION CONCENTRATION
+(mg/l) (µg/l) (ppm) (ppm)
+
+1-GR sham smoking 0 0 0
+2-GR 0.535 30.26 317 30
+3-GR 0 0 21
+4-GR 0 0 102
+5-GR 0 0 498
+6-GR 0.531 31.20 327 118
+
+p.t.o.
+
+DISTRIBUTION REFERENCES
+DROS -/1297, PART 1 and PART 3
+DRY
+DRHA
+SPECIAL FILE

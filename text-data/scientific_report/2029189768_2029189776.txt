@@ -1,0 +1,43 @@
+DRAFT DATA COMPILATION A 050/3005 PART 1 RM130 (R AT) TH
+
+INBiFO institut für biologische Forschung · Köln
+
+26/983
+
+RESPONSE
+RELATIVE TO SHAM EXPOSURE
+BIOASSAY
+(a) DAY OF INHALATION PERIOD TREATMENT 281 55 (min x mg/l) 281 227 281 227
+
+body weight 3 5 8 12 18 22
+0.98 0.96+
+0.90 0.93+
+0.86+ 0.84+
+0.82+ 0.80+
+0.79+ 0.77+
+
+larynx thickness 3 5 8 12 18 22
+1.70+++ 1.93++++
+2.06++++ 2.44++++
+2.64++++ 2.86++++
+2.89+ 3.03+
+3.23++ 3.45++
+
+pulmonary leucocytes 3 5 8 12 18 22
+1.95 1.92
+1.64 1.18
+1.72
+4.47++
+0.93
+0.57
+
+pulmonary macrophages 3 5 8 12 18 22
+0.38 0.78
+0.79 0.42
+0.73 0.93
+
+TABLE
+RESPONSES OF BIOASSAYS TO TREATMENT RELATIVE TO SHAM-EXPOSED GROUP (O=CR)
+(a) other bioassays: polynuclear cells, mononuclear cells
+
+2023159768

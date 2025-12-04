@@ -1,0 +1,23 @@
+TSLRPT06                                  Page 1
+09:52:11.1                            *** FINAL REPORT ***             02/10/93
+
+Test Number: AN 18678                                Program Number: 502
+No. of Testparts: 4 Priority: 05                         Status: COMPLETED
+requested by: CHANDRA K BANERJEE (2069)                 Date Requested: 12/15/92
+BGTC 611-13W/0
+Backup Contact:                                     No. of Revisions:
+Related Test Number: 459884                         Division: 559
+
+Test Name: NEW CONFIGURATION OF CARBON FILTER
+Test Purpose: TEST EFFICIENCY OF C FILTER IN A SIMPLIFIED CONFIGURATION
+Making and Packing Date:                            Machine No: Mail Out Date:
+Type of Panel Testing:
+Keyword(s): AIR DILUTION
+CA FILTER
+CAMEL                                           Added by: BANERJC
+
+Special Instructions for the Pilot Plant:
+
+
+
+50859.2242

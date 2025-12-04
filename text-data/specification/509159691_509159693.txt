@@ -1,0 +1,46 @@
+BLEND SPECIFICATIONS
+
+Brand Name: DORAL LIGHT 85 MENTHOL
+Product #
+Blend:
+
+DORAL LIGHT 85 MENTHOL
+THREE COMPONENT
+
+TB	26.88
+G7A	39.79
+G13-23	33.33
+TOTAL	100.00
+
+Casing for Drying: (Lb./10,000 lb. Lot)
+
+I	II
+B4	83	204
+B2	33	82
+C1	17	94
+F1	17	77
+B3	33	142
+B9	0	0
+W1	67	150
+Total	250	749
+
+Casing for Cutting:
+
+Type: N/A	N/A
+Rate: N/A	N/A
+
+Aging (Hrs.):
+
+Strip: 0	0
+Cut Filler: 8	0
+
+Top Dressing: (Lbs./1000#)
+
+G-13: N/A
+Final: SM-154 @ 13.23
+
+Shorts: YES
+Target Pack Moisture: 12.50
+Steam Flotation Temperature: 150°
+
+5/9/91

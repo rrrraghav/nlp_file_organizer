@@ -1,0 +1,41 @@
+PROJECT TITLE : CIGARETTE DEVELOPMENT 4
+
+PERIOD COVERED : AUGUST 26 - SEPTEMBER 24, 1981
+
+WRITTEN BY : Toimil-R. (RAT)
+
+413 PALINKA
+
+Objective
+
+To reproduce the MPK brand in Hungary.
+
+Summary
+
+Following the first trials carried out at FTR, prototype
+No 1 P was reproduced in Hungary.
+
+Description of samples and results
+
+Prototype No   1 P (FTR)    1 C 1 (Hungary)
+Blend            A               A
+Filter version   I               I
+Tar              mg/cig.        14.8      16.6
+SN              mg/cig.        1.0       1.16
+Puff count                     9.3       11.2
+Filter RTD                      76        74
+Cigarette RTD   mm WG          118       122
+TA              %               1.16      1.20
+RS              %               12.8      12.4
+N-NO3           %               0.10      0.08
+N-NH3           %               0.12      0.11
+Tobacco weight at 12 % mg/cig.  862     948
+
+Comments
+
+A significant difference is observed between the tar figure
+of prototype 1 P and that of prototype 1 C 1 produced in
+Hungary. This difference may issue from the difference in
+the tobacco weight between these two prototypes (86 mg).
+
+- 36 -

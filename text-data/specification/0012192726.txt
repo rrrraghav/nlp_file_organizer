@@ -1,0 +1,61 @@
+SAMPLE SPECIFICATIONS/PILOT PLANT WORK REQUEST
+
+Date Rec'd 9/26/81 CC:
+Approved by _JAD_ LEVEL 1
+Requesting Dept. Proj. No. 06-948 Pilot Plant Proj. No. Date Mfg.
+Requested by D. Leme Designed by
+Subject/Purpose PRECLAY KO FOIL (SPINNING)
+
+Berlin No. (7-13) Quantity Requested
+Current Brand (Specify)  Stockroom
+Analysis Code 94200 (27-31) 94200 Tech. Dept. 5000 5000
+Masked Analysis Code (33-40) Marketing Research
+End Pack Code (41-49) Other Dept.
+Tobacco Code (50-57) LEVEL 4
+Skip No.  (58-62) Supplier - Color
+Blend (Factory Yes/No) BW 1341 (63-66) 5.0 1349 Length (mm) 32
+Casing C-64 (71-74) 6.60 Perf. Type/Dim. M.E. (mm) 28.00
+Burley (Redried Yes/No) C-643 (75-78) 6.60 Permeability (Coresta) 1800
+Flue-Cured (81-83)  (84-86)  (87-91) Basis Wt. (g/m²) 40
+Top Dressing OFF-52 (92-96) 121.0 G Filter Length (mm) 27
+Flavor (97-99) Pressure Drop (in) 42
+Operation No. HHD/LPM# (100-103) % N.R.E. (44-45) 51.6
+Date Coded (104-108)  (109-111) Glue Pattern
+Flavor (Specify) (112-116) % Pure (A.T. & Co.) 50
+Moisture (%) (117-121)  (122-124)  (125-128)  Filter (mm) 80
+Filler (g/100)  (129-132)  (133-136) Masked Weight (g/100) 2.8
+Binder (g/100)  (137-140) Cigarette Width (mm) 9.5
+Varietal (if known) (141-144)  (145-148)  Cigarette Diameter (mm) 8.2
+Aroma (Specify) (149-153)  (154-157)  Reversion (%) 6
+Cut (mm) (158-161)  (162-165)  (166-169)  Draw Resistance (grams) 45
+Cigarette Weight (g) (170-173)  (174-177)  (178-181)  Tip Length (mm) 12
+Length (mm) (182-185)  (186-189)  (190-193)  Tip Basis Wt. (g/m²) 40
+Packing Density (grams/cm³) (194-197)  (198-201)  (202-205)  Tip Color
+Filter Type (Specify) (206-209)  (210-213)  (214-217)  Tip Style
+Filter Length (mm) (218-221)  (222-225)  (226-229)  
+Filter Diameter (mm) (230-233)  (234-237)  (238-241)  
+Cigarette Strength (grams) 28.00
+Smoke Reading (Coresta) (242-245)  (246-249)  (250-253)  
+Smoking Time (seconds) 74
+Smoldering Rate (mm/sec) (254-257)  (258-261)  (262-265)  
+Ash Weight (mg) 9.0
+Ash Color (266-269)  (270-273)  (274-277)  
+Notes:
+
+LEVEL 2
+Casing C-64 (71-74) 6.60
+Burley (Redried Yes/No) C-643 (75-78) 6.60
+Flue-Cured (81-83)  (84-86)  (87-91)
+Top Dressing OFF-52 (92-96) 121.0
+Flavor (97-99)
+Operation No. HHD/LPM# (100-103)
+Date Coded (104-108)  (109-111)
+Flavor (Specify) (112-116)
+Moisture (%) (117-121)  (122-124)  (125-128)
+Filler (g/100)  (129-132)  (133-136)
+Binder (g/100)  (137-140)
+Varietal (if known) (141-144)  (145-148)
+Aroma (Specify) (149-153)  (154-157)
+Cut (mm) (158-161)  (162-165)  (166-169)
+
+LEVEL 3

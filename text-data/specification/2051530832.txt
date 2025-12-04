@@ -1,0 +1,63 @@
+MATERIAL SAFETY SHEET 005724
+
+SECTION I
+
+PRODUCT NAME OR NUMBER (as it appears on label) GM COMMON CODE
+Yellow All “31” Series Catalog Numbers None
+MANUFACTURER’S NAME EMERGENCY TELEPHONE NO.
+Ideal Industries, Inc. (815) 895-5181
+ADDRESS Street, Town or City, State and Zip Code: MANUFACTURER'S DUNS-NO.
+Boxer Place, Sycamore, IL 60178
+HAZARDOUS MATERIAL DESCRIPTION, PROPER SHIPPING NAME, HAZARD CLASS, HAZARD ID NO. (49 CFR 172.101)
+None
+ADDITIONAL HAZARD CLASSES (as applicable)
+None
+CHEMICAL FAMILY FORMULA
+Mixture Proprietary
+
+SECTION II — INGREDIENTS
+(list all ingredients)
+
+CAS REGISTRY NO. %W %V CHEMICAL NAME(S) *A Listed as a Carcinogen
+in NTP, IARC or OSHA
+1910.12 (specify)
+<5.0 Paraffin Wax No
+<3.0 Wax No
+<3.0 Mineral Oil (napthenic)*B No
+<4.0 Polyethylene Glycol Ester No
+<1.0 Ethoxylated Amine No
+<0.1 Perfume No
+<1.0 Cellulose Gum No
+<1.0 Sodium Benzoate No
+<0.1 Yellow Pigment No
+<67.0 Water No
+*B Oil is a severely hydrotreated napthenic oil (polynononuclear content less than
+0.1%) and meets OSHA 29 CFR 1910.120
+SECTION III — PHYSICAL DATA
+
+BOILING POINT 212° F SPECIFIC GRAVITY H₂O = 1 0.98 PERCENT SOLID BY
+VAPOR PRESSURE 0.3 mm Hg WEIGHT (WT) <20.0
+VAPOR DENSITY (AIR=1)  N/E EVAPORATION RATE(H₂O=1) + 0.1
+SOLUBILITY IN WATER Appreciable pH* 7.0 to 8.5
+APPEARANCE AND ODOR Yellow waxy, slight perfume odor. IS MATER. LIQUID SOLID
+PASTE POWDER
+
+SECTION IV — FIRE AND EXPLOSION HAZARD DATA
+
+FLASH POINT °F USE Method used for determining flash point
+165° F  Closed Cup Tag Closed
+FLAMMABLE LIMITS UEL %VLEL %V For Grounding Procedures See 29 CFR 1910.106
+EXTINGUISHING MEDIA Appropriate for surrounding fire N/E
+SPECIAL FIRE FIGHTING PROCEDURES N/E
+
+SECTION V — REACTIVITY DATA
+
+INCOMPATIBILITY (Specify) N/E
+HAZARDOUS POLYMERIZATION Will not occur.
+STABILITY Stable under normal conditions.
+
+*A See Section II for ingredient details.
+
+
+
+051530832

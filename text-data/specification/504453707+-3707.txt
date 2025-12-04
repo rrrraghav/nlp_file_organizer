@@ -1,0 +1,53 @@
+38 BRAND: 1294 Carlton 83 VF PREVIOUS MANUFACTURER: American Brands, Inc. 1978
+Filter Top Tipping Heel Yr. Av. March June Nov.
+PHYSICAL TEST VARIABLES
+TOBACCO ANALYSIS
+SIEVE
+6 mesh 3.33 3.66 3.22 .390 3.59
+10 mesh 29.93 29.97 25.71 31.49 28.41
+Long Strands, % 32.66 36.62 29.01 35.33 32.01
+14 mesh 25.33 30.31 24.83 25.05 24.98
+20 mesh 26.72 25.58 25.71 25.33 26.81
+Middlings, % 52.00 50.05 53.61 49.99 50.80
+28 mesh 16.47 13.64 13.41 16.60 12.55
+Fin, % 2.67 .399 3.22 .354 3.65
+Fines, % 15.34 17.33 17.33 13.64 16.28
+STEMS
+SPDs, %
+CS₂, %
+Total, %
+Coarse & SPDs/g
+CHEMICAL TEST VARIABLES
+SMOKE
+Butt Length, mm. 33 33 33 33 33
+Number pulls/cig. 63 67 63 66 65
+Nicotine, mg/cig. 012 012 014 015 014
+Kotinine, mg/cig. 003 003 002 001 002
+FTC "Tar", mg/puff 09 09 08 07 08
+"Dry Tar", mg/cig. 016 .016 .015 .014 .015
+CO, mg/cig. 3 3 3 3 3
+Nthols of Ng/cig. 25 25 27 17 26
+Oxidation, J/g 66
+pH (water) 6.3 6.3 6.3 6.3 6.3
+Pit acidity (as g/29) 0.04 0.03 0.05 0.03 0.03
+Extracts, % 1.78 1.83 1.81 1.81 1.81
+Moisture, % 12.2 12.4 12.4 12.5 12.4
+ASH CONTENT
+Total Ash, % 0.36 0.36 0.37 0.36 0.36
+Traces:
+Ca, % 0.05 0.05 0.05 0.05 0.05
+K, % 0.04 0.04 0.04 0.04 0.04
+Mg, % 0.01 0.01 0.01 0.01 0.01
+Mn, % 0.003 0.003 0.003 0.003 0.003
+Fe, % 0.002 0.002 0.002 0.002 0.002
+BODY & FLAVOR
+Body, % 54 54 54 54 54
+Flavor Character 37 37 37 37 37
+AVERAGE COMPOSITION
+Total Solids, % 87.69 87.52 87.51 87.45 87.47
+Moisture, % 12.20 12.48 12.49 12.55 12.53
+Loss on Ignition, % 0.11 0.00 .00 .00 .00
+NOTES:
+Samples were extracted with 60/40 Hexane/Ethanol.
+Data is by weight.
+2598-79

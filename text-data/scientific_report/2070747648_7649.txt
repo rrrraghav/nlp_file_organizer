@@ -1,0 +1,26 @@
+Dose of nicotine:
+
+“Smoking doses”: It has been assumed that nicotine typically obtained from smoking one cigarette would be approx. 0.5 – 2.0 mg or about 7 – 30 µg/g (Benowitz et al. 1990). Assuming 10 puffs per cigarette, nicotine dose per puff would be 0.7 – 3 µg/kg.
+
+CPP in rats: the doses which typically induce CPP in rats are around 0.5 mg/kg s.c., as in the Dewey et al.’s microdialysis and CPP studies in rats.
+
+Intravenous self-administration in rats: SD and Long-Evans rats were failed to self-administer nicotine 30 µg/kg/infusion while Fisher and Lewis rats reported to acquire self-administration at 60 µg/kg/infusion (e.g. Shoaib et al., 1997; with priming injection at the start of the experiment; other reports e.g. Corrigan and Coon 1989 utilized restricted feeding).
+
+Intravenous self-administration in rhesus monkeys: 10 µg/kg/infusion has been reported to maintain self-administration response (e.g. Wakasa et al., 1995).
+“Threshold dose” of nicotine to induce DA increase in NAcc: I do not have the immediate answer for this”. With the current technology, as you mentioned, it would be unlikely to observe the increase at “smoking doses”. Frank might have some reports at hand. At any rate, I would like to keep an open-minded stance on this issue for we don’t know what will come out when we have advanced technology.
+
+“This kind of ‘problems’ will be much improved if I have an easy access to various databases, e.g. that of Frank’s.
+
+Human drug discrimination: it has been reported that 12 µg/kg nicotine administered by measured-dose nasal spray was “reliably discriminated” (Perkins et al., 1994). However, subjective effects of the training dose as measured by standardized questionnaire do not give much information what kind of subjective effects served as a cue.
+
+Thus, all the effects described above can be said to be observed at higher doses than the assumed “smoking doses”, and in most cases much higher than the "puffing doses”. However, I do not think that the animal data utilizing doses higher than the smoking/puffing doses should be disregarded as irrelevant because of the dose per se; because, for example, 1) they are sometimes (e.g. receptor sensitivities might be different), and 2) situation is quite different (e.g. effects of nicotine is examined in a very restricted/controlled situation), and 3) at higher nicotine sense (to me) that nicotine may play an important role in smoking behavior, as I do not know such what it does in cigarette users. It’s likely that there are also differences to explain pharmacokinetic variability.
+
+Currents experiments:
+
+We have been trying to examine the effect of nicotine on DA release by using fast-scan cyclic voltammetry with a microdialysis probe. We have observed that 10 µM nicotine, when applied intravenously, causes a significant increase in DA release in the NAcc of rats (unpublished data). The concentration of nicotine is equivalent to about 32 µg/kg.
+
+References:
+Benowitz, M. L., et al. (1990). Nicotine excretion and metabolism studies. Pharmacology Biochemistry, 21, 267-274.
+Dewey, W. G., et al. (1983). Effects of nicotine on dopamine release in the rat brain: Evidence for a role of dopamine in nicotine self-administration. Journal of Pharmacology and Experimental Therapeutics, 225, 1-7.
+
+2070740

@@ -1,0 +1,54 @@
+MATERIAL SAFETY DATA SHEET
+
+SECTION 1 - MATERIAL IDENTIFICATION
+
+PRODUCT NAME
+AIRVOL* MH82, ML7, MM14, MMS1, MM81, SM73,
+SM-75, MH82S, MH83S, MH84S
+UNISIZE® HA24, HA25, HA70
+*AIRVOL is a registered trademark of Air
+Products and Chemicals, Inc.
+*UNISIZE is a registered trademark of Air
+Products and Chemicals, Inc.
+
+PRODUCT CODE
+V-HA24, V-HA25, V-HA70, V-MH82, V-ML7,
+V-MM14, V-MMS1, V-MM81, V-SM73, V-SM75,
+VMH82S, VMH83S, VMH84S
+
+MSDS REVISION NUMBER 1485 -02
+
+MANUFACTURER Air Products and Chemicals, Inc. PA 18195-1501
+7201 Hamilton Blvd., Allentown.
+
+TELEPHONE NUMBER 800-345-3148
+
+EMERGENCY TELEPHONE NUMBER (S)
+800-523-9374 (Continental U.S.)
+610-481-7711 (Outside Continental U.S.)
+800-322-9092 (Pennsylvania Only)
+
+DATE PREPARED
+
+REVISION NOTES NEW MSDS Format
+***************************************************
+EMERGENCY OVERVIEW
+***************************************************
+HMIS HEALTH RATING 1 FLAMMABILITY 0 REACTIVITY 0
+Amorphous powder, White / Off-white. Odorless
+Mild eye irritant. Mild skin irritant. Mild respiratory tract
+irritant.
+The powder can explode if mixed in air and ignited in a confined
+space. Under hot ambient conditions or if heated, flammable
+methanol and methylacetate are released. The powder over time
+can produce an explosive atmosphere in a closed space.
+Transport and storage tanks and will give rise to Class A
+fire. If unconfined, ignition of the powder will explosion limited.
+In case of fire use Water streams.
+
+C.A.S. CHEMICAL NAME Mixture
+1485-02
+JUNE 1995 20057266
+
+
+

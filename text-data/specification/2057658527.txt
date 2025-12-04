@@ -1,0 +1,58 @@
+I/C TEST MARKET
+MARL L.S. REG. F.T.B. "IV"
+012 Y (PC) Effective Date: April 18, 1993
+
+COPY
+
+CIGARETTE DESCRIPTIVE FOR MARLBORO L.S. REGULAR F.T.B. “IV”-84-1”
+
+Length - 79.4 mm
+Circumference - 25.0 mm
+Filter - 19.0 mm
+
+Cigarette Rod:
+
+Filler - Marlboro "IV"
+Cuts - 30/inch
+Paper - Sch. 137-1/Ec.878/Doh.137-1; 27.5mm x 6500H; P.M. Material Code 10-131-A
+
+Print Die - Marlboro
+
+Ink - Marlboro Black #1-376 (PROTO$); P.M. Material Code 60-906-A
+Marlboro Black #37077-(Mark 9/Mark 9-5); P.H. Material Code 60-913-A
+OR Q.A. APPROVED EQUAL
+
+Circumference - 25.0 mm
+
+Length - 60.4 mm
+
+Cigarette:
+
+Tipping - 46mm x 3000M Cork; P.M. Material Code 12-418-A
+
+Tipping Adhesive - Max 80/PA-8 - National 72-1730; P.M. Material Code 61-005-A
+Max S - Fuller G-3945; P.M. Material Code 62-937-A
+Fuller 3988; P.M. Material Code 62-939-A OR Q.A. APPROVED EQUAL
+
+Pack Moisture - 13.10%
+
+Total R.T.D. - 4.50 inches of water - Diluted
+Plug R.T.D. - 2.75 inches of water
+
+Dilution Target - 10% ± 5%
+
+Glue Roller Drawing - #C-12201(PA-8); #8-78094 (MAX/S MAX 80)
+See Engineering Sheet for Latest Revision Number
+
+Patch Size - 5mm x 20 mm
+
+Prepared by: D. J. Morgan Approved by: A. Allerton
+Operations Services
+
+/bjw
+This supersedes specification dated April 10, 1993.
+REVISION:  P.M. Material Code 40-11-A; P.H. Material Code 60-913-A
+DATE: April 18, 1993 CHANGE:
+TIPPING ADHESIVE - NATIONAL 72-1730; P.M. MATERIAL CODE 61-005-A
+
+20575597

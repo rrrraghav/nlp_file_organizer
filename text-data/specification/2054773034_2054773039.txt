@@ -1,0 +1,55 @@
+Too Short
+
+FEB 16 '94 09:24 P.ST
+
+MATERIAL SAFETY DATA SHEET
+
+000602441/F/USA
+Approval Date: 07/16/1993
+Print Date: 07/19/1993
+page
+
+1. CHEMICAL PRODUCT AND COMPANY IDENTIFICATION
+
+Product Name: N-(2-Naphthylethylenediamine Din/erchloroide
+
+Product Identification Number(s) (Catalog Number): 117 3026
+
+Manufacturer/Supplier: Eastman Fine Chemicals, EASTMAN KODAK COMPANY, Rochester,
+NY 14652-3512
+
+MSDS prepared by: Material Safety Program, Eastman Chemical Company, A Division
+of Eastman Kodak Company, Kingsport, TN 37662
+
+For Emergency Health, Safety & Environmental Information, call: UUS-EASTMAN
+(900-247-8626)
+
+For Emergency Transportation Information, call CHEMTREC: 800-224-9300 or
+202-483-7616 or call: UUS-EASTMAN (900-337-8676)
+
+for Other Information, call 600-245-5152
+
+Synonym(s): XAN 904635; Chemical Number(s): uuuu
+
+Molecular Formula: C12H14N2.2HCl
+
+2. COMPOSITION/INFORMATION ON INGREDIENTS
+
+Weight % Component (CAS Registry No.)
+
+98  N-(2-Naphthylethylenediamine Din/erchloride (001465-25-4)
+
+3. HAZARDS IDENTIFICATION
+
+WARNING!
+
+CAUSES SKIN AND EYE IRRITATION
+DUST IRRITATING TO THE EYES AND RESPIRATORY TRACT
+HARMFUL IF ABSORBED THROUGH SKIN OR SWALLOWED
+HEAT SENSITIVE - CAN DECOMPOSE IF HEATED
+POWDERED MATERIAL MAY FORM EXPLOSIVE DUST-AIR MIXTURES
+
+4. FIRST-AID MEASURES
+
+Inhalation: Move to fresh air; give artificial respiration if not breathing.
+If breathing is difficult, give oxygen. Get medical attention.

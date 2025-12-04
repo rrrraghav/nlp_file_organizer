@@ -1,0 +1,19 @@
+INBIFO PRIORITY
+
+Additional Cytotoxicity Assays: Worthwhile? New Assay Page 7
+
+1d/4d cytot.
+neutral red
+
+kenacid blue
+
+EXPERIENCE (a.u.)
+
+CAM
+eytex
+enzyme release
+
+2.5 5.0 7.5 10
+DISCRIMINATION (a.u.)
+
+25641622

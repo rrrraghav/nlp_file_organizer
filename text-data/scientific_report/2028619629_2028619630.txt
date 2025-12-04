@@ -1,0 +1,47 @@
+FMC RESEARCH LABORATORY, November 1979
+
+PROJECT TITLE : CONTRACT RESEARCH
+PERIOD COVERED : NOVEMBER 1979
+WRITTEN BY : I. MARCOVITCH
+
+PROJECT 2019
+
+Ames test on condensates of experimental cigarettes (NINO project)
+
+In the present study, the mutagenicity of cigarette smoke con-
+densates of 8 test (NIPUR-1, NIPUR-2, NIPUR-3, NIPUR-4, RL-1,
+RL-BM, 39-17-1, 39-17-1-BM) and 1 standard reference cigarettes
+(2RI) was determined in an Ames test using Salmonella typhimurium
+TA 98 as a tester strain and Aroclor-induced rat liver homogenates
+(59-fraction) for metabolic activation.
+
+Cigarette smoke condensates were prepared, using an impaction
+trap. All condensates were tested simultaneously using a single
+tester strain suspension, a single 59-fraction preparation and
+the same dose range for all types of cigarette condensates, four
+plates per dose.
+
+In the dose range tested during this study (0.05 to 0.15 mg dry
+condensate/plate), all research cigarette smoke condensates showed
+a linear increase in the number of revertants in the presence of
+Aroclor-induced rat liver 59-fraction. The specific mutagenicity
+defined as the number of revertants minus the number of spontaneous
+revertants per mg dry condensate was extrapolated from the number
+range of the dose response curve.
+
+As there have been indications from other studies (see September 1975
+report, Project 2010) that the mutagenicity of condensates decreased
+during storage and significant variability in the test performance
+could be observed, condensates of 2RI standard reference cigarettes
+were used as an internal standard.
+
+Standard reference condensates were prepared at the same time and
+stored under the same conditions as the test cigarette condensates.
+The specific mutagenicity of any test cigarette condensate was
+related to the specific mutagenicity of the standard reference
+condensate prepared and tested at the same time, i.e. the relative
+specific mutagenicity.
+
+- 19 -
+
+208619623

@@ -1,0 +1,19 @@
+RC DRAFT BACKGROUND DOCUMENT FOR UV RADIATION—DO NOT QUOTE OR CITE. 09:20* File: H07rcsumR.f20
+
+Proposed RC Listing for UV Radiation
+
+Carcinogenicity
+
+UV radiation is known to be a human carcinogen. Human studies have shown that exposure to solar radiation is causally related to skin cancer, and that use of sunlamps or sunbeds is associated with skin and eye cancer. A wide spectrum of UV radiation is carcinogenic in experimental animals.
+
+Solar radiation has been determined to cause cutaneous malignant melanoma and nonmelanocytic skin cancer in humans, but the relationship of solar radiation to melanoma of the eye
+is less clear (reviewed in IARC, vol. 55, 1992). Recent case-control studies have found strong
+associations of cutaneous malignant melanoma with exposure to sunlamps or sunbeds (Swerdlow et al., 1988; Walter et al., 1990; Autier et al., 1994; Westerdahl et al., 1994), especially in individuals under 30 and those who experience sunburn. Dose-responses for increasing duration of exposure were observed. Malignant melanoma of the eye is also associated with use of sunlamps (reviewed in IARC, vol. 55, 1992). There is little support for an association of sunlamps or sunbeds with nonmelanocytic skin cancer (reviewed in IARC, vol. 55, 1992). There is inadequate evidence in humans for the carcinogenicity of exposure to fluorescent lighting (reviewed in IARC, vol. 55, 1992).
+
+There is sufficient evidence for the carcinogenicity of solar radiation, broad-spectrum UV radiation, UVA radiation, UVB radiation, and UVC radiation in experimental animals (reviewed in IARC, vol. 55, 1992). There is clear evidence for benign and malignant skin tumors in mice, rats, hamsters, opossums, and fish, and for tumors of the cornea and conjunctiva in rats, mice and hamsters. Solar radiation and nonsolar UV radiation cause mutations or other genetic alterations in a variety of *in vitro* and *in vivo* assays for genetic toxicity.
+
+RC-1
+
+
+
+206304121

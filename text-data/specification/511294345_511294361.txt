@@ -1,0 +1,30 @@
+... TEST SPECIFICATIONS ...
+Page 1
+08/29/91
+Test Number: AW 12140
+Program Number: 503
+No. of Test Specimens: 4
+Status: AVAILABLE
+Requested by: KREIDEL (4441)
+Priority: HIGH
+Requested By: BOGGS (4441)
+Date Requested: 08/26/91
+Test Number: CIGARETTES WITH HEAT TREATED HOLLOW STEM EXTRACTON ON STEMS
+Division: 506
+Test Name:
+Rating and Packing Dates:
+Machine No:
+Mail Out Date:
+Type of Panel Testing:
+Keywords: DEHUMID STREMS, DDS
+Added by: SHIFFEL
+Special Instructions for the Pilot Plant:
+51129 4345
+Verify effects of Dehydration
+Some products as AW12140
+C.K. No clarification
+FL-9/23/91
+
+Cancel copying notation
+No. 67 & No. G13
+30% Stem Free

@@ -1,0 +1,54 @@
+000011291
+
+PFALTZ & BAUER, INC. (203) 574-C
+172 EAST AURORA ST. PM MSDS # 11291
+WATERBURY, CT 06708
+
+MATERIAL SAFETY DATA SHEET
+
+Page: 1
+
+PRODUCT NAME: P-PHENYLPHENOL
+
+Effective Date: 12/20/85 Date Printed: 05/09/86
+
+1. INGREDIENTS:
+
+p-Phenylphenol CAS# 0093-69-3 91%
+o-Phenylphenol CAS# 0090-43-7 3%
+m-Phenylphenol CAS# 00580-51-8 6%
+
+Substances listed in the Ingredients Section are those identified
+as being present at a concentration of 1% or greater, or 0.1% if
+the substance is on the list of potential carcinogens or cited in
+OSHA Hazard Communication Standard. Where proprietary ingredient
+shows, the identity of this substance may be made available as
+provided in 29 CFR 1910.1200(i).
+
+2. PHYSICAL DATA:
+
+BOILING POINT: 613F, 323C
+VAP PRESS: 5.6 mmHg @ 165C
+VAP DENSITY: 6.1
+SOL IN WATER: 0.1 g/100 gm @ 25C
+SP GRAVITY: 1.275 25/25C
+APPEARANCE: White solid-flake.
+ODOR: Aromatic.
+
+3. FIRE AND EXPLOSION HAZARD DATA:
+
+FLASH POINT: 345F, 174C
+METHOD USED: TCC
+
+FLAMMABLE LIMITS
+
+LFL: Not applicable.
+UFL: Not applicable.
+
+EXTINGUISHING MEDIA: Water fog, foam.
+
+FIRE & EXPLOSION HAZARDS: Not available.
+
+(Continued on Page 2)
+
+2057469114

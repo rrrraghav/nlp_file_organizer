@@ -1,0 +1,37 @@
+CONSTITUENTS 4
+
+acetaldehyde
+Analytical information (detailed) Smoke Green Cured Non-Leaf
+Itemize!
+
+Quantitative (all figure) ✓ Qualitative only
+Quotients or Semi-quant. -
+
+Structural Formula Mol. Form
+Mol. Weight H.P. B.P.
+Chem. Groups Derivatives
+
+Types of Tobacco (all details) Turkish, Izmir, Bursa Safra, Sariman,
+Tachova, U.S. Cigarettes
+
+Tax.-Pharma. Inform. and other Notes
+
+Reference
+
+14, No. 11 Hoffman, D.; Rathnasap, G.; Rubin, J.
+M 30244 (Sloman-Kettering Cancer Res., New York, N.Y.)
+Chemical Studies on Tobacco Smoke. II. Comparison of the Yields of Several
+Selected Components in the Smoke from Five Major Turkish Tobacco Varieties.
+FOOD COSMETICS TOXICOL. 5 (No. 1) 37-48 (Feb. 1967); Also
+Abstr. int. Chem. Abstr. 66 (No. 23) 102593 (June 5, 1967)
+
+Bibliography:
+If there is not sufficient space available for any of the categories, use reverse side,
+identify category(ies), and write "over" on this side. List all answerable information
+for each constituent and do so in index style.
+
+dw 10/16/70
+
+
+
+5052 915

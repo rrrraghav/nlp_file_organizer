@@ -1,0 +1,56 @@
+PHILIP MORRIS U.S.A. MAT’L CODE: Per Purchase Order
+
+DIRECT MATERIAL SPECIFICATION SUPERSEDES: 07/28/87
+
+APPLICABLE G.S.: 06A
+
+DESCRIPTION: Individual Specifications for Eucusta DATE 11/25/87
+29634 Heat Seal Perfomated Combining Wrap PAGE 1 OF 1
+
+REASON FOR Material Code Added Approved By:
+CHANGE:  Wew A.W.M.
+
+PROPERTY UNITS MINIMUM TARGET MAXIMUM PROCEDURE
+
+Basis Weight gms/m² 62.3 68.0 76.6 PMP-040-81A
+
+Cal iper   0.001" 4.35 (typical) PMP-163-83C
+
+Air Permeability ml/(min/cm²) 5015 6065 7115 PMP-176-86A
+@ 10 cm wg.
+
+NOTES:
+
+Basis weight, air permeability and caliper limits apply to the average of ten samples tested at random from
+a pallet or strip cords representing a pallet.
+
+To obtain valid test results, when samples are obtained from vendor sample cards, one strip will be selected
+from each different sample card position; if less than ten positions are available, each position
+will be sampled at least once and no more than twice per test.
+
+To obtain valid test results, samples must be conditioned/tested using TAPPI T402M.
+
+Stated values are based on Philip Morris Richmond Q.A. instruments.
+
+Material Bobbins Approx. Approx.
+Code Description Per Pallet Net Bobbin Net Pallet
+Wt., lbs. Wt., lbs.
+
+06-116A 26.5mm x 2400 E29634 H.S. 220 7.9 1770
+
+1) Paper width tolerance ± 0.25mm
+2) Core width tolerance ± 0.25mm
+3) Inside core dimensions: 119.4 - 121.3mm
+4) Maximum bobbin dimension: 22.25 inches
+
+Alternate Requirements to the General Specifications
+
+The heat seal coating used will be coated onto #4. The heat seal coating shall be applied to the wire
+side. The bobbin shall be wound with its core side up. The combining wrap shall be mechanically
+perforated with 0.040" spacing between holes at minimum.
+
+2062907371
+
+
+
+R. 5/8/89

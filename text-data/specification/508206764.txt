@@ -1,0 +1,51 @@
+PHYSICAL CHARACTERISTICS
+
+Code W4 Merit Florida Mkt
+LT 85 85 Next DeNic
+LT 85
+
+Cigt. Weight, gms 0.922 0.957 0.8910
+Filter Weight, gms 0.2252 0.2184
+Tobacco Rod Wt., gms 0.7350 0.6760
+Tobacco Rod Size, mm 24.86 24.80 25.02
+Tob. Cigt. Length mm(total) 84 84 84
+Filter Length, mm 27 27 27
+Firminess, 0.1 mm 7.76 7.99 8.74
+Pack Moisture, % 12.52 12.01
+
+DRAFT RESISTANCE
+
+Assembled Cigt., mm 131 123 122
+Holes Closed, mm 170 165 155
+Filter Segment, mm 110 103
+Tobacco Rod, mm 55 52
+Air Dilution, % 31.4 38.7 30.1
+
+TIPPING
+
+Color cork/wht cork/wht white
+Length 32 32 32
+Perforations (# rows) 2 2 2
+Perforations (type) preperf micro-L macro-L
+
+SMOKE ANALYSIS
+
+Butt Length, mm 35 35 35
+Puff Count .71 7.6 7.8
+TPM mg/cigt 8.2 8.2 10.7
+TPM mg/puff 1.15 1.17 1.36
+Nicotine mg/cigt 0.49 0.58 0.66
+Nicotine mg/puff 0.041 0.076 0.010
+H2O mg/cigt .7 1.0 0.9
+FTC Tar mg/cigt 7.8 7.3 9.7
+CO mg/cigt 1.00 0.97 1.23
+CO mg/puff 0.088 0.087 0.1
+Tar/Nicotine Ratio 24.49 12.29 9.1
+
+TOBACCO ANALYSIS
+
+T-Sugar, % 1.02 1.76 0.064
+N-Nicotine, % 6.3 9.8 12.02
+Extended Tobacco, % (G-13) .  .  8.98
+
+50820 6764

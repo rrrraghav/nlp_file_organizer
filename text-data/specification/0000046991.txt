@@ -1,0 +1,53 @@
+MR 1973-12 SPECIFICATIONS A-909-1
+Project (8273-12) Dates Requested 1/9/73 Manufactured
+
+Cigarette Code 743 745 763 783
+BRAND NAME CODE
+Burley KOOL 84 KOOL 84 KOOL 84 KOOL 84
+Maryland
+Turkish Added KOOL 84 KOOL 84 KOOL 84 KOOL 84
+Blend
+Casing
+Burley KOOL 84 KOOL 84 KOOL 84
+Flue-Cured
+Top Dressing
+
+Flavor UNS KOOL 84 KOOL 84 KOOL 84
+Length (mm) .36 .36 .36 .36
+
+Filter Rod
+Material
+Circumference (mm) 24.7 24.7 24.7 24.7
+Pressure Drop (*) 4.4 ψ 4.4 ψ 4.4 ψ 4.4 ψ
+Additive
+Cigarette
+Length (mm) 84 84 84 84
+Circumference (mm) 25.0 25.0 25.0 25.0
+Weight (mg) 671 671 671 671
+Tipping Material Cork Cork Cork Cork
+Tipping Length (mm) 23 23 23 23
+Filter Length (mm) 21 21 21 21
+
+Tobacco Section
+Length (mm) 63 63 63 63
+Tobacco Weight (mg) 524 524 524 524
+Density (mg/cm³) 0.21 0.21 0.21 0.21
+
+Packaging
+Label Type Standard Standard Standard Standard
+Color Code Red Red Red Red
+Capsule
+Capsule Type None None None None
+Capsule Weight (mg) - - - -
+Capsule Length (mm) - - - -
+
+Quality Requested
+Smoke Test
+Reversion
+Quench
+
+Special Instructions
+None None None None
+
+Month of Request: ko. K.a. 1973
+6009205

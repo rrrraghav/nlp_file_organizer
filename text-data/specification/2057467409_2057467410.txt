@@ -1,0 +1,51 @@
+OSHA "Hazard Communication" Rule (29 CFR 19)                                    00002202
+
+SECTION I - MANUFACTURER AND PRODUCER
+
+Boehringer Mannheim Biochemicals                     Product Name (Synonym) and Catalog Number
+Division of Boehringer Mannheim Corporation            cis-Dichloro-diamine-platin(II)
+794 Castlemere Drive                                  Cat. No. 258 539, 258 547
+P.O. Box 5616
+Indianapolis, IN 46250
+Telephone: (317) 945-2000
+
+SECTION II - HAZARDOUS INGREDIENTS
+
+Exposure Limit or Toxicity Data                                   CAS Number
+Lethal Dose: 1.5 mg/kg/GD-i                                    15663-27-1
+
+SECTION III - PHYSICAL DATA
+
+Boiling Point Vapor Pressure Density Solubility Specific Evaporation
+°C (mmHg) (Air) in Water Gravity Rate
+n.a. n.a. n.a. soluble not listed (H₂O) (Butyl Acetate) Appearance and Odor
+                                                                        deep yellow crystal
+
+SECTION IV - FIRE AND EXPLOSION HAZARD DATA
+
+Flash Flammable Extinguishing Special Fire Fighting Procedures or
+Point Limits Media Unusual Fire and Explosion Hazards
+(Method) LEL% UEL% CO₂, dry powder, alcohol or Wear self-contained breathing apparatus
+n.a. n.a. n.a. polymer foam and protective clothing
+
+SECTION V - HEALTH HAZARD DATA
+
+Effects of Exposure: highly toxic, carcinogen
+
+Swallowing: May be fatal if swallowed.
+Skin absorption: May be fatal if absorbed through skin.
+Inhalation: May be fatal if inhaled. Do not inhale dust.
+Skin contact: Do not get on skin. Wash thoroughly after handling.
+Eye contact: Do not get in eyes.
+
+Emergency and First Aid Procedures:
+
+Swallowing: Call a physician immediately.
+Skin: Flush skin with copious amounts of water for at least 15 min.
+Remove contaminated clothing and shoes.
+Call a physician.
+Inhalation: Move to fresh air. If not breathing give artificial respiration.
+Eyes: Flush eyes with copious amounts of water for at least 15 min.
+Call a physician.
+
+205748709/193/0

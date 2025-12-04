@@ -1,0 +1,99 @@
+Material Safety Data Sheet
+May be used to comply with
+OSHA Hazard Communication Standard,
+29 CFR 1910.1200. Standard must be
+consulted for specific requirements.
+
+IDENTITY (As Used on Label and List) VISCOSITY STANDARD
+FLUID 60,000 (60,000 CPS)
+
+Section I
+
+Manufacturer’s Name
+BROOKFIELD ENGINEERING LABORATORIES, INC.
+Address (Number, Street, City, State, and ZIP Code)
+240 CUSHING ST.,
+STOUGHTON, MA 02072
+
+Emergency Telephone Number
+(617) 344-4310
+Telephone Number for Information
+(617) 344-4310
+Date Prepared
+02/17/87
+
+Signature of Preparer (optional)
+
+Section II — Hazardous Ingredients/Identity Information
+
+Hazardous Components (Specific Chemical Identity; Common name(s)) OSHA PEL ACGIH TLV Other Limits
+Recommended % (optional)
+NA NA NA
+
+CONTAINS NO HAZARDOUS INGREDIENTS AS DEFINED BY THE FEDERAL
+HAZARDOUS SUBSTANCES ACT
+
+CAS #: 63148-62-9
+CAS NAME: SILOXANES AND SILICONES, DI-METHYL
+
+CHEMICAL NAME: POLYDIMETHYLSILOXANE
+
+CHEMICAL FAMILY: ORGANOSILICONE FLUID
+
+FORMULA: (CH3)2 Si O n
+NFPA/HMIS CLASSIFICATION:
+
+HEALTH 0, FLAMMABILITY 1, REACTIVITY 0
+
+Section III — Physical/Chemical Characteristics
+
+Boiling Point = 760mm Hg NA (F) Specific Gravity (H2O=1) (25 C) 0.973
+Vapor Pressure (at 1 MM Hg) (20 C) NONE Melting Point NA (F)
+Solubility Data Water: NE None Evaporation Rate = NA
+
+Appearance (20 C): INSOLUBLE
+
+Section IV — Fire and Explosion Hazard Data
+
+Flash Point = > 200 F Autoignition Temperature = > 450 F
+Flammable Limits: LEL = NA UEL = NA
+Fire Extinguishing Media: Use Water, Foam, Dry Chemical or Carbon Dioxide.
+
+Section V — Reactivity Data
+
+Stability: Stable under normal conditions.
+Polymerization: Will not occur.
+Incompatibility (Materials to Avoid): Strong Oxidizing Agents.
+Hazardous Decomposition Products: Silicon Dioxide, Carbon Monoxide.
+
+Section VI — First Aid Measures
+
+Eye Contact: Flush with water for 15 minutes. Get medical attention if irritation persists.
+Skin Contact: Wash with soap and water.
+Ingestion: Do not induce vomiting. Get medical attention.
+Inhalation: Remove to fresh air.
+
+Section VII — Precautions for Safe Handling and Use
+
+Avoid contact with eyes, skin and clothing. Use only in well ventilated areas. Keep container tightly closed.
+
+Section VIII — Control Measures
+
+Respiratory Protection: Not normally required.
+Ventilation: Local exhaust ventilation is recommended when handling this material.
+Eye Protection: Safety glasses or goggles.
+Hand Protection: Chemical resistant gloves.
+Other Protective Equipment: None.
+
+Section IX — Additional Information
+
+This material is not considered hazardous by OSHA standards.
+
+
+
+000005856
+(Non-Mandatory Form)
+Form Approved
+OMB No. 1218-0072
+
+Note: Blank spaces are not permitted. If any item is not applicable, or no information is available, the space must be marked to indicate that.

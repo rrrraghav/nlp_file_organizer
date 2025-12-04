@@ -1,0 +1,20 @@
+DOCUMENT SUMMARY
+
+Document Id: 032OC
+Document Name: WREQ KENT KS IMPROVEMENT
+Operator: 981
+Author: FRANK, D. M.
+Comments: 85/10/31 I 05 ATTACH
+
+STATISTICS
+
+OPERATION DATE TIME WORKTIME KEYSTROKES
+Created 10/31/85 12:24 :05 860
+Last Revised 10/31/85 16:43 :00 2
+Last Printed 10/31/85 16:44
+Last Archived / / : onto Diskette
+
+Total Pages: 1 Total Worktime: :05
+Total Lines: 36 Total Keystrokes: 868
+
+Pages to be printed 0

@@ -1,0 +1,29 @@
+Mainstream Smoke Benzo[a]pyrene Yields Under Massachusetts Smoking
+Conditions (B&W Data)
+
+Yield (ng/cig)
+
+1RF Average Std. Dev.
+Basic King MF SP 41.5 0.3
+Belmont & Hodge R.F. SP LT Men 28.7 0.5
+Camel King F HP LT Wides 34.7 0.5
+Camel King NF SP 16.9 0.3
+Carlton 100 F HP Ultra-LT 6.7 0.2
+Carlton 100 F SP 18.2 0.3
+Doral 100 F SP Ultra-LT 14.2 0.3
+GPC Kent 100 F SP 13.7 0.3
+Koal King F Mild Men 22.6 0.7
+Koal King F SP Men 28.5 0.5
+Marlboro King F SP LT 29.4 1.2
+Marlboro King F SP 20.8 0.4
+Marlboro King F HP 27.8 0.7
+Merit King SP Ultima 9.6 0.3
+More 120 F SP Men 28.6 0.5
+Newport 100 F HP Men 31.2 1.1
+Newport 100 F SP Men 14.7 0.3
+Now King F SP 6.1 0.3
+Parliament 100 F SP LT 27.5 0.2
+Rodeo King F SP 14.7 0.3
+Virginia Slims 100 F HP Ultra-LT Slim 13.1 0.3
+Virginia Slims 100 F SP Slim 22.2 1.0
+Winston King F SP 19.3

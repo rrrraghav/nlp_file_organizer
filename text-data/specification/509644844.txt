@@ -1,0 +1,143 @@
+60
+
+R. J. Reynolds Tobacco Company
+Fitz
+Menthol
+Cigarette Design System
+
+Study: VF100CPB
+Cigarette length (mm):
+Butt length (mm):
+Filter length (mm):
+Vent loc (mm from mouth end): 17.0
+Filter circumference (mm): 23.73
+PW caliper (mm):
+Blend filling capacity (mm): .437
+Cig circumference (mm): 24.09
+% Dilution:
+Cross section:
+Pack moisture &:
+Wet tobacco wt (gms/cig): .7655
+Filter draft (mm):
+Denier per filament "DPF": 4.2
+Cig paper type: 854
+Cig- % citrate:
+paper & phosphate:
+Porosity (coresta): 044.1
+Fixed vent system?
+
+10-AUG-90
+11:06:20
+A
+
+Reference Target HO draft (mm) : 125.0 +/- 121.2
+098.0 098.0 HC draft (mm): 152.2 131.0
+38.0 38.0 Puff count: 09.2 9.4
+17.0 Firmness (.1 mm) : 09.0 7.3
+23.73 "TAR" (mg): 11.9 +/- 17.5
+.040 .042 Nicotine (mg): 0.86 1.24
+24.09 CO (mg) : 00.0 1.1
+027.0% % Dilution:  10.0%
+12.75
+.8000
+094.0 060.0
+5.5
+0.55%
+0.00%
+029.0
+N
+
+R. J. Reynolds Tobacco Company
+Cigarette Adjustment to Target Model
+
+Study: VF100CPB
+Cigarette length (mm):
+Butt length (mm):
+Filter length (mm):
+Vent loc (mm from mouth end): 17.0
+Filter circumference (mm): 23.73
+PW caliper (mm):
+Blend filling capacity (mm): .437
+Cig circumference (mm): 24.09
+% Dilution:
+Cross section:
+Pack moisture &:
+Wet tobacco wt (gms/cig): .7655
+Filter draft (mm):
+Denier per filament "DPF": 4.2
+Cig paper type: 854
+Cig- % citrate:
+paper & phosphate:
+Porosity (coresta): 044.1
+Fixed vent system?
+
+10-AUG-90
+11:06:20
+B
+
+Reference Target HO draft (mm) : 125.0 +/- 121.2
+098.0 098.0 HC draft (mm): 152.2 131.0
+38.0 38.0 Puff count: 09.2 9.4
+17.0 Firmness (.1 mm) : 09.0 7.3
+23.73 "TAR" (mg): 11.9 +/- 17.5
+.040 .042 Nicotine (mg): 0.86 1.24
+24.09 CO (mg) : 00.0 1.1
+027.0% % Dilution:  10.0%
+12.75
+.8000
+094.0 060.0
+5.5
+0.55%
+0.00%
+029.0
+N
+
+60
+
+R. J. Reynolds Tobacco Company
+Cigarette Adjustment to Target Model
+
+Study: VF100CPB
+Cigarette length (mm):
+Butt length (mm):
+Filter length (mm):
+Vent loc (mm from mouth end): 17.0
+Filter circumference (mm): 23.73
+PW caliper (mm):
+Blend filling capacity (mm): .437
+Cig circumference (mm): 24.09
+% Dilution:
+Cross section:
+Pack moisture &:
+Wet tobacco wt (gms/cig): .7655
+Filter draft (mm):
+Denier per filament "DPF": 4.2
+Cig paper type: 854
+Cig- % citrate:
+paper & phosphate:
+Porosity (coresta): 044.1
+Fixed vent system?
+
+10-AUG-90
+11:06:20
+C
+
+Reference Target HO draft (mm) : 125.0 +/- 121.2
+098.0 098.0 HC draft (mm): 152.2 131.0
+38.0 38.0 Puff count: 09.2 9.4
+17.0 Firmness (.1 mm) : 09.0 7.3
+23.73 "TAR" (mg): 11.9 +/- 17.5
+.040 .042 Nicotine (mg): 0.86 1.24
+24.09 CO (mg) : 00.0 1.1
+027.0% % Dilution:  10.0%
+12.75
+.8000
+094.0 060.0
+5.5
+0.55%
+0.00%
+029.0
+N
+
+~? 5.1%
+actual

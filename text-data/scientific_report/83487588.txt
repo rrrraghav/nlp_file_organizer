@@ -1,0 +1,61 @@
+MAYSE
+Project No. MIB-065
+STATUS REPORT
+
+Acca J. Craven 4.0
+Thomas H. Larson 27.0
+Marian R. Perini 29.0
+Martha S. Gudolke 35.0
+TOTAL 91.0
+
+concentrations, while retaining a full flavor. Target compounds will include formaldehyde, acetaldehyde, proionaldehyde, acrolein
+and sorogeen amide. Filtration via size exclusion, adsorption and ion exchange will be pursued using natural and synthetic
+resins, molecular sieves, clays and ion exchange resins. Additional processes will be considered singly or in combination,
+including immobilized enzymes.
+
+1. COSTS
+
+MONTH HOURS WAGES/OVERHEAD OTHER TOTAL CUMULATIVE
+BUDGET ACTUAL BUDGET ACTUAL BUDGET ACTUAL BUDGET ACTUAL BUDGET ACTUAL
+JAN 98 34 7 3,432 2,957 0 0 0 0 3,432 2,957 3,432 2,957
+FEB 98 34 7 3,769 688 0 0 0 0 3,769 688 7,141 3,662
+MAR 98 34 25 3,848 2,279 0 0 0 0 3,848 2,279 10,989 5,941
+APR 98 34 33 4,367 3,399 0 0 0 0 4,367 3,399 14,472 9,340
+MAY 98 34 35 4,411 2,957 0 0 0 0 4,411 2,957 18,116 11,710
+JUN 98 42 41 4,821 4,367 0 0 0 0 4,821 4,367 22,805 15,717
+JUL 98 42 42 4,821 4,367 0 0 0 0 4,821 4,367 27,684 20,084
+AUG 98 42 42 4,821 4,367 0 0 0 0 4,821 4,367 32,505 24,451
+SEP 98 42 42 4,730 4,367 0 0 0 0 4,730 4,367 37,235 28,818
+OCT 98 42 42 4,639 4,367 0 0 0 0 4,639 4,367 41,810 33,185
+NOV 98 42 42 4,639 4,367 0 0 0 0 4,639 4,367 46,449 37,552
+DEC 98 120 50 50,141 11,976 0 0 0 0 50,141 11,976 50,141 11,976
+
+II. TECHNICAL APPROACH
+
+COMPONENT  SUB-COMPONENT   PERSON HOURS
+1. Flavor Source Identification & Selection 2.0 Gudolke
+2. Filtration/Extraction Process Development 3.0 Larson
+3. Cigarette Storage Evaluation 2.0 Craven
+4. Sensory Panel Operations 15.0 Perini
+5. Analytical Method Development 27.0 Gudolke
+6. Report Writing & Documentation 22.0 Craven
+
+III. SCHEDULED ACTIVITIES - NEXT REPORTING PERIOD (JANUARY 1998)
+
+*Continue flavor source identification and selection.
+*Optimize filtration/extraction process parameters.
+*Evaluate cigarette storage conditions.
+*Conduct sensory panel evaluations.
+*Develop analytical methods for key flavor compounds.
+*Prepare preliminary report on flavor source identification.
+
+IV. PROBLEMS ENCOUNTERED / REQUESTS FOR ASSISTANCE
+
+No problems encountered during this reporting period.
+
+V. BUDGET STATUS:  OVERALL - 98% EXPENDED.
+
+Prepared by: Acca J. Craven
+Date: December 12, 1997
+
+35739.1388

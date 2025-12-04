@@ -1,0 +1,51 @@
+flabavg PRODUCT TESTING LABORATORY Philip Morris USA
+Final Laboratory Averages Report Confidential
+Report Date: 03/11/97 12:03 PM Reported By... HUGHES, SANDRA
+Request : X97Z-NR Date Submitted: 02/28/97
+Submitter: B. Chambers Date Received: 02/28/97
+Report Type: inh Date Completed: 03/06/97
+Activity : 7414 APPROVED By... HUGHES, SANDRA
+Description: CI DOMESTIC TESTING - Special-non routine Marlboro, Camel, Winston
+
+Test Categories/Tests MRG CM6
+Smoke Target Average StdDev N Target Average StdDev N
+FTC Butt Length, mm 28.0 28.0
+FTC Tar, mg/cigt. 16.7 0.54 15 16.7 0.64 16
+FTC TPM, mg/cigt. 21.4 0.84 15 21.9 1.36 16
+FTC Nicotine, mg/cigt. 1.22 0.095 15 1.5 0.066 16
+FTC Water, mg/cigt. 3.29 0.21 15 4.02 0.17 16
+FTC Puffs/cigt. 9.8 0.35 15 9.0 0.25 15
+Tar/Puff, mg Filter
+Tipping Paper Length, mm 25.0 25.0
+
+Test Categories/Tests WN6 WNN6
+Smoke Target Average StdDev N Target Average StdDev N
+FTC Butt Length, mm 28.0 28.0
+FTC Tar, mg/cigt. 14.6 0.76 16 14.0 0.82 13
+FTC TPM, mg/cigt. 18.0 1.15 16 16.9 1.11 13
+FTC Nicotine, mg/cigt. 2.07 0.45 16 1.99 0.18 13
+FTC Water, mg/cigt. 2.42 0.18 16 2.05 0.26 13
+FTC Puffs/cigt. 11.7 0.28 16 11.5 0.26 13
+Tar/Puff, mg Filter
+Tipping Paper Length, mm 25.0 25.0
+
+Notations:
+SMOKE : MARLBORO 120’S (SP) [DUBLIN, VIRGINIA] (1997 COLD STUDY)
+MARLBORO LIGHT 120'S (SP) [DUBLIN, VIRGINIA] (1997 COLD STUDY)
+CAMEL (K.R.) [WINCHESTER, VA.] (1997 COLD STUDY)
+WINSTON 130’S(SP) [GREENEVILLE, TN.] (1997 COLD STUDY) - DILUTED
+FN6
+25.0
+as a corrective measure for dual laboratory quality control.
+
+ftc = particle mass
+tar = particulate matter + volatile organic compounds
+TPM = total particulate matter
+SP = special preparation
+
+240835897
+-1-
+Approved By: HUGHES, SANDRA
+Date: 03/11/97
+Philip Morris USA Confidential
+PRODUCT TESTING LABORATORY

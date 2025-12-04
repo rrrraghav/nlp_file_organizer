@@ -1,0 +1,57 @@
+MSDS # 0928-2 APR/12 MATERIAL SAFETY *003701*
+
+MSD ISOTOPES
+DIVISION OF MERCK FROST CANADA INC., Montreal, Canada
+P.O. Box 899, Pointe-Claire, Quebec, Canada H9R 4P7
+Phone (800) 325-9034, (514) 697-2823
+
+MSD ISOTOPES SHEET NO. 11070 B
+
+
+
+SECTION 1. MATERIAL IDENTIFICATION
+
+NAME: PYRIDINE
+
+MSD ISOTOPE NUMBER: MD-85; MN-2342
+
+SECTION 2. HAZARDOUS INGREDIENTS
+
+Pyridine > 99%
+
+ORAL LD50: 891 mg/kg (rat) DERMAL LD50: 1121 mg/kg (rabbit)
+TLV: 5 ppm LC50: 4000 ppm (rat, 4 hr)
+WARNING: IRRITANT
+FLAMMABLE
+
+SECTION 3. PHYSICAL DATA
+
+Boiling Point (deg C): 115-6 Specific Gravity (H2O=1): 0.98
+Vapor Pressure (mm Hg): 10 (13*) Vapor Density (Air=1): 2.73
+Water Solubility (%): 100 Freezing Point (deg C): -42
+Volatiles (%): 100 pH: 8.5
+Appearance and Odor: Colorless liquid
+Penetrating, disagreeable odor
+
+SECTION 4. FIRE AND EXPLOSION HAZARD DATA
+
+Flash Point (deg C): 20 Method: closed cup
+Flammability Limits in air (% by vol.): Lower: 1.8 Upper: 12.4
+Autoignition Temp (deg C): 452
+Extinguishing Media: CO2, dry chemical, alcohol foam, water spray
+
+Fire Fighting Procedures: Self-contained breathing apparatus
+
+Unusual Fire and Explosion Hazards: Flammable, Toxic NOx fumes on decomposition
+
+SECTION 5. REACTIVITY DATA
+
+Stable
+Incompatibility (material to avoid): Acids
+Strong oxidizing agents
+
+Hazardous Decomposition Products: CO/CO2 and NOx fumes on combustion
+
+
+
+2057406530

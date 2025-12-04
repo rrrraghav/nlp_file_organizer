@@ -1,0 +1,47 @@
+100 INDEPENDENCE MALL WEST PHILADELPHIA, PA 19106-2399 U.S.A.
+TELEPHONE (215) 592-3000 CABLE ADDRESS: ROHMHAAS CENTRAL FAX (215) 592-3377
+
+ROHM
+& HAAS
+
+This is a facsimile of a MSDS
+
+Rohm and Haas Company HEALTH EMERGENCY : 215-592-3000
+100 Independence Mall West SPILL EMERGENCY  : 215-592-3000
+Philadelphia, PA 19106-2399 CHEMTREC           : 800-424-9300
+
+MATERIAL SAFETY
+DATA SHEET
+
+PRODUCT IDENTIFICATION
+AMBERLITE IR-120 Plus Industrial
+Resin
+
+Rohm and Haas  Scale
+Hazard Rating
+Product Code : 69453 Toxicity      1 =EXTREME
+Key          : 906315-8 Fire         3=HIGH
+MSDS Date    : 06/27/91 Reactivity   2=MODERATE
+Supersedes   : 12/21/90 Special     1=SLIGHT
+                                                        0=INSIGNIFICANT
+
+Product as supplied is a strongly acidic cation exchange resin, sodium
+ion form.
+
+COMPONENT INFORMATION
+No. CAS REG NO. AMT.(%)
+1 Sulfonated divinylbenzene/styrene 63182-08-1 47-61
+   copolymer, Na ion form
+2 Water  7732-18-5 39-53
+
+EMERGENCY RESPONSE INFORMATION
+FIRST AID PROCEDURES
+Eye Contact
+Flush eyes with a large amount of water for at least 15 minutes. Consult
+a physician if irritation persists.
+
+FIRE FIGHTING INFORMATION
+Unusual Hazards
+
+PAGE 1 of 5
+2053584149

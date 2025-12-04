@@ -1,0 +1,53 @@
+PHILIP MORRIS MAT’L CODE: 11-670A
+U.S.A. Hermitite
+
+DIRECT MATERIAL SPECIFICATION SUPERSEDES: NA
+APPLICABLE G.S.: 11
+
+DESCRIPTION: DSRL DATE: 02/02/88
+64mm x 3200 meter bobbin PAGE: 1 OF 1
+Kimberly Clark WTA Non-Calendered White
+
+REASON FOR APPROVED BY:
+CHANGE:
+Copy and layout to conform to: Approved Films Dated 06-15-78, From Material Code No. 11-670-A
+
+Printed Color Standards: Color Ref., No. L.S.D.* Date Standard Description
+1) Neutral
+(overall) None L.S.D., 10/06/82 B&H Menthol
+2) Green
+(2 lines)
+
+*L.S.D. = Light, Standard and Dark Tolerances
+
+Individual Vendor Color Sequence: Once a vendor starts with a color sequence, it must always be adhered to
+unless the change is approved by Philip Morris.
+
+Print on the felt side of the sheet
+
+
+
+PROPERTY UNITS MIN TARGET MAX PROCEDURE
+Paper Base Non-Calendered gms/m2 31.3 33.0 34.7
+Ink/Coatings gms/m2 0.8 1.0 1.2
+Total Weight gms/m2 32.1 34.0 35.9 PMP-040-81-A
+Caliper 0.001" typical
+Opacity/Printed Individual percent 75.0 1.65 PMP-060-85-B
+
+Notes: Limits apply to averages of 10 samples tested at random from a pallet or strip cards representing a
+pallet for: Total weight and caliper.
+
+To obtain valid test results, samples must be conditioned/tested using TAPPI T420M.
+
+Stated values are based on Philip Morris Richmond Md., Instruments.
+
+
+
+MAX ROLL  O.D. (in.) ROLL(S) PALLET APPROX. ROLL WEIGHT (lbs.) APPROX. NET PALLET WEIGHT (lbs.)
+17 115 15.4 1,765
+
+A-3043 9/80
+
+
+
+202207551

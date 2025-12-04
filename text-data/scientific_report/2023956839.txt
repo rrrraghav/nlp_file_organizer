@@ -1,0 +1,42 @@
+Philip Morris USA CONFIDENTIAL
+
+Table 2.
+Organophosphorus pesticides on sulfur detector.
+Raw data.
+
+ID:
+
+RRT   c1 (ug/mL)  A11    A12     c2    A21    A22
+Dimethoate   0.549   0.8   74661   79134   0.16   10527   10598
+Terbufos   0.660   0.2   36022   39256   0.04   4654    6577
+Disulfoton  0.668   0.8   36216   36516   0.16   8149    7847
+Diazinon   0.675   0.8   118200  125200  0.16   17386   19909
+Forboathion 0.704   0.5   50815   53918   0.10   9952    10057
+Me Parathion  0.721   0.8   41888   49662   0.16   8043    8865
+Malathion   0.757   0.8   65863   70086   0.16   10691   11148
+Fenothion  0.767   0.8   80207   80856   0.16   13541   14070
+Parathion  0.774   0.8   41594   45330   0.16   6470    8468
+Disulfoton sulfon 0.880   0.8   107387  119012   0.16   17593   20532
+Fensulfothion 1.200   0.8   44736   50916   0.16   39561   38637
+Phosalone  1.280   1.0   82135   91593   0.20   14981   19967
+
+ID:
+
+c3    A31    A32
+Dimethoate   0.08   4216   4785
+Terbufos  0.08   3328   3861
+Disulfoton 0.08   3691   4083
+Diazinon  0.08   11593  12830
+Forboathion 0.08   5207   5523
+Me Parathion 0.08   4285   4689
+Malathion  0.08   6586   6996
+Fenothion 0.08   8112   8414
+Parathion 0.08   4307   4785
+Disulfoton sulfon 0.08   10738  11511
+Fensulfothion 0.08   4496   4981
+Phosalone  0.08   8213   8687
+
+Concentrations in micrograms per milliliter (ug/mL)
+Raw data relative to tridacrine.
+
+Revised: 11-7-78

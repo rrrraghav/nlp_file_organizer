@@ -1,0 +1,42 @@
+MSDS # 08792
+
+MATERIAL SAFETY DATA SHEET
+(Similar to OSHA Form 174)
+
+SECTION I -- IDENTIFICATION
+
+IDENTITY OIL-DRI® FLOOR ABSORBENT EMERGENCY TELEPHONE 800-621-7191
+CHEMICAL FAMILY Fullers Earth INFORMATION TELEPHONE 312-321-1515
+MANUFACTURER’S NAME Oil-Dri Corporation of America
+ADDRESS 520 North Michigan Avenue DATE PREPARED May 7, 1986
+Chicago, Illinois 60611
+
+CAS NO. 8031-18-3
+D.O.T. CLASSIFICATION Not regulated
+
+SECTION II -- HAZARDOUS INGREDIENTS OF MIXTURES
+
+Mineral particulates are classified as nuisance dusts by the American Conference of
+Governmental Industrial Hygienists (ACGIH). This material may contain approximately 3% quartz.
+Use ACGIH publication to determine appropriate TLV. Applications data show concentrations
+well below TLV with normal use.
+
+SECTION III -- PHYSICAL/CHEMICAL CHARACTERISTICS
+
+BOILING POINT Not applicable (N/A) SPECIFIC GRAVITY (H₂O = 1) 2.2
+VAPOR PRESSURE (mmHg) (N/A) MELTING POINT N/A
+VAPOR DENSITY (Air = 1) (N/A) EVAPORATION RATE (Butyl Acetate = 1) (N/A)
+SOLUBILITY IN WATER Insoluble APPEARANCE AND ODOR Grey to Tan, Odorless
+
+SECTION IV -- FIRE AND EXPLOSION HAZARD DATA
+
+This material poses no fire or explosion hazard.
+
+
+
+The information on this sheet is believed to be reliable but it is supplied without warranty of any kind. We disclaim all responsibility for damages resulting from the use of these materials.
+No determination has been made that this product is safe for use in a specific application. The user must always conduct their own tests to determine the suitability of this product for any proposed use.
+
+
+
+205745836

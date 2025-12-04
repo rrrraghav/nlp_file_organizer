@@ -1,0 +1,38 @@
+CRC Contract Research Center
+
+Data evaluation in life observations
+
+
+
+Project: B 3271
+Study Start Date
+08-August 1997
+Page 1 of 1
+(4 Pages)
+
+
+
+
+Genis Rate Count Init.  Reflex   
+                                    
+0.1    105   0      0       0      0
+1.0    104   0      0       0      0
+1.1    106   0      0       0      0
+2.1    104   0      0       0      0
+2.1    106   0      0       0      0
+3.1    105   0      0       0      0
+4.1    106   0      0       0      0
+
+
+
+
+998611989 250511989
+
+
+
+Approximated Quantities:
+C. Luth, J.L. Luth, J.L. Luthers, M.L. Lousen, C. Luthie, J.L. Luthers, G. Body, R. Higgins
+
+Date evaluation: 01-5 AUG 1997
+Study Director:
+Init.:

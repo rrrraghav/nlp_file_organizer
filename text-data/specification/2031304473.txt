@@ -1,0 +1,48 @@
+MERIT 100’s REG. S.P.
+760 (PC)                                  Effective Date: July 1, 1980
+
+FILTER SPECIFICATION FOR MERIT 100’s REGULAR C.p.
+.31 SM FILTER
+
+Filter Rod - 4 Up, 126mm Length
+
+Plug Maker - MARK VI/Miniature or KDF-2/AF-I
+
+Tow - 3.3/44,000 #10; P.M. Material Code 05-588-A(EAST); 05-588-B(CEL)
+
+Plasticizer - Pz. C-Ill-X @ 9% of Dry Weight; P.M. Material Code 05-832-A
+7.61 gms/100 126mm Rods
+
+Additive - None
+
+KDF-2 Plug Wrap Dexter 33-H1; 26.5mm x 4000; P.M. Material Code 06-171-A
+
+Glue Lines - Two
+
+Type - Southern 285-549; P.M. Material Code 60-210-A - OR Q.A. APPROVED EQUAL
+Polymer 255-1IX; P.M. Material Code 60-200-A
+
+KDF-2 Lap Adhesive - A-3,Hotmelt; P.M. Material Code 60-230-A - OR Q.A. APPROVED EQUAL
+
+MARK VI Lap Adhesive - Fuller 1076; P.M. Material Code 60-457-A - OR Q.A. APPROVE! EQUAL
+
+Circumference - 24.45mm (Laser); 24.30mm (P.M. Air Gauge)
+
+Resistance to Draw 126mm Rod - 17.00 inches of water - PDI
+.31.5mm Plug - 4.30 inches of water-unlimited
+
+Dry Weight - 84.50 gms/100 126mm Rods
+
+Dry Weight (W/GL) - 85.05 gms/100 126mm Rods
+
+Wet Weight (W/GL) - 92.66 gms/100 126mm Rods
+
+Prepared By: Debbie J. Morgan
+
+Approved By: Operations Services
+dyd
+
+This supersedes specification dated June 15, 1980. Reason for change:
+P.M. Air Gauge Circumference addition to specifications.
+
+203108473

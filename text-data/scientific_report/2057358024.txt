@@ -1,0 +1,45 @@
+08 Nov-93 RAW/MCM [C1TABLE5]
+
+TREATMENT OBJECTIVE PERIOD
+
+Jan. & Feb. influence of filter nitrate (0.2 to 1.8 % on biological activity of MS and fresh SS
+
+2 test cigarettes and 24h standard reference cig;
+50 µg TPMW;
+head-only inhalation;
+2 or 3 hrs/d;
+7 days;
+12 rats/group
+
+KEY BIOLOGICAL ASSAYS AND DETERMINATIONS
+
+body weight, adrenals, weights of adrenals, testes, thymus; histopathology of lung, trachea; morphometry; in-life observations; H&C0
+
+DESIGN
+
+RESULTS CONCLUSIONS (s)
+
+fresh sidestream smoke from cigarettes with increased filter nitrate reduced the atrophy in the nasal olfactory epithelium and the hyperplasia in the larynx.
+
+ANALYTICAL DATA
+
+TPM (µg/l) 281
+CO (ppm) 118
+PA (ppm) 10
+acrolein (ppm) 5.3
+acetaldehyde (ppm) 5.3
+ammonia (µg/l) 10.7
+NO (ppm) 3.9
+nicotine (µg/l) 31
+HCB (µg/l) 26
+tar (mg/l) 25
+rel. humid % 55
+particle size
+
+TABLE CROSETS STUDIES, Project B107 (347)
+
+(s) preliminary (not yet reported)
+
+
+
+Z057385024

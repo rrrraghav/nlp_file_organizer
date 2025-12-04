@@ -1,0 +1,35 @@
+MAY-27-1999 THU 08:09 AM UI CHEMISTRY FAX NO. 2088856173 P. 02/09
+
+Investigation of the Interaction of Selected Molecules with APS-coated Silica Surfaces
+
+Submitted by: Department of Chemistry
+University of Idaho
+Moscow, Idaho 83444-2343
+
+Principal Investigator: Professor Rear R. Griffiths
+
+Submitted to: Phillip Morris USA
+Attention: Dr. Kenneth H. Shafer
+
+Project Description
+
+A. Introduction
+
+The research group of Peter Griffiths, Professor of Chemistry at the University of Idaho, has worked extensively in many areas of vibration spectroscopy over the past 25 years. This group proposes to develop several approaches to test the feasibility of investigating how certain active components of cigarette smoke, namely formaldehyde, acetaldehyde and acrolein, interact with aminopropylsilyl (APS) groups that have been bonded to the surface of silica both from a mechanistic and kinetic viewpoint.
+
+B. Mechanistic studies
+
+In the first year of this project, three complementary approaches will be investigated to probe the way in which APS groups are ordered when bonded to the surface of silica. First, we will study the feasibility of activating the surface of a multi-reflection silicon internal reflection element (IRE) by oxidation and hydration of the surface silanol groups and measuring the attenuated total reflectance (ATR) spectrum to probe the orientation of the APS groups. APS groups are bound to the surface silanol groups by a reaction of the type:
+
+≡SiOH + ClSi(CH2)3NH2 → ≡SiOSi(CH2)3NH2 + HCl
+
+If the amino groups bond to formaldehyde, acetaldehyde and acrolein, large changes in the spectrum in the region of the NH stretching mode (~3350 cm-1) would be forecast. More subtle changes in the spectra of the APS groups on the surface may also be used a probe for the presence of physisorbed aldehydes. For example, if the APS groups are bonded in an ordered fashion, the frequency of the symmetric and antisymmetric stretching vibrations of the methylene groups should be expected to correspond to those of solid alkanes. If the degree of ordering is reduced by adsorption of another molecule, the bands will shift to slightly lower wavenumber, similar to the band centers of the corresponding bands in the spectrum of liquid alkanes. [1] Further band shifts would be determined using the center-of-gravity algorithm.
+
+[1] J.L. Coffman, Appl. Spectrosc., 26, 405 (1972).
+
+C. Instrumentation
+
+The instrumentation available for this project includes a Nicolet Magna FTIR spectrometer equipped with an IRE accessory and a microscope attachment. The ATR crystal will be silicon.
+
+
+

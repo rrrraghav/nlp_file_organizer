@@ -1,0 +1,138 @@
+CRC Contract Research Center
+
+Data evaluation initial observations
+
+6145515052
+
+
+
+Project B 3276
+Group Site Start Init. Reflux
+Date  Time  status  tous  tone  name site
+
+273   0    0     0
+278   0    0     0
+279   0    0     0
+280   0    0     0
+12 12:10 0    0     0
+287   0    0     0
+288   0    0     0
+289   0    0     0
+300   0    0     0
+32 0    0     0
+42 0    0     0
+431  0    0     0
+432   0    0     0
+500   0    0     0
+501   0    0     0
+502   0    0     0
+503   0    0     0
+507   0    0     0
+
+
+
+Eye Tremb. Long
+les  mode mode
+
+0 0 0
+0 0 0
+0 0 0
+0 0 0
+0 0 0
+0 0 0
+0 0 0
+0 0 0
+0 0 0
+0 0 0
+0 0 0
+0 0 0
+0 0 0
+0 0 0
+0 0 0
+0 0 0
+0 0 0
+
+
+
+Hard  Rough Wet
+dist. gland sec.
+
+0 0 1
+0 0 1
+0 0 1
+0 0 1
+0 0 1
+0 0 1
+0 0 1
+0 0 1
+0 0 1
+0 0 1
+0 0 1
+0 0 1
+0 0 1
+0 0 1
+0 0 1
+0 0 1
+0 0 1
+
+
+
+les. thrn
+skin
+
+0 0
+0 0
+0 0
+0 0
+0 0
+0 0
+0 0
+0 0
+0 0
+0 0
+0 0
+0 0
+0 0
+0 0
+0 0
+0 0
+0 0
+
+
+
+lesion Wound Body
+(long)  terms.
+
+0 0
+0 0
+0 0
+0 0
+0 0
+0 0
+0 0
+0 0
+0 0
+0 0
+0 0
+0 0
+0 0
+0 0
+0 0
+0 0
+0 0
+
+
+
+Page 1 of 2
+15-Apr-005173
+
+Subscribed:  Q. Ineffe, Q. Ineffe_C, Q. Ineffe_C, Q. Ineffe, Q. Ineffe_C, Q. Ineffe
+
+(P) Robert Coryn, B. Coble
+
+
+
+Date evaluation:
+Study Director:
+Init.:
+Date: 2 APR 1997
