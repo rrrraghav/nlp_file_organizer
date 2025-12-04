@@ -1,0 +1,59 @@
+AMERICAN JOURNAL OF EPIDEMIOLOGY Vol. 118, No.4
+Copyright © The Johns Hopkins University School of Hygiene and Public Health Printed in U.S.A. All rights reserved
+
+A COHORT ANALYSIS OF LUNG CANCER AND SMOKING IN BRITISH MALES¹
+
+RICHARD G. STEVENS and SURESH H. MOOLGAVKAR
+
+Stevens, R.G. (Fox Chase Cancer Center, Philadelphia, PA 19111), and S.H. Moolgavkar. A cohort analysis of lung cancer and smoking in British males.
+Am J Epidemiol 1984;119:623–41.
+
+Lung cancer mortality in England and Wales among males in the age group 35 to 74 years has increased from 1951 to 1975. Using aggregate consumption information from the Tobacco Research Council and a statistical model, relative risks of lung cancer attributable to cigarette smoking were estimated. 88% of total male deaths during the study period could be attributed to smoking. The analysis also suggests that the rate among non-smokers has increased since 1951, possibly because of changes in occupational exposures or other environmental factors. The implementation of the Clean Air Act of 1956 may have reduced some systematic biases in the smoking data. Monte Carlo simulations were performed.
+
+Lung neoplasms; models; theoretical; mortality; smoking; statistics
+
+Lung cancer mortality has increased in England and Wales since the early 1950s (1). The consumption of cigarettes has also increased (2). Given the high habitability rate associated with cigarette smoking, changes in lung cancer rates due to fac- tor exposure are likely to be difficult to detect (3). National vital statistics data re- veal that only about 7% of current cig- arette smokers stop before age 50 years (4), and most ex-smokers continue to have an elevated risk of lung cancer for at least 10 years after cessation (5). Therefore, a cohort analysis is needed to estimate the relative risks of lung cancer attributable to cigarette smoking.
+
+Trends in non-smokers reflect environ- mental influences that have been masked in the overall rates by the strong effect of tobacco.
+
+In previous papers (6), we used vital data from England and Wales in concert with information on cigarette consumption from the Tobacco Research Council to estimate the association between cigarette smok- ing and lung cancer mortality. In those papers, we assumed that the relative risk was constant over time and age. Here, we present a more detailed analysis using a statistical model that allows for changes in relative risk with age and time.
+
+gland and Wales ment in lung ca large rise in th since 1950s smaller effect data on prope mature cigar taken from pu research. Cour presented in ta over the age ages go back d assumed that 1946 and 1946- prepackage in (2). Average c manufactured b adult is shown by the proporti cancer mortali England, v data on curre adult were es Kingdom (Engl and Northern I sumption data probably versy
+
+The analyses have been exten data on prope mature cigar taken from pu research. Cour presented in ta over the age ages go back d assumed that 1946 and 1946- prepackage in (2). Average c manufactured b adult is shown by the proporti cancer mortali England, v data on curre adult were es Kingdom (Engl and Northern I sumption data probably versy
+
+MATERIALS AND METHODS
+
+The study population consists of all males aged 35 to 74 years who were alive in mid-1951 in England and Wales. The number of deaths from lung cancer (ICD-8 codes 166, 167) between 1951 and 1975 was obtained from the Office of Population Censuses and Surveys. Data on cigarette consumption were obtained from the Tobacco Research Council. These data include estimates of the number of cigarettes smoked per person per week for each year from 1951 to 1975, broken down by age group and sex.
+
+The statistical model used in this analysis is described in detail elsewhere (6). Briefly, it assumes that the risk of lung cancer is proportional to the cumulative exposure to cigarette smoke. The relative risk is assumed to vary with age and time, but not with calendar year. The model also allows for a constant background risk of lung cancer among non-smokers.
+
+RESULTS
+
+The estimated relative risks of lung can- cer attributable to cigarette smoking are presented in Table 1. The relative risk increases with age at start of smoking and with the number of cigarettes smoked per day. For example, a man who starts smoking at age 15 and smokes 20 cigarettes per day has a relative risk of about 30.
+
+The total number of lung cancer deaths attributable to cigarette smoking between 1951 and 1975 was approximately 88% of the total number of lung cancer deaths during that period. This estimate is based on the assumption that the relative risks are constant over time and age.
+
+DISCUSSION
+
+The results of this analysis provide further evidence that cigarette smoking is a major cause of lung cancer. The estimated relative risks are consistent with those reported in other studies (7, 8).
+
+One limitation of this analysis is that it relies on aggregate data on cigarette consumption. These data do not take into account individual variations in smoking habits. However, the use of aggregate data may reduce some systematic biases in the estimates.
+
+Another limitation is that the model assumes that the relative risk varies with age and time, but not with calendar year. This assumption may not be entirely valid, as changes in cigarette composition or other environmental factors could have affected the relative risk over time.
+
+Despite these limitations, this analysis provides valuable information about the association between cigarette smoking and lung cancer. The results suggest that reducing cigarette consumption would significantly reduce the incidence of lung cancer in England and Wales.
+
+REFERENCES
+
+1. Doll R, Hill AB. Mortality from cancer in relation to smoking: report on an investigation conducted for the British Doctors’ Smoking Research Association. BMJ 1950;287:85–90.
+2. Office of Population Censuses and Surveys. Statistical Abstract. London: HMSO, 1976.
+3. Rothman N. Epidemiologic evidence about cigarette smoking and health. N Engl J Med 1980;302:149–56.
+4. Hammond EA, Satariano WA Jr, McClave AM, et al. Trends in cigarette consumption among adults in the United States. Public Health Rep 1976;91:521–32.
+5. Wynder EL, Graham PA, Hoeger PH, et al. Mortality experience of smokers and nonsmokers: a 30-year follow-up. JAMA 1984;251:328–37.
+6. Stevens RG, Moolgavkar SH. Lung cancer and cigarette smoking: an analysis using aggregate data. Am J Epidemiol 1983;117:690–700.
+7. National Cancer Institute. Cigarette Smoking and Public Health: A Clinical and Social Challenge. Washington, DC: US Government Printing Office, 1979.
+8. Thun MJ, Shames EE, French MM, et al. Mortality from lung cancer in relation to cigarette smoking: findings from a study of U.S. men. Am J Epidemiol 1982;135:69–80.
+
+¹Supported by grants CA-34731 and CA-38239 from the National Cancer Institute, Public Health Service.
+Received July 26, 1983; accepted November 1, 1983

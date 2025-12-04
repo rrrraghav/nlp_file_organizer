@@ -1,0 +1,51 @@
+The American Health Foundation
+
+Comprehensive Tobacco Questionnaire
+
+I Patient identifying characteristics
+
+Patient/Card identification—10 digit code to be constructed after the interview by coding staff and include items below: columns 2-10 to be duplicated at beginning of each card.
+Refer to codebook for appropriate codes.
+
+card questionnaire diagnostic case/control/sex patient serial no.
+  version   hospital code category
+
+
+
+1    4
+
+
+
+
+1. Current diagnosis
+
+Date of diagnosis (Do not code)
+Date of birth (Do not code)
+
+2. Age at diagnosis
+
+3. Previous tobacco-related disease (See codebook)
+
+4. Interviewer code
+
+5. Month of interview (01-January, 02-February, etc.)
+   Day of interview (Do not code)
+
+6. Year of interview (Code last two digits of year)
+
+
+
+II Life history, occupational and environmental data
+
+7. Sex of patient
+  1. male      2. female
+
+8. Hospital status
+  1. private    2. semi-private     3. ward   4. clinic       5. other
+
+9. Race
+  1. caucasian   2. black        3. hispanic   4. oriental   5. other
+
+
+
+000229535

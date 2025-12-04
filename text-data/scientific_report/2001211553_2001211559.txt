@@ -1,0 +1,37 @@
+International Research and Development Corporation
+
+Acute Oral Toxicity (LD50) in Male and Female Albino Rats
+
+SPONSOR: Phillip Morris, U.S.A.
+
+TEST MATERIAL: Potassium Nitrate Test Compound
+
+STUDY NUMBER: 368-006 DATE: April 7, 1977
+
+PROCEDURE: Twenty-five male and 25 female rats of the Charles River CD strain, weighing 202 to 258 grams, were divided equally into the dosage level groups indicated in the table below. Single, oral doses of the test material, dissolved in distilled water, were administered to rats that were fasted overnight. Observations for pharmacodynamic signs and mortality were recorded daily for 14 days. All rats which died on study were subjected to gross necropsy examination.
+
+RESULTS: Dose – Mortality Data
+Number of Deaths
+
+Dose Level Hours Days Total
+mg/kg  0-4 1 2 3 4 5 6 7-14 Mortalities
+             M F M F M F M F M F M F Male Female Total
+1281          0/5   0/5    0/10
+2034          0/5   0/5    0/10
+3229          2/5   0/5    2/10
+5126          2 2  1 2     3/5   4/5    7/10
+8137          4 5  1         5/5   5/5    10/10
+
+The acute oral LD50 value and 95% confidence limits for Potassium Nitrate Test Compound were calculated to be as follows:
+
+Male: 4068 (2954-5604) mg/kg.
+Female: 4462 (3709-5368) mg/kg.
+Combined Male and Female: 4261 (3533-5139) mg/kg.
+
+Slope
+
+Male: 1.66
+Female: 1.66
+Combined Male and Female: 1.66
+
+2002153

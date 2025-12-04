@@ -1,0 +1,46 @@
+47
+
+Carbon Monoxide Uptake by Inspectors
+at a United States-Mexico Border Station
+
+Seymour I. Cohen, MD, Berkeley, Calif; George Dorion, PhD, Riverside, Calif;
+Har R. Goldsmith, MD, Berkeley, Calif; and Solbert Permutt, MD, Baltimore
+
+Collection of expired air carbon monoxide (CO) samples was undertaken to assess exposures at the United States-Mexican border to determine if significant increases in carboxyhemoglobin (COHb) occur. Twenty-six inspectors were categorized as to among jobs and work shift co exposures. Employees engaged in vehicle inspection duties constituted the control group. Following shifts when particularly high am-
+
+bient CO levels persisted, significant increases in COHb levels in non-smokers and smokers controls did not exhibit significant alter-
+ations in COHb levels. The hazards of such COHb elevations are discussed in light of recent evidence of a lack of threshold for cardiovascular and central nervous system ef-
+fects.
+
+A NUMBER of studies have been carried out during the past several decades to determine whether occupational exposures to carbon monoxide (CO) are associated with any health impairment. Since the automobile has in recent times largely supplanted other sources of CO, a majority of these studies involve individuals whose occupations entail exposure to motor vehicle exhaust.1-3 Similar findings have been reported in Japan-
+nese cities. Generally, these investigations have indicated that there is an increase in carboxyhemoglobin (COHb) levels associ-
+ated with occupational exposure, but there is little evidence that the levels achieved are associated with any clinical significance of disease.
+
+The border inspection station at Sai-
+dal Rio, Calif., on the United States-Mexican border, is an example of a station which has relatively high CO ambient concentrations due to traffic congestion.2 To assess exposures at this location, expired air samples were collected from inspectors during their work shifts.
+
+METHODS
+
+Twenty-six inspectors employed at the Saidal Rio inspection station participated in this study during 1968 and 1969. The inspectors were categorized as to job assignment and work shift. Those engaged in vehicle inspection duties constituted the control group. Expired air samples were collected in plastic bags, and COHb levels were determined by the method of Kirschner et al.4
+
+RESULTS
+
+COHb levels as high as 30% were noted in smokers after1-2. No concurrent ambient CO measurements were made, but when ob-
+tained later, they ranged from 50 to 100 ppm. Recommendations for eliminating the high CO levels included alteration of the inspection station configuration and im-
+proved traffic control.
+
+A study in 1961, based on COHb determi-
+nations in ten employees resulted in the conclusion that no CO hazard was present.5 Spot ambient air samples analyzed by the tube-chemical method indicated that low en-
+vironmental CO levels existed. From 1963 to the day of this study, ambient CO concentrations exceeded a threshold limit value (TLV) of 50 ppm during eight-hour peri-
+ods approximately 12 times.
+
+CO measurements were taken at Sai-
+dal Rio High surveyed during our study ranged from 74 to 289 ppm and averaged 139 ppm. The average COHb level for the 26 inspectors was 15.6% (SD = 7.0%). Smokers had significantly higher COHb levels than non-smokers (22.1% vs 9.4%, p < 0.01).
+
+DISCUSSION
+
+The results of this study indicate that in-
+spectors at the Saidal Rio border inspection station are exposed to relatively high concentrations of CO. The elevated COHb levels observed in inspectors, particularly smokers, suggest that these exposures may pose a health hazard. The hazards of CO exposure include cardiovascular and central nervous system effects.6,7 Recent evidence suggests that there is no threshold for these effects.8
+
+The higher COHb levels observed in smok-
+ers are consistent with findings from other studies.9,10 It is likely that the smokers inhaled both ambient CO and CO from their cigarettes.

@@ -1,0 +1,90 @@
+JOURNAL OF VIROLOGY, Oct. 1996, p. 6775-6780
+Vol. 70, No. 10 0022-5555/96/$02.00 Copyright © 1996, American Society for Microbiology
+
+643)
+
+Mature B Cells Are Required for Acute Splenic Infection,
+but Not for Establishment of Latency
+by Murine Gammaherpesvirus 68
+
+KAREN E. WEICK, MELISSA L. BARON, LINNA J. YOO, SAMUEL H. SPECK,
+and HERBERT V. VIRGIN JR.
+
+Department of Pathology and Center for Immunology, Washington University School of Medicine
+St. Louis, Missouri 63110
+Received: 1 May 1996/Accepted 23 June 1996
+
+Murine gammaherpesvirus 68 (γHV-68; also referred to as MmV-68) is a gammaherpesvirus which infects
+house mice. We have previously shown that γHV-68 can cause acute splenic infection and establish latency.
+During the first 3 weeks of latent virus production, mature B cells are known to be involved in γHV-68 replication.
+To further define the role of B cells during acute splenic infection, we examined the kinetics of viral antigen expression
+in acute splenic infections in mice with null mutations in the transmembrane domain of the pokeweed antiviral
+receptor (pwR). These mice exhibit impaired B cell development and reduced numbers of mature B lymphocytes.
+Immunocompetent mice infected intraperitoneally with γHV-68 demonstrated peak splenic titers at 10 days
+postinfection, followed by a decline in viral antigen expression. In contrast, pwR mutant mice exhibited significantly
+increased splenic titers at 10 days postinfection and prolonged viral antigen expression. The pwR mutant mice
+also showed elevated peak splenic γHV-68 DNA copy number at 10 days postinfection. These data indicate that CD1 T cells are important for clearing infectious γHV-68 from the
+spleen. In addition, we examined whether B cells were required for establishment of latency in pwR mutant mice.
+Despite the increased viral titers observed in pwR mutant mice, these mice harbored latent virus at levels 100-fold higher
+than in normal mice. These data demonstrate establishment of latency by γHV-68 without mature B lymphocytes. They demonstrate
+that γHV-68 can establish latency in a cell type other than mature B lymphocytes.
+
+Gammaherpesviruses are characterized biologically by their ability to establish latent infections in host cells (1). In mammals, these viruses include Epstein-Barr virus (EBV) in humans (2), Marek’s disease virus (MDV) in chickens (3), and Murine Cytomegalovirus (MCMV) in mice (4). Latency is typically established in a restricted set of cell types, such as B lymphocytes for EBV and MDV (5, 6) and epithelial cells for MCMV (7).
+
+γHV-68 is a gammaherpesvirus that infects house mice. It shares many characteristics with other gammaherpesviruses, including the ability to cause acute splenic infection and establish latency (8, 9). During acute splenic infection, γHV-68 replicates extensively in B lymphocytes, macrophages, and dendritic cells (10). Latent virus is primarily established in B lymphocytes (11), although it can also be found in other cell types, such as monocytes and granulocytes (12).
+
+The pokeweed antiviral receptor (pwR) is a transmembrane protein that functions as a cellular receptor for several alpha-, beta-, and gammaherpesviruses (13). pwR is expressed on B lymphocytes, macrophages, dendritic cells, and T lymphocytes (14). We have previously shown that pwR plays an important role in γHV-68 entry into B lymphocytes and macrophages (15).
+
+In this study, we investigated the role of mature B cells during acute splenic infection with γHV-68. We used mice with null mutations in the transmembrane domain of pwR to examine the kinetics of viral antigen expression and DNA copy number during acute splenic infection. In addition, we examined whether B cells are required for establishment of latency by γHV-68.
+
+MATERIALS AND METHODS
+
+Mice
+pwR mutant mice were generated as previously described (13). These mice have a null mutation in the transmembrane domain of pwR, resulting in impaired expression of pwR on the cell surface. Immunocompetent C57BL/6 mice were obtained from Jackson Laboratory. All mice were housed under specific-pathogen-free conditions and used at 8 to 12 weeks of age.
+
+Virus
+γHV-68 was isolated from a naturally infected laboratory mouse (9). Virus stocks were prepared by infecting NIH 3T3 cells with γHV-68, collecting the supernatant after 7 days, and titrating the virus by plaque assay as previously described (9).
+
+Infection
+Mice were infected intraperitoneally with 10^5 plaque-forming units (PFU) of γHV-68. Splenic tissue was harvested at various time points postinfection.
+
+Immunohistochemistry
+Splenic tissues were fixed in formalin, embedded in paraffin, and sectioned. Sections were stained by immunohistochemistry using a monoclonal antibody against the immediate-early protein IE1 of γHV-68 (16). The staining was performed as previously described (17).
+
+DNA Copy Number Determination
+Splenic DNA was extracted from infected mice at various time points postinfection. Viral DNA copy number was determined by quantitative PCR with primers specific for the glycoprotein gB gene of γHV-68 (18).
+
+RESULTS
+
+pwR Mutant Mice Exhibit Increased Splenic Titers and Prolonged Antigen Expression During Acute Infection
+Immunocompetent C57BL/6 mice infected intraperitoneally with γHV-68 demonstrated peak splenic titers at 10 days postinfection, followed by a decline in viral antigen expression (Fig. 1A). In contrast, pwR mutant mice exhibited significantly increased splenic titers at 10 days postinfection and prolonged viral antigen expression (Fig. 1A). The increased viral titers observed in pwR mutant mice were associated with an increase in the number of infected cells in the spleen (Fig. 1B).
+
+pwR Mutant Mice Exhibit Increased γHV-68 DNA Copy Number During Acute Infection
+The pwR mutant mice also showed elevated peak splenic γHV-68 DNA copy number at 10 days postinfection (Fig. 2). This finding is consistent with the increased viral titers and antigen expression observed in these mice.
+
+pwR Mutant Mice Establish Latency Despite Reduced Numbers of Mature B Lymphocytes
+Despite the increased viral titers observed in pwR mutant mice, these mice harbored latent virus at levels 100-fold higher than in normal mice (Table 1). This finding demonstrates that γHV-68 can establish latency without mature B lymphocytes.
+
+DISCUSSION
+
+Our findings demonstrate that CD1 T cells are important for clearing infectious γHV-68 from the spleen. In addition, we have shown that γHV-68 can establish latency in a cell type other than mature B lymphocytes.
+
+The increased viral titers and antigen expression observed in pwR mutant mice suggest that pwR plays an important role in limiting γHV-68 replication during acute splenic infection. The elevated DNA copy number further supports this conclusion. The prolonged antigen expression suggests that the virus is able to replicate more extensively in the absence of pwR.
+
+The fact that pwR mutant mice establish latency despite reduced numbers of mature B lymphocytes indicates that other cell types can serve as latent reservoirs for γHV-68. This finding expands our understanding of the cellular tropism of this virus and suggests that additional mechanisms may be involved in latency establishment.
+
+Further studies are needed to identify the specific cell types that support latency in pwR mutant mice and to elucidate the molecular mechanisms that regulate latency establishment in these cells.
+
+ACKNOWLEDGMENTS
+
+We thank [names] for their technical assistance.
+
+This work was supported by National Institutes of Health grant AI42673.
+
+REFERENCES
+
+1. Hayward, M. D., and J. E. Clements. 1993. Gammaherpesvirus latency: a paradigm for persistent infection. Trends Microbiol. 1:305-311.
+2. Warren, T., and B. Levine. 1994. Epstein-Barr virus. In Virology, 4th ed. B. N. Fields, D. M. Knipe, P. Howley, and R. Chanock, eds. Lippincott Co., Philadelphia.
+3. Luckey, T. F., J. H. Martin, W. S. Hayward, and G. E. Jensen. 1982. Marek’s disease virus: a gammaherpesvirus establishes latency in peripheral nerve cells. Proc. Natl. Acad. Sci. USA 79:4630-4634.
+4. Grossner, P. R., and T. B. Rowley. 1995. Murine cytomegalovirus persistence and latency. Curr. Top. Microbiol. Immunol. 189:127-145.
+5. Kievanowska, D., M. Cameron, A. Rowe, J. Macdonald

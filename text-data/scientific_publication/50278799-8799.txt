@@ -1,0 +1,27 @@
+875
+
+Characterization of lecithin-cholesterol acyltransferase from human plasma. 3.
+
+Chemical properties of the enzyme
+
+KUI SONG CHONG, MEHRKOOSH JAHANI, SHINICHI HARA, AND ANDRAS G. LACKO
+Department of Chemistry, Division of Biochemistry, North Texas State University, Denton, TX. 76203
+and
+Department of Biochemistry, Texas College of Osteopathic Medicine, Denton, TX. 76203
+
+Received November 1, 1982
+
+Chong, K. S., Jahani, M., Hara, S., & Lacko, A. G. (1983). Characterization of lecithin-cholesterol acyltransferase from human plasma. 3. Chemical properties of the enzyme. J. Biol. Chem. 258: 875-881
+
+The polypeptide molecular weight of lecithin-cholesterol acyltransferase (LCAT) (65000) was obtained by deducting the weight of carbohydrate moiety (US%) w/w) from the total molecular weight of LCAT. LCAT was found to have a relatively high content of cysteine residues, 7.1%, and serine residues, 6.2%; and sialic acid, 5.4%. The total number of 408 amino acid residues per mole and the mean residue weight of 110.3 were found from amino acid analysis. Two molecules of tryptophan were found per mole of LCAT in 10 mM phosphate pH 7.41. However, when LCAT was digested by the mixture of chymotrypsin and pronase the tryptophan residues increased to 1-6 mol/mol of LCAT, which agrees well with data obtained previously by ultraviolet absorption spectroscopy. A relatively high extinction coefficient (E1%) of 21 at 280 nm and neutral pH. Two residues of cysteine per mole of LCAT were estimated both in the presence or absence of reducing agents. The N-terminal amino acid sequence was determined by automatic Edman degradation. The free form of LCAT, obtained by electrophoresis on SDS polyacrylamide gel, showed a lower isoelectric point (pI) of 6.0 than that of the membrane-bound LCAT. The enzyme was rapidly inhibited by urea and deoxycholan (Deoxychol). FFTR, derivatives of 6-hex-1-ene cyanobiphenyl were used as substrates for determination of the free energy of binding.
+
+The high density lipoproteins or Lp(s) subfractions (1-1.29 g/ml) were prepared according to Kornhauser et al. (1971).
+
+Chong, K. S., Jahani, M., Hara, S., & Lacko, A. G. (1983). Characterization of lecithin-cholesterol acyltransferase from human plasma. 3. Chemical properties of the enzyme. J. Biol. Chem. 258: 875-881
+
+The polypeptide molecular weight of lecithin-cholesterol acyltransferase (LCAT) was determined by deducting the weight of carbohydrate moiety (11.6%) w/w) from the total molecular weight of LCAT. The amino acid composition of LCAT revealed a relatively high content of cysteine residues, 7.1%, and serine residues, 6.2%; and sialic acid, 5.4%. Amino acid analysis indicated that there were 408 amino acid residues per mole, with an average residue weight of 110.3. Two molecules of tryptophan per mole of LCAT were found in a 10 mM phosphate buffer at pH 7.4. Digestion of LCAT with chymotrypsin and pronase resulted in an increase in the number of tryptophan residues to 1-6 mol/mol, which is consistent with data obtained previously by ultraviolet absorption spectroscopy. The extinction coefficient (E1%) of LCAT was relatively high, at 21 at 280 nm and neutral pH. Approximately two cysteine residues per mole of LCAT were estimated both in the presence or absence of reducing agents. The N-terminal amino acid sequence was determined using automatic Edman degradation. Electrophoresis on SDS polyacrylamide gel showed that the free form of LCAT had a lower isoelectric point (pI) of 6.0 than membrane-bound LCAT. Urea and deoxycholan (Deoxychol) rapidly inhibited the enzyme. The free energy of binding was determined using 6-hex-1-ene cyanobiphenyl derivatives as substrates.
+
+High density lipoproteins or Lp(s) subfractions (1-1.29 g/ml) were prepared according to Kornhauser et al. (1971).
+
+
+

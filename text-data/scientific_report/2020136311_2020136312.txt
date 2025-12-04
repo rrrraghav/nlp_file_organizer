@@ -1,0 +1,23 @@
+Materials Development Group
+
+1. EWI was asked to explore transient liquid phase bonding of metallic/alloy ribbons to silicon. We will inform EWI that we have been able to bond copper to silicon with an interlayer of Ag/In. We will ask EWI to continue the work on TLP bonding of copper and nickel conductors with Ag/In as an interlayer between the ribbon and silicon blade. Our efforts will continue with Ag/In to determine the impact of thermal cycling, and temperature on the bond strength.
+
+2. Also found that silver paste used for our in-house experiments contained lead in it, and this may pose a problem. We are not too much concerned at this stage, and we will continue our experiments with the same paste until we find an acceptable silver epoxy. We may revert back to silver paste made with conjac for our experiments.
+
+3. We are continuing bonding experiments to determine if contact resistance at the bond can be reduced from its present level of 60 Ohm. Rose will continue these experiments from now onwards.
+
+4. Silicon wafers ordered from Virginia Semiconductor Corp. have a resistivity of 0.024 Ohm-cm. to obtain a resistor of 0.9 Ohm, the thickness of the blade must be about 9.5 mil, and a resistor of 0.5 Ohm will have a thickness of 15 mil. We need to determine the TCR of the blade prior to modelling the blade to determine whether the blade can be pulsed with the batteries envisioned for use with the first generation article.
+
+5. Silicon wafers will be sent for cutting, and John will gold coat about 200 blades for our internal testing, and to send them to EWI. We are expediting this effort.
+
+6. Amit is attempting to do an energy comparison between silicon and carbon heaters based on the temperature vs time of carbon heaters which exhibited good subjective.
+
+7. PZT response was found to be very good and highly satisfactory when a filter was placed at the tip of a cantilever. We presume that the filter may create a laminar flow along with certain amount of damping of vibrations. We are trying to decouple those two effects to understand the sensitive parameter.
+
+8. Met with Bernie to discuss issues related to sensors, and the uniqueness of each sensor. We will carry out a comparison of all the sensors within two weeks.
+
+9. We received the preliminary design drawings from Ingrid to make substitutes, and must be need to review once more before finalizing them.
+
+
+
+2021036311

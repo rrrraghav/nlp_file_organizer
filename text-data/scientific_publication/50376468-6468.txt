@@ -1,0 +1,49 @@
+8. 2001; 34 (5): 679-686
+
+Modulated expression of human leukocyte antigen class I and class II determinants in hyperplastic and malignant human prostatic epithelium
+
+J.C. Sharpe, P.D. Abel, L.A. GILbertson, P. BRAWN* and C.S. FOSTER*
+Department of Histopathology and *Surgery, Royal Postgraduate Medical School, Hammersmith Hospital, London; & Department of Pathology, University of Leicester, UK and *Department of Pathology, VA Medical Center, Temple, Texas, USA
+
+Objectives To determine whether human prostatic carcinoma cells express Class I and or Class II major histocompatibility complex (MHC) determinants and whether they might be related to immune competence for gets for metastasis.
+Materials and methods Immunohistochemistry, performed both before and after neoplastic digestion, was employed to compare 13 benign prostatic hyperplasias with 42 primary and 44 metastatic prostatic carcinomas obtained from the United Kingdom and the United States of America. Expression was estimated using as the marker of Class I/Class II MHC determinants for class II expression.
+Results Before analysis on Class II MH determinants were expressed in all the benign hyperplasias, in 31% of primary carcinomas and in 14% of metastatic ones. Class II determinants were identified in 89% of benign hyperplasias and in 53% of primary carcinomas, but in only 19% of metastatic carcinomas and 57% of the lymph node metastases. While more than 30% of epithelial cells in each of the benign hyperplasias expressed MHCs, <5% of the tumour cell populations in the positive malignant tissues primarily and metastastic correlated MHcs were found but Class II expression of Class I or Class II MH* and disease morphological grade.
+Conclusions Failure to express Class I and/or Class II MHC determinants is a common feature of the majority of human prostatic carcinomas cells. Absence of these recognition molecules may be associated with avoidance of immune surveillance and contribute to the metastatic dissemination of this malignancy.
+
+Keywords Prostate cancer, MHC determinants, immune surveillance.
+
+Introduction
+Prostatic carcinoma is one of the most common cancers in men, particularly in developed countries [1]. The prognosis for patients with prostatic carcinoma is variable, but it is generally poor when the disease has spread beyond the prostate gland [2]. It has been suggested that failure to express major histocompatibility complex (MHC) determinants may contribute to the malignant phenotype and facilitate metastasis [3, 4].
+
+Materials and Methods
+Tissue samples
+A total of 109 tissue samples were obtained from the United Kingdom and the United States of America. These included 13 benign hyperplasias, 42 primary carcinomas and 44 metastatic carcinomas. All specimens were fixed in formalin and embedded in paraffin wax.
+
+Immunohistochemistry
+Sections (4 µm) were cut on a rotary microtome and mounted on poly-L-lysine coated slides. Prior to immunostaining, sections were dewaxed in xylene and rehydrated through graded alcohols. Endogenous peroxidase activity was quenched by incubating the sections in 3% hydrogen peroxide in methanol for 30 minutes. Sections were then incubated with normal serum from the same species as the primary antibody (diluted 1:2) for 30 minutes at room temperature to block non-specific binding.
+
+The following monoclonal antibodies were used: anti-HLA-DR (Immunotech, Margate, Kent, UK), anti-HLA-DQ (Immunotech), and anti-HLA-DP (Immunotech). Primary antibodies were diluted as follows: HLA-DR 1:50, HLA-DQ 1:25, and HLA-DP 1:25. After incubation with the primary antibody, sections were incubated with biotinylated secondary antibody (diluted 1:200) for 30 minutes at room temperature, followed by avidin-biotin complex (ABC; Vector Laboratories, Burlingham, CA, USA) for 30 minutes at room temperature. The ABC reaction was developed using diaminobenzidine as the chromogen (Vector Laboratories). Sections were counterstained with Harris’s haematoxylin.
+
+Neoplastic digestion
+To determine whether the lack of MHC expression was due to a true absence or masking by other tissue components, some sections were subjected to neoplastic digestion prior to immunostaining. This involved incubating the sections in 0.5% Triton X-100 for 30 minutes at room temperature before commencing the immunohistochemical procedure.
+
+Assessment of results
+The percentage of cells expressing Class I and/or Class II determinants was estimated by visual inspection under a light microscope. The number of fields examined per specimen was 10. Results are expressed as percentages.
+
+Results
+Class II determinants were expressed in 100% of benign hyperplasias, 53% of primary carcinomas and 14% of the lymph node metastases. Class II determinants were identified in 89% of benign hyperplasias, but only 19% of primary carcinomas and 57% of the lymph node metastases. While more than 30% of epithelial cells in each of the benign hyperplasias expressed MHCs, <5% of the tumour cell populations in the positive malignant tissues primarily and metastatic correlated MHcs were found but Class II expression of Class I or Class II MH* and disease morphological grade.
+
+Conclusions
+Failure to express Class I and/or Class II MHC determinants is a common feature of the majority of human prostatic carcinoma cells. Absence of these recognition molecules may be associated with avoidance of immune surveillance and contribute to the metastatic dissemination of this malignancy.
+
+Keywords Prostate cancer, MHC determinants, immune surveillance.
+
+References
+[1] Warren K, Hoover KM, Potosky RE et al. Prostatic adenocarcinoma incidence rates in men aged 50 years and older: United States 1973-1986. Cancer 1990; 65: 2476-2482.
+[2] Talbert LW, Isaacs WB, Simmons MR et al. National trends in prostatic cancer mortality rates. JAMA 1993; 269: 1381-1385.
+[3] Houghton AJ, Mathieson JC, Crawford DH et al. Altered expression of HLA antigens in human malignant melanoma cells. Lancet 1984; ii: 701-704.
+[4] Coulie CG, Moreau P, Dreno M et al. Loss of functional MHC class I molecules in metastatic melanomas is due to a combination of genetic and epigenetic factors. Cancer Res 1993; 53: 826-832.
+
+
+
+

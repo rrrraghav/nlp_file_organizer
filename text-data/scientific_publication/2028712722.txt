@@ -1,0 +1,64 @@
+Carcinogenesis Vol 10 pp 57–68 © 1989 IRL Press
+
+RECDENT MAIL
+19 APR. 1989
+Levels of mutagens in the urine of smokers of black and blond tobacco correlate with their risk of bladder cancer
+
+antagonistic, biotic, anogenital, where
+
+Substance for Bladderstone out ok - typ.
+
+C. Mayaudetlle*, P. Vince*, H. Ohshima¹, G.Brun², J. Esteve³, B.Paillet⁴, G. Ronco⁵,
+B. Terracini⁶ and H. Bartsch⁷
+
+'Unit of Environmental Hygienics and Risk Papers, IARC, 693/120 cors, France; ²Institut Claude Bernard – Centre de Recherche sur le Cancer, 693/120 cors, France; ³Laboratorio di Igiene, Università degli Studi di Milano, 693/120 cors, Albert-Einstein
+
+Levels of urinary mutagens, thiothers, N-nitrosoamino acids, nitrate, nitrite and creatinine were measured in urines of 21 non-smokers, 25 smokers of blond tobacco and 21 smokers of both types of tobacco. All samples were collected in the morning after overnight resting at home and creatinine was determined as a routine test. The sum of urinary mutagens (N-nitroso compounds) was used as an index of mutagenic exposure and the median value for non-smokers was significantly lower than positive correlation between smoking and the urinary mutagens was observed. It was found that smokers of black tobacco had higher levels of N-nitroso compounds in their urine than smokers of blond tobacco. The sum of urinary mutagens was also positively correlated with creatinine, suggesting that the mutagenic exposure is related to renal function.
+
+Introduction
+Epidemiological studies have shown an increased risk of bladder cancer among smokers (1). It has been suggested that this association may be due to the presence of carcinogenic compounds in cigarette smoke which are absorbed and excreted in the urine (2). In particular, N-nitroso compounds have been identified as mutagens and carcinogens in several experimental systems (3) and have been found in human bladder cancer tissue (4).
+
+The use of black tobacco is associated with a higher risk of developing urinary bladder cancer than smokers of blond, fluecured tobacco (2). A recent epidemiological study conducted in Argentina also suggested that black tobacco was 2–3 times more carcinogenic to the human bladder than blond tobacco (2). Based on the fact that cigarette smoke contains mutagenic compounds and urine can show these findings by Yamasaki and Ames (4) and confirmed later in several studies (see ref. 1), it seemed important to investigate whether differences in the levels of electrophilic components of tobacco smoke, than non-smokers (5–8) and thus have an increased rate of endogenous formation of N-nitroso compounds. We have designed experiments to examine whether a difference exists for bladder cancer between smokers of black and blond tobacco with respect to urinary levels of N-nitrosoamino acids and/or N-nitrosamines. Thus study was undertaken to give weight to the above epidemiological observation by correlating urinary mutagenic exposure with smoking habits and to provide a mechanistic basis for the urinary bladder cancer risk associated with smokers.
+
+Materials and Methods
+Subjects
+The subjects were recruited from a population of 500 men living in the province of Buenos Aires, Argentina. The study population was divided into three groups: non-smokers (n = 21), smokers of blond tobacco (n = 25) and smokers of both types of tobacco (n = 21). All subjects were healthy males aged 40–60 years. Smokers of black tobacco are at a 2.5 times higher risk of developing urinary bladder cancer than smokers of blond, fluecured tobacco (2). A recent epidemiological study conducted in Argentina also suggested that black tobacco was 2–3 times more carcinogenic to the human bladder than blond tobacco (2). Based on the fact that cigarette smoke contains mutagenic compounds and urine can show these findings by Yamasaki and Ames (4) and confirmed later in several studies (see ref. 1), it seemed important to investigate whether differences in the levels of electrophilic components of tobacco smoke, than non-smokers (5–8) and thus have an increased rate of endogenous formation of N-nitroso compounds. We have designed experiments to examine whether a difference exists for bladder cancer between smokers of black and blond tobacco with respect to urinary levels of N-nitrosoamino acids and/or N-nitrosamines. Thus study was undertaken to give weight to the above epidemiological observation by correlating urinary mutagenic exposure with smoking habits and to provide a mechanistic basis for the urinary bladder cancer risk associated with smokers.
+
+Materials and Methods
+Subjects
+The subjects were recruited from a population of 500 men living in the province of Buenos Aires, Argentina. The study population was divided into three groups: non-smokers (n = 21), smokers of blond tobacco (n = 25) and smokers of both types of tobacco (n = 21). All subjects were healthy males aged 40–60 years.
+
+Sample Collection
+All samples were collected in the morning after overnight resting at home. Urine was collected into plastic bottles containing 1 g of boric acid to prevent bacterial growth. The samples were kept cool and transported to the laboratory within 2 h.
+
+Analysis of Urinary Mutagens
+The sum of urinary mutagens (N-nitroso compounds) was determined by measuring the absorbance at 540 nm after reaction with Salmonella typhimurium TA98, as described previously (3). Creatinine was measured using a commercial kit (Boehring Mannheim GmbH, Germany).
+
+Statistical Analysis
+Data are expressed as means ± SEM. Statistical significance was assessed by Student’s t-test or ANOVA followed by Duncan’s test. A p value of less than 0.05 was considered significant.
+
+Results
+Levels of Urinary Mutagens
+The levels of urinary mutagens in non-smokers, smokers of blond tobacco and smokers of both types of tobacco are shown in Table 1. The median value for non-smokers was significantly lower than that for smokers of blond tobacco (p < 0.01) and smokers of both types of tobacco (p < 0.005). Smokers of black tobacco had higher levels of N-nitroso compounds in their urine than smokers of blond tobacco (p < 0.02).
+
+Correlation between Urinary Mutagens and Creatinine
+The sum of urinary mutagens was positively correlated with creatinine (r = 0.68, p < 0.001), suggesting that the mutagenic exposure is related to renal function.
+
+Discussion
+The results of this study confirm previous findings that smokers have higher levels of urinary mutagens than non-smokers (5–8). The observation that smokers of black tobacco have higher levels of N-nitroso compounds in their urine than smokers of blond tobacco supports the epidemiological evidence that black tobacco is more carcinogenic to the human bladder than blond tobacco (2).
+
+The positive correlation between urinary mutagens and creatinine suggests that the mutagenic exposure is related to renal function. This finding is consistent with the observation that individuals with impaired renal function have higher levels of N-nitroso compounds in their urine (9).
+
+Conclusion
+This study provides further evidence that smoking is associated with increased levels of urinary mutagens and that black tobacco is more carcinogenic to the human bladder than blond tobacco. The positive correlation between urinary mutagens and creatinine suggests that the mutagenic exposure is related to renal function.
+
+Acknowledgements
+We thank Dr. M. Yamasaki for his valuable advice and assistance.
+
+References
+1. Wynder, E.L., Graham, P.A., Ghout, S.W. Jr & Marinelli, B.B. (1976) Bladder cancer in relation to cigarette smoking. Lancet, 308, 325–328.
+2. Ikeda, R., Nishizaki, Y., Takayama, K., Watanabe, T. & Yoshikawa, H. (1984) Epidemiological study of bladder cancer in Argentina. Jpn J Cancer Res, 75, 1069–1073.
+3. Yamasaki, M. & Ames, B.N. (1978) Mutagenicity of cigarette smoke condensate in Salmonella typhimurium. Proc Natl Acad Sci USA, 75, 4027–4031.
+4.  Yamasaki, M., Morishita, T., Itoh, K., Takayama, K. & Ames, B.N. (1981) N-nitroso compounds in human bladder cancer tissue. Carcinogenesis, 2, 573–576.
+5.  Brun, G., Ronco, G., Paillet, B., Terracini, B. & Mayaudetlle, C. (1984) Urinary N-nitroso compounds in smokers and non-smokers. Cancer Res, 44, 3270–3273.
+6.  Esteve, J., Brun, G., Ronco, G., Paillet, B. & Mayaudetlle, C. (1985) Urinary N-nitroso compounds in relation to smoking habits and age.

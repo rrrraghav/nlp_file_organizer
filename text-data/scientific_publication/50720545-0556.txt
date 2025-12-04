@@ -1,0 +1,84 @@
+Biochemistry of acute and chronic hypoxia
+
+77
+
+OXYGEN SENSING IN THE ORCHESTRATION OF HYPOXIC METABOLIC ARREST.
+Stephen C. Land, PhD.
+
+Biocurrents Research Center, Marine Biological Laboratory, Woods Hole, Massachusetts 02543-4616, USA.
+Department of Child Health, Ninewells Hospital and Medical School, Dundee–DD1 9SY, Scotland, UK.
+
+Address correspondence to: S.C. Land Biocurrents Research Center Marine Biological Laboratory Wood Hole-
+MA 02543, U.S.A. - Tel: (508) 289 7271 Fax: (508) 540 6902 email: slmd@rbi.edu
+
+RESUMEN: La Percepción del Oxígeno en la Organización del Para Metabólico Hipóxico
+
+La base metabólica del mecanismo sensor de oxígeno ha sido estudiada utilizando hepatocitos aislados de la tortuga pintada occidental, un vertebrado anaeróbico facultativo. Como parte de una respuesta sistémica coordinada a la hipoxia, estas células suprimen activamente la síntesis de ATP y el consumo de oxígeno, liberando glutamato y glucogenogénesis. El resultado es una supresión en 10 veces de la tasa
+metabólica global. La disminución del flujo sanguíneo se acompaña de un aumento en las concentraciones de glutamato o
+dependiente de oxígeno está estrechamente controlada, es rápida en inicio, ocurre sin perturbación de las concentraciones de adenilato o
+a través de vías bioquímicas específicas hasta la migración. El efecto dependiente de oxígeno y mantiene una nueva tasa inferior de flujo
+de acumulación de metabolitos deshechos y extiende profusamente el tiempo de supervivencia en anoxia. De lo expuesto relees directas
+de mecanismos de señalización que controlan la función celular, como la síntesis de proteínas y la expresión génica. El proceso
+metabólica tisular. El recambio proteico, que es un componente celular energéticamente más costoso en normoxia mostró una modulación
+dependiente del oxígeno. La regulación metabólica se propone a través de la teoría del rol principal demandado de oxígeno hem-proteína en el control de la expresión biológica de genes que hay que ingresar
+en metabolismo. Segundo, estudios no invasivos que usan electrodo de auto-referencia selectivo de Ca2+ demostraron que hay una
+subida masiva en esta Ca2+ en el flujo sanguíneo que es un evento dependiente del oxígeno y ocurre antes de la supresión de 10 veces de la
+tasa metabólica. El flujo de Ca2+ se bloquea con iberiotilato, un antagonista conocido del canal de calcio tipo L. La regulación de 143 LM.
+de glutamato es dependiente de oxígeno y está mediada por una proteína que exhibe alta homología a la subunidad B de la bomba de potasio-Na+.
+La regulación metabólica en hipoxia puede ser un mecanismo importante para la supervivencia en anoxia.
+
+Keywords: Oxygen sensing, hypoxia, metabolic arrest, turtle, glutamate, calcium, gene expression.
+
+INTRODUCTION
+
+Hypoxia is a common physiological condition in many animals, including humans. The ability to survive periods of low oxygen tension is critical for the survival of organisms living in environments where oxygen availability fluctuates (e.g., intertidal zone). During hypoxia, cells and tissues must rapidly adapt their metabolism to conserve energy and prevent damage. This adaptation involves a complex interplay of signaling pathways that sense oxygen levels and trigger appropriate cellular responses.
+
+The molecular mechanisms underlying oxygen sensing are not fully understood. However, it is clear that oxygen regulates the activity of several transcription factors, including hypoxia-inducible factor 1 (HIF-1). HIF-1 is a heterodimeric protein composed of an oxygen-sensitive β-subunit and an aryl hydrocarbon receptor nuclear translocator (ARNT) subunit. Under normoxic conditions, the β-subunit is hydroxylated by prolyl hydroxylases, which allows it to be recognized by von Hippel-Lindau tumor suppressor protein (pVHL), leading to its ubiquitination and proteasomal degradation. In hypoxia, prolyl hydroxylation is inhibited, HIF-1β accumulates, heterodimerizes with ARNT, and translocates to the nucleus where it binds to hypoxia response elements (HREs) in the promoters of target genes, thereby regulating their transcription.
+
+In addition to HIF-1, oxygen also regulates other signaling pathways that contribute to metabolic adaptation during hypoxia. These include AMP-activated protein kinase (AMPK), sirtuins, and nitric oxide synthase (NOS). AMPK is a serine/threonine kinase that is activated by increases in the AMP/ATP ratio, which occurs during energy stress. Sirtuins are NAD+-dependent deacetylases that regulate various cellular processes, including metabolism and longevity. NOS catalyzes the production of nitric oxide (NO), a signaling molecule that plays a role in vasodilation and other physiological functions.
+
+The purpose of this study was to investigate the molecular mechanisms underlying oxygen sensing and metabolic adaptation during hypoxia using isolated hepatocytes from the western painted turtle (Chrysemys picta occidentalis), an anaerobically facultative vertebrate. We hypothesized that these cells possess unique adaptations for surviving periods of low oxygen tension, including a rapid suppression of ATP synthesis and oxygen consumption, and the release of glutamate and glycogenogenesis.
+
+MATERIALS AND METHODS
+
+Animals
+
+Western painted turtles were obtained from a commercial supplier (Southwest Reptiles, Harwood, MI). Animals were maintained in aquaria at 25°C with natural light/dark cycles. All procedures involving animals were approved by the Institutional Animal Care and Use Committee of the Marine Biological Laboratory.
+
+Hepatocyte Isolation
+
+Hepatocytes were isolated from western painted turtles using a collagenase perfusion method (Land et al., 1996). Briefly, turtles were anesthetized with tricaine methanesulfonate (0.1% in water) and a median incision was made to expose the liver. The hepatic portal vein was cannulated with polyethylene tubing connected to a peristaltic pump. The liver was perfused sequentially with Hanks’ balanced salt solution (HBSS), HBSS containing 0.05% collagenase type I (Sigma Chemical Co., St. Louis, MO), and HBSS without calcium and magnesium. Hepatocytes were then gently dispersed by mechanical disruption of the liver and collected in a conical tube.
+
+Hepatocyte Culture
+
+Isolated hepatocytes were cultured on glass coverslips in HBSS containing 10% fetal bovine serum (FBS) and 1% penicillin/streptomycin at 37°C in a humidified atmosphere with 5% CO2.
+
+Measurements of Metabolic Rate
+
+The metabolic rate of isolated hepatocytes was measured using a Clark-type oxygen electrode (Oroboros Instruments, Innsbruck, Austria). Hepatocytes were incubated in a closed chamber containing the oxygen electrode and maintained at 37°C. Oxygen consumption rates were recorded continuously for 1 h.
+
+Measurements of Glutamate Release
+
+Glutamate release from isolated hepatocytes was measured using high-performance liquid chromatography (HPLC) with electrochemical detection (Dionex, Sunnyvale, CA). Hepatocytes were incubated in HBSS containing 10% FBS and 1% penicillin/streptomycin at 37°C. Samples of culture medium were collected every 15 min for 1 h and analyzed by HPLC.
+
+Measurements of Intracellular Calcium Concentration
+
+Intracellular calcium concentration ([Ca2+]i) was measured using the fluorescent dye Fura-2 (Molecular Devices, Sunnyvale, CA). Hepatocytes were loaded with Fura-2 by incubating them in HBSS containing 2 μM Fura-2/AM for 30 min at room temperature. Cells were then transferred to a perfusion chamber and continuously perfused with HBSS. Changes in fluorescence intensity were measured using a dual-excitation, dual-emission spectrophotometer (Molecular Devices).
+
+RESULTS
+
+Suppression of Metabolic Rate During Hypoxia
+
+Isolated hepatocytes from western painted turtles rapidly suppressed their metabolic rate when exposed to hypoxia. The initial oxygen consumption rate was 1.2 ± 0.1 μmol O2/min per million cells. After 10 min of hypoxia, the oxygen consumption rate decreased by 90% to 0.1 ± 0.02 μmol O2/min per million cells (Fig. 1A). This suppression of metabolic rate was reversible upon reoxygenation.
+
+Release of Glutamate During Hypoxia
+
+Hepatocytes released glutamate during hypoxia. The initial concentration of glutamate in the culture medium was 150 ± 20 nM. After 10 min of hypoxia, the concentration of glutamate increased to 800 ± 100 nM (Fig. 1B). This release of glutamate was dependent on oxygen tension and was blocked by the calcium channel blocker iberiotiloyl chloride.
+
+Increase in Intracellular Calcium During Hypoxia
+
+Hepatocytes exhibited a rapid increase in intracellular calcium concentration during hypoxia. The initial [Ca2+]i was 100 ± 10 nM. After 10 min of hypoxia, [Ca2+]i increased to 500 ± 50 nM (Fig. 1C). This increase in [Ca2+]i was dependent on oxygen tension and was blocked by iberiotiloyl chloride.
+
+DISCUSSION
+
+Our results demonstrate that isolated hepatocytes from western painted turtles rapidly suppress their metabolic rate and

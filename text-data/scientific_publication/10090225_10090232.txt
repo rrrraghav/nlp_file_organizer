@@ -1,0 +1,42 @@
+8
+
+HK907096
+
+[Page number] 896.
+
+890
+
+The Metabolism of [14C]Nicotine in the Cat
+
+By D. J. TURNER
+
+Tobacco Research Council Ltd, Harrogate, Yorks.
+
+(Received 5 August 1969)
+
+The metabolism of [14C]nicotine given as an intravenous injection in small doses to unanaesthetized and unrestrained cats has here been studied. A method is described for the quantitative determination of [14C]nicotine and its metabolites in tissues and body fluids. Small amounts of low-molecular-weight compounds have been detected, but no evidence of their structure. The radioactivity appearing in the urine within 2 hr., but only 1% of the radioactivity was unchanged nicotine. [14C]Nicotine appeared rapidly in the blood within 5 min., its maximum importance. [14C]Nornicotine appears in the blood and urine, and is responsible for most of the radioactivity still represented as [14C]nicotine. Metabolites of [14C]nicotine have here identified in liver and urine extracts. A trace of [14C]cotinine has been detected in both liver and urine.
+
+The major metabolic pathways and oxidation products of nicotine have been elucidated for a number of species, including man (Okraina, 1962; Popadopulos & Kinchen, 1962). The metabolism of nicotine is influenced by the strain and sex of the animal, as well as by diet. It has been shown that the rate of nicotine metabolism can be altered by changes in liver blood concentrations of nicotine and how long these concentrations are maintained. A method was developed for the quantitative determination of small amounts of nicotine and cotinine in body fluids and tissues after administration of [14C]nicotine.
+
+MATERIALS AND METHODS
+
+[14C]-Nicotine hydrobromide was obtained in the 2nd batch from Amersham International, Ltd. The specific activity was 38 mCi/mmole or 0.97 Ci/mmol. All reagents were of AnalaR grade and used without further purification.
+
+The metabolism of [14C]nicotine was studied in four adult male cats weighing between 2.5 and 3.5 kg. The animals were housed individually in metabolic cages with free access to food and water ad libitum. They were allowed a period of acclimatization before the experiments began. Nicotine hydrobromide was dissolved in sterile saline, and [14C]nicotine was added to give a final concentration of 0.25 µCi/ml. Each cat received an intravenous injection of 1 ml/kg body weight of this solution via the femoral vein under light ether anaesthesia. The animals were allowed to recover from the anaesthetic before being returned to their cages. Urine collections were made at intervals commencing immediately after the injection, and blood samples (5 ml) were taken from the femoral artery at 5-min. intervals for 30 min., then at 15-min. intervals up to 2 hr. After this, blood samples were taken hourly until 24 hr.
+
+The animals were killed by an intravenous injection of pentobarbitone sodium 24 hr after the nicotine injection. The liver, kidneys, lungs and brain were removed and weighed. Samples of these tissues were minced and extracted with 5 volumes of water containing 0.1% sodium metabisulphite to prevent oxidation. The extracts were filtered through Whatman No. 42 paper and analysed for radioactivity by liquid scintillation counting in a Philips PW-26 counter using toluene as the solvent and POPOP as the scintillant.
+
+RESULTS
+
+The results obtained are summarized in Table 1. The rapid appearance of [14C]nicotine in the blood is shown in Fig. 1. The maximum concentration of radioactivity in the blood occurred within 5 min after injection, and was followed by a gradual decline. [14C]Nornicotine appeared in the blood at approximately the same time as [14C]nicotine, and reached a maximum concentration about 15 min after injection.
+
+TABLE 1
+Distribution of Radioactivity in Tissues and Urine of Cats 24 hr after Intravenous Injection of [14C]Nicotine (0.25 µCi/kg)
+
+[Table data follows]
+
+
+
+Fig. 1. Time curve for the appearance of [14C]nicotine and [14C]nornicotine in the blood of cats after intravenous injection of [14C]nicotine.
+
+[Graph follows]

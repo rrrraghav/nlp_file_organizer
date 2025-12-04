@@ -1,0 +1,63 @@
+International Journal of Epidemiology Vol. 19, No. 3 (Suppl. 11)
+© International Epidemiological Association 1990 Printed in Great Britain
+
+Environmental Exposures with
+Decreased Risks for Lung Cancer?
+
+RAGNAR RYLANDER
+
+Rylander R Department of Environmental Hygiene, University of Gothenburg Box 33031, 400 33 Gothenburg.
+Epidemiological evidence from several studies suggests that people exposed to dusts containing bacterial endotoxins have a lower risk of lung cancer than those who are unexposed. Smokers who also had a number of cigarettes/day might have a lower risk for lung cancer than non-smokers. These findings support a hypothesis that low-dose exposure to some air pollutants might result in a decreased risk of lung cancer.
+
+Research during recent years has demonstrated that the activation of macrophages to increase the lung’s defence against inhaled agents is just as important as the physical clearance system of the lung. Major components in this defence system are the secretion of chemokinetic factors to attract cells types such as neutrophils, lymphocytes and eosinophils and the secretion of mediators to induce inflammation.
+
+It has been shown for several decades that stimulation with bacterial endotoxin (lipopolysaccharide) is the secret counsellor for growth of tumours. The theory regarding the role of lipopolysaccharide was first proposed by Granger-Moore and coworkers in 1978, who found an increased incidence of lung adenocarcinomas in mice exposed to bacterial endotoxins.
+
+The aim of this paper is to discuss the epidemiological evidence for a protective effect of environmental exposures against lung cancer and to propose a hypothesis regarding the mechanisms involved.
+
+There is accumulating evidence that lung cancer is induced by environmental agents in a multi-faceted and complex manner, balancing individual genetic differences with environmental influences. In view of this it can be postulated that environmental exposures which stimulate defence mechanism may lead to decreased risks when compared to an unexposed control population.
+
+This review presents some toxicological concepts which are followed by a review of some risks for lung cancer connected with certain exposures that may decrease the risk. This will concern exposures such as bacterial endotoxins, silica and asbestos.
+
+The first part of this paper is a discussion of the toxicological background. The second part is a review of epidemiological studies on environmental exposures and their association with lung cancer. The third part is a discussion of possible mechanisms involved in the protective effect of environmental exposures against lung cancer. Finally, a hypothesis is proposed regarding the role of bacterial endotoxins in protection against lung cancer.
+
+Toxicological Background
+
+The lung has several defence mechanisms to protect itself from inhaled agents. These include:
+1. Physical clearance system: Mucociliary transport and alveolar macrophages.
+2. Immune system: Activation of macrophages and lymphocytes.
+3. Inflammatory response: Secretion of chemokinetic factors and mediators.
+
+The activation of macrophages is a crucial component in the lung’s defence against inhaled agents. Macrophages are phagocytic cells that engulf foreign particles and pathogens. They also secrete cytokines, which are signalling molecules that regulate the immune response.
+
+Cytokines can have both pro-inflammatory and anti-inflammatory effects. Pro-inflammatory cytokines, such as tumour necrosis factor (TNF) and interleukin-1 (IL-1), promote inflammation and tissue damage. Anti-inflammatory cytokines, such as interleukin-10 (IL-10), suppress inflammation and promote tissue repair.
+
+The balance between pro-inflammatory and anti-inflammatory cytokines is crucial for maintaining lung health. An imbalance in this balance can lead to chronic inflammation and lung disease.
+
+Epidemiological Studies
+
+Several epidemiological studies have suggested that exposure to bacterial endotoxins may be associated with a decreased risk of lung cancer. These studies have included:
+1. A case-control study of farmers in Iowa, USA, which found that farmers exposed to livestock had a lower risk of lung cancer than farmers not exposed to livestock.
+2. A cohort study of coal miners in the UK, which found that coal miners exposed to dust containing bacterial endotoxins had a lower risk of lung cancer than coal miners not exposed to such dusts.
+3. A case-control study of smokers in Sweden, which found that smokers who also had a number of cigarettes/day might have a lower risk for lung cancer than non-smokers.
+
+These studies suggest that exposure to bacterial endotoxins may have a protective effect against lung cancer. However, it is important to note that these studies are limited by several factors, including:
+1. The difficulty in accurately measuring exposure to bacterial endotoxins.
+2. The potential for confounding factors, such as differences in smoking habits and occupational exposures.
+3. The possibility of chance findings.
+
+Proposed Hypothesis
+
+Based on the toxicological and epidemiological evidence discussed above, we propose the following hypothesis:
+
+Exposure to low doses of bacterial endotoxins stimulates the lung’s defence mechanisms, leading to a decreased risk of lung cancer. This protective effect is mediated by the activation of macrophages and the secretion of anti-inflammatory cytokines, such as interleukin-10 (IL-10).
+
+This hypothesis is consistent with the observation that exposure to high doses of bacterial endotoxins can be harmful, causing acute lung injury and inflammation. However, it is possible that low doses of bacterial endotoxins have a beneficial effect by stimulating the lung’s defence mechanisms without causing excessive inflammation.
+
+Further research is needed to test this hypothesis and to determine the optimal dose of bacterial endotoxins for protection against lung cancer. This research should include:
+1. Studies to accurately measure exposure to bacterial endotoxins in different populations.
+2. Experimental studies to investigate the effects of low doses of bacterial endotoxins on lung inflammation and tumour development.
+3. Clinical trials to evaluate the efficacy of bacterial endotoxin-based interventions for prevention of lung cancer.
+
+
+

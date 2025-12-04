@@ -1,0 +1,60 @@
+³H-Post-labeling analysis of DNA adducts formed in the livers of animals treated with safrole, estragole and other naturally-occurring alkylbenzenes. II. Newborn male B6C3F₁ mice
+
+David H. Phillips, M. Vijayarry Reddy¹ and Kurt Randerath²
+
+Cheer Botany Laboratories, Cancer Center of Southwestern Royal Cancer
+Hospital, London SW3 6LY, UK and Department of
+Pathology, Baylor College of Medicine, Houston, TX 77020, USA
+
+When a series of alkylbenzenes were administered to
+pre-treated male mice, safrole and methylugenol
+induced a significant incidence of hepatic carcinomas, while
+estragole, eugenol, methyleugenol, dill oil and parsley
+oil did not (Miller et al., Cancer Res., 43, 1124–1134, 1983).
+To investigate the formation of DNA adducts in these com-
+pounds, male C3H/B6F₁ mice were injected with
+0.25, 0.5, 1.0 and 3.0 µmol of a compound on days 1, 3, 5,
+7 and 9 after birth. Animals were killed on days 21, 24 and
+27 and their livers isolated on days 23, 26 and 29 and
+analyzed for ³H-post-labeled DNA adducts. The highest
+levels of adducts were detected with propytene (72±7 nmol/g DNA), estragole (30 ± 4 nmol/g DNA)
+and safrole (18 ± 2 nmol/g DNA). Significant amounts of
+DNA adducts were present at the same time as the
+levels of proteins that bind to DNA (3.0 fmol/g DNA) and
+ducts were less persistent. Only low levels of DNA ad-
+ducts were detected with methylugenol, dill oil and par-
+sley oil. 1′-hydroxyestragole and 1′-hydroxysafrole were
+isolated from the livers of animals treated with estragole
+and safrole, respectively. These compounds could not be
+separated from estragole and safrole by gas chromatog-
+raphy but were separated by high-performance liquid
+chromatography. 1′-hydroxyestragole and 1′-hydroxysafrole were chromato-
+graphically indistinguishable from those obtained when the
+parent compounds, estragole and safrole, respectively, were reacted with dioxobutlenes (14, 15).
+There is now strong evidence for the formation of the
+sulfate ester of 1′-hydroxysafrole as the ultimate car-
+cinogenic form of 1′-hydroxysafrole in mouse liver (16, 17).
+A major feature common to most carcinogens is the
+covalent binding of their ultimately-reactive metabolites
+to DNA (17). In the accompanying paper (18), we describe the
+development of a ³H-post-labeling analysis recently developed
+in one of our laboratories (9–12) for the detection of
+alkylbenzeno-DNA adducts in the livers of safrole
+CD-1 mice following a single i.p. injection of test compound.
+However, to minimize variability, animals were frequently
+treated with multiple treatments or continuous administra-
+tion of test compounds. Because post-labeling analysis does
+not require large amounts of DNA, we have extended the
+detection of carcinogen-DNA adducts formed in vivo for its
+use in a study applicable to examining levels and persis-
+tence of adducts formed by multiple treatments or con-
+tinuous administration. Because this can be done with a
+relatively small number of animals, the method is suited
+to allow experiments which would otherwise require a large
+number of animals, such as shown in a study following
+multiple injections protocol in male C3H/B6F₁ mice (Fig. 1).
+
+Carcinogenesis vol.5 no.12 pp.1623–1638, 1984
+
+
+

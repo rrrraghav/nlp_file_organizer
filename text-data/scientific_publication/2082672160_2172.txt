@@ -1,0 +1,73 @@
+Japanese Journal of Physiology, Vol. 31, pp. 117-123, 1981
+
+Prediction of the Carbomonomethyloglobin Levels during and after Carbon Monoxide Exposures in Various Animal Species
+
+HiRO TSUKAWA, Yoshihiro UEDA, Kazuo BANZAI,
+and Hiroaki KOSAKA
+
+Department of Physiology, Medical School,
+Osaka University, Osaka 560
+
+Abstract: The equation derived by COUGHLIN, FORSYTH, and KAINE (1965)
+for the rate of elimination of inspired carbon monoxide was
+solved analytically with less restrictive assumptions. This solution can
+predict the carboxyhemoglobin (COHb) levels during and after exposures of 50 to 500 ppm
+CO in rats with reasonable accuracy, provided that the CO elimination by breathing is proportional
+to the arterial blood CO concentration. The equation also predicts that the mass
+and hemoglobin concentration. It has been shown that the rate of both
+processes are inversely proportional to body mass; the smaller the animal, the faster the rate of joint absorption
+and elimination.
+
+A number of papers have been published on the prediction of the carboxy-
+hemoglobin (COHb) levels resulting from CO exposures by using
+theoretical equations (COUGHLIN et al., 1965; PARE et al., 1968;
+FORSYTH et al., 1969). In 1965 COUGHLIN, FORSYTH, and KAINE derived
+a new differential equation (CFK equation) which describes the
+elimination of inspired carbon monoxide. The CFK equation was successfully used in a study of endogenous
+CO production.
+
+In principle, however, the CFK solution cannot be applied to the prediction of COHb levels during and after exposures of high concentrations. Based on
+the assumption that the rate of CO elimination is proportional to 0.1*sqrt(COHb),
+FORSYTH and STRAW (1970) were capable of solving the CFK equation
+for the purpose of predicting the COHb levels in man during and after exposures.
+Therefore, they obtained a solution for the CFK equation
+which allows for the prediction of COHb levels during and after exposures.
+
+In the present study, we have solved the CFK equation analytically with
+less restrictive assumptions than those used by FORSYTH and STRAW (1970).
+The purpose of this paper is to describe the solution and to show its application
+to the prediction of COHb levels in rats during and after exposures.
+
+Materials and Methods
+
+Adult male Sprague-Dawley rats weighing 250-350 g were used in these experiments.
+The animals were anesthetized with pentobarbital (40 mg/kg) and tracheotomized.
+A carotid artery was cannulated for the measurement of arterial blood COHb levels.
+The animals were placed in a metabolic chamber, and inspired air was replaced
+with gas mixtures containing 0, 50, 250, or 500 ppm CO. The concentrations
+of CO were verified by mass spectrometry. Arterial blood samples were taken
+at 1-min intervals throughout the experiment.
+
+Results
+
+The solution of the CFK equation is shown in Figure 1. The equation
+is based on the following assumptions: (1) the rate of elimination of inspired
+CO is proportional to arterial blood CO concentration, and (2) the mass
+and hemoglobin concentration are constant.
+
+Figure 2 shows the predicted COHb levels during and after exposures
+of 50 ppm CO in rats. The predicted values agree reasonably well with the
+experimental values. Figure 3 shows the predicted COHb levels during and after
+exposures of 250 ppm CO in rats. Again, the predicted values agree reasonably
+well with the experimental values.
+
+Discussion
+
+The solution of the CFK equation presented here allows for the prediction
+of COHb levels during and after exposures of high concentrations of CO in rats.
+The accuracy of the predictions depends on the validity of the assumptions
+made. The assumption that the rate of elimination of inspired CO is proportional
+to arterial blood CO concentration appears to be reasonable, at least for
+exposures of up to 500 ppm CO.
+
+208/2126/80

@@ -1,0 +1,88 @@
+BOR 881-A-911
+
+V-TARGET STUDY
+Screening Questionnaire
+
+
+
+January, 1982
+
+Hello, I'm... We’re conducting a short survey and
+would like to speak to any (MALE) in the house 16 (M/H/B) [b] between the ages of
+21 and 55.  (If no one is available, please ask when we can return.)
+NOTE: ONLY ONE PERSON PER HOUSEHOLD MAY BE INTERVIEWED. CHECK BOX PERSON BEING
+INTERVIEWED.
+
+Male ( ) Female ( )
+
+1a. Which of the following best describes your age? (READ LIST)
+
+Under 21 .................... (TERMINATE, RE-USE)
+21 - 24 .................... (CONTINUE FOR
+25 - 30 .................... (TARGET GROUPS) V-TARGET GROUPS)
+31 - 40 ....................
+41 - 49 ....................
+50 - 55 .................... (TERMINATE, RE-USE)
+56 or over ....................
+
+(INTERVIEWERS: ON THE MALE AND FEMALE V-TARGET GROUPS, ALL RESPONDENTS MUST BE AGED 21-35 YEARS.
+ON THE MALE AND FEMALE V-TARGET GROUPS, ALL RESPONDENTS MUST BE AGED 21-35 YEARS.)
+
+1b. How many cigarettes, if any, do you smoke in an average day? (DO NOT READ LIST)
+
+None .................... (TERMINATE, RE-USE)
+1 to 5 .................... (CONTINUE WITH G.)
+6 to 10 ....................
+11 to 15 .................... (CONTINUE WITH G.)
+16 or more ....................
+
+1c. Do you regularly smoke:
+
+Filter cigarettes, or ... (CONTINUE WITH D.)
+(TERMINATE, RE-USE)
+Non-filter cigarettes?
+1d. Do you regularly smoke:
+
+Montreal cigarettes, or ... (TERMINATE, RE-USE)
+(CONTINUE WITH E.)
+Hand-rolled cigarettes?
+
+1e. Do you usually smoke:
+
+U.S. cigarettes, or ... (CONTINUE WITH F.)
+(TERMINATE, RE-USE)
+Canadian cigarettes?
+
+1f. Do you smoke any other kinds of cigarettes?
+
+Yes .................... (CONTINUE WITH H.)
+No .................... (GO TO QUESTION 2.)
+
+1g. What other kinds of cigarettes do you smoke?
+
+__________________________________________________________
+
+1h. About how much do you spend on cigarettes each month?
+
+$0 - $5 .................... (GO TO QUESTION 2.)
+$6 - $10 ....................
+$11 - $15 ....................
+$16 - $20 ....................
+$21 or more .................... (GO TO QUESTION 2.)
+
+2. Do you drink beer?
+
+Yes, regularly .................... (CONTINUE WITH I.)
+No, not regularly .................... (GO TO QUESTION 3.)
+
+2a. How many days a week do you usually drink beer?
+
+1 day .................... (CONTINUE WITH J.)
+2 days ....................
+3 days ....................
+4 days ....................
+5 or more days .................... (GO TO QUESTION 3.)
+
+
+
+(INTERVIEWERS:  IF RESPONDENT IS A V-TARGET, GO TO QUESTION 6.)

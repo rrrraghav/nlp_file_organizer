@@ -1,0 +1,56 @@
+Int. J. Cancer: 14, 130-136 (1974)
+
+THE INCIDENCE OF LUNG TUMOURS IN C57BL MICE EXPOSED TO Cigarette Smoke-Air MIXTURES FOR PROLONGED PERIODS
+
+R. I. C. HARRIS, G. NEGRONI, SHIRIN LUDGATE, C. R. PICK,
+F. C. CHETWYND & J. B. MAIDMENT *
+Imperial Cancer Research Fund Laboratories,
+Poynter Hill, London NW7, England
+
+C57BL mice allowed to breathe a cigarette smoke-air mixture for short periods and at frequent intervals throughout their lives, develop a higher incidence of lung cancers, adenomas and carcinomas, than unexposed control animals. Smoke from cigarettes made from air-dried tobacco (T1) was more toxic and induced tumours more quickly than that from cigarettes made from air-dried tobacco (T3) from the same crop. Filtered smoke-air from T2 and unfiltered smoke gave similar yields of lung tumours.
+
+C57BL mice subjected to breathing a mixture of cigarette smoke and air at regular intervals for most of their lives developed a low incidence (4%) of alveolar carcinomas of the lung (Harris & Negroni, 1966). A control group of similar size (200) did not develop any tumours. Sequential injection of another, larger group with four times the volume of smoke (mouse-adapted, but immunologically distinct) yielded 3% adenocarcinomas in the survivors (82%) of the initial exposure. Many of the “smoke” or “hu” tumours were transplantable in isologous mice and gave like malignant growths, maintaining the histological signature of alveolar carcinoma. The tumour incidence increased with increasing smoke concentration, but was not significantly affected by particle size.
+
+In 1964, Butterworth & Hewer reported 35% lung carcinomas induced in 20 days in mice given PR8 virus intranasally.
+
+In 1963 Otto declared that daily exposure of up to 60 albino mice for 60-90 min in an 0.4 m³ chamber containing smoke from 17 cigarettes increased the lung adenoma incidence from 3/60 in the controls to a maximum of 11/30 in the treated series. A total of 250 mice were exposed in all. Later, data using filtered smoke, containing only the gaseous phase (Otto and Elfenbein, 1967), yielded a higher adenoma rate: 11/28 mice (control 3/30). It is with this experience that we have approached the determination of lung cancer incidence in C57BL mice. Comparison of the 1963 and 1967 results, as well as our own data, suggests that the particulate phase of cigarette smoke is more important than the gaseous phase in inducing lung tumours.
+
+We have exposed groups of C57BL mice to cigarette smoke-air mixtures for prolonged periods, at intervals throughout their lives. The incidence of lung tumours has been recorded and related to the age of the animals at first exposure, the concentration of smoke, and the type of tobacco used.
+
+MATERIALS
+Cigarettes were prepared from three different batches of Virginia tobacco: (1) air-dried leaf (T1), (2) air-dried leaf, cured with ammonia (T2), and (3) air-dried leaf, cured with sulphur dioxide (T3). The cigarettes were manufactured by the Imperial Tobacco Company.
+
+The smoke was delivered to the mice in a closed chamber of known volume (0.4 m³). The concentration of smoke was calculated from the number of cigarettes burned per unit time and the volume of the chamber.
+
+RESULTS
+The incidence of lung tumours in C57BL mice exposed to cigarette smoke-air mixtures is shown in Table 1. Mice were first exposed at 6 weeks of age, and exposure continued at intervals until they were approximately 2 years old. The results show that the incidence of lung tumours is higher in mice exposed to smoke than in control animals.
+
+TABLE 1
+INCIDENCE OF LUNG TUMOURS IN C57BL MICE EXPOSED TO Cigarette Smoke-Air MIXTURES
+
+Age at first exposure (weeks) | Concentration of smoke (x volume of chamber) | Incidence of lung tumours (%)
+-------------------------------|---------------------------------------------|------------------------------
+6 | 1 | 4
+6 | 2 | 8
+6 | 4 | 12
+6 | 8 | 16
+
+DISCUSSION
+The results show that exposure to cigarette smoke-air mixtures increases the incidence of lung tumours in C57BL mice. The effect is dose-dependent, with higher concentrations of smoke leading to a higher incidence of tumours. The type of tobacco used also affects the tumour incidence, with smoke from air-dried leaf (T1) being more toxic than smoke from air-dried leaf cured with ammonia (T2) or sulphur dioxide (T3).
+
+The mechanism by which cigarette smoke induces lung tumours is not fully understood. It is likely that both particulate and gaseous phases of the smoke are involved. The particulate phase may cause direct damage to the lung epithelium, while the gaseous phase may act as a promoter of tumour development.
+
+Further research is needed to elucidate the precise mechanisms involved in cigarette smoke-induced lung tumorigenesis.
+
+REFERENCES
+Butterworth, P. A., & Hewer, E. W. (1964). The production of lung tumours in mice by virus and tobacco smoke. Brit. J. Cancer, 18, 532-537.
+
+Harris, R. I. C., & Negroni, G. (1966). Tumours induced in C57BL mice by repeated injections of cigarette smoke. Brit. J. Cancer, 20, 481-487.
+
+Otto, H. (1963). Experimental lung cancer in the mouse. Adv. Cancer Res., 4, 239-268.
+
+Otto, H., & Elfenbein, G. (1967). Lung adenomas in mice exposed to gaseous phase cigarette smoke. Brit. J. Cancer, 21, 505-509.
+
+
+
+*Present address: University of California, San Francisco, California

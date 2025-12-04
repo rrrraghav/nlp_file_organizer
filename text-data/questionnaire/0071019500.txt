@@ -1,0 +1,36 @@
+CIGARETTE TEST NO. 77-30
+
+Name Location
+
+You have been given two packs of cigarettes, one pack labeled "J" and one pack labeled “Q”.
+Please smoke these cigarettes and complete and return the questionnaire to your Panel
+Supervisor by Wednesday, August 24.
+
+1. Which cigarette do you prefer? ( ) "J" Brand ( ) "Q" Brand ( ) No Choice ( )
+
+2. Comments:
+
+3. Using the five-point rating scale below, how would you rate the individual characteristics
+for these two brands:
+
+         TOBACCO TASTE                MILONESS
+    Too          About           Too        Too       About            Too
+    Much         Right             Little     Strong   Right              Mild
+Brand "J" (1) (2) (3) (4) (5)  (1) (2) (3) (4) (5)
+Brand “Q” (1) (2) (3) (4) (5)  (1) (2) (3) (4) (5)
+
+         BURNING QUALITY                DRAW
+    Too          About           Too        Too       About            Too
+    Fast          Right             Slow      Hard     Right              Easy
+Brand "J" (1) (2) (3) (4) (5)  (1) (2) (3) (4) (5)
+Brand “Q” (1) (2) (3) (4) (5)  (1) (2) (3) (4) (5)
+
+4. All things considered, if you were to make out a report card on the "J" Brand, the
+“Q” brand, and your own brand using the grading system A through F, where A is excellent
+and F is totally unsatisfactory, how would you grade?
+
+       Brand “J”   A  B  C  D  E  F
+       Brand “Q”   A  B  C  D  E  F
+      Own Brand    A  B  C  D  E  F
+
+Thank you for your cooperation.

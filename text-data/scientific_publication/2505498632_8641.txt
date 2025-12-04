@@ -1,0 +1,201 @@
+Cotinine Analytical Workshop Report:
+Consideration of Analytical Methods for
+Determining Cotinine in Human Body Fluids
+as a Measure of Passive Exposure to
+Tobacco Smoke*
+
+by Randall R. Watts,† John J. Langone,‡ George J. Knight,§
+and Joellen Rewtas¶
+
+A two-day technical workshop was convened November 10–11, 1986, to discuss analytical approaches for determining the measurements of cotinine in human body fluids, resulting from one’s exposure to environmental tobacco smoke (ETS). The workshop, sponsored by the U.S. Environmental Protection Agency and Centers for Disease Control, was attended by scientists with expertise in cotinine analysis, toxicology, epidemiology, and risk assessment related
+to ETS. The workshop format included technical presentations, separate panel discussions
+on analytical methods, biological monitoring, and exposure assessment, and a final summary
+consensus opinion on quality control aspects of passive smoking programs. This report presents
+a consensus of the opinions expressed by the workshop participants and details the major
+conclusions of the analytical approaches used by the various investigators discussed
+separately.
+
+Introduction
+
+Environmental tobacco smoke (ETS) has increases- reported an association between tobacco smoke expo-
+ingly become a health concern since a series of epide- sure and increased risk of human lung cancer. Hum-
+miological studies between 1951 and 1969 (1–4). an and coworkers (8) recently confirmed the health
+risk conclusions of earlier researchers and reported
+*“Chairperson”: J. Rewtas, EPA, Research Triangle Park, NC.
+†Randall R. Watts, Ph.D., Tobacco Smoke Research Institute,
+Spartanburg, SC; Toxicology Alliance, Inc., solved speaker/panel participant.
+‡John J. Langone, M.D., New York University Medical Center,
+New York, NY; National Cancer Institute, Bethesda, MD.
+§George J. Knight, Ph.D., Hoffmann-LaRoche, Inc., Nutley, NJ.
+¶Joellen Rewtas, U.S. Environmental Protection Agency, Research
+Triangle Park, NC; Toxicology Alliance, Inc., solved speaker/panel participant.
+
+that people who had never smoked were more likely to
+smokers had about a 2-fold increased risk of lung
+cancer.
+
+Methods for determining the degree of exposure of
+individuals has received much attention in recent
+years, and various biological markers have been stud-
+ied to analyze individuals for their determination
+of ETS exposure. Cotinine, a metabolite of nicotine,
+is an appropriate biomarker because it is relatively
+stable in body fluids, can be measured with high
+sensitivity, and is not produced endogenously (9).
+
+The workshop participants agreed that cotinine
+measurements in human body fluids could provide
+useful information about the extent of passive smok-
+ing exposure. However, they also recognized that
+the accuracy and reliability of such measurements
+depend on several factors, including: 1) the quality
+of the analytical methods used; 2) the biological
+factors that influence cotinine concentrations in
+body fluids; and 3) the interpretation of results
+in relation to exposure.
+
+The purpose of this workshop was to address these
+issues and to develop recommendations for improv-
+ing the use of cotinine measurements as a tool for
+assessing passive smoking exposure. The following
+topics were discussed:
+
+1. Analytical methods for measuring cotinine in
+human body fluids.
+2. Biological factors that influence cotinine con-
+centrations.
+3. Interpretation of results and relationship to
+exposure.
+4. Quality control procedures for ensuring the
+accuracy and reliability of measurements.
+
+Analytical Methods
+
+Several analytical methods have been developed for
+measuring cotinine in human body fluids, including
+high-performance liquid chromatography (HPLC) with
+electrochemical detection, gas chromatography–mass
+spectrometry (GC–MS), and radioimmunoassay
+(RIA). Each method has its advantages and disad-
+vantages.
+
+HPLC–EC is a relatively simple and inexpensive
+method that can be used to measure cotinine in a
+variety of body fluids. However, it has lower sensitiv-
+ity than GC–MS or RIA, and it may be subject to
+interference from other compounds in the sample.
+
+GC–MS is a more sensitive method that can be
+used to identify and quantify cotinine with high
+accuracy. However, it requires specialized equipment
+and expertise, and it may be time-consuming.
+
+RIA is a highly sensitive method that can be used
+to measure cotinine in small volumes of body fluids.
+However, it may be subject to interference from non-
+cotinine compounds that cross-react with the anti-
+body, and it may require frequent standardization.
+
+Workshop participants agreed that HPLC–EC was
+the most widely used method for measuring cotinine
+in human body fluids, but they also recognized that
+GC–MS and RIA could provide more accurate results
+under certain circumstances. They recommended that
+laboratories select the analytical method best suited
+to their needs and resources, and that they validate
+their methods to ensure accuracy and reliability.
+
+Biological Factors
+
+Cotinine concentrations in human body fluids are
+influenced by a number of biological factors, including
+age, sex, smoking habits, diet, and metabolism.
+
+Age: Cotinine concentrations tend to be higher in
+children than in adults (10). This may be due to the
+fact that children have smaller lung volumes and
+may inhale more ETS per breath than adults.
+
+Sex: Women tend to have higher cotinine concen-
+trations than men (11). This may be due to differ-
+ences in metabolic rates or body composition.
+
+Smoking habits: Cotinine concentrations are
+directly related to the amount of tobacco smoke a
+person is exposed to (12). Smokers generally have
+much higher cotinine concentrations than nonsmokers.
+
+Diet: Certain foods, such as broccoli and cabbage,
+contain compounds that can interfere with cotinine
+measurements (13). Therefore, it is important to
+consider dietary factors when interpreting results.
+
+Metabolism: Cotinine is metabolized by the liver
+and excreted in the urine (14). Individuals who are
+fast metabolizers may have lower cotinine concen-
+trations than slow metabolizers.
+
+Workshop participants agreed that these biological
+factors should be considered when interpreting
+cotinine measurements. They recommended that
+laboratories collect information about potential con-
+founding factors and adjust their results accordingly.
+
+Interpretation of Results
+
+Cotinine measurements can provide valuable infor-
+mation about passive smoking exposure, but they
+must be interpreted with caution. Cotinine concen-
+trations are influenced by a number of factors, as
+discussed above, and it is difficult to determine the
+exact amount of tobacco smoke a person has been
+exposed to based on cotinine measurements alone.
+
+Workshop participants agreed that cotinine measure-
+ments should be used in conjunction with other
+information about exposure, such as questionnaires
+and environmental monitoring data. They also rec-
+ommended that laboratories provide clear and concise
+reports that explain the limitations of cotinine mea-
+surements and the factors that can influence results.
+
+Quality Control Procedures
+
+Quality control procedures are essential for ensuring
+the accuracy and reliability of cotinine measurements.
+These procedures should include:
+
+1. Use of validated analytical methods.
+2. Participation in proficiency testing programs.
+3. Regular calibration of equipment.
+4. Use of quality control samples.
+5. Documentation of all procedures.
+
+Workshop participants agreed that laboratories
+should implement these quality control procedures to
+ensure the accuracy and reliability of their cotinine
+measurements. They also recommended that regula-
+tory agencies establish standards for laboratory qual-
+ity and accreditation.
+
+Conclusions
+
+Cotinine measurements can provide valuable infor-
+mation about passive smoking exposure, but they
+must be interpreted with caution. Laboratories
+should use validated analytical methods, consider
+biological factors that influence cotinine concen-
+trations, and implement quality control procedures
+to ensure the accuracy and reliability of their mea-
+surements. Regulatory agencies should establish
+standards for laboratory quality and accreditation.
+
+References
+
+1. Wynder, C. L., and I. Graham. 1950. Tobacco smoking and lung cancer. Br. Med. J. 2: 734–737.
+2. Doll, R., and A. Hill. 1950. Smoking and Carcinoma of the Lung; Preliminary Report. BMJ 287:871-875.
+3. Bradford, F. C., W. C. Sievers, H. Hiatt, and J. B. Waters. 1956. Tobacco smoking and lung cancer in a historical cohort. Ann. N.Y. Acad. Sci. 72: 40–58.
+4. Hammond, E. C., and T. Horn. 1959. Smoking and associated causes of death. Public Health Monogr. 14 (Suppl.).
+5. U.S. Environmental Protection Agency. 1986. External Review Draft: Biological Effects of Passive Smoking Exposure. Washington, DC.
+6. U.S. Department of Health and Human Services. 1986. The Health Consequences of Involuntary Smoking. DHHS Publication No. 86-1273. Rockville, MD.
+7. Wynder, C. L., A. Richman, D. B

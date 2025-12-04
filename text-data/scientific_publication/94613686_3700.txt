@@ -1,0 +1,31 @@
+[CANCER RESEARCH 56: 4023-4027, September 15, 1996]
+
+Perspectives in Cancer Research
+
+Molecular Epidemiology of Human Cancer: Contribution of Mutation Spectra Studies of Tumor Suppressor Genes
+
+S. Parvez Hussain and Curtis C. Harris
+
+Department of Pathology, University of Maryland School of Medicine, Baltimore, Maryland 21201 (S. P. H.) and Laboratory of Human Carcinogenesis, National Cancer Institute, NIH, Bethesda, Maryland 20892 (C. C. H.)
+
+Molecular Epidemiology
+
+The identification of individuals at high risk of cancer offer promising avenues for the prevention of cancer. The majority of human cancers are caused by environmental, occupational, and lifestyle factors; however, a minor proportion results from genetic effects or multiple stages of carcinogenesis through both genetic and epigenetic mechanisms (1-4). Cancer risk assessment, a relatively visible discipline in the field of public health, has historically relied on classical epidemiology, chronic animal bioassays of potential carcinogens, and limited human studies. The integration of epidemiological and laboratory findings (5). Public health regulators are forced to exert a prudent course of conservative risk assessment because of the limitations of knowledge of the complex interactions between genes and environment: differences in the metabolism of carcinogens and DNA repair capabilities; variable susceptibility among individuals with inherited cancer variations may involve individuals with inherited cancer predispositions makes it difficult and involved. A molecular epidemiological approach, integrating epidemiology and in vitro laboratory models, and biochemistry and epidemi-
+ology to alter individual risk (6-9). Achieving this goal is challenging because current molecular techniques are not readily applicable to large populations. The ultimate aim of molecular epidemio-
+logy is the assessment of carcinogenesis, including
+cancer prevention, through the identification of individuals at high risk for cancer. This requires a detailed understanding of the genetic and environmental factors that influence cancer development.
+
+Molecular epidemiology has the potential to provide information on the relative contribution of genetic and environmental factors in human disease, as well as to identify susceptible populations. The ability to assess individual risk based on genetic markers and environmental exposures is attractive; however, it raises ethical concerns regarding privacy, insurability, and discrimination. The knowledge of one’s can be beneficial. However, more en-
+compassing biochemical issues such as an individual's responsi-
+bility to family members and psychosocial concerns regarding the potential for stigmatization and discrimination must be considered. The limited availability of genetic counseling services dilutes ambitions among many, the restriction of genetic testing to those conditions amenable to either preventative or therapeutic intervention.
+
+Cancer Susceptibility Genes
+
+An intricately balanced control of cellular proliferation and death maintains normal tissue homeostasis and is accomplished by a net-
+work of genes. Many of these genes are implicated in the natural history of human cancer because of their consistent alteration in most types of human cancers. For example, p53 tumor suppressor gene, a remark-
+able example becomes it is mutant in about half of all excess types arising from a variety of tissues, and missense mutations occur at a high frequency (10). Other tumor suppressor genes, such as BRCA1, seem important in human oncology, e.g., APC, PTEN, or MSI, seem to have a more limited distribution (Table 1). In addition to the well-known tumor suppressor genes, there is a class of DNA repair genes that are involved in base excision repair (BER), nucleotide excision repair (NER), and mismatch repair (MMR) systems. These genes are also implicated in human cancer because of their consistent alteration in most types of human cancers. The molecular basis of hereditary nonpolyposis colorectal cancer (HNPCC) or Lynch syndrome, involves mutations in the MMR genes, such as MLH1, MSH2, MSH6, and PMS2 (11).
+
+The identification of tumor suppressor genes and DNA repair genes has provided new insights into the pathogenesis of human cancer. These genes are often mutated early in carcinogenesis, and their inactivation can lead to uncontrolled cell growth and tumor formation. The molecular epidemiology approach can be used to identify individuals who carry mutations in these genes and are at increased risk of developing cancer.
+
+Table 1
+Genes Involved in Human Cancer

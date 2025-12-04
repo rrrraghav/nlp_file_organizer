@@ -1,0 +1,23 @@
+Published Methods for the Determination of the Enantiomeric Purity of Nicotine
+
+polarimetry - high sensitivity
+requires extremely pure nicotine
+
+1H-NMR/CLSR - low sensitivity
+tolerates impurities
+
+chromatographic separation of diastereomeric derivatives - high sensitivity
+tolerates impurities
+requires the absence of compounds interfering in the derivatization process
+
+Method Developed at INBIFO (a)
+
+direct chromatographic separation using chiral solid phases - high sensitivity
+tolerates impurities
+no derivatization necessary
+
+(a) Demetriou, D., Rustermeler, K., Voncken, P., Schepers, G., Chirality, in press
+
+
+
+2029067587

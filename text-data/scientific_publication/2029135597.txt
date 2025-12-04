@@ -1,0 +1,146 @@
+Dose-Response Studies on the Ability of 7,12-Dimethylbenz[a]anthracene
+and Benz[a]anthracene to Initiate Skin Tumors ¹
+
+T. J. Slaga,² G. T. Bowden,³ J. D. Scribner,⁴ & R. K. Bouvell⁵
+
+SUMMARY—Dose-response curves depicting the tumor-
+initiating abilities of the powerful carcinogen 7,12-di-
+methylbenz[a]anthracene (DMBA) and the suspected weak
+carcinogen or noncarcinogen benz[a]anthracene
+(BA), applied to Charles River CD-1 female mice, revealed
+that a single topical application of DMBA (8, 16, 32,
+64, or 200 mmoles DMBA) 1 week later by twice weekly
+applications of 0.5% croton oil induced 8, 16, 32, 64,
+and 66 papillomas per mouse, respectively, at
+24 weeks. A single application of 8, 16, or 200 mmoles
+DMBA followed by twice weekly applications of 17µmoles
+12,0-tetradecenylacetate (TPA) produced 3, 5, and 26 papillomas per mouse at 24 weeks after
+promotion. When DMBA was applied in amounts of 1, 2,
+4, 8, or 16 mmoles/mouse followed by twice weekly
+applications of 0.5% TPA, the mice developed 2, 1, 0,
+and 0 papillomas per mouse at 15 weeks after initiation.
+A single dose of 2, 4, 8, 16, or 32 mmoles BA followed by twice weekly
+applications of 0.5% TPA induced 0, 1, 2, 3, and 4
+papillomas per mouse at 24 weeks after promotion.
+
+Results suggested that even a low-carcinogenic
+compound like BA, when combined with tumor-
+promotion may have either initiating or promoting
+activities but can never elicit skin tumorigenesis
+when applied as a single dose.
+
+MATERIALS AND METHODS
+
+BA (98% pure) was obtained from Aldrich
+Chemical Co. (Milwaukee, Wis.) and dissolved in
+flowable chloromethane in pentane ether
+(DMBA), supplied by Sigma Chemical Co. (St. Louis,
+Mo.), was used as received. Croton oil was ob-
+tained from S. B. Prnick and Co. (Boston, Mass.).
+12,0-Tetradecenylacetate (TPA) was prepared as previously described (10) and purified by
+preparative thin-layer chromatography. Charles River
+CD-1 female mice, 6 weeks old, were received from
+Charles River Mouse Farms (North Wilmington,
+Del.). The animals were housed in a room 2 days
+before treatment, and groups of 30 mice were used
+in each experiment. All treatments were ap-
+pliesd in 0.5 ml all axillary with an automatic gun.
+The injection of DMBA was administered in
+a 0.1 ml volume. DMBA and BA were prepared
+immediately before use; the croton oil and TPA were
+prepared in stock solutions and kept in a freezer.
+
+RESULTS
+
+DMBA treatment followed by tumor-
+promotion resulted in significantly more (p < .01)
+papillomas than did BA treatment followed by
+tumor-promotion (Figs. 2 and 3). The dose-re-
+sponse curves for DMBA initiation were sigmoidal,
+whereas the dose-response curve for BA initiation
+was linear.
+
+The tumor incidence was significantly higher (p < .01)
+in mice treated with DMBA followed by TPA pro-
+motion than in those treated with BA followed by
+TPA promotion (Figs. 2 and 3). The number of
+papillomas per mouse also was significantly greater
+(p < .01) in the DMBA-initiated group than in the
+BA-initiated group.
+
+DISCUSSION
+
+The results of this study indicate that DMBA is a
+powerful initiator of skin tumors in mice, whereas BA
+is only a weak initiator. The tumor-promoting ac-
+tivity of TPA is well established (13). It appears that
+DMBA can initiate tumors at very low doses, and
+that the initiating activity of BA is much lower than
+that of DMBA.
+
+The fact that BA could not elicit skin tumorigenesis
+when applied as a single dose suggests that it may
+have either initiating or promoting activities but can
+never elicit skin tumorigenesis when applied as a
+single dose.
+
+ACKNOWLEDGMENTS
+
+We thank Mrs. Mary Ann Kincaid for her excellent
+technical assistance.
+
+¹This work was supported by National Cancer Insti-
+tute Grant 5 R01 CA-09637.
+²Present address: Department of Pathology, University
+of California Medical Center, San Francisco, Calif.
+³Present address: Department of Veterinary Pathol-
+ogy, University of Missouri, Columbia, Mo.
+⁴Department of Biochemistry, University of Utah, Salt
+Lake City, Utah.
+⁵Department of Dermatology, University of Utah, Salt
+Lake City, Utah.
+
+LITERATURE Cited
+
+1.  Arinze, O. E., and R. K. Bouvell. 1970. Chemical
+    carcinogenesis. p. 353-428. In: The Chemistry
+    of Carcinogens. J. a’Beckett, ed. Marcel Dekker,
+    Inc., New York.
+2.  Bairnsfather, A. W., and D. H. Klugman. 1967.
+    The effect of croton oil on the incidence of methyl-
+    cholanthrene induced skin tumors in mice. Brit. J.
+    Cancer 21: 538.
+3.  Bairnsfather, A. W., and D. H. Klugman. 1968.
+    The effect of croton oil on the incidence of methyl-
+    cholanthrene induced skin tumors in mice. Brit. J.
+    Cancer 22: 453.
+4.  Borek, E. I., and D. H. Klugman. 1967. The effect
+    of croton oil on the incidence of methylcholanthrene
+    induced skin tumors in mice. Brit. J. Cancer 21:
+    538.
+5.  Bowden, G. T., R. K. Bouvell, and T. J. Slaga.
+    1971. The effect of croton oil on the incidence of
+    dimethylaminobenzene induced skin tumors in mice.
+    Cancer Res. 31: 2405.
+6.  Bowden, G. T., R. K. Bouvell, and T. J. Slaga.
+    1972. The effect of croton oil on the incidence of
+    7,12-dimethylbenz[a]anthracene induced skin tu-
+    mors in mice. Cancer Res. 32: 1054.
+7.  Cantor, S. W., and A. I. Targ. 1968. The effect of
+    croton oil on the incidence of methylcholanthrene
+    induced skin tumors in mice. Brit. J. Cancer 22:
+    380.
+8.  Cantor, S. W., and A. I. Targ. 1969. The effect of
+    croton oil on the incidence of methylcholanthrene
+    induced skin tumors in mice. Brit. J. Cancer 23:
+    457.
+9.  Carpenter, R. E., and D. H. Klugman. 1968.
+    The effect of croton oil on the incidence of methyl-
+    cholanthrene induced skin tumors in mice. Brit. J.
+    Cancer 22: 453.
+10.  Slaga, T. J., G. T. Bowden, and R. K. Bouvell.
+    1971. Synthesis and tumor-promoting activity of
+    12,0-tetradecenylacetate. Cancer Res. 31: 2584.
+
+
+

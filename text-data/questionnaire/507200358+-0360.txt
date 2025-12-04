@@ -1,0 +1,40 @@
+"Next" Screening Questionnaire
+
+For all questions related to the three brands, use Magna.
+Chelsea Next.
+Panel
+
+Hello, I’m ____ with The National Opinion Survey Company.
+We're conducting a brief survey across the country about consumer products. May I please speak to (name)? (If new respondent comes to phone, repeat introduction.)
+
+1. Please tell me, what is your current age? (IF 18 OR UNDER 18 TERMINATE.)
+
+1a. (If respondent refuses to give age)
+Just for classification purposes to ensure that we have a fair representation of people, is your age:
+- 18-24 18 [TERMINATE]
+- 25-34
+- 35-49
+- 50 or over
+- (DO NOT READ) Refused
+
+1b. Record sex of respondent. Male () Female ()
+
+2. Do you smoke cigarettes? Yes () No () (IF NO, ASK TO SPEAK TO ANOTHER FAMILY MEMBER AGE 18 OR OVER AND START OVER. IF NO SMOKERS AGE 18 OR OVER IN HOUSEHOLD, TERMINATE.)
+
+3a. What one brand of cigarettes do you smoke most often and consider to be your usual brand?
+
+3b. Is it a: filter ()
+non-filter ()
+
+3c. Is it: menthol ()
+non-menthol ()
+
+3d. Is it: regular, full flavor strength ()
+lights/low tar ()
+ultra lights/ultra low tar ()
+
+3e. Is it: regular 85mm length ()
+longer 100mm length ()
+extra long 120mm length ()
+
+54720_0358

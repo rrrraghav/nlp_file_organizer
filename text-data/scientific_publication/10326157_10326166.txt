@@ -1,0 +1,38 @@
+8735 AXF03 P 205
+CAST
+BIOCHEM ARCH
+
+Biochemical Archives, Vol. 1, pp. 205-214, 1981 H.R.S. Press
+Printed in the U.S.A.
+
+“SEMI-RIGID” and “FLEXIBLE” LINKAGES
+IN AN IMMUNOASSAY FOR NICOTINE
+
+Albert Castro¹, Herbert McKennly, Jr.¹, Robus Honji¹, and
+Edward R. Bowman²
+
+¹Department of Pathology
+Borne Research Laboratory
+University of Miami School of Medicine
+Miami, Florida 33101
+
+²Division of Biochemical Pharmacology
+Medical College of Virginia
+Richmond, Virginia 23298
+
+Abstract
+
+An increasing interest in precise methods for determination of nicotine levels in body fluids has led to development of numerous procedures, all of which have limitations. Radioimmunoassay techniques and related procedures have proven to have certain unique advantages over other methods for measuring low concentrations of nicotine. It can be considered a radioligand assay for determination of nicotine. It uses monoclonal epitopes for various reasons. In the present study the use of racemic e-aminocaproic acid as a “semi-rigid” chain serves to couple racemic e-aminocaproic acid to bovine serum albumin.
+
+The present investigation includes animal studies of plasma concentration of nicotine by different methods to find a definite procedure.
+
+The appearance of nicotine in blood and urine after use of tobacco or various other sources has been well documented. The development of precise methods for measurement of nicotine in human body fluids is important because of its usefulness in investigations. The analysis of nicotine administered isotopically labeled with ³H or 14C, using a radioligand assay procedure (1, 2, 3), and a “semi-rigid” chain to couple the epitope to bovine serum albumin yields quantitative results.
+
+The binding equilibrium is described by equations 1 and 2. A comparison of the binding characteristics of nicotine labeled with ³H or 14C with those of unlabeled nicotine demonstrates the significance of the “semi-rigid” linkage as an indicator of nicotine concentration.
+
+077-035/81/$3.00
+Copyright (C) 1981 A.P. Press, Inc.
+
+Received for publication July 2, 1980.
+
+007348

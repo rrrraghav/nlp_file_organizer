@@ -1,0 +1,42 @@
+PAGE 1/60 TIME STARTED: ____ TIME END: ____ INTERVIEWER #: ____
+
+Hello, I’m ____ from H./A./C Consumer Research, an independent research company.
+We're conducting a study in (CITY) and would like to ask you a few questions.
+
+A. (DO NOT ASK. RECORD FROM OBSERVATION)
+☐ Male
+☐ Female
+
+B. First, into which of the following age groups do you fall? (READ LIST)
+☐ Under 21 - (TERMINATE)
+☐ 21-24
+☐ 25-39
+☐ 40-49
+☐ 50-59
+☐ 60 And Over
+
+C. Do you or does anyone in your immediate family work for any of the following types of companies? (READ LIST)
+☐ Drug Company
+*Marketing Research Firm
+☐ Food Manufacturer
+*Tobacco Company
+☐ Automobile Manufacturer
+*Advertising Agency
+☐ Furniture Manufacturer
+
+IF ANY STARRED (*) COMPANY MENTIONED, TERMINATE. OTHERWISE, CONTINUE.
+
+D1. Have you smoked any cigarettes in the past 7 days, or not?
+☐ Yes
+☐ No (TERMINATE)
+
+D2. On the average, how many cigarettes do you smoke a day? (DO NOT READ CHOICES.)
+☐ Less than 1
+☐ 1 - 4
+☐ 5 - 9 (TERMINATE)
+☐ 10 - 14
+☐ 15 - 19 (CONTINUE)
+☐ 20 Or More
+☐ 1 Pack OR MORE
+
+5038 163

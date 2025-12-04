@@ -1,0 +1,62 @@
+L 707844
+
+04 Jan. 2000 L68
+
+MR
+Genetic Toxicology and
+Environmental Mutagenesis
+
+Mutation Research 446 (1999) 167-174
+www.elsevier.com/locate/gentox
+Community address: www.elsevier.com/locate/mutres
+
+Reduction in Ames Salmonella mutagenicity of mainstream
+cigarette smoke condensate by tobacco protein removal
+
+William L. Clapp, Barry S. Carr, J. Smith
+Bowman Gray Technical Center, R.J. Reynolds Tobacco Co., P.O. Box 25749, Winston-Salem, NC 27102, USA
+
+Received 14 June 1999; received in revised form 7 September 1999; accepted 8 September 1999
+
+Abstract
+
+The mutagenic activity of cigarette smoke condensates (CSC) made from tobacco before and after removal of protein was
+assessed by the Ames Salmonella assay in bacterial strains TA98 and TA100. Removal of protein and peptides from
+flue-cured tobacco via water extraction followed by protease digestion reduced the mutagenicity of the resultant CSC by
+80% in TA98 and 74% in TA100 strains. Significant reductions of 5136 to 7450 in TA100 were seen
+following water extraction and protease digestion of burley tobacco. The significant reductions in Ames mutagenicity
+observed following protein removal suggest that proteins are a principal contributor to the genotoxicity of CSC as
+measured in this assay. © 1999 Published by Elsevier Science B.V. All rights reserved.
+
+Keywords: Tobacco protein; Salmonella/mutations; Ames test; Protein hydrolysates products
+
+1. Introduction
+
+In 1977, Suemura’s laboratory at the National
+Cancer Center in Tokyo published the first of a
+series of papers on a group of high mutagenic
+heterocycles amines derived from the pyrolysis of
+proteins and amino acids found in cooked [1], [2]. Few
+loving metabolic activities such as these, uses
+compounds are among the most potent mutagens
+ever measured by the Ames assay [3]. Cigarette
+smoke contains several of these heterocyclic amine
+mutagens [4], [5].
+
+Mainstream smoke has been reported to contain a
+number of heterocyclic amines. The compounds re-
+ported in cigarette smoke include the following: 2-amino-
+3-methylimidazo[4,5-f]quinoline (IQ) [6,7], 2-amino-
+3,4-dimethylimidazo[4,5-f]quinoline (MeIQ) [1], [8],
+PhIP and Glu-Tyr [9], Trp-P [6], [10], Trp-2-P [11],
+2-amino-1-methyl-5-phenylimidazo[4,5-g]
+pyridine (AαC) [12], 2-amino-9H-thieno[4,3-h]-
+pyrido[2,3-b]indole (MeAαC) [6,9,13].
+
+The formation of heterocyclic amines is dependent
+on a number of factors including the type of food or
+combustion product, temperature, time, and the in-
+gredients present. In cigarette smoke, these heterocy-
+cles are believed to be formed by reactions between
+amino acids and carbohydrates at high temperatures [14],
+[15]. It is also known that a number of nitrogenous

@@ -1,0 +1,48 @@
+OWNER/MANAGER SCREENER
+
+Hello, I’m from , a market research company.
+We are conducting a survey among beauty salons in the area and would like
+to ask you a few questions.
+
+(ASK TO SPEAK TO OWNER FIRST. IF NOT AVAILABLE, ASK TO SPEAK TO
+MANAGER OF SALON AND START WITH “INTRODUCTION TO MANAGER” BELOW)
+
+1. INTRODUCTION TO OWNER:
+
+Hello, I’m from , a market research company.
+We are conducting a survey among owners of beauty salons in the city
+and would like to ask you a few questions. Let me assure you that
+this is not a sales call, but rather an effort to gather opinions
+from professionals like yourself in the area.
+
+A. First of all, are you the owner of this salon that I am calling?
+Yes [ ]
+No [ ] - ASK TO SPEAK TO OWNER AND REPEAT INTRODUCTION
+
+B. Are you yourself involved in managing your salon on a daily
+basis, or is someone else responsible for that function?
+Involved in managing salon daily [ ] - CONTINUE TO Q. 2
+Someone else responsible [ ] - THANK AND ASK TO
+SPEAK TO THAT PERSON.
+THEN START WITH
+INTRODUCTION TO MANAGER
+
+INTRODUCTION TO MANAGER:
+
+Hello, I’m from , a market research company.
+We are conducting a survey among managers or owners of beauty salons
+who are involved in managing the salon on a daily basis. Let me
+assure you that this is not a sales call, but rather an effort
+to gather opinions from professionals like yourself in the area.
+
+A. First of all, are you the person responsible for managing
+this salon on a daily basis?
+Yes [ ] - CONTINUE TO Q. 2
+No [ ] - ASK TO SPEAK TO THAT PERSON AND REPEAT
+
+2a. Have you ever participated in a market research group discussion or
+interview?
+Yes [ ] - ASK Q. 2b
+No [ ] - SKIP TO Q. 3
+
+-1-

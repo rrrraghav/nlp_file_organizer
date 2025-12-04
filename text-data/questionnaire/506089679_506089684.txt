@@ -1,0 +1,48 @@
+COMMUNICUS, INC. GROUP A -1 Chicago 6
+Project RUR-68 Male 5 Memphis -2 Philadelphia -2
+February, 1982 Female -2 Dallas -4
+MDD# 82-21204
+
+Hello, I’m _____ from Communicus, a consumer opinion firm. We are conducting a survey
+and would like to include you.
+
+A. (HAND CARD A) Please look at this card and tell me which of the following phrases
+apply to you.
+
+a. I eat dinner out at a restaurant at least twice a month. -1
+b. I have a valid driver’s license. -2
+c. I subscribe to a daily newspaper. -3
+d. I smoke one or more cigarettes per day. -4*
+e. I frequently have a glass of wine with dinner. -5
+
+*TERMINATE AND CIRCLE BELOW IF "SMOKE CIGARETTES" NOT MENTIONED.
+
+INELIGIBLE, DOES NOT SMOKE CIGARETTES 7-
+1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25-
+B. Is the brand of cigarettes you smoke most often and consider to be your regular brand
+a menthol cigarette or a non-menthol cigarette?
+
+Menthol →CONTINUE Non-Menthol →TERMINATE & CIRCLE BELOW 9-
+INELIGIBLE, DOES NOT SMOKE MENTHOL 10-
+1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25-
+
+C. Into which of the following age groups do you fall? (READ LIST) Please give
+Under 18 →TERMINATE & CIRCLE BELOW Melrik some
+18 - 24 11-1 Quote 1 attention on
+25 - 34 -2 Quote 2 Monday, Sol
+Over 34 →TERMINATE AND CIRCLE BELOW
+
+INELIGIBLE, UNDER 18 12-
+1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25-
+
+INELIGIBLE, OVER 34 15-
+1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25-
+
+NAME: TIME & DATE:
+PRINTED:
+SIGNATURE:
+PHONE:
+TELEPHONE: IN: ZONE:
+DATE:
+AM/PM:
+FAX# 617 8905

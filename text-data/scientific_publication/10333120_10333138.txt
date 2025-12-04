@@ -1,0 +1,45 @@
+FILE COPY
+
+3952
+
+ENHANCED RESPONSIVENESS OF ENDOTHELIUM
+IN THE GROWING/MOTILE STATE TO
+TUMOR NECROSIS FACTOR/CACHECTIN
+
+BY HERWIG GERLACH; HOWARD LIEBERMAN; RONALD BACH; 1
+GABRIEL GOODMAN; JEROLD BRETT; and DAVID STERN*
+
+From the *Departments of Physiology, Pathology, and the Center for Radiologic Research,
+College of Physicians and Surgeons, Columbia University, New York, New York 10032, and
+the Department of Medicine, Mt. Sinai School of Medicine, New York, New York 10029
+
+Generalized vascular collapse can be induced by the infusion of high concentra-
+tions of tumor necrosis factor/cachectin (TNF) (1). At lower concentrations, lesions
+may be localized to particular parts of the vessel wall. Exposure of tumor-bearing
+mice to these lower concentrations of TNF, for example, results in intravascular clot
+formation confined only to the tumor vascular bed (2). This observation raises ques-
+tions about mechanisms that direct the action of TNF within the vasculature.
+Endothelium is a target of cytokines, such as TNF, which are central mediators
+of the host response. Endothelial cells maintain vascular fluidity and constitute
+a barrier to the escape of solutes and cellular elements of the blood from the
+intravascular compartment. Exposure to TNF, however, activates specific endothelial
+cell responses that may contribute to the inflammatory response. These include promotion of leukocyte adhesion and coagulation,
+and an increase in monolayer permeability (1, 3).
+Although in vivo experiments would suggest that the endothelial response to TNF
+is uniform, it is evident that a characteristic feature of the host response is its local-
+ization to particular sites of vascular damage. The regeneration of endothelium/mo-
+tility occurs in regeneration after damage to the endothelial monolayer and in an-
+giogenesis, whether reparative, or in the microvascularization of a tumor. We have
+found that exposure of quiescent and motile endothelial cells to TNF is selective
+regard for TNF The studies reported here demonstrate that compared with quies-
+cent cultures, endothelial cells in the growth border milieu state have enhanced re-
+sponsiveness to increased affinity for TNF. In parallel, prostaglandin E2 stimulated two
+additional bands on autoradiography from SDS-polyacrylamide gel; cell-bound 125I-TNF
+was also augmented and could be released by PGE2 or phorbol myristate esters in pro-
+portion to TNF side model ing within an aqueous medium which results in
+destruction of endothelial cells. The findings suggest that TNF effects
+This work was supported by USPHS grants CA-39631, HL-48431, and CA-45031
+and by the New York Heart Association. 125I-TNF was generously provided by Dr.
+Ralph Reeder of Lederle Laboratories. We thank Drs. Robert Axtell and Joseph
+Merrick for their assistance in autoradiography. Received April 19, 1984; accepted
+August 30, 1984

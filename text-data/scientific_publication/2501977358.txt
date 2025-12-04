@@ -1,0 +1,177 @@
+Carcinogenesis vol.19 no.11 pp 2007-2014, 1998
+
+Amini 3633
+
+Influence of aromatic hydrocarbon receptor-mediated events on
+the genotoxicity of cigarette smoke condensate
+
+Stephen D. Derringer, Allen E.Silverstone¹ and
+Thomas A.Gasiewicz²
+
+'Environmental Health Sciences Center, Department of Environmental
+Medicine, University of Rochester School of Medicine, Rochester,
+NY 14642 and ²Department of Molecular Carcinogenesis, State
+University of New York Health Science Center, Syracuse, NY 13210, USA
+
+For correspondence: Dr. Thomas A. Gasiewicz
+Email: gasiewi@oswego.edu
+
+The aromatic hydrocarbon receptor (AhR)-mediated
+events on the genotoxicity of mainstream cigarette smoke
+condensate were investigated. The AhR is a cytoplasmic
+transcription factor that binds with a dioxin-responsive
+element and regulates gene expression. Cigarette smoke is
+capable of inducing AhR activation, suggesting it is
+able to transform AHR to an active form which could
+stimulate transcription. Micronuclei formation in
+CHO/AhR cells exposed to cigarette smoke condensate
+and cigarette smoke condensate was observed to induce a
+significant increase in micronuclei relative to
+CHO/AhR cells, which express >100 fold less AhR.
+Further, the induction of micronuclei was dependent
+when CHO/AhR cells were pretreated with 2,3,7,8-tetrachlorodibenzo-p-dioxin (TCDD), a potent AhR agonist.
+The results demonstrate that cigarette smoke condensate
+is capable of inducing AhR-mediated genotoxicity.
+Cigarette smoke is a complex mixture containing over
+4000 chemicals. It is composed of readily 4000 chemicals, and it
+thought to contribute to >30% of cancers in the USA (1–4).
+Some of the toxins found in cigarette smoke, such as polycyclic
+aromatic hydrocarbons, are procarcinogens. These compounds require metabolic activation to become metabolically activated to genotoxic intermediates (5). The metabolism
+of these compounds involves cytochrome P450
+enzymes, including a number of cytochrome cP450
+isozymes, such as CYP1A1 and CYP1B1, which are under the
+regulation of others and other drug metabolizing enzymes may
+also be involved. These enzymes can also induce the expression of
+other aromatic cigarette smoke constituents such as benzo[a]py-
+rene (B[a]P) and 2,3,7,8-tetrachloro-1,4-dihydrobenzodioxin
+(TCDD) electrophiles (6–12).
+
+It has been established that cigarette smoke upregulates
+expression of a number of genes through the aromatic
+hydrocarbon receptor (AhR). Upon ligand binding, the AhR
+translocates to the nucleus where it heterodimerizes with
+the aromatic hydrocarbon receptor-mediated proteins (ARs)
+and binds to specific DNA sequences known as dioxin-responsive elements (DREs) and RREs gene transcribing
+various genes including CYP1A1 and CYP1B1. The AhR is
+expressed in a wide variety of tissues, including lung, liver,
+kidney, and immune cells (13–16). Cigarette smoke exposure
+has been shown to induce AhR expression in human bronchial
+epithelial cells (17) and in mouse lung tissue (18). The AhR
+is also involved in the regulation of cell proliferation,
+differentiation, and apoptosis (19–21).
+
+In this study, we investigated the role of AhR-mediated
+events on the genotoxicity of cigarette smoke condensate. We
+hypothesized that cigarette smoke condensate would induce
+micronuclei formation in CHO/AhR cells, and that this effect
+would be dependent on AhR expression and TCDD pretreatment.
+
+Materials and Methods
+
+Cell Culture
+
+CHO/AhR cells were obtained from ATCC (Rockville, MD).
+Cells were maintained in Dulbecco’s modified Eagle’s medium
+(DMEM) supplemented with 10% fetal bovine serum (FBS),
+100 U/mL penicillin, and 100 μg/mL streptomycin.
+
+Cigarette Smoke Condensate Preparation
+
+Cigarette smoke condensate was prepared as previously described
+(22). Briefly, a smoking machine (Teague Engineering) was used
+to smoke five reference cigarettes (R1 Research Cigarettes,
+University of Kentucky) per liter of air. The air stream was
+passed through a series of impingers containing 20 mL of
+sterile distilled water. The combined impinger fluid was
+concentrated under reduced pressure to yield cigarette smoke
+condensate. The final concentration of the condensate was
+adjusted to 1 mg/mL in serum-free medium.
+
+Results
+
+Cigarette Smoke Condensate Induces Micronuclei Formation in
+CHO/AhR Cells
+
+To determine whether cigarette smoke condensate induces
+micronuclei formation, CHO/AhR cells were exposed to various
+concentrations of cigarette smoke condensate (0–10 μg/mL) for
+24 h. The number of micronuclei per cell was then counted. As
+shown in Figure 1A, exposure to cigarette smoke condensate
+induced a significant increase in micronuclei formation relative
+to control cells (P < 0.05). The maximum induction of
+micronuclei occurred at a concentration of 10 μg/mL.
+
+Figure 1. Effect of Cigarette Smoke Condensate on Micronuclei
+Formation in CHO/AhR Cells. (A) CHO/AhR cells were exposed
+to various concentrations of cigarette smoke condensate for 24 h,
+and the number of micronuclei per cell was counted. Data are
+expressed as mean ± SD (n = 3). *P < 0.05 compared to control.
+(B) CHO/AhR cells were pretreated with TCDD (1 nM) for 24 h,
+then exposed to 10 μg/mL cigarette smoke condensate for an
+additional 24 h. The number of micronuclei per cell was then
+counted. Data are expressed as mean ± SD (n = 3). *P < 0.05
+compared to control.
+
+TCDD Pretreatment Attenuates Cigarette Smoke Condensate-Induced
+Micronuclei Formation
+
+To determine whether the induction of micronuclei by cigarette
+smoke condensate is dependent on AhR expression, CHO/AhR
+cells were pretreated with TCDD (1 nM) for 24 h, then exposed
+to 10 μg/mL cigarette smoke condensate for an additional 24 h.
+As shown in Figure 1B, pretreatment with TCDD significantly
+attenuated the induction of micronuclei by cigarette smoke
+condensate (P < 0.05).
+
+Discussion
+
+The results of this study demonstrate that cigarette smoke
+condensate is capable of inducing AhR-mediated genotoxicity.
+This finding is consistent with previous studies showing that
+cigarette smoke can activate the AhR and induce expression of
+genes involved in xenobiotic metabolism (17, 18). The induction
+of micronuclei by cigarette smoke condensate suggests that this
+compound may be contributing to the increased risk of cancer
+associated with cigarette smoking.
+
+The attenuation of cigarette smoke condensate-induced
+micronuclei formation by TCDD pretreatment further supports
+the role of AhR in mediating the genotoxic effects of cigarette
+smoke condensate. TCDD is a potent AhR agonist that binds to
+the AhR and promotes its translocation to the nucleus, where it
+heterodimerizes with ARs and binds to DREs. Pretreatment
+with TCDD may saturate the available AhR, preventing cigarette
+smoke condensate from binding to the receptor and initiating the
+genotoxic cascade.
+
+The mechanisms by which cigarette smoke condensate induces
+micronuclei formation are not fully understood. However, it is
+possible that cigarette smoke condensate contains compounds that
+directly damage DNA or interfere with DNA repair processes.
+Alternatively, cigarette smoke condensate may induce oxidative
+stress, leading to DNA damage. Further studies are needed to
+elucidate the precise mechanisms by which cigarette smoke
+condensate induces micronuclei formation.
+
+Conclusion
+
+This study provides evidence that cigarette smoke condensate is
+capable of inducing AhR-mediated genotoxicity. This finding
+suggests that the AhR may play a role in the pathogenesis of
+cigarette smoking-related diseases, including cancer. Further
+research is needed to fully understand the mechanisms by which
+cigarette smoke condensate induces micronuclei formation and
+to identify potential targets for intervention.
+
+Acknowledgements
+
+This work was supported by National Institutes of Health Grant
+ES04513 from the National Institute of Environmental Health
+Sciences.
+
+References
+
+1. Wynder, E.L., Hoffman, D.C., Richmond, R.J. & Glynn, T.A. (1986)
+Epidemiology of lung cancer. Environ. Health Perspect. 67, 1-4.
+2. Doll, R.E. & Hill, A.B. (1950) Smoking and Carcinoma of the Lung:
+An Epidemiological Study.

@@ -1,0 +1,71 @@
+Decisions Center, Inc.
+175 Livingston Street
+Brooklyn, New York 10016
+
+FOR OFFICE USE ONLY:
+
+RECEIVED
+SEP 18 1980
+M.R.D.
+
+JOB #4338
+September 1980
+
+
+
+VRL COPY TEST
+(Telephone Screening Questionnaire)
+
+QUOTA:
+A. Full strength  1   2
+B. Milds/Lights    1   2
+
+(FILL IN BOX AT COMPLETION OF SCREENING INTERVIEW)
+RESPONDENT'S NAME: AREA
+CODE: PHONE #:
+ADDRESS: CITY: STATE: ZIP:
+INTERVIEWER’S NAME: INTERVIEWER’S I.D.: LENGTH OF
+DATE OF INTERVIEW: TIME ENDED:  AV/PM INTERVIEW: AM/PM
+
+Hello, I’m from Decisions Center, a national marketing research firm.
+We're conducting a survey in your area and would like to ask you a few questions.
+
+A. First, please tell me which of the following age categories you fall into.
+(READ LIST)
+
+Under 21 years  1   ( ) → TERMINATE
+21-24 years    2   ( )
+25-34 years    3   ( )
+35-44 years    4   ( ) → CONTINUE WITH Q.B
+45-54 years    5   ( )
+55 or older     6   ( )
+(DO NOT READ—Refused)  ( ) → TERMINATE
+
+IF Q.A IS 2 OR REFUSED, CIRCLE [NEXT] AVAILABLE NUMBER BELOW, TERMINATE AND
+REUSE QUESTIONNAIRE.
+
+01 02 03 04 05 06 07 08 09 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25
+26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49 50
+51
+
+B. Do you or does anyone in your household work for any of the following kinds
+of businesses? (READ LIST)
+
+An advertising agency  1   Yes  2   No
+A market research company 2
+A tobacco company    3
+
+IF NO TO ANY, CONTINUE:
+
+IF YES TO ANY CIRCLE [NEXT] AVAILABLE NUMBER BELOW, TERMINATE AND REUSE SCREENER.
+
+01 02 03 04 05 06 07 08 09 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25
+26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49 50
+51
+
+66035064
+
+
+
+66035064
+PRODUCED FROM BOW WEB SITE

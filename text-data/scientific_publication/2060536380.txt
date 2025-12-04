@@ -1,0 +1,169 @@
+Carcinogenesis vol.16 no.3 pp.137–142 WRE. 1995
+95 0166
+
+DNA adducts and personal monitoring of carcinogenic
+polycyclic aromatic hydrocarbons in an environmentally exposed
+population
+
+D.Binková, J.Levitas', LMišková, J.Laníček' and
+R.Šrám
+
+Laboratory of Genetic Toxicology, Institute of Environmental Medicine of
+the Academy of Sciences of the Czech Republic and Regional Institute of
+Hygiene, Hradec Králové, 162 20 Prague 6, Czech Republic, Health Risk Research Laboratory, US Environmental
+Protection Agency, Cincinnati, OH 45998, 'Institute of Hygiene, Teplice, Czech Republic and "Regional Institute of
+Hygiene, Ústí nad Labem, Czech Republic
+
+*To whom correspondence should be addressed
+
+The effect of personal exposure to air pollution on DNA
+adducts in humans was investigated in a group of 30
+of women working outdoors up to 5 days/week as postal
+workers or gardeners in the city of Teplice (Northern
+Bohemia), where winter inversion conditions result
+in high levels of air pollution from coal combustion. Ten
+of these women were followed up during the next winter
+season by repeated personal monitoring and analysis
+of the DNA adducts in their white blood cells in
+four sampling periods. Personal exposure monitoring for
+respirable particles (<2.5 μm) was conducted for 24 h
+period prior collection of blood and urine. Particulate
+extracts were analyzed for polycyclic aromatic
+hydrocarbons (PAH) by high-performance liquid
+chromatography with fluorescence detection. DNA adducts
+were analysed by enzyme-linked immunosorbent assay
+(ELISA). The levels of PAH in air samples correlated
+significantly with the levels of PAH adducts to guanine
+in DNA (r = 0.69, P < 0.01). The mean level of DNA
+adducts was 2.8 pmol/mg DNA. There was a significant
+difference between the levels of DNA adducts in smokers
+(3.7 ± 1.4 pmol/mg DNA) and non-smokers (1.9 ± 0.6
+pmol/mg DNA, P < 0.05). The results suggest that
+personal exposure to PAH can be estimated by measuring
+DNA adducts in human tissues.
+
+Introduction
+Several classes of carcinogenic agents are known to be present
+in ambient air in urban areas (1). The most extensively studied
+are polycyclic aromatic hydrocarbons (PAH) (2), the PAH
+that have been classified as potential human
+carcinogens (3) are present in the air predominantly in partic-
+ulate form, with a respirable particle fraction (<2.5 μm) (4, 5).
+The main sources of PAH are power plants, industrial and
+residential heating, motor vehicle exhaust, tobacco smoking
+and wood burning. These compounds are primarily activated
+through an oxidative metabolic pathway to electrophilic inter-
+mediates capable of reacting with cellular DNA to form
+DNA adducts. These adducts, if they are not repaired or are
+misrepaired, may initiate mutations and lead to adverse
+health effects in humans (5, 6). Therefore, measurement
+of DNA adducts may be useful for evaluation of the biologically
+effective dose of PAH and for assessment of risk
+from exposure to PAH (7–9). Detection of DNA adducts
+provide not only client devices, but also humans been
+exposed to specific chemicals that has potentially pre-
+maturely elevated higher risks. The individuals with
+measurable DNA adduct levels can be considered as a result
+of carcinogenic lesions have been formed. The individuals
+are at essentially high risk of cancer.
+
+Materials and Methods
+Study population
+The study population consisted of 30 women working outdoors
+up to 5 days/week as postal workers or gardeners in the city
+of Teplice (Northern Bohemia). The city is located in a basin
+and experiences frequent winter inversion conditions that result
+in high levels of air pollution from coal combustion. Ten of
+these women were followed up during the next winter season
+by repeated personal monitoring and analysis of DNA adducts
+in their white blood cells. All participants gave written informed
+consent to participate in the study, which was approved by
+the Ethical Committee of the Institute of Environmental
+Medicine of the Academy of Sciences of the Czech Republic.
+
+Exposure assessment
+Personal exposure monitoring for respirable particles (<2.5 μm)
+was conducted for 24 h period prior collection of blood and
+urine samples. Air samples were collected using IOM samplers
+with a flow rate of 2.5 l/min. Particulate extracts were analyzed
+for PAH by high-performance liquid chromatography with fluo-
+rescence detection (HPLC–FLD) as described previously (10).
+
+DNA adduct analysis
+Blood samples were collected from each participant into EDTA-
+containing tubes. DNA was extracted from white blood cells
+using a standard protocol. DNA adducts were analysed by
+enzyme-linked immunosorbent assay (ELISA) as described
+previously (11). The ELISA method was used to measure the
+levels of PAH adducts to guanine in DNA.
+
+Statistical analysis
+The levels of PAH in air samples and DNA adducts were logi-
+narmly transformed before statistical analysis. Correlations
+between exposure concentrations and DNA adduct levels were
+examined using Pearson’s correlation coefficient. Differences
+in DNA adduct levels between smokers and non-smokers were
+analysed by Student’s t-test. A P value of <0.05 was considered
+statistically significant.
+
+Results
+Air pollution and DNA adduct levels
+The mean level of PAH in air samples collected during the study
+period was 12.8 ng/m3 (range 4.2–29.6 ng/m3). The levels
+of PAH in air samples correlated significantly with the levels
+of PAH adducts to guanine in DNA (r = 0.69, P < 0.01)
+(Figure 1). The mean level of DNA adducts was 2.8 pmol/mg
+DNA (range 0.8–5.4 pmol/mg DNA).
+
+Smoking and DNA adduct levels
+There was a significant difference between the levels of DNA
+adducts in smokers (3.7 ± 1.4 pmol/mg DNA) and non-smokers
+(1.9 ± 0.6 pmol/mg DNA, P < 0.05) (Figure 2).
+
+Discussion
+The results of this study demonstrate that personal exposure to
+PAH can be estimated by measuring DNA adducts in human
+tissues. The correlation between air pollution and DNA adduct
+levels suggests that environmental exposure is an important
+factor influencing the levels of DNA damage in humans. The
+higher levels of DNA adducts observed in smokers indicate
+that tobacco smoking also contributes significantly to DNA
+damage.
+
+The ELISA method used in this study has been shown to be a
+sensitive and specific method for measuring PAH adducts to
+guanine in DNA (11). However, the ELISA method does not
+distinguish between different types of PAH adducts. Further-
+more, the ELISA method may be subject to interference from
+other compounds present in DNA extracts.
+
+The results of this study are consistent with previous findings
+that exposure to air pollution is associated with increased levels
+of DNA damage in humans (7–9). The study provides further
+evidence that personal monitoring of DNA adducts can be a
+useful tool for assessing the biological effects of environmental
+exposure to carcinogenic chemicals.
+
+Acknowledgements
+The authors would like to thank Mrs. J. Nováková and
+Mrs. D. Svobodová for their technical assistance. This work
+was supported by grants from the Czech Ministry of Health
+(No. 103/94) and the US Environmental Protection Agency
+(Interagency Agreement No. DW89C62701).
+
+References
+1. IARC, 1992. Air pollution and particulate matter in outdoor air.
+IARC Monographs on the Evaluation of Carcinogenic Risks to Humans,
+Vol. 53. Lyon, France: International Agency for Research on Cancer.
+2. US EPA, 1994. Special study update: polycyclic aromatic hydro-
+carbons (PAHs). US Environmental Protection Agency, Washington, DC.
+3. IARC, 1983. Tentative list of human carcinogens. IARC Monographs
+on the Evaluation of Carcinogenic Risks to Humans, Vol. 6. Lyon,
+France: International Agency for Research on Cancer.
+4. Harrison, R.M., Mumford, C.J., Bates, P.E., and Davies, D.R., 1987.
+The size distribution of airborne particulate matter in urban areas.
+Atmos. Environ. 21, 535–546.
+5. Silva, M.C., Butterworth, M., and Zeiger, E., 1996. DNA adducts
+as biomarkers of exposure to carcinogenic chemicals. In: Biomarkers
+and Exposure Assessment (ed. L.L. Foster). New York: Raven Press.
+6. Barnes, D.J., and Ford, J.P., 

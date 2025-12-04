@@ -1,0 +1,35 @@
+Application of a System For the Direct In Vitro Exposure of Mammalian
+Cells to Cigarette Smoke in Studies of DNA Strand Breaks (SB).
+
+J.D. Heck, C.I. Gaworski, R.S. Lake, M.M. Dozier, A.P. Deaton and T.A. Vollmuth.
+Leland Tobacco Company, Greensboro, NC.
+
+The Toxicological 12(1):58, 1992. Abstract #132, 1992 S.O.T. Meeting
+
+
+
+ABSTRACT
+
+Cigarette smoke passed through saline produces a solution which has
+been reported to induce DNA SB in cultured cells (Nakayama et al., Nature
+314:462, 1985). Since it is most desirable to conduct such studies under
+conditions which accommodate the dynamic physicochemical character
+of fresh cigarette smoke, an in vitro system adapted from that described
+by Valentine (J. Tox. Env. Hlth. 16:115, 1985) was employed to permit the
+direct exposure of CHO-K1 cells to freshly-generated smoke from KI4F
+cigarettes. Direct smoke-cell contact was achieved by rotating cell
+dishes on an inclined platform within a smoke-filled chamber; DNA SB
+were assessed by the alkaline filter elution method. The area of the cell
+monolayer swept by direct smoke exposure correlated with the extent of
+DNA SB. A time- and concentration-dependent incidence of DNA SB was
+observed in the absence of exogenous 5% CO mix for smoke exposures of
+10-30 minutes and levels of 200-520 mg/m³ total particulate matter.
+Filtration or electrostatic removal of smoke particulates indicated that
+constituents of both the vapor and particulate phases of smoke contribute
+to DNA SB induction by fresh, whole smoke. This direct cell exposure
+technique constitutes an informative approach to the study of an array of
+cellular responses to complex aerosols such as cigarette smoke.
+
+
+
+8724511

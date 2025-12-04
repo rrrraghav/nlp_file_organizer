@@ -1,0 +1,55 @@
+Research/Strategy/Management Inc.
+
+file: Canal
+
+CONSUMERS’ QUESTIONNAIRE
+May 1994
+
+Hello I’m ? of R/S/M, Inc., a national research
+firm. May I ask, am I speaking with
+(IF NOT) Is at home right now?
+
+(CONFIRM ID OF RESPONDENT) Your name has been selected as part
+of a national random sample. We are talking with folks like you
+about some important issues and would like to have your opinions.
+Of course, all answers will be confidential. This is not a sales
+promotion. (DO NOT PAUSE)
+
+1. What is your age, please? UNDER 18 (TERMINATE)..........1
+                                 19-24......................27%
+                                 25-29......................16
+(IF RESPONDENT IS UNDER 18,   30-34.......................18
+THANK AND TERMINATE)            35-39.......................10
+                                 40-44........................8
+                                 45-49........................5
+                                 50-54........................4
+                                 55-59........................1
+                                 60-64........................1
+                                 65-74........................3
+                                 75 AND OVER................*
+                                 REFUSED.....................*
+
+Table 1a-1c
+
+*Less than 1%
+
+2. Are you registered to vote? YES.........................69%
+                                  NO..........................31
+
+Tables 2a-2c
+
+Let’s talk about some activities people do. For each one please tell
+me if it is something you do regularly, only occasionally or never at
+all.
+
+REGULARLY OCCASIONALLY NEVER
+3. Drinking coffee 62% 20% 18%
+                                Tables 3a-3c
+4. Exercising 36 50 15
+                                Tables 4a-4c
+
+TT-1
+
+
+
+ST319 3690

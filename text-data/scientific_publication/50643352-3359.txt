@@ -1,0 +1,107 @@
+Compliance of the main pulmonary artery
+during the ventilatory cycle
+
+BRYDON J. B. GRANT and BARUCH B. LIEBER
+Departments of Medicine and of Mechanical and Aerospace Engineering,
+State University of New York at Buffalo, Buffalo, New York 14215
+
+GRANT, BRYDON J. B., and BARUCH B. LIEBER. Compliance
+of the main pulmonary artery during the ventilatory cycle. J.
+Appl. Physiol. 72(2): 535-542, 1992.—Transmural pulmonary
+arterial pressure (Ppa) and diameter (D) were measured simultaneously in anesthetized open-chest dogs. The instantane-
+ous volume was calculated from D and L. Pulmonary arterial
+elasticity for diameter (Epa) was calculated as the ratio of the
+change in Ppa to the change in D. Compliance was defined as
+the reciprocal of Epa. Compliance and vessel length were con-
+sidered as separate indices of compliance (Vp) and (Vp). Com-
+pliance per unit length was calculated from the dimensions and
+elasticity of the MPA. Under control conditions with 6 rpm, 0
+positive end-expiratory pressure, Epa, D, and Vp at cardiac
+frequency were 175 ± 14, 13 ± 1, and 28 ± 3 ml/cm, respec-
+tively. Epa increased with positive end-expiratory pressures but
+Epa decreased and Epa was unaffected. Epa, D, Vp, and
+compliance per unit length were significantly different be-
+tween the start of inspiration and the start of expiration. In
+addition, there were no significant phase differences between
+the changes in Ppa and V at respiratory frequency. We con-
+clude that the previously reported time variation of pulmonary
+arterial compliance during the ventilatory cycle is not due to
+time-varying properties of the MPA.
+
+KEY WORDS: arterial compliance; instantaneous pressure; prog-
+ressive volume; vessel length
+
+The mechanical behavior of the main pulmonary artery (MPA)
+is an important determinant of cardiac function and pulmo-
+nary hemodynamics. The MPA, unlike systemic arteries,
+remains distensible throughout life (1). This distensibility
+allows for greater accommodation of pulsatile flow and
+reduces afterload on the right ventricle (2). Previous stud-
+ies have shown that pulmonary arterial compliance varies
+with time during the ventilatory cycle (3, 4). However, the
+mechanisms underlying this time variation are not well un-
+derstood.
+
+The instantaneous volume of a segment of MPA can be es-
+timated from its diameter and length. The pressure-volume
+relationship of a vessel segment can then be used to assess
+its mechanical properties. We have measured pulmonary ar-
+terial pressure (Ppa) and diameter (D) simultaneously in
+anesthetized open-chest dogs and calculated the instantane-
+ous volume of a segment of MPA were measured simultaneously.
+The instantaneous volume (V) was calculated from D
+and L. The instantaneous volume (V) was calculated.
+because this was the fundamental basis of the imped-
+ance spectrum from which pulmonary arterial (s was cal-
+culated. Respiratory f was selected because time-varying
+properties of the vascular wall may result in phase shifts
+between Ppa and V at this f.
+
+METHODS
+
+Animal preparation. Experiments were performed on
+six mongrel dogs that weighed between 17 and 21 kg.
+Anesthetia were induced with thiamyl 1.5 mg/kg, imme-
+diately followed by intravenous injection of 120 mg/kg
+of a chloralose solution. Anesthesia was main-
+tained with a continuous infusion of α-chloralose at
+a rate of 43 mg·kg−¹. Details are provided else-
+where (4).
+
+Each dog was ventilated with 100% oxygen at approxi-
+mately 35 cycles/min. The trachea were intubated and con-
+nected to a Harvard Polyvac ventilator. Pulmonary ar-
+terial pressure was measured through a No. 20 catheter (Po-
+lycan, Baxter Travenol) inserted into the left ventricle
+and advanced into the MPA. Arterial pressure was moni-
+tored through a No. 5 polyethylene catheter inserted into
+the femoral artery. Both catheters were zeroed to atrial pres-
+sure. The heart rate and ECG were monitored with standard
+leads. A rectal temperature probe was used to monitor core
+body temperature, which was maintained at 37 ± 1°C by use
+of a heating pad.
+
+The chest was opened through a midline sternotomy, and
+the MPA was exposed in the mainstem. The vessel was dis-
+sected free from surrounding tissue. A No. 20 polyethylene
+catheter was placed around the MPA to measure its diam-
+eter. The catheter was calibrated before use by measuring
+its internal diameter with a micrometer. The diameter of the
+MPA was determined by relating the catheter output to the
+micrometer measurements.
+
+Data acquisition and analysis. Ppa, arterial pressure,
+heart rate, ECG, and MPA diameter were recorded sim-
+ultaneously on a Honeywell 1600 data acquisition sys-
+tem (Honeywell, Waltham, MA). The signals were digitized
+at a frequency of 500 Hz and stored on magnetic tape for
+later analysis.
+
+Pulmonary arterial elasticity for diameter (Epa) was calcu-
+lated as the ratio of the change in Ppa to the change in D.
+Compliance was defined as the reciprocal of Epa. Com-
+pliance per unit length was calculated from the dimensions
+and elasticity of the MPA. The instantaneous volume of
+
+
+

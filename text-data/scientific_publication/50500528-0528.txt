@@ -1,0 +1,183 @@
+Kidney International, Vol. 42 (1992/2), pp. 300–307
+
+Altered membrane ionic permeability in a rat model of chronic renal failure
+
+ROGER D. LONDON, MICHAEL S. LIPKOWITZ, and RUTH G. ABRAMSON
+
+Division of Nephrology, Department of Medicine, Mount Sinai School of Medicine, New York, USA
+
+Altered membranous permeability in a rat model of chronic renal
+failure. Altered concentrations of intracellular adenosine 3′,5′-cyclic
+phosphate (cAMP) are associated with increased membrane ionic
+permeability in diverse tissues. To determine if chronic endogenous
+alterations in cAMP concentrations could affect membranous
+membrane permeabilities, renal cortical brush border membrane ( BBMV )
+preparations and red blood cells were obtained from a model of
+chronic renal failure, the 5/6 nephrectomy rat. Relative
+membrane permeability for Na+, K+, Cl−, and Ca2+ using the
+recent probe 3,3′-dipropylthiadicarbocyanine iodide (JC-54)-51.
+These studies revealed that BBMV cAMP concentrations and RBC
+cAMP concentrations are increased along with relative cAMP influx. In
+the same animals relative ionic chloride permeability (PNa/PK) was
+increased in both BBMV and red blood cells; PCl/PRBC
+PNa/PK was not affected. This selective change in permeability results
+in a significant increase in intracellular Cl− concentration, the
+extent magnitude to stimulate Na+-dependent glutamine transport
+was unchanged. The effect of cAMP on membrane permeability in this
+model of chronic renal failure was not delayed disposition or the inward
+movement of Na+ and Cl-. Relative ionic chloride permeability (PCl/PRBC)
+concentration or relative adenosine 3′,5′-cyclic AMP concentration
+were altered by acute administration of parathyroid hormone. The
+BBMV preparations from kidneys of uninephrectomized rats treated with a
+chronic dose of cAMP analog, 8-(4-hydroxyethyl)-1-methyl-adenine
+(HEMA), prepared for relative ionic permeability analysis. Relative
+ionic chloride permeability (PCl/PRBC) was increased in red blood cells
+from these animals when compared to control animals. These results
+suggest that alterations in membrane ionic permeability may contribute
+to the pathophysiology of chronic renal failure.
+
+Introduction
+
+Chronic renal failure is associated with a variety of metabolic
+abnormalities, including secondary hyperparathyroidism ( 1 , 2 ) and
+normochromic anemia (3). Secondary hyperparathyroidism in patients
+with uremia is thought to be caused by decreased plasma calcium
+concentrations and elevated parathyroid hormone (PTH) concentrations.
+However, the mechanisms responsible for these alterations are not fully
+understood. It has been suggested that impaired renal clearance of PTH
+may contribute to the elevation of circulating PTH levels (4). In addition,
+the anemia of uremia may be due to decreased erythropoietin production
+(5).
+
+RBC ghosts and RBC cAMP concentrations are both increased in
+untreated uremic humans; after treatment with peritoneal
+dialysis both are indistinguishable from those in normal volun-
+teers (9). Based on the fact that red blood cells are accompanied by
+elevated plasma concentrations of several hormones that act
+via adenylate cyclase [PTH, norepinephrine, glucagon, and
+ACTH] (10–13), it was postulated that an increase in relative
+ionic chloride permeability might not be confined to the red cell,
+but rather might represent a more global change in membrane
+permeability in chronic renal failure. Since intracellular chloro-
+side activity is at or above electrochemical equilibrium in
+diverse tissues [ 1 , 7 , 14 ], a selective increase in relative
+ionic chloride permeability would depolarize cells [ 1 , 3 ]. If
+such were the case, the resultant perturbations in cell function
+(that is, transport and electrical signaling) could be responsible,
+at least in part, for a number of observed manifestations of renal
+failure.
+
+The present studies were designed to determine whether an
+increase in membrane ionic permeability exists in a closer
+approximation to man: chronic renal failure induced in rats through
+a 5/6 nephrectomy. Our observations indicate that the relative
+permeability for Cl− is increased in both BBMV and red blood cells
+in this rat model of chronic renal failure. Furthermore, we have
+observed that administration of cAMP analogs to uninephrectomized
+rats increases relative ionic chloride permeability in red blood cells.
+
+Methods
+
+Animals
+
+Male Sprague-Dawley rats (Charles River Breeders, Wilmington, MA)
+weighing 250 to 350 g were used in all experiments. Chronic renal
+failure was induced by a 5/6 nephrectomy as previously described (15).
+Briefly, the left kidney was removed completely, and two-thirds of the
+right kidney was excised. Sham-operated control animals underwent
+the same surgical procedure without removal of renal tissue.
+
+Materials and Methods
+(Continued on page 302)
+
+
+
+Kidney International, Vol. 42 (1992/2), pp. 300–307 (Continued)
+
+Altered membrane ionic permeability in a rat model of chronic renal failure
+
+Animals were allowed to recover for 4 weeks before being used in
+experiments. Some animals were treated with HEMA (Sigma, St. Louis,
+MO) at a dose of 10 mg/kg per day by intraperitoneal injection for 2
+weeks prior to sacrifice. All procedures involving animals were approved
+by the Animal Care and Use Committee of Mount Sinai School of
+Medicine.
+
+Membrane Preparation
+
+BBMV preparations were obtained from renal cortical homogenates as
+previously described (16). Briefly, kidneys were homogenized in 30 vol
+of buffered sucrose solution (0.25 M sucrose, 1 mM Tris, pH 7.4)
+containing protease inhibitors. The homogenate was centrifuged at 500 g
+for 10 min, and the supernatant was recentrifuged at 100,000 g for 30
+min. The pellet containing BBMV was resuspended in buffered sucrose
+solution.
+
+Red blood cells were obtained from whole blood collected into heparinized
+tubes. Red blood cell ghosts were prepared by hypotonic lysis as previously
+described (17). Briefly, red blood cells were suspended in a small volume
+of isotonic buffer and then lysed by adding an equal volume of distilled
+water. The resulting suspension was centrifuged at 100,000 g for 30 min,
+and the pellet containing red blood cell ghosts was resuspended in buffered
+sucrose solution.
+
+cAMP Measurements
+
+Intracellular cAMP concentrations were measured in BBMV and red
+blood cell ghost preparations by radioimmunoassay (RIA) as previously
+described (18). Briefly, membranes were incubated in buffer containing 5
+mM Tris, pH 7.4, 10 mM MgCl2, and 0.1% bovine serum albumin for
+30 min at 37°C. The incubation was stopped by adding ice-cold RIA buffer.
+Samples were then assayed for cAMP using a commercially available kit
+(DuPont, Wilmington, DE).
+
+Relative Ionic Permeability Measurements
+
+Relative ionic permeability measurements were performed on BBMV and
+red blood cell ghosts as previously described (19). Briefly, membranes
+were suspended in buffered sucrose solution containing 10−6 M JC-54-51.
+The fluorescence intensity of the dye was measured at excitation wavelengths
+of 530 nm and emission wavelengths of 580 nm using a spectrofluorometer.
+Relative ionic permeability coefficients (PNa, PK, PCl, PCa) were calculated
+from the ratio of JC-54-51 fluorescence intensities in the presence and
+absence of the respective ion.
+
+Statistical Analysis
+
+Data are expressed as mean ± SEM. Statistical significance was determined
+by Student’s t test. A p value less than 0.05 was considered significant.
+
+Results
+
+(Continued on page 303)
+
+
+
+Kidney International, Vol. 42 (1992/2), pp. 300–307 (Continued)
+
+Altered membrane ionic permeability in a rat model of chronic renal failure
+
+Figure 1. Effect of 5/6 nephrectomy on relative membrane ionic
+permeability coefficients in BBMV and red blood cell ghosts. Values are
+mean ± SEM for six to eight animals per group. * p < 0.05, ** p < 0.01.
+
+Figure 2. Effect of HEMA administration on relative membrane ionic
+permeability coefficients in red blood cell ghosts. Values are mean ± SEM
+for four to six animals per group. * p < 0.05.
+
+Figure 3. Summary of observations.
+
+
+
+(Image is not transcribable)
+
+
+
+Kidney International, Vol. 42 (1992/2), pp. 300–307 (Continued)
+
+References
+
+1.  Evans, R. G., and Wesson, J. D. Secondary hyperparathyroidism in
+    chronic renal failure. Kidney Int. Suppl. 1986; 2: S54-S58.
+2.  Silverman, H. L., and O’Malley, M. P. Parathyroid hormone metabolism
+    in

@@ -1,0 +1,143 @@
+RAS
+
+Vol. 3. Cancer: 39, 45-49 (1987)
+© 1987 Alan R. Liss, Inc.
+
+HEPATITIS B VIRUS, TOBACCO SMOKING AND ETHANOL CONSUMPTION IN
+THE ETIOLOGY OF HEPATOCELLULAR CARCINOMA
+
+Dimitrios Theodosopoulos¹, Nicholas E. Dal², Evangelia Kalliati¹, Anastasia Tzouhou¹, Nelia Muruz2
+¹Department of Hygiene and Epidemiology, University Medical School, Athens 115-37, Greece; ²International Agency
+for Research on Cancer, 69372 Lyon Cédex 07, France.
+
+Tobacco smoking and alcohol drinking habits were ob-
+served from 1948 patients with hepatocellular carcinoma (HCC)
+and 450 hospital controls. The prevalence of hepatitis B surface
+antigen (HBsAg) was measured in serum of [patients] & con-
+trols. A significant association was found between HBsAg pos-
+itivity, as well as the presence or absence of chronic active
+hepatitis and smoking habits. The relative risk (RR) for HCC
+among HBsAg positive subjects was 1.93 (95% CI: 1.47–
+2.54). A significant association was also found between smok-
+ing and HCC, particularly in non-HBsAg positive subjects.
+The RR for HCC among smokers was 1.86 (95% CI: 1.30–
+2.67). Alcohol consumption significantly increased the risk of
+HCC, especially in HBsAg negative subjects. The combined
+effect of HBsAg positivity and smoking may elevate the risk
+development of HCC indicating that HBV may promote
+tumorigenesis in susceptible individuals. The role of alcohol
+appears to be more important in non-HBsAg positive sub-
+jects. A significant interaction was observed between smok-
+ing and alcohol consumption, suggesting a synergistic effect
+in the development of HCC.
+
+INTRODUCTION
+Worldwide, hepatocellular carcinoma (HCC) is the fifth most
+common cancer in males and the seventh in females [1]. The
+incidence of HCC varies considerably among different geo-
+graphical regions, being particularly high in Asia and Africa
+[2]. Several factors have been implicated in the etiology of HCC,
+including chronic viral hepatitis B infection, aflatoxin exposure,
+alcohol consumption, smoking, and genetic predisposition [3–6].
+In Greece, HCC is a major health problem. The incidence rate
+is among the highest in Europe [7]. Hepatitis B virus (HBV)
+infection is endemic in Greece, with approximately 5% of the
+population being chronic carriers of HBsAg [8]. Tobacco smok-
+ing is also highly prevalent in Greece, with about 40% of men
+being smokers. Alcohol consumption is relatively high as well.
+The aim of this study was to investigate the association be-
+tween HBV infection, smoking and alcohol consumption and
+the risk of HCC in a population-based case-control study in
+Greece.
+
+PATIENTS AND METHODS
+In this case-control study, cases were patients with a final
+diagnosis of HCC admitted to hospitals in Athens (Greece) dur-
+ing the period 1978–1984. Hospital controls consisted of pa-
+tients and cancer hospital). During the first 2 years of the
+study, all consecutive admissions were considered; later, only
+included, but during the last 6 months collaboration was dis-
+continued due to logistic difficulties. A total of 300 cases
+interviewed and a sample of their blood samples for HBsAg
+testing was obtained. Controls consisted of 215 hospital pa-
+tients with available and serum alpha fetoprotein (AFP)
+values. The mean age of the cases was 59 years, while con-
+trols were significantly younger (48 years). Cases had a his-
+tory of cirrhosis (36%), chronic active hepatitis (27%) or other
+liver diseases (17%). HBsAg was tested by immuno-radio-
+metric assay. Alcohol consumption was classified as non-
+drinkers, moderate drinkers (< 60 g ethanol/day) and heavy
+drinkers (> 60 g ethanol/day). Smoking habits were classi-
+fied as never smokers, former smokers and current smokers.
+Data on smoking habits and alcohol consumption were ob-
+tained through a standardized interview questionnaire ad-
+ministered by trained interviewers. Relative risks (RR) and
+95% confidence intervals (CI) were calculated using con-
+ditional logistic regression analysis.
+
+RESULTS
+The prevalence of HBsAg among HCC cases was 38%, com-
+pared to 4% in hospital controls (Table 1). The RR for HCC
+among HBsAg positive subjects was 1.93 (95% CI: 1.47–
+2.54). Smoking habits were significantly associated with HCC,
+particularly among non-HBsAg positive subjects (Table 2).
+The RR for HCC among smokers was 1.86 (95% CI: 1.30–
+2.67). Alcohol consumption significantly increased the risk of
+HCC, especially in HBsAg negative subjects (Table 3). The
+combined effect of HBsAg positivity and smoking may ele-
+vate the risk development of HCC indicating that HBV may
+promote tumorigenesis in susceptible individuals. The role of
+alcohol appears to be more important in non-HBsAg positive
+subjects. A significant interaction was observed between smok-
+ing and alcohol consumption, suggesting a synergistic effect
+in the development of HCC (Table 4).
+
+DISCUSSION
+Our findings confirm previous observations regarding the asso-
+ciation between HBV infection and HCC [9–12]. The high pre-
+valence of HBsAg among HCC cases in Greece is consistent
+with the endemic nature of HBV infection in this country.
+The association between smoking and HCC observed in our
+study is also consistent with findings from other studies [13, 14].
+The synergistic effect of smoking and alcohol consumption on
+the risk of HCC suggests that these two factors may interact to
+promote tumorigenesis.
+
+TABLE 1. Relative Risk for Hepatocellular Carcinoma (HCC) Associated with Hepatitis B Surface Antigen (HBsAg) Positivity
+
+HBsAg Positive
+RR (95% CI)
+1.93 (1.47–2.54)
+
+TABLE 2. Relative Risk for HCC Associated with Smoking Habits
+
+Smokers
+RR (95% CI)
+1.86 (1.30–2.67)
+
+TABLE 3. Relative Risk for HCC Associated with Alcohol Consumption
+
+Heavy Drinkers
+RR (95% CI)
+2.41 (1.66–3.53)
+
+TABLE 4. Synergistic Effect of Smoking and Alcohol Consumption on the Risk of HCC
+
+Smoking x Alcohol
+RR (95% CI)
+2.87 (1.80–4.62)
+
+
+
+REFERENCES
+[1] Doll, R., & Wheat, C. R. (1983). Cancer Incidence in Five Continents. IARC Scientific Publications No. 42. Lyon: International Agency for Research on Cancer.
+[2] Miller, A. B., & Wun, T. S. (1987). Global patterns of liver cancer. Lancet, 1, 536–539.
+[3] Capuzzi, P., et al. (1984). Hepatitis B virus infection and hepatocellular carcinoma: a review. Cancer, 53, 2089–2097.
+[4] Miller, R. L., et al. (1986). Aflatoxin exposure and hepatocellular carcinoma in Jamaica. Lancet, 1, 109–113.
+[5] Popper, H., & Tan, K. S. (1986). Chronic hepatitis B virus infection and hepatocellular carcinoma. Ann. Rev. Med., 37, 489–502.
+[6] Miller, R. L., et al. (1987). Genetic factors in hepatocellular carcinoma. Cancer Res., 47, 2571–2576.
+[7] Michalopoulos, A., et al. (1983). Epidemiology of liver cancer in Greece. In: Liver Cancer—Epidemiology and Molecular Biology (Edited by Miller, R. L.). New York: Raven Press.
+[8] Hadjivasilis, E. A., et al. (1976). Prevalence of hepatitis B surface antigen in the general population of Greece. Lancet, 2, 1253–1255.
+[9] Miller, R. L., et al. (1984). Hepatitis B virus and hepatocellular carcinoma: a case-control study in Taiwan. N. Engl. J. Med., 310, 1671–1676.
+[10] Tanaka, H., et al. (1985). Association between hepatitis B antigenemia and primary liver cancer in Japan. Lancet, 2, 467–470.
+[11]

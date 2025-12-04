@@ -1,0 +1,30 @@
+PLATELET-DERIVED GROWTH FACTOR [3]
+
+the estimates may differ from the actual concentration of the K, of the [³H]-labeled PDGF for the receptor is significantly higher or lower than
+
+Acknowledgment
+
+The author is thankful to Rose Erler for preparation of the manuscript.
+
+3303
+
+FILE COPY
+
+[3] Structural and Functional Identification of Platelet-Derived Growth Factor-Like Proteins Produced by Mammalian Cells
+
+BY HARRY N. ANTONIADES AND PANAYOTIS PANTZIS
+
+Introduction
+
+The amino-terminal amino acid sequence of human platelet-derived growth factor (PDGF) revealed that it consists of two homologous polypeptide chains named PDGF-1 and PDGF-2.' The PDGF-2 chain has been shown to be near identical to a portion of the transforming gene product of the simian sarcoma virus (SSV),² an acute transforming retrovirus of primate origin. Characterization of its sequence has localized its transform- ing gene to its cell-derived onc sequence, v-sis³, which codes for a protein [p28] consisting of 226 amino acid residues.* The region of p28 corres- ponding to PDGF starts at the serine residue in position 67, which fol- lows a double basic (Lys-Arg) sequence at positions 65-66.4 This appears to be the processing point yielding a polypeptide of 160 residues with a molecular size of 18,056 Da, essentially the same size estimated for PDGF-2 chain on the basis of sodium dodecyl sulfate-polyacrylamide gel electrophoresis.' However, the SSV onc gene codes only for the PDGF-2 chain of the PDGF polypeptide. It was important, therefore, to establish whether the one gene product was functioning as a single polypeptide chain or in a conformational manner similar to the dimeric formation of
+
+' H. N. Antoniades and M. W. Hunkeplller. Science 220, 963 (1983).
+² R. F. Dotyline et al., Science 221, 275 (1983).
+³ M. Waterfield et al., Nature London 304, 35 (1983).
+⁴ K. C. Robbins et al., Proc. Natl. Acad. Sci. U.S.A. 80, 5918 (1983).
+⁵ E. P. Geiman et al., Proc. Natl. Acad. Sci. U.S.A. 80, 7373 (1983).
+⁶ S. G. Devare et al., Proc. Natl. Acad. Sci. U.S.A. 81, 11931 (1984).
+
+METHODS IN ENZYMOLOGY, VOL. 144 Copyright © 1987 by Academic Press, Inc. All rights reserved. No part of this publication may be reproduced or transmitted in any form or by any means
+
+PUBLICATIONS

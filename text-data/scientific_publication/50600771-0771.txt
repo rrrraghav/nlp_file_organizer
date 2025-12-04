@@ -1,0 +1,19 @@
+A Clonal CD4-Positive T-Cell Line Established from the Blood of a Patient with Sézary Syndrome
+
+J. Todd Abrams, Stuart Lezin, Subrata K. Ghosh, William Ju, Peter C. Conderlich, Peter Nowell, George Murphy, Bruce Elfenbein, and Elaine Dreifus
+
+The Wistar Institute, Philadelphia (JTA, SKG, WJ, ELF); Departments of Dermatology ([SL], CM) and Pathology (PN), University of Pennsylvania, Philadelphia; Department of Medicine (ECV), Division of Hematology, Hahnemann University, Philadelphia; and Pathology Department (BS), Temple Medical School, Philadelphia, Pennsylvania, U.S.A.
+
+The reported inability to establish long-term T-cell lines from patients with circulating neoplastic T cells has hindered the development of an in vitro system to investigate Sézary syndrome. We have established a rapidly proliferating T-cell line from the peripheral blood[8] of a patient with Sézary syndrome,
+
+Sézary syndrome, a leukemic variant of cutaneous T-cell lymphoma (CTCL), is an intermediate-grade malignancy characterized by generalized erythroderma, lymphadenopathy, and the presence of T lymphocytes in the peripheral blood [1]. With a single exception [9], attempts to establish T-cell lines from pa-tients with HTLV-I negative Sézary syndrome have been unsuccess-ful [2, 3]. Such failures suggest that Sézary T cells cannot be generated using experimental conditions that are suffi-cient for the growth of conventional T-cell lines [4, 5]. This apparent defect may be due to an inability of Sézary cells to interact with conventional cell antigens and/or a require-ment for specific factors not present in standard culture media [6, 7]. By combining a factor supplied by peripheral blood mononucle-ar cells (PBMC) with phytohemagglutinin and recombinant il-2, we have succeeded in establishing a T-cell line from a patient with Sézary syndrome. The cell line exhibits characteristics
+
+which expresses a mature helper T-cell phenotype and con-tains cytogenetic abnormalities and T-cell receptor gene rearrangements identical to those in the patient’s blood. The method of establishment and characteristics of this line are described. J Invest Dermatol 96:31–37, 1991
+
+MATERIALS AND METHODS
+
+Patient Description Sézary patient number 4 (a 62-year-old black woman who lived in Philadelphia all her life, presented in June 1985 with generalized erythroderma and slightly infiltrated plaques disseminated over the trunk and extremities. The skin biopsy showed a dense lymphocytic infiltrate in both axilla and no other signs of extracutaneous involvement. Histopathologic on a skin biopsy specimen were diagnostic for Sézary syndrome. Immunophenotyping by fluorescence cell pathology demonstrated that the predominant T cells expressed CD3, CD4, CD5, CD25, CD30, CD31, CD33, and HLA-DR. The patient also had lymphadenopathy and hepatosplenomegaly. A bone marrow aspirate showed 2% lymphocytes, which were also CD4 positive. Peripheral blood examination revealed an elevated white cell count of 38,000/µL with 75% lymphocytes. Flow cytometric analysis of the peripheral blood demonstrated that 69% of the lymphocytes expressed CD3 and CD4. The patient’s Sézary cells did not express CD7 or CD8. Cytogenetic analysis of the peripheral blood revealed a normal karyotype. T-cell receptor gene rearrangement studies showed clonal expression of the TCRα chain.
+
+Cell Line Establishment Peripheral blood was obtained from the patient in June 1985 and again in July 1986. Peripheral blood mononuclear cells (PBMC) were isolated by density gradient centrifugation using Ficoll–Hypaque (Medisciences, Princeton, N.J.). A T-cell line was established by culturing PBMC with phytohemagglutinin (PHA; Wellcome Research Products, Beckenham, U.K.) and recombinant human interleukin 2 (IL-2; R&D Systems, Minneapolis, Minn.).
+
+Paper I

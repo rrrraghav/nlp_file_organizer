@@ -1,0 +1,118 @@
+A human airway smooth muscle cell line
+
+that retains physiological responsiveness
+
+R. A. Panettieri, R. K. Murray, L. R. DePaolo,
+P. A. Yadvish, and M. I. Kotlikoff
+
+Cardiovascular-Pulmonary Division, Department of Medicine and Laboratory of Pharmacology,
+University of Pennsylvania, Philadelphia, Pennsylvania 19104-6046
+
+Panettieri, R. A., R. K. Murray, L. R. DePaolo, P. A.
+Yadvish, and M. I. Kotlikoff: A human airway smooth
+muscle cell line that retains physiological responsiveness. Am. J.
+Physiol. 266 (Cell Physiol. 25): C229-C233, 1989.—We report
+the development of a nontransformed line of human airway
+smooth muscle cells retaining smooth muscle contractile
+protein expression and physiological responsiveness to ago-
+nists implicated in asthma, leukotrienes, bradykinin, platelet-acti-
+vating factor, substance P, and thromboxane analogues are
+demonstrated as well as functional responses to adenosine
+receptors. The cell line was characterized using indirect im-
+munofluorescence and electron microscopy. Cytokine and
+inflammatory analysis of smooth muscle-specific cellular func-
+tional responses were assessed by measurements of cytoplasmic
+calcium mobilization and 3H-thymidine incorporation into
+nucleic production. The cells retain their responsiveness over
+numerous passages and should be useful for a model to
+examine specific receptor-effector mechanisms, as well as the
+effects of neuronal agents on the regulation of airway
+smooth muscle responses.
+
+airway smooth muscle: tracheal smooth muscle: culture
+isolated smooth muscle: platelet-activating factor: leukotrienes
+
+THE development of in vitro models for human airway
+smooth muscle has been limited by the difficulty in ob-
+taining primary cultures that retain their physiological
+characteristics (1, 2). Primary cultures often lose their
+contractile protein expression and responsiveness to stimu-
+lating agents within a few passages. We have developed a
+human airway smooth muscle cell line derived from nor-
+mal human trachea that retains its characteristic physio-
+logical responses. This cell line provides a stable in vitro
+
+line of human airway smooth muscle cells; cultured cells
+are stable over many population doublings and demon-
+strate functional responses to the principle inflammatory
+mediators implicated in asthma 12, 16).
+
+METHODS
+
+Cell Isolation. Human tracheas were obtained at autopsy
+within 8 h of death, in accordance with procedures ap-
+proved by the University of Pennsylvania Committee on
+Studies Involving Human Beings. A segment of trachea
+just proximal to the carina was removed under sterile
+conditions and placed in modified Krebs-Henseleit (KRH)
+solution (in mM) 115 NaCl, 3 KCl, 2 CaCl2,
+1 KH2PO4, 1 MgSO4, 10 glucose, 25 Na-hydroxyethyl-
+piperazine-N’,-2-ethanesulfonic acid (HEPES), and 10
+mg/ml phenol red, pH 7.4 at 4°C for transport to the
+laboratory. The trachea was removed from iced KRH and
+over-washed with sterile KRH removing the serosal layer
+and connective tissue in an epithelial cell.
+
+The adventitia was removed by dissection and then
+through the use of sterile techniques under a wet
+tissue slice was washed in KRH-ringer’s solution type
+was minced and centrifuged at 200 g for 5 min. The
+supernatant was discarded, and the tissue was re-
+suspended in 10 ml of KRH. This process was repeated
+three times to remove blood clots and debris. Tissue
+fragments were then transferred to a collagen-coated (Col-
+lagen type I, Vitrogen, Palo Alto, CA) T75 flask con-
+taining 10 ml of Dulbecco’s modified Eagle’s medium
+(DME) supplemented with 10% fetal bovine serum
+(FBS), 1 mM sodium pyruvate, 1 mM nonessential amino
+acids, and 2 mM L-glutamine.
+
+Culture Conditions. The cultures were incubated at 37°C
+in a humidified atmosphere containing 5% CO2. Media
+was changed every 2–3 days. After approximately 14
+days, the cells began to adhere to the flask and formed
+distinct colonies. These colonies were passaged by scraping
+with a rubber policeman into fresh DME supplemented
+with 10% FBS.
+
+Results
+
+Cell Morphology. The human airway smooth muscle cell
+line (HSM) was established from normal human trachea.
+The cells are spindle-shaped and elongated, with a
+prominent nucleus and scant cytoplasm (Fig. 1A). The
+cells exhibit an appearance similar to that of primary air-
+way smooth muscle cells.
+
+Immunofluorescence Staining. Immunofluorescence stain-
+ing for contractile proteins demonstrated the presence of
+actin, myosin heavy chain, and desmin in the HSM cell line
+(Fig. 1B). These findings are consistent with the expression
+of airway smooth muscle characteristics.
+
+Functional Responses. The HSM cell line retains its physio-
+logical responsiveness to a variety of agonists implicated
+in asthma (Table 1). Functional responses were assessed by
+measuring cytoplasmic calcium mobilization and 3H-thym-
+idine incorporation into nucleic acid production.
+
+TABLE 1. Functional Responses of Human Airway Smooth
+Muscle Cell Line
+
+Agonist                                    EC50 (nM)
+Leukotriene B4                            1–10
+Platelet-Activating Factor                10–100
+Substance P                                10–100
+Thromboxane A2                             100–1,000
+Bradykinin                                 100–1,000
+

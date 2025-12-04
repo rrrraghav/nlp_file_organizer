@@ -1,0 +1,74 @@
+MARKETING INFORMATION SYSTEMS, INC.
+100 Sylvan Avenue
+Englewood Cliffs, New Jersey 07632
+1-800-631-1628/201-547-6900
+
+PROJECT DATA DISPLAY TEST
+(Questionnaire)
+
+Respondent’s Name
+
+DRAFT #2
+#638285
+July, 1985
+
+
+
+CARD 1
+
+RECORD RESPONDENT'S REGULAR BRAND SCREENER Q.9:
+(FULL BRAND NAME)
+(MENTHOL SMOKER)
+
+13. How long have you been smoking (BRAND IN Q.9)? (DO NOT READ LIST)
+    3 months or less.................... .21/22( ) 99
+    4 - 6 months........................... ( ) 98
+    7 - 11 months.......................... ( ) 97
+   12 months (about 1 year)................ ( ) 96
+    Over 1 year to 2 years................. ( ) 95
+    Over 2 years (SPECIFY) ............... ( )
+
+14. Some brands come in more than one type or size. Before you started smoking
+(FULL NAME FROM Q.9), were you smoking some other type or size of [FIRST
+NAME FROM Q.9]? If so, were you smoking same other brand?
+
+    Other type or size of same brand....... 23 ( ) –[ASK Q.15]
+    Another brand............................ ( ) -[SKIP TO Q.16]
+(DO NOT READ)  –No previous brand................. ( ) -[SKIP TO Q.17]
+
+15. What type or size of [FIRST NAME FROM Q.9] did you smoke most often before
+you started smoking (FULL NAME FROM Q.9)? (SHOW BRAND LIST TO DETERMINE
+WHICH VERSION)
+
+FULL NAME:
+
+(RECORD FULL NAME FROM BRAND LIST; THEN SKIP TO Q.17)
+
+16. What one brand did you smoke most often before you started smoking (FULL NAME
+FROM Q.9)? (SHOW BRAND LIST TO DETERMINE WHICH VERSION)
+
+(RECORD FULL NAME FROM BRAND LIST)
+
+24/25-26                                                               27-
+
+(HAND RESPONDENT PORTFOLIO)
+17. This book contains ads for cigarettes. What I would like you to do is
+to look at each one as if for the first time and then tell me what
+you think of it.  Are there any that you like or a few questions I
+would like you to answer?
+
+WHEN RESPONDENT HAS FINISHED, TAKE BACK PORTFOLIO)
+
+18. In this menu of our telephone services, please look through it carefully
+and indicate which services you are interested in. For example, do you
+want more channels? Do you want call forwarding?  Please note that all
+services listed are available as part of your [BRAND IN Q.9] package.
+
+(HAND RESPONDENT MENU; ALLOW SUFFICIENT TIME FOR REVIEW)
+
+19.  Do you have any questions or comments about the services shown in this menu?
+
+
+
+20873:638285
+(CONTINUE TO CARD 2)

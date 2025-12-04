@@ -1,0 +1,153 @@
+HEMODYNAMIC CHANGES ASSOCIATED WITH ANAPHYLAXIS
+in parasite-sensitized rats
+
+RONALD MATHISON, A. DEAN BEFUS, and JOSEPH S. DAVISON
+Gastrointestinal Research Group, Departments of Medical Physiology and Microbiology and Infectious
+Diseases, Faculty of Medicine, University of Calgary, Calgary, Alberta T2N 4N1, Canada
+
+MATHISON, R., A. DEAN BEFUS, and J.S. DAVISON. Hemodynamic changes associated with anaphylaxis in
+parasite-sensitized rats. Am. J. Physiol. 258 (Heart Circ. Phys-
+iol. 31): H1106–H1119, 1980.—The effects of inducing shock
+with the parasite Nippostrongylus brasiliensis—induced anaphylactic
+changes associated with worm allergens—were studied. Allergen
+induced decreased heart rate, mean arterial blood pressure,
+and cardiac output (CO). Blood flow (%CO) to wet tissues increased
+markedly by 240 min. Blood flow (%CO) to the kidneys,
+hepatic artery, and most tissues, with the exception of the kidneys,
+spleen, and adrenals, decreased during shock. CO was reduced
+to arterial and enhanced flow to the kidneys, trachea,
+and intestines were observed at 240 min. The distribution
+of cardiac output per gram wet tissue (%CO/g)
+increased initially to the kidneys, liver, and cervix, and diverted
+to other gastrointestinal tissues. The %CO/g to
+the adrenals decreased by 30 min and remained
+unchanged for approximately 180 min. The intestine is an important
+organ affected by anaphylaxis in the rat, and the liver may participate
+in alleviating anaphylaxis.
+
+INDEXES: shock; lungs; microcirculation; allergens; Nippostrongylus
+brasiliensis
+
+Received July 26, 1979; accepted November 10, 1979
+
+WE thank J. D. MacLeod for his technical assistance. This research
+was supported by Medical Research Council grant A-7493 and
+Alberta Heritage Foundation Fund grant 81-5.
+
+INTRODUCTORY REMARKS
+
+Anaphylaxis is a severe allergic reaction that can be induced in
+experimental animals by various means, including the injection of
+antigen into previously sensitized hosts (12). The anaphylactic
+response is characterized by a rapid onset of hypotension, dyspnea,
+and other signs of circulatory shock. Although the mechanisms
+underlying anaphylaxis are not fully understood, it is generally
+accepted that the release of mediators from mast cells and basophils
+plays a central role (13). These mediators include histamine, serotonin,
+leukotrienes, and prostaglandins, which cause vasodilation, increased
+vascular permeability, and bronchoconstriction.
+
+The distribution of blood flow during anaphylaxis has been studied
+in several species, including dogs, cats, and monkeys (1, 3, 4, 6, 7,
+9, 15, 20, 22). In general, these studies have shown that blood flow
+is diverted away from the major organs of circulation to the skin
+and other peripheral tissues. This redistribution of blood flow is
+thought to be a compensatory mechanism designed to maintain
+oxygen delivery to vital organs during shock.
+
+In recent years, there has been increasing interest in the role of
+the gastrointestinal tract in anaphylaxis (8, 10, 11, 14, 16, 17, 19).
+It has been shown that the gut is a major site of mast cell and basophil
+degranulation during anaphylactic reactions (5, 18), and that intestinal
+mucosa can release mediators that contribute to the systemic
+anaphylactic response. Furthermore, it appears that the intestinal
+vasculature is particularly sensitive to the effects of anaphylactic
+mediators (2). It has also been suggested that the gut may serve as a
+portal for entry of allergens into the circulation and that intestinal
+mucosal mast cells can release factors that are recruited to the intestinal mucosa (12), although
+immune and inflammatory responses occur elsewhere,
+e.g., the trachea, spleen, and the lungs (2). Although the
+integrity of the intestine may be primarily affected dur-
+ing anaphylaxis, other as yet unidentified tissues may
+participate in and contribute to development of the shock
+syndrome.
+
+In an attempt to more precisely define tissues that
+participate in a systemic anaphylactic response in the
+rat, we determined blood flow to a variety of tissues and
+organs in animals that had previously been sensitized to
+N. brasiliensis. We used radiolabeled microspheres to
+measure regional blood flow changes, a technique that
+has been applied successfully to the monkey (26) and
+dog (13, 29) to study changes in the cardiovascular sys-
+tem associated with anaphylaxis.
+
+MATERIALS AND METHODS
+
+Male Sprague-Dawley rats (Charles River Breeding
+Laboratories, Canada) of an initial weight of 250–280 g
+were maintained in filter top cages (2–3 per cage)
+on a standard laboratory diet and tap water ad libitum.
+Pairs were injected intraperitoneally with 1 ml of a 3%
+suspension of N. brasiliensis antigen (prepared from adult
+worms collected from naturally infected pasture rats) on
+days 0, 7, and 14.
+
+Experimental procedures were performed as described
+previously (25). Briefly, sensitized rats were anesthetized
+with pentobarbital (60 mg/kg i.p.) and placed in a
+stereotaxic apparatus. A polyethylene catheter was
+inserted into the left ventricle via the femoral artery for
+the injection of antigen. Regional blood flow was measured
+using radiolabeled microspheres as described previously
+(25). Microspheres (10–20 µm diameter) were labeled
+with 59Fe and 14C, and injected into the left ventricle
+at a rate of 2 ml/min. The radioactivity in samples of
+blood collected from the abdominal aorta was measured
+using a gamma spectrometer and a liquid scintillation
+counter, respectively.
+
+Regional blood flow was calculated from the dis-
+appearance of microspheres from the systemic circulation
+as described previously (25). Briefly, the fraction of
+microspheres remaining in the systemic circulation at any
+given time is proportional to the reciprocal of the sum
+of the blood flows to all tissues. The regional blood flow
+(Q) can then be calculated as follows:
+
+Q = Qtotal * (A/W)
+
+where Qtotal is the total blood flow, A is the radioactivity
+in a tissue sample, and W is the wet weight of the tissue.
+The total blood flow was determined from the systemic
+clearance curve.
+
+Data are expressed as mean ± SE. Statistical significance
+was determined by Student’s t test.
+
+RESULTS
+
+Hemodynamic Responses to Antigen Injection
+
+Injection of N. brasiliensis antigen into sensitized rats
+induced a rapid decrease in heart rate, mean arterial blood
+pressure, and cardiac output (CO). The changes in these
+parameters are shown in Figure 1. Heart rate decreased
+markedly by 240 min (p < 0.05), while mean arterial
+blood pressure decreased markedly by 30 min (p < 0.05)
+and remained depressed throughout the experiment. CO
+decreased markedly by 30 min (p < 0.05).
+
+Regional Blood Flow Changes
+
+The distribution of cardiac output per gram wet tissue
+(%CO/g) to various tissues is shown in Figure 2. Initially,
+the %CO/g to the kidneys, liver, and cervix increased,
+while that to other gastrointestinal tissues decreased. The
+%CO/g to the adrenals decreased by 30 min and remained
+unchanged for approximately 180 min.
+
+The changes in blood flow (%CO) to various tissues are
+shown in Figure 3. Blood flow to wet tissues increased
+markedly by 240 min. The kidneys, trachea, and intestines
+were observed at 240 min.

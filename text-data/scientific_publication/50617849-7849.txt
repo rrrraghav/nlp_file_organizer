@@ -1,0 +1,64 @@
+JOURNAL OF CELLULAR PHYSIOLOGY 150:619-619 (1992)
+
+#2
+
+Glycolipid Depletion Using a Ceramide Analogue (PDMP) Alters Growth, Adhesion, and Membrane Lipid Organization in Human A431 Cells
+
+SUZANNE BARBOUR, MICHAEL EDDIN, BRUNHILDE FELDING-HABERMANN,
+JANELLE TAYLOR-NORTON, NORMAN S. RADIN, and BRUCE A. FENDERSON*
+Department of Biology, The Johns Hopkins University, Baltimore, Maryland 21218 (S.B.,
+M.I.), The Burnham Institute, Seattle, Washington 98119 (B.F.-H., I.T.-N., B.A.F.), and
+Mental Health Research Institute of Michigan, Ann Arbor, Michigan 48109 (N.S.R.)
+
+Glycolipids were depleted from the membranes of human A431 cells using 1-(2-decylamino)-1-morpholinoethan-1-ol (PDMP), an inhibitor of glycosphingo-
+lyceramide synthesis. After 6 days of culture in the presence of 5 µM D-theto-
+PDMP, glycolipid content was reduced to approximately 5% of control levels. By
+contrast, sphingomyelin and phosphatidylcholine concentrations remained un-
+changed, and glycosphingolipids were relatively unchanged in PDMP-treated cells. In parallel with
+glycolipid depletion, PDMP-treated cells exhibited a marked alteration in cell
+morphology, a reduced rate of cell growth, and inhibition of cell-substrate adhe-
+sion. The effects of PDMP on cell morphology and substrate adhesion
+were blocked by exogenous GM1 addition and were not observed with 1-deca-
+PDMP (a relatively inactive enantiomer). Fluorescence photolocalization and re-
+covery after photobleaching experiments indicated that glycolipids influence cell
+behavior, in part, by changing the diffusion characteristics of membrane proteins
+and lipids. Diffusion coefficients of a class I MHC antigen and other membrane
+proteins, the EGF receptor and a class III MHC antigen, were altered significantly
+between control and PDMP-treated cells. Diffusion coefficients of lipid probes,
+DMPE and DOPC, were also affected by glycolipid depletion. The effects on mobile
+diffusion coefficients, however, lipid probes did show a similar increase in membrane
+fluidity as observed with GM1 addition. To allow for a difference in PDMP-treated cell tis-
+sues, the effect of PDMP was examined on the incorporation of [3H]glucosamine into
+membrane bound cell cultures that are able to produce it. The formation of lipid
+derivatives was also studied by analyzing glycolipid and transmembrance.
+
+We wish to thank Laura L. Hixson, Michael J. Hockinson, and Jeffrey N. Wu for their
+assistance with various aspects of this work. We are grateful to Dr. Samuel Weissman, University
+of California, San Diego, for the gift of DMPE. This research was supported by National Institutes
+of Health grants R01 CA39754 (S.B., B.A.F.) and R01 GM36285 (B.A.F.), and by a grant from
+Genencor International, Inc. (B.A.F.). Portions of this research were performed at the Mental Health
+Research Institute of Michigan, which is supported by Public Health Service grants MH44901 and
+MH47325.
+
+*To whom reprint requests should be addressed.
+
+Received 28 June 1992; accepted 26 October 1992.
+
+
+
+A major class of glycosphingolipids in mammalian cell membranes is glucocerebrosides, which are
+typically synthesized from ceramide and glucose-1-phosphate by the enzyme glucosylceramide syn-
+thase (1). These glycosphingolipids play a critical role in various cellular processes, including cell-cell
+recognition, signal transduction, and membrane organization (2, 3). The precise functions of individual
+glycosphingolipids are often difficult to determine because of the complexity of their biosynthesis and
+the lack of specific inhibitors.
+
+We have recently developed a novel ceramide analogue, 1-(2-decylamino)-1-morpholinoethan-1-ol
+(D-theto-PDMP), which specifically inhibits glucosylceramide synthase (4). This compound is effective
+in depleting glycosphingolipids from cell membranes and provides a unique tool for studying their func-
+tions. In this paper, we report that treatment of human A431 cells with D-theto-PDMP results in a sig-
+nificant reduction in glycolipid content, accompanied by alterations in cell morphology, growth rate,
+and membrane lipid organization.
+
+
+

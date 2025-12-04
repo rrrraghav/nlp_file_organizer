@@ -1,0 +1,26 @@
+Volatile Phase Profiling of Mainstream Smoke by Glass Capillary Gas-Chromatography Techniques
+
+B. W. Good, M. E. Parrish and D. R. Douglas
+Philip Morris Research and Development, P. O. Box 26583, Richmond, VA 23261, USA.
+
+Key Words:
+Gas chromatography
+Capillary column
+Organic phase cigarette smoke
+Volatile phase cigarette smoke
+Thermal desorption
+nitrogen-phosphorus detector (NPD)
+
+Summary
+A heated injection system for a microprocessor-controlled GC has been developed for the (GC) analysis of the volatile phase of whole cigarettes. The effects of sample temperature and the presence of a Cambridge filter pad are evaluated. Chromatograms obtained with samples drawn with and without a Cambridge filter with the sample size were 25µl, 100°C and 200°C using a flame ionization and nitrogen-phosphorus detector is illustrated.
+
+derivatization or pyrolysis, there is a substantial number of components having a volatility range between that found in the nonvolatile fraction and the gas phase. Therefore, the volatile phase we are observing consists of compounds made up of components which are volatile and stable enough to be chromatographed. The volatile phase may be valuable to our product line data base, especially when trying to correlate instrumental and sensory characteristics. Since several potentially important compounds are often found in this volatility range.
+
+The collection of X milliliters of mainstream smoke and condensation of that sample in a small chromatographic plug is a practical problem. To solve the problems poses a practical problem: How to move the cigarette through an X milliliter sample loop connected to a sample valve, while preventing dilution of the smoke by air? This requires the use of a liquid nitrogen cooled trap (5).
+
+An alternative approach involves subjecting our dynamic samples to metal surfaces at elevated temperatures with possibilities for modification or reaction. Although we have not evaluated this technique, it may be possible to obtain more information about the volatile phase components in cigarette smoke.
+
+Introduction
+Considerable effort has been spent attempting to optimize, characterize and automate the chromatographic analysis of gas phase cigarette smoke. The earliest reports of the analysis of the gas phase of cigarettes came from our laboratories [1-4]. In 1957, Soligman et al. [5] published on the use of mass spectrometry in gas chromatography and their work showed in the delayed ignition of 19 components in the gas phase of cigarette smoke. The gas phase and condensed phase of cigarette smoke are often considered to be distinct entities. However, it is possible that some of the compounds initially present in the gas phase may condense onto particulate matter during cooling. Conversely, some of the nonvolatile components may volatilize upon heating. Therefore, there is a region of overlap between the two phases.
+
+Without

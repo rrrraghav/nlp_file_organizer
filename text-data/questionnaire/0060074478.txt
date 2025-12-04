@@ -1,0 +1,38 @@
+Hello, my name is X of British Associates. This is a call we are making on behalf of the Peterson Group. We’re trying to reach people age 18 and over. May I speak with someone at this residence?
+
+Male/Female: 27 years of age or older? Yes/No. Would you like to hear a brief description of our services?
+
+INTERVIEWER - RECORD CALL RESULTS AT THIS NET SCREEN
+
+RECORD THE CALL RESULT BELOW
+
+NUMBER ANSWERED, ELIGIBLE PARTICIPANT 68 100%
+
+NUMBER ANSWERED, NON-ELIGIBLE 02 0%
+
+CALL BACK/SPECIFY TIME (UPON TO RESPONDENT) 02 0%
+
+RESPONDENT AVAILABLE (DO NOT SPEAK TO ANYONE ELSE) 02 0%
+
+NO CONNECTION/DOES NOT GO THROUGH/NO ONE HOME 02 0%
+
+NON-WORKING NUMBER/OUT OF SERVICE/DISCONNECTED 02 0%
+
+BUSINESS PHONE 02 0%
+
+LANGUAGE BARRIER 02 0%
+
+REFUSAL 13 192%
+
+INTERVIEWER: Enter sex of respondent.
+
+Female 56 81%
+
+We have filled our quota. Thank you very much for your cooperation.
+
+
+
+CALLCTON
+Recorders
+end
+only

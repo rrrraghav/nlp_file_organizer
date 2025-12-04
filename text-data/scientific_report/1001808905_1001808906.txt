@@ -1,0 +1,39 @@
+SYNOPSIS
+
+Quantitative Determination of Scopoletin in Cigarette Smoke
+
+von P. Waltz, M. Häusermann und A. Krull.
+Vereinigte Tabakfabriken A. G., Neuchâtel-Serrières.
+
+Synopsis by R. P. Gerber, Ph.D.
+
+Scopoletin and scopolin have been identified in the tobacco
+plant, but only scopoletin appears in the smoke. A new quantitative
+method for scopoletin in smoke condensate (CORESTA standards) has
+been worked out. It comprises these steps:
+
+Liquid-liquid partition: Three partitions remove non-phenolic
+and some phenolic compounds from the condensate. (Figure 1)
+Recoveries are 96+ %.
+
+Column chromatography with CHCl3 on a polyamide powder
+further purifies the scopoletin fraction. Recovery is 100%
+(Table 2).
+
+UV-spectrophotometry (Figure 2). The differential extinction
+of scopoletin in two solvents is a direct measure of its
+concentration. (5.5 in the manuscript). Spectrophotometric
+calibration with known solutions supplies the conversion factor
+(5.6).
+
+The specificity of the method is discussed under 6.1.
+Reproducibility results are listed in Table 3. Ten determinations
+made with the same smoke condensate gave a mean of 14.17 µg/Cigt.
+Standard deviation 0.267 µg/Cigt.
+
+The accuracy is checked by determining total scopoletin in a
+previously analyzed condensate to which known amounts of
+
+
+
+1001805905

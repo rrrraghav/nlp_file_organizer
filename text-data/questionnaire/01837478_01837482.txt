@@ -1,0 +1,66 @@
+NATIONAL CONSENSUS SURVEYS
+#643189
+801 Second Avenue
+New York, New York 10017
+13-4
+
+NAME: Clinton Price PHONE #: 272-9539
+
+1. Please take a few minutes to go through the advertisements in this book. Please say "no" if you do not remember. If you ordinarily wear reading glasses, you'll need them.
+
+(BRAND RESPONDENT PORTFOLIO AND TAKE IT BACK BEFORE CONTINUING.)
+
+2. Now, I’d like to ask you a few questions about the ads in the book.
+What brands or products do you remember seeing ads for in the booklet (PROMPT: Any other brands? (DO NOT READ BRAND NAMES OR PRODUCT CATEGORIES).)
+
+GENERAL ADS  CIGARETTE ADS (14)
+Arm & Hammer ----- 1 Dole Pineapple ---- 1 Golden Lights----- 5
+BankAmericard/Visa -- 2 General Electric Washer -- 2 Kent (any)---- 6
+Bayer Aspirin ----- 3 Hilton Hotels ----- 3 Kent Golden----- 7
+Bolands Love Cover --- 4 Kawasaki ----- 4 Kent Lights------ 8
+Budweiser ----- 5 Old Spice Aftershave Cologne - 5 Kent (unsp.)--- 9
+Canners Club ----- 6 Polaroid Cameras ---- 6 True ----- 10
+Coca Cola ----- 7 Singer Sewing Machines -- 7 Other (SPECIFY):----- 0
+Concord Watches---- 8 Testors ----- 8
+Creest toothpaste --- 9 Weight Watchers ----- 9
+
+(IF NO Cigarette Brands Mentioned ABOVE, ASK C.3a.)
+
+(IF ONLY ONE OR TWO Cigarette Brands Mentioned, SKIP TO 0.3b.)
+
+(IF ALL THREE Cigarette Brands Mentioned, SKIP TO 0.4.)
+
+3a. (IF NO Cigarette Brands Mentioned Above, ASK:)
+Do you remember any ads for cigarettes?
+Yes ----- (15) What brands do you remember seeing ads for?
+Any others?
+
+                                                                 (If No)----- 23
+                                                                 (If Yes)----- 0.3b
+
+Cigarette Ads (SKIP TO 0.4.)
+Do you recall or "remember" any cigarette brand ads?
+Yes ----- (15)  What brands do you remember seeing ads for?
+No ----- (23) SKIP TO 0.4.
+
+3b. (IF ONLY ONE OR TWO Cigarette Brands Mentioned ABOVE, ASK:)
+Which of the following cigarette brands do you remember seeing ads for? (READ EACH.)
+
+Boca ----- (1)  (If No)----- 23
+No-no ----- (2)  (If Yes)----- 0.4
+Level ----- (3)
+Lucky Strike ----- (4)
+Kent ----- (5)
+True ----- (6)
+Pall Mall ----- (7)
+
+3c. (IF ALL THREE Cigarette Brands Mentioned ABOVE, ASK:)
+Which of the following cigarette brands do you remember seeing ads for? (READ EACH.)
+
+Boca ----- (1)  (If No)----- 23
+No-no ----- (2)  (If Yes)----- 0.4
+Level ----- (3)
+Lucky Strike ----- (4)
+Kent ----- (5)
+True ----- (6)
+Pall Mall ----- (7)

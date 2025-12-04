@@ -1,0 +1,47 @@
+OFFICE USE ONLY
+V CECX CECC OECX OECX OCC RECOL
+
+MARKETING INFORMATION SYSTEMS, INC. #833190
+100 Sylvan Avenue February, 1990
+Englewood Cliffs, New Jersey 07632
+1-800-631-1623/201-947-6900
+
+MBL PORTFOLIO QCT (Screener)
+
+Hello, I’m _____ of Marketing Information Systems. We're conducting an
+opinion survey today among men and women between the ages of 18 and 54 about various
+products used in the household and I’d like to ask you a few questions.
+
+1. First of all, are you between the ages of 18 and 54? CARD 1 = COL. 7(1)
+Yes.. ( ) No..( ) (THANK AND TERMINATE) 8-
+2. What is your exact age? (RECORD EXACT AGE AT LEFT BELOW; THEN "X" CORRESPONDING
+AGE CATEGORY) ( )
+18 - 24... 9( -1) 35 - 39... ()-4
+25 - 29... ()-2 (CHECK QUOTAS) 40 - 44... ()-5 (CHECK QUOTA:
+[EXACT AGE] 30 - 34... ()-3 45 - 49... ()-6
+50 - 54... ()-7
+
+3. (RECORD, DO NOT ASK):
+White.................. 10( )-1
+Black.................. ()-2
+Hispanic............... ()-3
+Asian.................. ()-4
+Other (SPECIFY: )
+
+4. (RECORD, DO NOT ASK):
+Male.................... 11( )
+Female.................. ()-2 (CHECK QUOTA)
+
+5. Next, I’m going to read you a list of products. For each one I read, please
+tell me if you yourself use the product. The first one is... (READ ENTIRE
+LIST ONE AT A TIME AND RECORD).
+Antacids.................. Yes No
+Beer.................... 12( )-1 ()
+Aspirin................. ()-2 ()
+Breakfast cereals....... ()-3 ()
+Cigarettes............... ()-4 ()
+Coffee.................. ()-5 ()
+Frozen foods............. ()-6 ()
+Diet soda................ ()-7 ()
+THANK AND TERMINATE
+2042625482

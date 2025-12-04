@@ -1,0 +1,40 @@
+THE JOURNAL OF BIOLOGICAL CHEMISTRY
+Vol. 248 No. 20 October 25, pp. 7262-7272 1973
+Printed in U.S.A.
+
+The Chemical Characterization of Calf Brain
+Microtubule Protein Subunits*
+
+(Received for publication, March 29, 1973)
+
+JAMES C. LEE and RONALD P. FRIGON
+From the Graduate Department of Biochemistry, Brandeis University, Waltham, Massachusetts 02154
+
+SERGE X. TOMASSI†
+From the Graduate Department of Biochernistry, Brandeis University, and Pioneering Research Laboratory of Physical Biochemistry, United States Department of Agriculture, Eastern Marketing and Nutrition Research Division, Agricultural Research Service, Waltharn, Massachusetts 02154
+
+SUMMARY
+
+Calf brain microtubule protein (tubulin) was characterized chemically. Amino acid analysis and hydrogen ion titration in 6 M guanidine hydrochloride yielded a chemical composition similar to that of tubulin from other sources. The NH-terminal residue was identified as methionine. When the protein was denatured and reduced in 8 M urea, two distinct bands were observed on gel electrophoresis in the presence of urea, suggesting the existence of two nonidentical subunits. The molecular weight of the tubulin subunits was determined by a variety of techniques, including sedimentation equilibrium and light scattering in 6 M guanidine hydrochloride, sodium dodecyl sulfate gel electrophoresis, isoelectric focusing, and viscosity measurements. All methods yielded an average molecular weight value of 54,000 ± 1,000, whether the protein was guanidine-hydrolyzed or with reduced proteins. A distinct minor S-carboxymethylated protein component in 6 M guanidine
+
+characterization of calf brain tubulin are described in this paper. A preliminary report of this work has been published (1).
+
+EXPERIMENTAL PROCEDURE
+
+Materials
+
+GTP, type II-S, 5,5'-dithiobis(2-nitrobenzoic acid), and dithiothreitolglycine were purchased from Sigma Chemical Co. Polyacrylamide and bisacrylamide were obtained from Polysciences, Inc. DEAE-cellulose sheets were obtained from Eastman Kodak Co. Kanamycin purity grade guanidine hydrochloride from Fisher, Inc., was used after filtration through a 0.22-µm filter. Sodium salts of histidine, urea, which were purchased from Fisher Scientific Co., were recrystallized before use. Dithiothreitol was saturated with air and H₂O before use. DEAE-cellulose blue dextran 2000 were obtained from Pharmacia Fine Chemicals; Bio-Rad Gel Stain agarose gels from Bio-Rad Laboratories. All other chemicals were reagent grade or higher, and were used without further purification.
+
+RESULTS
+
+Molecular Weight Determination
+
+The average molecular weight of the major tubulin subunit was determined by several different methods. The results are summarized in Table 1. Sedimentation equilibrium experiments (2) were performed with a Beckman Model E analytical ultracentrifuge. Scans were obtained at 400 nm, and the data were analyzed using both the Barnes method (3) and the Kramer method (4). Light scattering measurements were made with a photometer attachment on a Beckman Model E ultracentrifuge. The viscosity of tubulin solutions was measured with an Ubbelohde viscometer. Sodium dodecyl sulfate gel electrophoresis was performed according to Fairbanks et al. (5), using 7.5% acrylamide gels. Isoelectric focusing was carried out in pH gradients ranging from 3.5 to 10.5, using a LKB Pharmacraft isoelectric focusing apparatus.
+
+Amino Acid Analysis and Hydrogen Ion Titration
+
+Tubulin was prepared as described previously (1). The protein sample was lyophilized under vacuum and then dissolved in 6 M guanidine hydrochloride. Amino acid analysis was performed on an automatic amino acid analyzer (Beckman Model 12A) after hydrolysis in vacuo at 105°C for 24 hours. Hydrogen ion titration was carried out with a pH meter (Beckman Model 240).
+
+NH-Terminal Residue Determination
+
+The NH-terminal residue of tubulin was determined by Sanger’s method (6), as modified by Grayburn et al. (7).

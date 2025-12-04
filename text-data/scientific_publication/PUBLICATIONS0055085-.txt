@@ -1,0 +1,22 @@
+5866
+
+Run-around PCR: A novel way to create
+duplications using polymerase chain
+reaction
+
+We have used a modified form of reverse PCR entitled "run-around PCR" and have used it to create specific gene duplication. This technique could be quite valuable for preparing dimers or multimers of specific nucleic acid sequences for affinity purification
+
+procedures or for use as probes in expression library screening (4); to create gene-specific duplications in knock-out constructs; to create exon duplications in pre-mRNA splicing constructs; or for any other variety of imaginative purposes. We have not determined the upper-size limit that still allows complete extension around the parental plasmid, but note that technological improvements, such as those used in long PCR (1,2), may make this upper limit very large.
+
+Coolidge, C.J. and Patton, J.G.
+
+BioTechniques 18(5):763-764, 1995.
+
+Other support: American Heart Association.
+
+From the Department of Molecular Biology, Vanderbilt University, Nashville, TN.
+
+
+
+PUBLICATIONS.     0055085
+60046923

@@ -1,0 +1,158 @@
+Cytogenetics and Cell Genetics Reprint
+
+Editor-in-Chief H.P. Klinger, Basel Publisher: S. Karger AG, Basel Printed in Switzerland
+
+Cytogenet Cell Genet 64:1-8 (1993)
+
+4892
+
+Cytogenetic analysis of triploid renal carcinoma
+in Rana pipiens
+
+J.W. Williams,¹ D.L. Carlson,² R.G. Gedson,¹ L. Rollins-Smith,³
+C.S. Williams,¹ and R.G. McKinnell²
+
+'Department of Biology, Tennessee Technological University, Cookeville, TN; ²Department of Genetics and Cell Biology, University of Minnesota, Minneapolis, MN; ³Midwest Medical Laboratories and Immunology and of Vanderbilt University School
+of Medicine, Nashville, TN (USA)
+
+Abstract. To provide a cytogenetic marker for nuclear transplantation experiments, triploid Rana pipiens embryos
+were produced. These embryos were injected with Xenopus laevis herpes virus. The chromosome profile of a renal carcinoma that
+developed in one embryo was compared to the chromosomal profiles of a naturally occurring diploid renal
+carcinoma and a diploid renal tumor maintained as serial ante-
+rior eye allografts for over 2 years. Examination of Ag-
+NOR-stained chromosomes spreads from the putative triploid
+and naturally occurring diploid tumors revealed the
+expected results. The vast majority of the chromosome spreads,
+
+54/57 (95%) and 6/7 (86%), respectively, displayed euploid chromosome and Ag-NOR profiles. 3N = 39 with three Ag-
+NORs at the secondary constriction of the long arm of chro-
+mosome 10 (pql) and 2N = 26 with two Ag-NORs in 10s.
+The chromosomal profiles from the diploid tumors were
+highly aneuploid (82%) and, based on their Ag-NOR con-
+tent, displayed variations in 3N, 2N, and 4N numbers.
+These results indicate that the early transformed triploid
+Xenopus laevis tumor cells can provide nuclei suitable for
+the characterization of developmental potential.
+
+Nuclear transplantation in vertebrates was initially devel-
+oped in the northern leopard frog, Rana pipiens (Briggs and
+King, 1952). Because gynogenesis is possible in frogs, great care
+must be taken to avoid the formation of diploid embryos
+when attempting to produce triploid animals. The procedure in
+its simplest form involves fusion of two mononucleate eggs
+(Kumashiro, 1952) or injection of a sperm pronucleus into
+an enucleated egg (Lee et al., 1953). Evidence that such
+triploids can be produced in Rana pipiens has been provided
+by several workers (e.g., Allen and Haws, 1964; Allen et al.,
+1967; Haws and Allen, 1968). The triploid condition is often
+associated with a variety of developmental abnormalities
+(Allen et al., 1967), but in some cases, the animals appear
+normal (Haws and Allen, 1968).
+
+Stable chromosome markers have not been detected in R.
+pipiens until Dawkins (1973), who did not then themselves to use as
+markers in nuclear transplantation studies that term is terminated
+by natural death or by artificial means before the experimentally
+produced triploids can be evaluated for developmental potential.
+The presence of a readily identifiable and stably inherited
+marker on the frog genome would be invaluable for assessing
+the fidelity of nuclear transfer.
+
+In an attempt to obtain such a marker, we injected R.
+pipiens eggs with herpes simplex virus type 1 (HSV-1). HSV-1
+is known to induce chromosome aberrations in mammalian cells
+(e.g., Miller et al., 1972) and has been used to produce poly-
+ploid cells in Xenopus laevis (Brown and Weintraub, 1980).
+In one instance, the HSV-1 injection resulted in the develop-
+ment of an embryo that subsequently produced a renal carci-
+noma. Cytogenetic analysis of this tumor revealed a triploid
+chromosome complement with a readily identifiable marker.
+
+Materials and Methods
+
+Animal Husbandry
+
+Adult Rana pipiens were obtained from a commercial supplier
+(Sequim, WA). Eggs were collected in 0.1% methylcellulose
+solution and allowed to develop at room temperature (22°C)
+under constant illumination.
+
+Virus Preparation and Egg Injection
+
+Herpes simplex virus type 1 (HSV-1) was grown in Vero cells
+and titrated by plaque assay. Approximately 5 x 10^7 plaque-forming units (pfu) of HSV-1 were injected into one-cell stage R.
+pipiens eggs using a fine glass needle under a stereomicroscope.
+
+Cytogenetic Analysis
+
+Chromosomes were prepared from the renal carcinoma tumor
+using standard techniques (Andersen, 1964). The chromosomes
+were stained with Giemsa and examined for chromosome number
+and morphology. NOR staining was performed by impregnating
+the chromosomes with silver nitrate (Seeman et al., 1975).
+
+Results
+
+A single embryo among 23 injected eggs developed a renal
+carcinoma. This tumor exhibited a triploid chromosome com-
+plement (3N = 39) and three Ag-NOR regions located at the
+secondary constriction of the long arm of chromosome 10 (pql).
+The chromosomal profiles from the diploid tumors were highly aneuploid (82%) and, based on their Ag-NOR content, displayed variations in 3N, 2N, and 4N numbers.
+
+Discussion
+
+The presence of a triploid renal carcinoma in an HSV-1 injected
+Rana pipiens embryo provides a unique opportunity to study the
+cytogenetics of experimentally induced tumors in this species.
+The chromosomal profile of the tumor was consistent with that
+of a triploid cell, and the presence of three Ag-NOR regions
+confirmed its triploid nature. The diploid tumors exhibited
+highly aneuploid chromosomal profiles, which is not unexpected
+in spontaneously arising tumors (Comings, 1973).
+
+The results of this study suggest that HSV-1 infection can be
+used to induce chromosome aberrations in R. pipiens eggs, and
+that these aberrations can lead to the development of tumors.
+The triploid nature of the tumor provides a valuable cytogenetic
+marker for future nuclear transplantation experiments.
+
+References
+
+Andersen, B. 1964. A new method for preparing chromosomes
+from vertebrate tissues for cytological studies. Exptl. Cell Res.
+32: 587-590.
+
+Allen, E., and J. Haws 1964. Induction of triploidy in Rana
+pipiens by nuclear transfer. Nature 202: 1141-1142.
+
+Allen, E., J. Haws, and R. L. Stirewalt 1967. Triploid Rana
+pipiens: developmental abnormalities and survival. Heredt.
+22: 358-364.
+
+Brown, D. A., and A. S. Weintraub 1980. Polytene chromosomes
+induced by herpes simplex virus in Xenopus laevis blastomeres.
+Cell 20: 739-748.
+
+Comings, D. E. 1973. Chromosomal abnormalities in human
+tumors. Adv. Hum. Genet. 20: 265-332.
+
+Dawkins, T. H. 1973. Cytogenetic markers in Rana pipiens.
+Cytogenet. Forum 1: 148-150.
+
+Haws, J., and E. Allen 1968. Triploid Rana pipiens: a study of
+development and survival. Heredt. 23: 277-283.
+
+Kumashiro, T. 1952. Experimental production of intergeneric
+hybrid between two species of frogs. Jap. J. Zool. 4: 161-168.
+
+Lee, K. Y., D. E. Solomon, and G. M. Malacinski 1953.
+Production of artificial hybrids in Rana pipiens. Science
+118: 720-721.
+
+Miller, R. A., J. W. Mason, and P. H. Maniatis 1972. Herpes
+simplex virus DNA induces chromosome aberrations in cultured
+mammalian cells. Proc. Natl. Acad. Sci. USA 69: 834-838.
+
+Seeman, S. E., D. L. Markowitz, and M. A. Levin 1975. Silver
+staining of nucleolus organizer regions in plant chromosomes.
+Canad. J. Bot. 53: 1463-1468.

@@ -1,0 +1,116 @@
+A human DNA segment with properties
+of the gene that predisposes
+to retinoblastoma and osteosarcoma
+
+Stephen H. Friend*, Rose Bernardt, Suzana Rogel*,
+Robert A. Weinberg*, Joyce M. Rappaport,
+David M. Glover & Phillip A. Sharp
+
+* Whitehead Institute for Biomedical Research, Cambridge,
+Massachusetts 02141, USA
+† Children’s Hospital Oncology, The Children's Hospital,
+Dana-Farber Cancer Institute, Department of Pediatrics,
+Harvard Medical School, Boston, Massachusetts 02115, USA
+‡ Department of Biology, Massachusetts Institute of Technology,
+Cambridge, Massachusetts 02139, USA
+§ Massachusetts Eye and Ear Infirmary, 243 Charles Street,
+Boston, Massachusetts 02114, USA
+
+The genomes of tumorous cells often contain sequences
+that are introduced into these cells by retroviral vectors.
+They are introduced into non-malignant cells". There is evidence
+for the existence of oncogenes in normal cells, and it
+appears that a prerequisite for the study of such molecules
+is to identify them within the genome of a normal, non-tumorous
+oncogene”. This malignant tumour, which arises in the eyes of
+children, is characterized by a loss of function at a single locus.
+Changes resulting from mutations at this locus can cause
+retinoblastoma or osteosarcoma. Here we report that a DNA
+sequence, 4.7 kb long, has been isolated from a retinoblas-
+toma cell line and may be identical in a patient with inherited
+osteosarcoma. The same sequence is also present in a benign
+tissue to cause tumor at all times; it is only when a defective
+copy is combined with a second mutation that the tissue
+becomes tumorigenic. In this paper, we describe the isolation
+and characterization of a DNA segment from a retinoblas-
+toma cell line which we believe to be involved in the etiology
+of this tumour.
+
+MATERIALS AND METHODS
+
+Northern blot analysis was performed as described by
+Schleifer et al.2. Total RNA was isolated from cultured
+retinal and osteosarcoma cells, as well as from a sample of
+normal human retina. RNA (10 µg) was separated on a 1.2%
+agarose gel containing 30 mM Tris-HCl, pH 8.0, 20 mM
+sodium acetate, and 1 mM EDTA. The RNA was transferred
+to nitrocellulose filter by capillary action. The blot was pre-
+hybridized with 50 ml of buffer (20 mM Tris-HCl, pH 8.0,
+150 mM sodium chloride, 3 mM sodium pyrophosphate,
+0.5% bovine serum albumin, 0.5% Ficoll, and 0.5% polyvinyl-
+pyrrolidone) for at least 4 h at room temperature. The blot
+was hybridized with a probe prepared from a human DNA
+cDNA library in φX174 vectors (obtained from the Atherton
+Biomedical Communications Ltd). The cDNA library was
+prepared from total RNA isolated from normal human retina,
+as described by Sanger et al.3. After hybridization, the filters
+were washed twice with 6 x SSC (0.15 M sodium chloride,
+0.015 M trisodium citrate) at room temperature for 15 min,
+followed by two washes with 0.1 x SSC containing 0.1%
+sodium dodecyl sulphate at 65°C for 30 min.
+
+The human DNA segment that cloned fragments coding
+as a single unit was determined by obtaining a fragment
+from a cDNA library prepared from normal human retina.
+The sequence was obtained using double-stranded primer
+(5'-GCT TTT TTT GGC TTT TTT TTT TTT TTT TTC-3') and
+the method of Henikoff4. The DNA sequence (1 kb) was
+obtained in both orientations.
+
+RESULTS
+
+Northern blot analysis of RNA isolated from retinal
+and osteosarcoma cells, as well as from a sample of normal
+human retina, is shown in Fig. 1. Ribonuclease protection
+assays were also performed using the same probe. The sizes of
+the transcripts are approximately 4.7 kb (Fig. 1).
+
+The human DNA segment was cloned into a bacterial
+plasmid and used as a probe to detect RNA from cultured
+retinal and osteosarcoma cells. The results are shown in Fig. 1.
+A single band, corresponding to a transcript of approximately
+4.7 kb, was detected in both retinoma and osteosarcoma cell
+lines. This transcript was also detected in normal human retina,
+but at a much lower level.
+
+The DNA sequence of the cloned fragment contains a coding
+sequence with an open reading frame of 283 amino acids.
+The predicted molecular weight of the protein encoded by this
+open reading frame is 31 kd. The N-terminal amino acid
+sequence is: Met-Asn-Pro-Thr-Lys-Leu-Ile-Val-Gln-Ser-
+Ala-Gly-Tyr-Leu-Glu-Asp-…
+
+DISCUSSION
+
+The results of this study suggest that the human DNA
+segment isolated from retinoma cells may be involved in the
+etiology of this tumour. The fact that this segment is also present
+in normal human retina suggests that it may have a normal
+function. However, the increased level of expression of this
+transcript in retinoma cells suggests that it may be involved
+in the pathogenesis of this tumour.
+
+Fig. 1 Northern blot analysis of RNA isolated from retinal and
+osteosarcoma cells. Lane 1, retinoma cell line; lane 2, osteosarcoma
+human retina. 10 µg RNAsamples. Note: 2.3 kb, 4.0 kb, and
+4.7 kb bands are shown.
+
+OS
+9.4-
+6.5-
+4.3-
+2.3-
+2.0-
+2.3-
+2.0-
+-4.7 kb

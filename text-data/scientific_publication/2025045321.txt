@@ -1,0 +1,33 @@
+Nicotine: Cotinine Levels in Blood During Cessation of Smoking
+
+Philip Zeidenberg, John H.affe, Maureen Kanter, Morton D. Levitt,
+John L. Langone, and Helen Van Vunakis
+
+THE ROLE OF NICOTINE as a primary reinforcer and of nicotine withdrawal as a factor in maintaining cigarette smoking behavior has been recently reviewed by Jarvis.¹ In this paper, we present an exploration of the relationship between the amount of nicotine in cigarettes smoked per day, serum cotinine levels, and difficulty in modifying the smoking habit.
+
+Cotinine is the major nicotine metabolite. In contrast to the short half-life of nicotine itself, the half-life of cotinine in blood is long (30 hr) and varies 20min respectively.² Furthermore, cotinine is usually found in the blood at levels greater than that of nicotine,³ and cotinine levels remain fairly constant in individuals who smoke according to a consistent pattern.⁴ On this basis, we felt that serum levels of cotinine would be a better index of the degree of chronic nicotinism than measures of the parent alkaloid. Cotinine is approximately 50 times less toxic than nicotine in rats.⁵-⁶
+
+In this study, participants in a smoking cessation program were asked to rate themselves in terms of the difficulty they experienced in giving up smoking. They also provided information on the number and type of cigarettes they had been smoking. We then examined the correlations between this information provided by the participants, their serum cotinine levels, and serum cotinine levels taken at several points during the course of the participation in the cessation program. In addition, we attempted to ascertain activity of the sympathetic system by measuring plasma dopamine-beta-hydroxyase (DBH).
+
+MATERIALS AND METHODS
+
+Subjects
+
+The participants in this study were members of a smoking cessation group conducted at the New York State Psychiatric Institute in collaboration with “SmokeEnders”, a proprietary organization spe-
+
+From the New York State Psychiatric Institute, New York, N.Y. and the Department of Biochemistry, Brandeis University, Wien, Mass.
+Philip Zeidenberg, M.D., Staff Psychiatrist; Maureen Kanter, Research Psychiatric Trainee, New York State Psychiatric Institute; John H.affe, M.D., Chief, Department of Biological Psychiatry, New York State Psychiatric Institute; Morton D. Levitt, M.D., Director, Department of Biochemistry, Brandeis University; John L. Langone, Ph.D., Staff Scientist, New York State Psychiatric Institute; Helen Van Vunakis, Research Assistant.
+
+Supported by U.S. Public Health Service Grants MH-08265 and MH-09314. Received for publication June 27, 1972.
+Address requests for reprints to Dr. Philip Zeidenberg, New York State Psychiatric Institute, 555 E. 13th Street, New York, N.Y. 10003.
+
+REFERENCES
+
+1. Jarvis, M. J. Nicotine addiction: A review. Psychological Bulletin, 1971, 78, 264-287.
+2. Seguchi, Y., and Hayaishi, M. Metabolism of nicotine in man. Journal of Pharmacol. Exptl. Ther., 1963, 140, 359-365.
+3. Weidenfeld, J. H., and Collins, J. J. Cotinine levels in smokers. New England Journal of Medicine, 1968, 218, 739-741.
+4. Seguchi, Y., et al. Nicotine and cotinine levels in cigarette smokers. Clinical Pharmacology and Therapeutics, 1970, 11, 557-563.
+5. Bomann, R. W., et al. Toxicity of nicotine and its metabolites in rats. Archives of Toxicology, 1971, 25, 341-348.
+6. Seguchi, Y., et al. Comparison of the toxicity of nicotine and cotinine in mice. Journal of Pharmacological Sciences, 1971, 61, 1051-1055.
+
+205-UPH231

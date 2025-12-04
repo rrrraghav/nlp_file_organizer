@@ -1,0 +1,45 @@
+Cell, Vol. 74, 371-382. July 30, 1993. Copyright © 1993 by Cell Press
+
+The Fission Yeast cdc18 Gene Product
+
+Couples S Phase to START and Mitosis
+
+Thomas J. Kelly,*† G. Steven Martin,*t
+Lilian Susurbum,* Robert J. Stephen,*
+Alicia Russo,* and Paul Nurse*
+*Imperial Cancer Research Fund Cell Cycle Group
+Biochemistry Department
+Oxford University
+Oxford OX1 3QU
+England
++Department of Molecular Biology and Genetics
+Johns Hopkins University School of Medicine
+Baltimore, Maryland 21205
+‡Division of Biochemistry and Molecular Biology
+Department of Molecular and Cell Biology
+University of California, Berkeley
+Berkeley, California 94720
+
+Commitment to the cell cycle in fission yeast requires the function of the cdc18+ transcriptional activator at START. The product of the cdc18+ gene is a major downstream target of cln3+ and transcription of cdc18+ is activated by cln3+ during passage through START. The cdc18+ function is required for entry into S phase. In addition, the product of the cdc18+ gene acts as a cell cycle control that prevents mitosis from occurring until S phase is completed. Thus, cdc18+ plays a key role in coupling S phase to START and mitosis.
+
+Introduction
+Fission yeast (Schizosaccharomyces pombe) is a convenient organism for studying the control of the cell cycle (Roberts, 1985; Nurse, 1986). A number of genes involved in controlling the sequence of events during the cell cycle have been identified in this organism. These genes include those required for START, S phase, and mitosis (e.g., wee1+, rum1+, kin1+, dos4+, cdc2+, cln3+; Hunt et al., 1987; Li et al., 1987; Russell et al., 1987; Simerth et al., 1988; Wright et al., 1988).
+
+We have isolated and characterized a novel mutant, cdc18-25, which fails to enter mitosis after passing through S phase. The product of the cdc18+ gene is required for entry into S phase and for progression from S phase to mitosis (Kelly et al., 1989). Cdc18p is a component of a multiprotein complex that functions as an essential transcriptional activator (Aves et al., 1986) and has been shown to be homologous to the retinoblastoma protein pRb(55%) (Aves et al., 1986) that appears to be an essential component of a recently identified transcription factor complex that activates specific genes at the begin-ning of S phase (Lowndes et al., 1991, 1992b).
+
+In the budding yeast Saccharomyces cerevisiae, over 15 genes involved in DNA replication are periodically expressed in late G1 (reviewed in Johnston and Lowndes, 1992; Merrill et al., 1992, 1993). Many of these genes encode POL1, POL2, PH1, PRI2, etc.), while others require entry into S phase to be transcribed (e.g., CDC20, DBP, etc.). The promoter regions of S phase genes contain the sequence ACGCG or a closely related sequence, called the Multi cell cycle box (MCB) element (Gordon and Campbell, 1991; Lowndes et al., 1991; Melli-son et al. 1991; Verma et al., 1991). This MCB element is sufficient to confer cell cycle control on heterologous promoters (Lowndes et al., 1991). An MCB-binding activity called DSC1 or MCDB (Lowndes et al., 1991; Verma et al., 1991) that is present transiently in G1 has been identified. In crude yeast cell extracts, this consists with a role in the periodic activation of transcription. The SWI6 protein is an essential component of DSC1 (Lowndes et al., 1992a; DiNardo et al., 1992) and is involved in sequence-regulated DNA binding activity called SWI (Andrews and Heiszwitz, 1988; Tabas et al., 1991, 1993). SWI, which also contains the SWB protein, recognizes a consensus CACGAA or the similar element found in late G1 genes including a subset of S phase genes (Lowndes et al., 1991; Gordon and Campbell, 1991). The products of the FLO11, ZRP1, PIR2, NGR1, and MSN4 genes (e.g., Carlisle et al., 1991; Primig et al., 1991; Morrissey et al., 1991; Sarabia et al., 1992; Nathaniel and Dirik, 1993) are also components of DSC1.
+
+We have found that the product of the cdc18+ gene is an essential component of DSC1. The cdc18+ gene encodes a protein with significant sequence similarity to retinoblastoma pRb (Kelly et al., 1989). Here, we describe the characterization of the cdc18-25 mutant and demonstrate that Cdc18p functions as a transcriptional activator required for entry into S phase and progression through mitosis.
+
+Results
+
+CDC18+ IS REQUIRED FOR ENTRY INTO S PHASE
+AND PROGRESSION THROUGH MITOSIS
+
+cdc18-25 mutants fail to enter mitosis after passing through S phase (Kelly et al., 1989). These mutants accumulate at a point in the cell cycle between S phase and mitosis. The cdc18-25 mutation is lethal, and thus it is not possible to analyze the phenotype of these mutants directly. However, by using a diploid strain, we were able to generate haploid segregants that carry the cdc18-25 allele (Kelly et al., 1989).
+
+cdc18-25 mutants are blocked in S phase. This was determined by monitoring DNA synthesis with BrdU incorporation (Figure 1A). Wild-type cells incorporate BrdU throughout S phase, whereas cdc18-25 mutants incorporate BrdU only during the first half of S phase. The remaining cells are arrested at a point in the cell cycle between S phase and mitosis.
+
+cdc18-25 mutants also fail to progress through mitosis. This was determined by monitoring nuclear division with DAPI staining (Figure 1B). Wild-type cells undergo multiple rounds of nuclear division, whereas cdc18-25 mutants are arrested at a point in the cell cycle between S phase and mitosis.
+
+CDC18+ ENCODES A PROTEIN WITH SIGNIFICANT SEQUENCE SIMILARITY TO RETINOBLASTOMA pRb

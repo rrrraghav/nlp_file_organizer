@@ -1,0 +1,76 @@
+APPENDIX - TABLE C. 3
+
+CIGARETTE
+CALLBACK
+Form # 4055
+(2-73)
+
+Reasons for No Interview:
+Refused to give address
+Don’t/doesn't moved away
+Not home at time of call
+Other: ___________
+
+
+
+DATE   CALL TIME  RESULTS OF CALL
+
+Start ☐    Had/No ☐     Date _______ Time ______
+CALLBACK
+Available ☐
+Q. 1 ☐
+Q. 2 ☐
+Q. 3 ☐
+Q. 4 ☐
+Q. 5 ☐
+Start ☐    Had/No ☐     Date _______ Time ______
+CALLBACK
+Available ☐
+Q. 1 ☐
+Q. 2 ☐
+Q. 3 ☐
+Q. 4 ☐
+Q. 5 ☐
+Start ☐    Had/No ☐     Date _______ Time ______
+
+TESTER OTHER
+THAN NAME
+ON LABEL?
+
+
+
+Hello, I’m calling for Janet Hall of Home Testing Institute. May I speak to (NAME OF PERSON ON LABEL)?
+
+(IF RESPONDENT NOT AVAILABLE, MAKE CALLBACK ARRANGEMENT)
+(IF RESPONDENT IS AVAILABLE, IDENTIFY YOURSELF)
+
+36. Did you purchase this # of packs of cigarettes as mailed to you? ☐ Yes ☐ No —[TERMINATE]
+Yes ☐—[ASK Q. 31]
+
+37. Did you use all # of packs of each kind of cigarettes?
+Yes ☐—[ASK Q. 24]  _______packs G36 cigarettes   9-
+No ☐ _______packs G36 cigarettes   15-
+If NONE or less than 1 pack of cigarettes, make CALLBACK arrangement.
+
+Along with the test cigarettes we sent you a report form to complete. Do you still have that form handy for
+me? Yes ☐ No ☐
+
+38. Which of the Test Cigarettes did you first batter – to - the G36 cigarettes you tried first or the cigarettes
+coded as #1, #2, or #3?  [ASK Q. 33]
+Prefer G36 cigarettes trial ☐ [ASK Q. 24]
+#1 cigarette trial ☐ [ASK Q. 24]
+#2 cigarette trial ☐ [ASK Q. 24]
+#3 cigarette trial ☐ [ASK Q. 24]
+
+39. What did you think of the G36 cigarettes?
+
+[TERMINATE]
+
+
+
+Anything else?
+
+
+
+
+1002739585

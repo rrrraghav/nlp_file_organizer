@@ -1,0 +1,103 @@
+HPK 14 '89 1327
+
+WALKER RESEARCH B-5
+
+Page 2 of 2
+
+ATTACHMENT II.
+
+DRAFT ONLY
+
+W#0000
+4/14/88
+
+KIOSK STUDY
+
+Cell 2
+
+Willowbrook....................1
+Sharps Town...................2
+Baybrook.....................3
+Belle Promenade..............4
+
+"Hello, I'm with an independent marketing research company.
+We are conducting a survey to the mall today and would like to include you in
+it."
+
+1. "On average, how often do you come to this mall, either to shop, eat or just
+browse? Would you say you come..." (READ LIST)
+
+Once a week or more...................1
+Three times a month....................2
+Two times a month.....................3
+Once a month..........................4
+TERMINATE AND TALLY Once every 1-2 months...............5
+Less than once every 2-3 months.6
+
+[Q1 TERM = "ONCE A MONTH"] TOTAL
+
+[Q1 TERM = “ONCE EVERY 1-2 MONTHS”]
+
+[Q1 TERM = < ONCE EVERY 2-3 MONTHS]
+
+2. "Do you or does anyone in your immediate family, work for any of the
+following kinds of companies?" (READ LIST)
+
+A Drug Company...................1
+An Automobile Manufacturer..2
+An Alcoholic Beverage
+Manufacturer, Bottler
+or Distributor...............3
+A Marketing Research
+Company.......................4
+Any Store or Establishment
+"In this mall"... ...........7
+A Tobacco Company or
+Wholesaler....................5
+A Advertising Agency.........6
+(DO NOT READ) OK/N.M...................8
+
+[Q2 TERMINATE PROFESSION] TOTAL
+
+INTERVIEWER: SHOW HAND CARD "A"
+
+3. “Would you please look at this card and tell me which of the following
+phrases applies to you.” (DO NOT READ LIST)
+
+I eat dinner at a restaurant at least twice a month..................1
+TERMINATE & TALLY I smoke two or more cigarettes per day....................2
+Frequently, I have glass of wine, for fun, for the purpose of getting
+relaxed in my exercising...................3
+I substitute cola drinks for milk.....................4
+
+[Q3 TERMINATE = "NON-SMOKER"] TOTAL
+
+4. “Which of the following groups best represents your age?” (READ LIST)
+
+12 - 19 years old....................1
+20 - 29 years old...................2
+30 - 39 years old..................3
+40 - 49 years old...................4
+50 or over...........................5
+
+[Q4 TERMINATE = "AGE"] TOTAL
+
+5. “Do you own or rent your home?” (READ LIST)
+
+Own........................1
+Rent.......................2
+Other......................3
+
+[Q5 TERMINATE = "OWNER"] TOTAL
+
+INTERVIEWER: SHOW HAND CARD "B"
+
+6. "Are you now employed?" (READ LIST)
+
+Yes, full time....................1
+Yes, part time.....................2
+No.................................3
+
+[Q6 TERMINATE = “EMPLOYED FULL TIME”] TOTAL
+
+50729-4742

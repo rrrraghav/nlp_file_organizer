@@ -1,0 +1,25 @@
+The
+Response
+Center, Inc.
+"When decisions demand research excellence"
+
+Respondent #:
+Time Start:
+Time End:
+
+Hello, my name is ______ and I’m calling from The Response Center, a nationally known market research firm located at the Science Center in Philadelphia. Today, we are conducting a survey in your area and I would like to include your opinions.
+
+1. Are you 21 years of age or older?
+
+Yes [CONTINUE] 1
+No 2
+[ASK FOR SOMEONE IN HOUSEHOLD WHO IS 21 OR OLDER. IF NONE AVAILABLE ARRANGE CALLBACK; IF NONE IN HOUSEHOLD, TERMINATE AND RECORD TQ1]
+
+1a. Record Sex
+
+Male 1
+Female 2
+
+
+
+NOV 20 '98 10:38      2152233047   PAGE. 002

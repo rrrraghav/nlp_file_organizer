@@ -1,0 +1,185 @@
+Proc. Natl. Acad. Sci. USA
+Vol. 83, pp. 710–714, February 1986
+
+Genetics
+
+A complete library of point substitution mutations in the
+glucocorticoid response element of mouse mammary tumor virus
+
+(oligonucleotide-directed mutagenesis/DNA sequence/enhancer)
+
+CLYDE A. HUTCHISON III, STEVEN K. NORDEN*, KENNETH VOGT, and MARSHALL HDELL EDGELL
+
+Department of Microbiology and Immunology, Curriculum in Genetics, and Program in Molecular Biology and Biotechnology, The University of North
+Carolina, Chapel Hill, NC 27514
+
+Communicated by Robert Sinsheimer, September 18, 1985.
+
+ABSTRACT The glucocorticoid response element (GRE)
+of mouse mammary tumor virus (MMTV) was chemically
+synthesized as two complementary DNA strands bearing 32
+base-terminal oligonucleotide sequences. Random mutations
+were introduced into the DNA by “popping” each of the four
+nucleoside phosphoramidites (A, G, C, and T) with a low level
+of activation. The mutated strands were annealed and
+cloned into a 315 phage vector to produce a library of GRE
+mutants. Mutations within the synthesized region were iden-
+tified by sequencing phage isolates at random. We have
+chemically distinct classes of transition and transversion mu-
+tations have been observed. Statistical considerations indicate
+that the library contains all of the possible 90 point substitution
+mutations within a 30-nucleotide mutagenic target span. So far, 86
+of these substitutions have been identified. At least 20 of the
+positions have three single mutants each and at least 30
+positions have been identified.
+
+In an effort to understand the molecular basis of GRE
+function, we have constructed a library of point mutations
+fixed in a chemically synthesized DNA fragment encoding
+the GRE. This approach differs from those used previously (1,
+2) in that it allows for the introduction of random muta-
+tions at defined positions within a specific DNA sequence.
+The GRE is an important regulatory element in the MMTV
+genome and mediates increased viral RNA synthesis in re-
+sponse to glucocorticoid hormones (3, 4). The ability of
+glucocorticoids to stimulate gene expression is mediated
+by binding of a receptor protein to this DNA sequence.
+The mechanism by which the hormone regulates transcrip-
+tion is not fully understood, but it undoubtedly an integral part of the regulatory
+mechanism. Assays of various deletion mutants (12, 13,
+16–19), combined with rescue-DNA footprinting
+experiments (14, 15), indicate that a domain of ≈30 nucleo-
+tides (positions –16 to +14 relative to the start of tran-
+scription; see Fig. 1) contains a strong receptor binding site
+and is critical for activity. We therefore expected that
+this combination of in vivo and in vitro yield insights into the
+in this domain that have revealed structural insights into the
+sequence specificity of the regulatory element and the
+mechanism of steroid-mediated regulation of gene expres-
+sion.
+
+The method relies on automated synthesis of the target
+sequence in a way that yields a randomly mutagenized
+preparation. This is achieved by a slight modification of the
+usual synthetic procedure, in which chains are built stepwise
+from the 3' end by the addition of nucleoside phosphoramid-
+ite monomers. In the standard procedure, each of the
+four monomer reservoirs is “doped” with a small amount
+of water to facilitate cleavage of the phosphate triester bond
+and release of the growing chain from the solid support.
+In our modified synthesis procedure, we briefly expose the
+growing chain to a low level of activator before adding
+each monomer (20). This results in occasional “popping”
+(loss) of bases from all four reservoirs, introducing random
+mutations into the DNA sequence.
+
+The mutagenized strands are then annealed and cloned
+into a 315 phage vector (21) to produce a library of GRE
+mutants. The resulting plaques are scored for their ability
+to support transcription of the MMTV long terminal repeat
+(LTR) in the presence or absence of dexamethasone, a syn-
+thetic glucocorticoid. Plaque size is taken as an indicator
+of GRE function.
+
+MATERIALS AND METHODS
+
+Oligonucleotide Synthesis and DNA Synthesis—The
+GRE sequence was chemically synthesized as two comple-
+mentary oligonucleotides (22) using a solid-phase phos-
+phoramidite approach (23). The oligonucleotides were
+extended at the 5' end with a T7 promoter sequence and
+at the 3' end with a linker region for cloning into the 315
+phage vector. The two strands were annealed and cloned
+into the 315 phage vector as described (21). Random
+mutations were introduced into the DNA by “popping” each
+of the four nucleoside phosphoramidites (A, G, C, and T)
+with a low level of activator.
+
+Sequence Analysis—Phage plaques were picked at ran-
+dom and isolated for sequence analysis. Plasmids were
+prepared from phage DNA using standard procedures (24).
+The sequences of the mutagenized regions were determined
+by the dideoxy chain termination method (25) using both
+the vector strands as templates.
+
+RESULTS
+
+Library Construction—A library of GRE mutants was
+constructed by chemically synthesizing a 32-base-pair
+GRE sequence, introducing random mutations into the se-
+quence, and cloning the mutagenized strands into a 315
+phage vector. The resulting library contains ≈10^7 plaques
+and is expected to contain all possible point substitution
+mutations within a 30-nucleotide target span.
+
+Identification of Mutations—Mutations within the syn-
+thesized region were identified by sequencing phage iso-
+lates at random. A total of 86 mutations have been iden-
+tified in 54 plaques. The mutations are distributed nonran-
+domly throughout the sequence, with some positions having
+multiple mutants.
+
+DISCUSSION
+
+The library of GRE mutants provides a unique tool for
+studying the molecular basis of glucocorticoid receptor
+action that is undoubtedly an integral part of the regulatory
+mechanism. Assays of various deletion mutants (12, 13,
+16–19), combined with rescue-DNA footprinting
+experiments (14, 15), indicate that a domain of ≈30 nucleo-
+tides (positions –16 to +14 relative to the start of tran-
+scription; see Fig. 1) contains a strong receptor binding site
+and is critical for activity. We therefore expected that
+this combination of in vivo and in vitro yield insights into the
+in this domain that have revealed structural insights into the
+sequence specificity of the regulatory element and the
+mechanism of steroid-mediated regulation of gene expres-
+sion.
+
+The method relies on automated synthesis of the target
+sequence in a way that yields a randomly mutagenized
+preparation. This is achieved by a slight modification of the
+usual synthetic procedure, in which chains are built stepwise
+from the 3' end by the addition of nucleoside phosphoramid-
+ite monomers. In the standard procedure, each of the
+four monomer reservoirs is “doped” with a small amount
+of water to facilitate cleavage of the phosphate triester bond
+and release of the growing chain from the solid support.
+In our modified synthesis procedure, we briefly expose the
+growing chain to a low level of activator before adding
+each monomer (20). This results in occasional “popping”
+(loss) of bases from all four reservoirs, introducing random
+mutations into the DNA sequence.
+
+The mutagenized strands are then annealed and cloned
+into a 315 phage vector (21) to produce a library of GRE
+mutants. The resulting plaques are scored for their ability
+to support transcription of the MMTV long terminal repeat
+(LTR) in the presence or absence of dexamethasone, a syn-
+thetic glucocorticoid. Plaque size is taken as an indicator
+of GRE function.
+
+MATERIALS AND METHODS
+
+Oligonucleotide Synthesis and DNA Synthesis—The
+GRE sequence was chemically synthesized as two comple-
+mentary oligonucleotides (22) using a solid-phase phos-
+phoramidite approach (23). The oligonucleotides were
+extended at the 5' end with a T7 promoter sequence and
+at the 3' end with a linker region for cloning into the 315
+phage vector. The two strands were annealed and cloned
+into the 315 phage vector as described (21). Random
+mutations were introduced into the DNA by “popping” each
+of the four nucleoside phosphoramidites (A, G, C, and T)
+with a low level of activator.
+
+Sequence Analysis—Phage plaques were picked at ran-
+dom and isolated for sequence analysis. Plasmids were
+prepared from phage DNA using standard procedures (24).
+The sequences of the mutagenized regions were determined
+by the dideoxy chain termination method (25) using both
+the vector strands as templates.
+
+RESULTS
+
+Library Construction—A library of

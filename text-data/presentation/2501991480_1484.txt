@@ -1,0 +1,49 @@
+Cell Proliferation in the Nasal Epithelium of the Rat
+after acute Exposure to Fresh Sidestream Smoke of
+the Standard Reference Cigarette 1R4F
+
+Objective
+• determination of cell proliferation in the rat nasal epithelium
+after acute exposure (1 day) to Fresh Sidestream Smoke (FSS)
+
+Cigarette Rats
+• 1R4F cigarette (University of Kentucky) • male outbred SPF Sprague-Dawley rats
+• conditioning • Charles River Viga (Germany)
+⇨ 22 ± 1 °C • health certificate from breeder
+⇨ 60 ± 2% relative humidity • no health check by CRC/NIBIO
+
+FSS Generation FSS characterization
+• 30-port positive pressure smoking • TPM
+machine with 6 cigarettes • carbon monoxide
+• in basic conformity with ISO standards, • nicotine
+except • aldehydes
+• free (open-end) smoking • formaldehyde
+⇨ rectangular puff profile • acrolein
+• acetaldehyde
+
+Animal housing Exposure
+• fresh, filtered, conditioned air • head-only, in 48-position chamber
+• positive pressure • 2 groups of 8 rats, randomly allocated
+• no restricted access area • sham control group
+• no extensive hygiene barrier • FSS test atmosphere group
+• concentration: 10µg TPM/l
+• duration: 1 day, 6h
+
+Determination of cell proliferation Statistical analysis
+• application of BrdU before killing of rats • mean and standard error for the relative
+• removal of nasal epithelium, enzymatic number of cells with incorporated BrdU
+and mechanical disintegration • Mann-Whitney U-test for comparison of
+• fixation of cells groups
+• denaturation of DNA to single strand • statistical significance at p ≤0.05
+• labeling of BrdU with mouse-antibody
+
+detection of labeled BrdU (fluorescence
+after binding to fluorescein-conjugated
+antibody)
+• flowcytometric evaluation of 10⁶ cells per
+measurement
+
+
+
+2019/08/1400
+PRIORITY

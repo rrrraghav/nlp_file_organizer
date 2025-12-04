@@ -1,0 +1,123 @@
+04/11/95 TUE 13:05 FAX 804 274 3055
+
+SCIENTIFIC AFFAIRS
+
+REGULATORY TOXICOLOGY AND PHARMACOLOGY 9(1), 160-166 (1996)
+
+Ischemic Heart Disease and Spousal Smoking
+in the National Mortality Followback Survey¹
+
+MAXWELL W. LAYARD
+Layard Associates, Alameda, California 94502
+
+Received June 26, 1994
+
+Data on never-smoking decedents from the 1986 Na-
+tional Mortality Followback Survey were used to per-
+form a case-control analysis of ischemic heart disease
+in relation to spousal cigarette smoking. The case
+group consisted of 475 men and 914 women who died
+from heart disease. Controls consisted of 909 men and
+1682 women who died from other causes. In this study
+there was no association between spousal smoking and
+ischemic heart disease in either sex (males, odds ratio
+= 0.97; females, odds ratio = 0.96). The results of this
+study are in striking disagreement with risk elevations
+reported in several previous studies of spousal smoking
+and heart disease. © 1996 Air Pollution Press, Inc.
+
+INTRODUCTION
+
+Several epidemiologic studies have reported associa-
+tions between ischemic heart disease mortality and ac-
+tive smoker (ATS) exposure to environmental (E)
+tobacco smoke (TS). These associations have been at-
+tributed to the effects of TS on blood pressure, car-
+diac function, and lipid metabolism (U.S. Environ-
+mental Protection Agency [USEPA], 1982; U.S. De-
+partment of Health and Human Services [USHHS],
+1986). However, the evidence for a causal relation-
+ship between TS exposure and ischemic heart disease
+mortality is limited (US EPA, 1982; US HHS, 1986;
+Slaughter, 1985). Some studies have suggested that
+spousal smoking may be an important determinant of
+ischemic heart disease risk in never-smoking spouses
+(e.g., Schwartz, 1973; Schwartz & Ford, 1974;
+Lee & Brown, 1976; Lee et al., 1982). These studies
+have generally been criticized for their potential to be
+influenced by uncontrolled confounding variables and
+for the possibility that observed associations may re-
+flect reverse causation (e.g., Schwartz, 1973;
+Lee & Brown, 1976).
+
+To address these concerns, we examined the associa-
+tion between spousal smoking and ischemic heart dis-
+ease mortality among never-smoking spouses using data
+from the National Mortality Followback Survey (NMFs).
+The NMFs is a large, nationally representative sample
+of U.S. deaths that allows for examination of risk fac-
+tors such as an individual’s smoking history and the
+smoking habits of their close relatives, without relying
+on self-reported data or making assumptions about
+
+such an inference (Wells, 1986; Glantz and Parmey,
+1991; Greenland, 1992; Taylor et al., 1992). The
+National Mortality Followback Survey (NMFs),
+which was based on a probability sample of adult deaths
+in the United States in 1986, offered the opportunity to
+perform a case-control analysis of ischemic heart dis-
+ease and spousal smoking that includes more never-
+smoking spouses than any previously published study.
+The paper reports the results of that case-control study.
+
+MATERIALS AND METHODS
+
+The National Mortality Survey was conducted by the U.S. National Center for
+Health Statistics (NCHS, 1988; Seeman et al.,
+1989). The survey was based on a national proba-
+bility sample of 1.5% of all deaths in 1986 of resi-
+dents aged about 25 years or older. This sample was
+drawn from the Current Mortality Sample, a 10%
+sample of U.S. residents aged one year or more
+from state authorities approximately 1 month after
+the death occurred. A stratified multistage cluster
+sample design was used to select mortality records.
+The initial sampling frame consisted of all counties
+in the United States. Counties were stratified into
+three categories: central cities, suburban counties,
+and nonmetropolitan counties. Within each category,
+counties were ranked by population size and a sample
+of counties was selected using probability propor-
+tional to size. Within each selected county, primary
+sampling units (PSUs) were selected randomly.
+Within each PSU, mortality records were selected
+randomly.
+
+The NMFs included interviews with surviving fam-
+ily members or close friends of the decedent. The in-
+terviews were conducted by trained interviewers using
+a standardized questionnaire. Information collected
+included demographic characteristics, medical history,
+lifestyle factors (e.g., smoking habits), and occupa-
+tional history.
+
+CASE DEFINITIONS
+
+Cases were defined as decedents aged 25 years or old-
+er who died from ischemic heart disease. Ischemic
+heart disease was coded according to the Ninth Revi-
+sion of the International Classification of Diseases
+(ICD-9) codes 410-413. Controls were defined as
+decedents aged 25 years or older who died from
+causes other than ischemic heart disease.
+
+DATA ANALYSIS
+
+The odds ratio for spousal smoking among cases was
+calculated and compared with that of controls using a
+conditional logistic regression model (conditional on age,
+sex, race, and education).
+
+
+
+10869

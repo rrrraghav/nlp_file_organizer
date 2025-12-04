@@ -1,0 +1,17 @@
+HH0301024
+
+(Reproduced from the Journal of Organic Chemistry, Vol. 45, No. 1, 1980)
+Copyright © 1980 by The American Chemical Society and reproduced with permission of the copyright owner
+
+Synthesis of Biologically Active Metabolites of Dibenz[a,j]anthracene
+
+Hong Mee and Ronald G. Harvey*
+
+Ben May Laboratory, The University of Chicago, Chicago, Illinois 60637
+Received August 28, 1979
+
+Synthesis are described of the major 1,2- and 5,4-dihydro diol metabolites (a and b) and the 1,2-dihydrodiol (c) of dibenz[a,j]anthracene (DBA). These compounds were prepared by microbial oxidation of DBA. The structures were confirmed by mass spectrometry, infrared spectroscopy, and NMR spectroscopy. The metabolic pathway involves initial hydroxylation, followed by diol formation and subsequent reduction. Further reactions, such as dehydration, dehydrohalogenation, and conjugation, are also possible. The 1,2-dihydrodiol (c) was converted to the corresponding epoxide via treatment with m-chloroperbenzoic acid. The epoxide was then reacted with various nucleophiles to give a mixture of the corresponding vicinal diol epoxides isomers in 3:1 ratio. Biological evidence implicates 1,2 and 5,4 diols as major metabolites of DBA. Synthesis of o-(hydroxy)dibenz[a,j]anthracenes is known to be a metabolite of DBA, as also described.
+
+Dibenz[a,j]anthracene (DBA) was the first polycyclic aromatic hydrocarbon produced by the tar process. It has been identified as a widespread environmental contaminant and has been found in coal-tar distillates, creosote, cigarette smoke, and foods.* Recent studies have shown that DBA undergoes metabolic activation to highly mutagenic diol derivatives. This activation involves initial hydroxylation followed by epoxide formation and subsequent transformation to reactive diol epoxides capable of linking with DNA. The resulting adducts are believed to be responsible for the mutagenicity of DBA.
+
+In the early 1960’s, Miller et al. first reported that all three isomers of dibenz[a,j]anthracene undergo microbial oxidation to give a mixture of diols and epoxides. They have also reported the formation of a 5,4-dihydrodiol that is believed corresponding to a multiple metabolite precursor to the epoxide. The structures of these metabolites were assigned by comparison with authentic samples.

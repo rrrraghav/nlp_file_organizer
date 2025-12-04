@@ -1,0 +1,66 @@
+APPENDIX II
+
+DEFINITIONS
+
+AROMA
+
+Tobacco
+(Slight-Extreme)
+
+Other Aroma
+(Slight-Extreme)
+
+Chocolate
+(Slight-Extreme)
+
+Fruity
+(Slight-Extreme)
+
+Woody
+(Slight-Extreme)
+
+Sweet
+(Slight-Extreme)
+
+Spicy
+(Slight-Extreme)
+
+Resistance
+(Easy-Hard)
+
+Concentration of Smoke
+(Low-High)
+
+Tobacco
+(Slight-Extreme)
+
+Added Flavor
+(Slight-Extreme)
+
+Intensity of tobacco aroma.
+
+Intensity of any other aroma, not tobacco. If identifiable as a specific aroma, it would also be evaluated on that dimension.
+
+Intensity of chocolate aroma.
+
+Intensity of fruit-like odor. Examples would include plum, apple, pear, citrus fruit, banana, and raisins.
+
+Intensity of the odor.
+
+Intensity of sweet fragrance.
+
+Intensity of any aroma which was generally spicy, such as allspice, ginger, or other common condiments.
+
+LIT CIGARETTE
+
+Amount of effort needed to pull smoke through filter upon lighting.
+
+Impression of how much smoke was in the puff.
+
+Intensity of tobacco flavor.
+
+Intensity of any added flavor, non-tobacco. If identifiable as a specific flavor, it would also be evaluated on that dimension.
+
+
+
+50649 5897

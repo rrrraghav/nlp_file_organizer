@@ -1,0 +1,106 @@
+Proc. Natl. Acad. Sci. USA
+Vol. 81, pp. 9221-9225, September 1984
+Genetics
+
+Yeast gene CDC8 encodes thymidylate kinase and is complemented
+by herpes thymidine kinase gene TK
+
+(Saccharomyces cerevisiae/DNA precursor mutant/cell cycle product/DNA replication and repair)
+
+ROBERT A. SCLAFANI AND WALTON L. FANGMAN
+Department of Genetics, SK-50, University of Washington, Seattle, WA 98195
+
+Communicated by A. H. Nierhaus, May 31, 1984
+
+ABSTRACT The herpes simplex virus type 1 thymidine
+kinase gene TK complements the defect in temperature-
+sensitive mutants and in vitro constructed insertion dele-
+tion mutants of the CDC8 gene of Saccharomyces cerevisiae.
+The Herpes simplex virus enzyme acts as both a thymidylate
+kinase and a thymidylate kinase (dTMP kinase). The later
+activity is responsible for the complementation of the ts
+thermosensitive cell mutants are deficient in dTMP kinase ac-
+tivity at all temperatures. However, an integrative revertant,
+cdc8-101, which survives at the nonpermissive temperature at
+the restrictive temperature, exhibits thermo labile (dTMP KI)
+kinase activity. The CDC8 product is the structural gene for
+dTMP kinase, which engages an essential step in DNA pre-
+cursor biosynthesis. Previously, it had been shown that the
+DNA replication defect of cdc8 mutants could be bypassed by
+the addition of deoxyribonucleic triphosphates to per-
+meabilized cells. This apparent dependence can be explained
+by complementing a multiprotein yeast DNA replication com-
+plex with the CDC8 product.
+
+Introduction
+
+The gene 31 of bacteriophage T7 encodes an enzyme
+known as thymidylate kinase (TK) (1, 2). This enzyme
+catalyzes the phosphorylation of deoxythymidine to form
+deoxythymidine monophosphate (dTMP), a crucial pre-
+cursor for DNA synthesis. A temperature-sensitive allele,
+cdc8-1, of Saccharomyces cerevisiae is defective in dTMP
+kinase activity (3, 4). The cdc8 mutants are also defec-
+tive in DNA replication and fail to grow at the restrictive
+temperature unless deoxyribonucleic triphosphates (dNTPs)
+are added to the growth medium (3, 4). This phenotype
+suggests that dTMP kinase activity is essential for DNA
+replication. The cdc8 gene has been cloned and mapped
+to chromosome VI (5). We have introduced a herpes sim-
+plex virus type 1 TK gene into S. cerevisiae and shown
+that it complements the defect in temperature-sensitive
+cdc8 mutants and in vitro constructed insertion dele-
+tion mutants of the CDC8 gene.
+
+Materials and Methods
+
+Strains and media. All yeast strains employed are S.
+cerevisiae and are listed in Table 1. All yeast cultures
+were grown in synthetic medium (5) which was backdiluted
+more than eight times to A660. Standard genetic methods were
+used [19]. Transformations were performed on whole
+cells using lithium acetate (21), PEG, or electroporation
+and proper media have been described (22, 23). Herpes TK
+activity in yeast was measured as described in ref. 14.
+Herpes TK gene construction. The T K-6-kbose (tkb)
+EcoRI fragment containing the tkS* gene in plasmid
+pMB8 [14] was subcloned into the EcoRI site of plasmid
+YEP25 (23) by employing standard recombinant DNA method-
+ology (24). The resulting plasmid, pRS24, contains two
+Spel sites, one in the pBR322 intergenic gene and the other
+located 118 base pairs from the herpes simplex virus
+type 1 tk (HSV-1) coding sequence. pRS24 was par-
+tially digested with Dral and ligated to a BamHI fragment
+from plasmid pRS10 [25] which contains a yeast centromere
+agregation got electrophoresis (26). The DNA 4 KB site of
+agregated plasmids was subcloned into the SalI site of
+plasmid YEp12 (27) to generate YEP12RS. A similar pro-
+cedure was used to construct YEP12RS/TK, in which the tkb
+EcoRI fragment from plasmid pRS24 was inserted between
+the BamHI and EcoRI sites of plasmid YEP12.
+
+Table 1. Yeast Strains
+
+Strain
+Genotype
+Relevant Markers
+Reference
+
+BY4741
+MATa ade2-1 trp1-1 ura3-1 his3-1 leu2-0
+[3]
+AH16
+MATα ade2-1 trp1-1 ura3-1 his3-1 leu2-0 cdc8-1
+[3]
+AH17
+MATα ade2-1 trp1-1 ura3-1 his3-1 leu2-0 cdc8-101
+[3]
+Y14
+MATa ade2-1 trp1-1 ura3-1 his3-1 leu2-0 YEP12RS
+This paper
+Y15
+MATα ade2-1 trp1-1 ura3-1 his3-1 leu2-0 YEP12RS/TK
+This paper
+
+
+

@@ -1,0 +1,136 @@
+Sozial- und Präventivmedizin Médécine sociale et préventive 18, 265-281 (1972)
+
+Objektive und subjektive Ermüdung in experimentellen Monotonie-Situationen¹
+
+A. Weber, E. Martin, I. Lüthi, A. Stamm und E. Brandli
+Institut für Hygiene und Arbeitsphysiologie, Eidg. Technische Hochschule Zürich
+
+1. Einleitung
+
+In einer Untersuchung, die monotone Fahr-
+arbeiten umfasste, wurde eine signifikante
+signifikante Beziehung zwischen der Abnahme der
+Leistungsfähigkeit und dem Anstieg des Herz-
+frequenzwertes (HFV) im EEG festgestellt (Weber
+et al., 1970). Diese Befunde deuten darauf hin,
+dass die subjektive Monotonie mit physiologischen
+Veränderungen einhergeht. Weiter haben diese Experi-
+mente eine Korrelation zwischen der subjektiven
+Ermüdung und dem HFV gezeigt. In einer weiteren
+Untersuchung, in der die Abnahme der Leistungs-
+fähigkeit im Zusammenhang mit der Zunahme
+der Herzfrequenz gemessen wurde, konnten wir
+eine signifikante Beziehung zwischen der objektiven
+und subjektiven Ermüdung feststellen (Weber et al.,
+1971).
+
+2. Methode
+
+Als Routine zur Bestimmung des FVF wurde ein
+elektroenzephalographisches Gerät vom Typ
+HP 153-A4 verwendet. Der Grad und die Richtung
+der Ableitung wurden so gewählt, dass eine möglichst
+gute Darstellung der Hinterhauptregion erfolgte. Die
+Elektroden wurden mit einer sterilen Gelee auf die
+kopfhaut aufgebracht. Gemessen wurden:
+a) Herzfrequenz (HFV), als Anzahl der Herz-
+schläge pro Minute.
+b) Subjektive Ermüdung, gemessen durch eine
+visuelle Analogskala (VAS). Die Skala reichte von
+1 bis 10, wobei 1 für "keine Ermüdung" und 10
+für "starke Ermüdung" stand.
+
+3. Versuchsprogramm
+
+Die Versuche wurden in einer schalldichten Kammer
+durchgeführt. Die Temperatur betrug 22 °C und die
+Luftfeuchtigkeit 50 %. Der Proband sass auf einem
+Stuhl vor einem Bildschirm, der eine sich wieder-
+holende geometrische Figur zeigte. Die Aufgabe des
+Probanden bestand darin, die auftretenden Figuren zu
+zählen. Die Versuche wurden in drei Phasen unterteilt:
+a) Ruhephase (10 Minuten).
+b) Arbeitsphase (30 Minuten).
+c) Erholungsphase (10 Minuten).
+
+Einseitige Arbeitsläufe werden in der
+Industrie nicht möglich vermieden. Hier wird
+auch oft versucht, die Monotonie zu verringern,
+z. B. durch verschiedene Tätigkeiten zu er-
+müden. Die subjektive Ermüdung kann durch
+verschiedene Messmethoden gemessen
+werden.
+
+4. Ergebnisse
+
+Jeder Versuch begann am Anfang und am Ende
+der Arbeitsphase wurden die Probanden nach dem
+subjektiven Befinden befragt.
+
+4.1. Versuchsbedingungen
+
+Die zu untersuchenden Situationen sind so
+gestaltet, dass sie monoton sind; es ist durch
+die Wiederholung der Aufgabe schwierig, sich von
+dem monotonen Eindruck zu lösen. Die Versuchsperson
+sassen auf einem Stuhl und hatten einen Lösungs-
+ansatz zur Verfügung.
+
+Es wurde eine subjektive Ermüdung festgestellt,
+die mit dem Beginn der Versuche zunahm. Es
+wurde auch festgestellt, dass die Probanden
+einen Anstieg in der Herzfrequenz zeigten. Die
+subjektive und objektive Ermüdung waren
+stark korreliert, ausserhalb des ersten
+Minutenbereichs.
+
+Die subjektive Ermüdung war am Ende der
+Arbeitsphase am grössten. Es wurde auch eine
+Zunahme der Herzfrequenz festgestellt. Die
+subjektive und objektive Ermüdung waren
+stark korreliert, ausserhalb des ersten
+Minutenbereichs.
+
+5. Diskussion
+
+Die Ergebnisse zeigen, dass die subjektive
+Ermüdung mit dem Beginn der Versuche zunahm.
+Es wurde auch festgestellt, dass die Probanden
+einen Anstieg in der Herzfrequenz zeigten. Die
+subjektive und objektive Ermüdung waren
+stark korreliert, ausserhalb des ersten
+Minutenbereichs.
+
+Die subjektive Ermüdung war am Ende der
+Arbeitsphase am grössten. Es wurde auch eine
+Zunahme der Herzfrequenz festgestellt. Die
+subjektive und objektive Ermüdung waren
+stark korreliert, ausserhalb des ersten
+Minutenbereichs.
+
+6. Zusammenfassung
+
+Die Ergebnisse zeigen, dass die subjektive
+Ermüdung mit dem Beginn der Versuche zunahm.
+Es wurde auch festgestellt, dass die Probanden
+einen Anstieg in der Herzfrequenz zeigten. Die
+subjektive und objektive Ermüdung waren
+stark korreliert, ausserhalb des ersten
+Minutenbereichs.
+
+Die subjektive Ermüdung war am Ende der
+Arbeitsphase am grössten. Es wurde auch eine
+Zunahme der Herzfrequenz festgestellt. Die
+subjektive und objektive Ermüdung waren
+stark korreliert, ausserhalb des ersten
+Minutenbereichs.
+
+Literatur
+
+BRANDLI, E., MARTIN, E., LÜTHI, I., WEBER, A. & STAMM, A. (1970). EEG-Untersuchungen bei monotonen Fahr-
+arbeiten. Schweiz. Med. Wochschr. 100, 1345-1348.
+
+WEBER, A., MARTIN, E., LÜTHI, I., BRANDLI, E. & STAMM, A. (1971). Subjektive und objektive Ermüdung bei
+monotonen Arbeiten. Schweiz. Med. Wochschr. 101, 1253-1256.
+
+¹ Mit Unterstützung der Schweizerischen Unfallversicherungsanstalt

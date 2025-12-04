@@ -1,0 +1,112 @@
+Environmental Tobacco Smoke and
+Lung Cancer in Nonsmoking Women
+
+A Multicenter Study
+
+Elizabeth T. H. Froothim, DrPH; Pelayo Correa MD; Peggy Reynolds, PhD; Anna Wu-Williams, PhD;
+Patricia J. Butler, PhD; Raymond S. Greenberg, MD; Philip W. Chen, PhD; Toni Altieri, PhD;
+Peggy Boyd, PhD; Donald F. Austin, MD; Jonathan Lift, PhD
+
+Objective.—To determine the relative risk (RR) of lung cancer in lifetime never
+smokers associated with environmental tobacco smoke (ETS) exposure.
+Design—A population-based case-control study.
+Setting—Five metropolitan areas in the United States: Atlanta, GA; Houston,
+TX; Los Angeles, CA; New Orleans, LA; and San Francisco, CA.
+Patients or Other Participants.—653 cases with confirmed lung cancer and 1283 controls selected by random dial-
+ing and neighborhood sampling from the Health Care Financing Administration lists
+for women aged 65 years and older.
+
+Main Outcome Measure.—The RR of lung cancer, estimated by adjusted odds
+ratio (OR) with a 95% confidence interval (CI), associated with ETS exposure.
+Results.—A significant association was found between ETS exposure and risk
+of all types of primary lung carcinoma (adjusted OR=1.29; P<.05; 95% CI, .95–
+1.64). A stronger association was observed for adenocarcinoma (adjusted OR=1.83;
+P<.01; 95% CI, 1.13–2.97) and squamous cell carcinoma (adjusted OR=1.64;
+P<.01; 95% CI, 1.03–2.64). The risk of lung cancer in nonsmokers was about twice as high
+with 8 or more years of exposure to ETS compared with those with no exposure.
+The risk of lung cancer from a spouse (adjusted OR=1.57; 95% CI, 1.03–2.42)
+was nearly as high as that from parents (adjusted OR=1.86; 95% CI, 1.16–
+3.03). The risk of lung cancer was also elevated among women exposed to ETS
+during childhood (adjusted OR=1.37; 95% CI, .94–2.01).
+Conclusions.—Exposure to environmental tobacco smoke is associated with an
+increased risk of lung cancer in lifetime never smokers. The magnitude of the risk
+is comparable to that observed for other established risk factors for lung cancer,
+such as asbestos and radon.
+
+From the Division of Cancer Epidemiology and Genetics, National Cancer Institute,
+Bethesda, MD; Department of Preventive Medicine, Emory University School of
+Public Health, Atlanta, GA; Department of Epidemiology, University of Texas
+Health Science Center at Houston, Houston, TX; Department of Family Medi-
+cine, Charles R. Drew University of Medicine and Public Health, Los Angeles, CA;
+Department of Community Health Sciences, Tulane University School of Public
+Health, New Orleans, LA; and Department of Preventive Medicine, University of
+California Medical Center, San Francisco, CA.
+
+Supported by the National Cancer Institute (Grant No. 5 R01 CA48739).
+Address reprint requests to Dr. Elizabeth T. H. Froothim, Division of Cancer
+Epidemiology and Genetics, National Cancer Institute, Building 32, Room 220,
+Bethesda, MD 20892.
+
+Accepted for publication June 15, 1988.
+
+To the US summary relative risk (RR)
+estimate for lung cancer in lifetime never
+smokers associated with ETS exposure
+and “ever exposed” to spouses! ETS
+exposure is a significant risk factor for
+the highest level of spousal ETS exposure
+in this study. The findings from the EPA
+report reflected the large number of
+studies that have examined lung cancer
+(N=426), as well as the study design used
+to estimate the RR. This study was
+designed specifically to evaluate the role
+of ETS in lung cancer among lifetime
+cancer in lifetime nonsmokers.
+
+The findings from our study are con-
+sistent with those of previous reports. 13,14
+Because these studies have a limited
+impact on the summary US risk esti-
+mate, the EPA report included data from
+the summary US risk estimate is 1.29 (95%
+CI, .95–1.64). The magnitude of this risk
+is comparable to that observed for other
+established risk factors for lung cancer,
+such as asbestos and radon. 15-17
+The findings from our study are con-
+sistent with those of previous reports. 13,14
+Because these studies have a limited
+impact on the summary US risk esti-
+mate, the EPA report included data from
+studies that had not been published at the
+time of the initial assessment. 18 The
+EPA report also included data from
+studies that did not use a case-control
+design. 19
+
+The strengths of our study include its
+large sample size and its population-
+based design. In addition, we were able
+to adjust for potential confounding factors
+such as age, race, education, and income.
+However, our study also has several limita-
+tions. First, we relied on self-reported data
+on ETS exposure, which may be subject to
+recall bias. Second, we were unable to
+assess the specific types of tobacco prod-
+ucts smoked by the women’s spouses or
+parents. Third, we did not have information
+on other potential risk factors for lung can-
+cer, such as occupational exposures and
+dietary habits.
+
+Despite these limitations, our findings
+provide further evidence that exposure to
+environmental tobacco smoke is associated
+with an increased risk of lung cancer in
+lifetime never smokers. These findings
+have important implications for public health
+policy. Efforts to reduce ETS exposure
+may help to prevent lung cancer in nonsmok-
+ers.

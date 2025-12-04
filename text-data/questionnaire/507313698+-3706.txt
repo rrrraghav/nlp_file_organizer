@@ -1,0 +1,102 @@
+M ARC
+
+CONCEPT PRODUCT TEST
+RECRUITING PHASE
+
+
+
+FOR FIELD USE:
+Monitored
+Validated By:
+Complete
+Terminate
+
+
+
+
+RESPONDENT NUMBER:
+
+
+
+
+
+RESPONDENT’S NAME:
+
+
+
+
+MAC/ads REVISED 11/8/89 10:15 a.m.
+
+
+
+State Code County Code Geo. Reg./
+Co. Size  AREA CODES TELEPHONE NUMBER Interviewer Number
+                                               Prefix   Suffix
+
+
+
+Date: Time Ended: pm Time Started: pm No. Of Min.:
+
+
+
+
+
+(ASK TO SPEAK TO RESPONDENT NAMED AT TOP OF SCREEN. IF NOT AVAILABLE, ENTER CODE 2 AND
+SCHEDULE CALLBACK. IF NO SUCH PERSON OR NO LONGER IN HOUSEHOLD, CONTINUE WITH
+INTRODUCTION.)
+
+Hello, I’m with H/R/C Consumer Research, an independent research company located in
+Dallas, TX. We are conducting a survey and would like to include you or someone in your
+household among the people we are talking to.
+
+
+
+Respondent Available 1
+Respondent Not Available 2
+[SCHEDULE CALLBACK]
+No Eligible Respondent 3
+All Respondents Screened 4
+[TERMINATE] 5
+
+
+
+
+(00 01 02 03 04 05 06 07 08 09
+10 11 12 13 14 15 16 17 18 19
+20 21 22 23 24 25 26 27 28 29)
+
+
+
+TODAY/TONIGHT I need to speak to people in various age groups. Please tell me: Are
+you under 25 years of age, 25-34, or 50 or older?
+
+(ENTER APPROPRIATE CODE FOR SEX AND AGE BELOW)
+
+
+
+
+Under 25 (SKIP TO Q.2a)  7
+Male 25-34 8
+Female 25-34 9
+Male 35-49 10
+Female 35-49 11
+Retired 50 or older 12
+[TERMINATE] 13
+Sex/Age Filled
+
+
+
+
+(CHECK AGE AND SEX QUOTAS. IF FULL
+TIME DUE TO Q.2; OTHERWISE SKIP TO
+Q.1.)
+
+
+
+078 079 080 081 082 083 084 085 086
+087 088 089 090 091 092 093 094 095
+096 097 098 099 100 101 102 103 104
+
+
+
+B0131 3539

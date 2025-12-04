@@ -1,0 +1,20 @@
+556
+
+Receptor-Specific Induction of Individual AP-1 Components
+in B Lymphocytes¹
+
+Li Huo² and Thomas I. Postelstein²t
+
+Departments of 'Medicine and ²Microbiology and the tVans Memorial Department of Clinical Research,
+Boston University Medical Center, Boston, MA 02118
+
+The inducible nuclear factor transcription factor complex, AP-1, typically consists of heterodimers between Jun and Fos proteins. Although components are drawn from families of related molecules, little is known about the physiology regulation of jun- and fos-related gene products. In particular, it is not known whether expression of individual family members is receptor-specific or whether the same signaling pathways are responsible for induction of all subunits. To clarify these issues, AP-1 components were examined following activation of primary B lymphocytes through two surface receptors, the surface IgA receptor and the CD40 receptor in L cell cultures. Both forms of stimulation led to expression of both Jun and Fos mRNA and protein; however, induction of Jun was mediated by anti-IgA but was protein kinase C (PKC)-dependent, whereas induction mediated by CD40 ligand was resistant to PKC depletion. The two forms of stimulation diverged even with respect to Fos expression. Although both stimuli induced c-Fos expression of B cells, the stimulated expression of c-Fos and Jun levels in all cases were PKC-independent. These results provide evidence for receptor-specific differences in the expression of AP-1 components, primarily with respect to Fos. They also indicate that separate intracellular pathways may be used for induction of jun and fos gene products and that the same transcription factor (Jun) may be triggered by two surface receptors through separate pathways that differ in PKC dependence. The Journal of Immunology, 1995,
+154: 3009.
+
+R eceptor interactions at the cell surface leading
+to pleiotropic responses initiate sets of sig-
+naling cascades which result in a variety of
+alterations of the resting program of gene expression as a result of receptor changes that regulate transcription factor activation. The inducible nuclear factor, AP-1, is a transcription factor complex that mediates cellular respoases to various stimuli including cytokines, growth factors, and activators. AP-1 has been shown to bind to a consensus sequence, TPA-response element (TRE), 5'-GGAACTCA-3', which is found in the promoter regions of genes involved in cell proliferation, differentiation, and apoptosis (1, 2). The TRE sequence is also referred to as the phorbol ester-responsive sequence. AP-1 typically consists of heterodimers between Jun and Fos proteins (3, 4), although other members of the Jun family (e.g., ΔFos) can also dimerize with Jun (5, 6). The Jun family includes c-Jun, GMS-Jun, and Mafl-1 (7), while the Fos family includes c-Fos, FosB, Fra-1, and Fra-2 (8). AP-1 components are drawn from families of related molecules, and it is not known whether expression of individual family members is receptor-specific or whether the same signaling pathways are responsible for induction of all subunits.
+
+¹This work was supported by National Institutes of Health Grants AI26543 and AI27980.
+²Address correspondence to Dr. Thomas I. Postelstein, Department of Microbiology, Boston University School of Medicine, 72 East Concord Street, Evans Medical Research Building, Room 610, Boston, MA 02118.

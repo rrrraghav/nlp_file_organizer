@@ -1,0 +1,84 @@
+NITROSAMINES
+
+The chemistry of nitrosation of amines in foods is a com-
+plex process in which oxides of nitrogen (N₂O₃, N₂O₄, and
+NO) are +4) formed during food processing, preserv-
+ation, and preparation can react with amino compounds
+and other nucleophiles to produce N-nitroso compounds.
+The two major sources of oxides of nitrogen
+(nitrosating agents) result from (1) the addition of nitrite
+to foods in curing processes and (2) the formation of
+foods in combustion gases in which molecular nitrogen
+can be oxidized to oxides of nitrogen. The only common
+feature of all N-nitroso compounds is the presence of the
+N=N-O functional group. Consequently, a wide range
+of chemical and physical properties exist for N-nitroso
+compounds, depending on the substitution on the amino/
+amide nitrogen.
+
+The occurrence of N-nitroso compounds in foodstuffs
+probably represents the most widespread human exposure
+exposure situation for any class of genotoxic carcinogenic
+compounds in the human diet due to the possible link
+between various humans and exposure to N-nitro-
+so compounds (1). Almost 80% of all N-nitroso com-
+pounds tested in this manner in experimental animals, and
+some representative compounds of this class induce tumors
+in at least 40 different animal species including higher
+primates (2). Human involvement with respect to N-nitro-
+so compound exposure is indicated by abnormal levels
+of metabolites that are characteristic of N-nitroso com-
+pounds under urine or fecal conditions suggesting
+human exposure to N-nitroso compounds via ingestion.
+
+N₂O₃ + H₂O → HNO₂ + HONO. Neither nitrite or
+nitrous acid per se are nitrosating agents, but are inter-
+mediates in the formation of the nitrosating agents dini-
+trogen trioxide (N₂O₃), dinitrogen tetroxide (N₂O₄) and
+the nitrous acidium ion (HNO₂). As shown in Figure 1.
+The acidity of the aqueous medium determines the rela-
+tive proportions of the nitrosating species. Under moder-
+ately acidic conditions (pH 2–5) all three nitrosating spe-
+cies are present. At moderate pH (ca 3.0), N₂O₃ is the
+predominant nitrosating agent active in the nitrosation of
+secondary amines. At low pH (<2.0), HNO₂ is the pre-
+dominant agent for nitrosation reactions involving
+weakly basic amines and amides.
+
+Primary amines are generally not considered to be pre-
+cursors of N-nitrosoamines, as nitrosation reactions gener-
+ally proceed via diazonium salts which rearrange replace-
+ment of the amino group. However, nitrosation of the
+simplest aliphatic amine, methylamine, results in a com-
+plex mixture of products that include N-nitrosomethyl-
+amine (NDMA). Nitrosation of higher primary aliphatic
+amines does not result in the formation of N-nitroso com-
+pounds.
+
+Nitrosation of secondary amines is second order in
+terms of the concentration of nitrous acid and first order in
+terms of amine concentration. In a solution, the supply
+to form an amine reacts reversibly with a strongly
+pH dependent. Strongly basic amines (e.g., morpholine) are
+more sensitive than tertiary amines (3).
+
+The rate constants for the pKa 11.4, and is therefore
+unaffected by pH changes in the range normally encoun-
+tered in foods. The reaction of N₂O₃ with secondary ami-
+nes is generally faster than that of HNO₂ (4). The nitro-
+sation reactions are also affected by temperature, with
+higher temperatures resulting in increased rates of reac-
+tion. Nitrosation reactions are also influenced by the pres-
+ence of other food components such as ascorbic acid and
+sulfite which can act as scavengers for nitrous acid.
+
+REFERENCES
+
+1.  Doll, R., & Pike, R. M. (1983). N-nitroso compounds and human carcinogenicity: A review of the evidence. Food Control, 4(1), 1–16.
+2.  Kunii, H., & Udenfriend, P. (1975). N-nitrosoamine formation in foods. Adv. Food Chem., 8, 163–206.
+3.  Mirvish, M. J. (1983). Nitrosation reactions. In: Chemistry and Technology of Yoghurt (Harris, L.M., ed.). Applied Science Publishers, London, New York, pp. 457–476.
+4.  WHO. (1992). Evaluation of the carcinogenic risk of nitrates and nitrites in foods. Technical Report Series No. 849. Geneva: World Health Organization.
+
+
+
+N

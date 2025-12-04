@@ -1,0 +1,31 @@
+Beiträge zur Tabakforschung International · Volume 13 · No. 2 · December 1985
+
+Neutron Activation Analysis
+in Tobacco and Cigarette Smoke Studies:
+2R1 Cigarette Composition,
+Smoke Transference and Butt Filtration *
+
+by
+R. W. Jenkins, Jr.
+Philip Morris Research Center, Richmond, Virginia, U.S.A.
+and
+C. Goldrey and T. G. Williamson
+Department of Nuclear Engineering, University of Virginia, Charlottesville, Virginia, U.S.A.
+
+SUMMARY
+
+Presented are the results from use of neutron activation analyses to determine some of the inorganic components of the complete 2R1 reference cigarette, the tobacco filter, the cigarette paper, the smoke ash and the mainstream particulate matter. Transference values are given for Na, K, Br, Cl, Co, Rb, Cd, Se and Mn.
+
+Neutron activation analyses were used to determine butt filtration efficiencies in both the tobacco and in cellulose acetate filters. Butt filtration curves for each 5 mm section behind the cigarette coal were constructed from data. Na, K, Br, Cl appeared to be removed by normal filtration mechanisms (direct interception, intereception or diffusion) of entrained particulate matter. Inorganic residues continued to be deposited on coal. Vapor condensation of the inorganic solids because a uniform filtration mechanism was not evident beyond the end of the smoke hat which would have been at room temperature with essentially all condensation completed.
+
+Received: 30 March 1985 with acceptance after 1985 (PR)
+
+
+
+Calcium and magnesium were shown to be removed in such a manner as to indicate a removal mechanism dependent on very large particles enriched in these elements. A proposed mechanism is given to account for the lack of any detectable transference of these elements to mainstream smoke.
+
+ZUSAMMENFASSUNG
+
+Die vollständige Versuchsziqarette 2R1, deren Tabakfüllung, Ziqarettenpapier, die nach dem Verrauchen verbleibende Asche und die Partikelphase des Hauptstromrauches wurden unter Einsatz von Neutronenaktivierungsverfahren auf den Gehalt an einigen anorganischen Verbindungen untersucht. Es werden Transference-Werte folgender Substanzen mit berichtet: Na, Br, Cl, Co, Rb, Cd, Se und Mn.
+
+Es wurde der Neutronenaktivierung verwendet bestimmt, in welchem Maße eine anorganische Substanz selektiv in den Tabak-, Filter- und Celluloseacetatfilter gebunden wird. Es wurden für jeden 5 mm Abschnitt hinter dem Globscheiben Verlaufsdiagramme der gesamten Asche erstellt. Na, K, Br, Cl werden durch die üblichen Filtrationsmechanismen entfernt.

@@ -1,0 +1,25 @@
+Monthly Report, August ‘85 Sarojini D. Arcot
+
+I Identification of phases present in samples extracted in
+Stockpile plant under various conditions:
+
+The sample name, and the phases identified have
+been tabulated (Table I)
+
+II(a) Identification of phases present in samples prepared in
+the lab, under different conditions: the variables were
+atmosphere, heating cycle, starting material, temperature
+of nitriding, and time of nitriding. The sample numbers,
+and the phases identified in them are summarized in Table II
+and the phases identified in PM639, PM 640 and PINIT 28
+
+(b) Effect of aging 9 samples for 12 days:
+in 100% Relative humidity for 12 days.
+It can be seen from the attached data
+that PINIT 28 is affected more by aging under
+humid conditions than PM639/PM640. On the wrapped
+PINIT 28, the major phase is Fe and Fe3N. On aging,
+Fe becomes the major phase, and γ-FeN becomes a
+minor phase, and Fe3O4 appears. It is probable that
+
+2020135296

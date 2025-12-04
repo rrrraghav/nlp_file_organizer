@@ -1,0 +1,83 @@
+European Journal of Pharmacology, 242 (1993) 109–112
+© 1993 Elsevier Science Publishers B.V. All rights reserved 0166-2999/93/$16.00
+
+EJP 21324
+
+Short communication
+
+In vivo reactivity of resistance arterioles to activation
+of ATP-sensitive K+ channels
+
+William G. Mayhan
+
+Department of Physiology and Biophysics, University of Nebraska Medical Center, Omaha, NE 68198, USA
+
+Received 27 May 1993, revised MS received 21 July 1993, accepted 23 July 1993
+
+Our goal was to examine in vivo responses of resistance arterioles contained within the hamster cheek pouch microcirculation
+to activation of ATP-sensitive potassium (K+) channels. We measured changes in diameter of check pouch arterioles in response
+to activation of ATP-sensitive K+ channels using Apkalim and BRL 38227, a potent activator of these channels. Both
+Apkalim and BRL 38227 produced dose-related dilatation of arterioles, which was inhibited by glibenclamide (1.0 µM), but not
+altered by N(G)-monomethyl-L-arginine (L-NMMA; 1.0 µM). Glibenclamide did not alter baseline diameter of check pouch
+arterioles and did not affect dilatation of cheek pouch arterioles in response to nitroprusside (10 µM). L-NMMA did not
+alter dilatation of arterioles in response to nitroprusside, but inhibited dilatation of arterioles to acetylcholine (0.1 and 1.0 µM). Thus,
+dilatation of arterioles in response to activation of K+ channels appears to be specific and is not associated with the
+release of nitric oxide or a nitric oxide containing compound. The findings of the present study suggest that ATP-sensitive K+
+channels are functional in resistance arterioles in vivo, but do not appear to affect resting tone of cheek pouch arterioles.
+
+Apkalim; Cheek pouch arteriole Vasodilation; BRL 38227; Nitric oxide (NO);
+L-NMMA (N(G)-monomethyl-L-arginine); Hamster
+
+1. Introduction
+
+Potassium channels, which ubiquitously reside in
+intracellular cellular membranes, play an important role in
+establishing and maintaining membrane potential. ATP-sensitive
+K+ channels are one subgroup of potassium channels that
+open in response to changes in intracellular ATP concentrations
+[e.g., Nicholls et al., 1986; Kelly & Duffield, 1987;
+Ashcroft, 1990].  Several ATP-sensitive K+ channel openers
+have been identified [e.g., Garlapati & Martin, 1985;
+Iwaki et al., 1983; Inesi et al., 1986; Yasaka et al., 1987;
+Bauer et al., 1988;  Wulff et al., 1989]. Apkalim [e.g.,
+Iwaki et al., 1983;  Yasaka et al., 1987] and BRL 38227
+[e.g.,  Bauer et al., 1988] are two such compounds. The
+vasodilatory effects of ATP-sensitive K+ channel openers have
+been demonstrated in isolated vascular preparations [e.g.,
+Iwaki et al., 1983; Yasaka et al., 1987;  Bauer et al., 1988;
+Wulff et al., 1989].
+
+The role of ATP-sensitive K+ channels in the regulation of
+vascular tone in vivo remains unclear. Nitric oxide (NO) is a
+potent vasodilator that is released from endothelial cells [e.g.,
+Furedy et al., 1989; Bredt et al., 1990; Garthwaite, 1991;
+Sandros et al., 1991].  In some instances, the vasodilatory
+effects of ATP-sensitive K+ channel openers have been attributed
+to NO release [e.g.,  Nagao et al., 1991; McCaron et al., 1991;
+Ksoli et al., 1991; Standen et al., 1989; Faraci and
+Heistad, 1993], we were interested in determining the
+effects of activation of ATP-sensitive K+ channels on
+resistance arterioles in vivo. We used the hamster cheek pouch
+preparation to examine this question. The cheek pouch is an
+ectopic tumor that contains a network of arterioles which
+possess endothelial cells and smooth muscle [e.g.,  Mayhan
+et al., 1983; Mayhan & Tank, 1985]. This preparation allows
+for direct measurement of arteriolar diameter in vivo. We
+hypothesized that activation of ATP-sensitive K+ channels
+would cause dilatation of resistance arterioles and that this
+effect would be associated with the release of NO.
+
+2. Materials and Methods
+
+Hamsters (male, 60–80 g) were anesthetized with
+pentobarbital sodium (50 mg/kg i.p.). The cheek pouch was
+exposed surgically and placed on a heated stage in a
+perfused organ bath containing physiological salt solution
+(PSS; see Mayhan et al., 1983). PSS was continuously
+oxygenated and maintained at 37°C.
+
+MAYN, William G.
+MANUSCRIPT #2
+
+
+

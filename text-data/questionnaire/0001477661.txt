@@ -1,0 +1,72 @@
+( ) Complete
+( ) Term as 0
+
+PACKAGE SIZE EVALUATION STUDY - 11
+
+Resp. Name_
+Resp. Phone # (_____)
+Inv. Name_
+
+Cigarette Type:
+Full-Taste -1 (18)
+Light -2
+
+City:
+Indianapolis (19)
+Philadelphia (20)
+
+Sex:
+Male -1
+Female -2 (21)
+Cell A ⑤ (21)
+Cell B ⑥ (21)
+
+SCREENING
+
+HELLO, MY NAME IS. TODAY WE ARE CONDUCTING A STUDY WITH SHOPPERS AND WE WOULD LIKE YOU TO PARTICIPATE. FIRST, I NEED TO ASK YOU A FEW QUESTIONS ABOUT YOURSELF.
+
+A. DO YOU CURRENTLY SMOKE CIGARETTES?
+Yes No (1)
+(Disc./Rec. Col. 4.)
+
+B. WHAT ONE BRAND OF CIGARETTES DO YOU YOURSELF CURRENTLY SMOKE MOST OFTEN? PLEASE TELL ME THE FULL NAME OF THE BRAND BECAUSE SOME BRANDS COME IN DIFFERENT STYLES. (EXCEPTING the help box for complete brand name.
+Record on next sheet.)
+
+Brand On
+List (Continue)
+Brand Not
+on List
+(Disc./Rec. Col. 5.)
+
+C. DO YOU OR DOES ANYONE IN YOUR IMMEDIATE FAMILY WORK FOR ANY OF THE FOLLOWING TYPES OF COMPANIES? (Read list. Record only if code 5 mentioned.)
+MARKETING RESEARCH FIRM
+ADVERTISING AGENCY
+CIGARETTE MANUFACTURER
+TOBACCO COMPANY
+(Disc./Rec. Col. 6.) (Continue) - NONE OF THESE - (1)
+(Hand Code Card.)
+
+D. WHAT LETTER ON THIS CARD BEST DESCRIBES YOUR AGE, PLEASE?
+(Disc./Record Col. 7) - Under 21 (1)
+21-24 (2)
+25-34 (3)
+35-44 (4)
+45-54 (5)
+55-64 (6)
+65 or over (7) (22)
+
+(Continue if obviously over 21, otherwise: In an area code box - Yes
+E. ABOUT HOW MANY PACKS OF CIGARETTES DO YOU SMOKE, PER WEEK? (Do not include any packs or cigars which are given away.) WOULD THAT BE MORE OR LESS THAN THREE PACKS ON AVERAGE?
+More than 3 packs -1 (23)
+Less than 3 packs -2 (23)
+Exactlly 3 packs -3 (23)
+
+F. RECORD ALL RESPONSES ON THE NEXT SHEET.
+
+G. THANK YOU FOR YOUR TIME. H AVE A NICE DAY.
+
+( ) Refusal (1)
+( ) Not Home (2)
+( ) Other (3)
+
+3746580106

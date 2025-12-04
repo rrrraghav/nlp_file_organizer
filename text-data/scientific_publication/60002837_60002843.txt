@@ -1,0 +1,56 @@
+Platelet Function Studies in Heart Disease
+
+HK1185012
+
+VI. Enhanced Platelet Aggregate Formation Activity
+in Congestive Heart Failure: Inhibition by Sodium Nitropusside
+
+JAWAHAR MEHTA, M.D., AND PAULETTE MEHTA, M.D.
+
+SUMMARY We studied 11 patients with congestive heart failure and 10 normal volunteers for in vivo platelet aggregate formation activity. The patients with heart failure had significantly (p < 0.01) more circulating platelet aggregates than the normal volunteers. During sodium nitropusside infusion, the number of circulating platelet aggregates declined to levels similar to those in the normal volunteers. Thromboxane B2 and adenosine diphosphate were also suppressed significantly (p < 0.01). This was associated with a 30% decrease in plasma viscosity and a 25% increase in cardiac output. In addition, sodium nitropusside directly dose-inversely inhibited platelet aggregation inhibitory actions. This study suggests that an increased number of circulating platelet aggregates may contribute to the pathophysiology of congestive heart failure and that inhibition of platelet aggregation by sodium nitropusside may --be a mechanism of its beneficial effects in heart failure.
+
+PATIENTS WITH VASCULAR insufficiency have been shown to have increased in vivo platelet aggregate formation activity 1-3 and increased in vitro platelet aggregation in response to adenosine and ADP.4 Several investigators have suggested that the occlusion of small vessels by platelet aggregates may be responsible for tissue ischemia, injury and death 5-8 Most patients with congestive heart failure have in creased vascular resistance and either a primary or secondary event.9-11 Whether platelet aggregate formation activity is in any way related to the increase in vascular resistance in these patients is not known. The use of vascular resistance-lowering agents like sodium nitropusside has been beneficial in the treatment of patients with heart failure 12-14 Sodium nitropusside is thought to be effective by its direct dilution actions on vascular smooth muscle, resulting in decreased vas cular resistance and improved cardiac function. Re cently, the platelet aggregation inhibitory action of sodium nitropusside has been reported.15 We therefore studied 11 patients with congestive heart failure and 10 normal volunteers to determine whether these patients had increased in vivo platelet aggregate formation activity and whether this activity could be inhibited by sodium nitropusside.
+
+Materials and Methods
+
+Patient Population
+
+Eleven patients (age 24-59 years, mean age 48 years) who had chronic congestive heart failure, documented by clinical, electrocardiographic and roentgenologic criteria, and were undergoing nitropusside therapy form the basis of this report. Heart failure in eight patients was due to ischemic cardiomyopathy and in three to long standing valvular disease. Ten had been previously treated with digitalis and diuretics, and one had re ceived oral quinidine therapy. All patients were in a stable state and had no recognizable acute illness. Ten healthy volunteers (age 22-41 years, mean age 33 years) had no known history of heart or kidney disease. Blood samples of the patients or the healthy volunteer control were obtained before and after sodium nitropusside infusion at the preceding 2 doses.
+
+Platelet Function Studies
+
+Venous blood was collected into plastic syringes containing 3.8% sodium citrate as anticoagulant. Platelet rich plasma (PRP) was prepared by centrifugation at 150 g for 10 minutes, followed by centrifugation of the platelet-poor plasma at 600 g for 15 minutes. The platelet count in the PRP was adjusted to 2.5 x 10^5/ml with platelet poor plasma. In vivo platelet aggregate formation activity was determined by measuring the number of aggregates greater than 30 um in diameter in a 1-ml aliquot of PRP using a particle counter (Coulter Model TA-1). The instrument was calibrated to count particles between 20 and 40 um in diameter. Thromboxane B2 levels were measured by radioimmunoassay. Plasma viscosity was determined with an automated viscometer (Cannon 6000). Cardiac output was measured by the Fick principle.
+
+Results
+
+The patients with congestive heart failure had significantly (p < 0.01) more circulating platelet aggregates than the normal volunteers (Table 1). During sodium nitropusside infusion, the number of circulating platelet aggregates declined to levels similar to those in the normal volunteers (Table 1). Thromboxane B2 and adenosine diphosphate were also suppressed significantly (p < 0.01) (Table 1). In addition, plasma viscosity decreased by 30% and cardiac output increased by 25%.
+
+TABLE 1
+Comparison of Platelet Function Parameters in Patients with Congestive Heart Failure and Normal Volunteers Before and After Sodium Nitropusside Infusion
+
+(See image for table data)
+
+Discussion
+
+These findings suggest that an increased number of circulating platelet aggregates may contribute to the pathophysiology of congestive heart failure and that inhibition of platelet aggregation by sodium nitropusside may be a mechanism of its beneficial effects in heart failure.
+
+References
+
+1.  Born, G.V.R., et al. Lancet 2: 1039-1042, 1976.
+2.  Smith, J.B., et al. Circulation 58: 1111-1116, 1978.
+3.  Das, U.K., et al. Thromb Res 14: 301-308, 1979.
+4.  Monroe, E.B., et al. J Clin Invest 58: 1261-1269, 1979.
+5.  De Wood, G.F., et al. Lancet 2: 1033-1036, 1976.
+6.  Goldberg, A.N., et al. Circulation 58: 1141-1147, 1978.
+7.  Mackay, D.J., et al. Thromb Res 12: 309-316, 1978.
+8.  Harbison, M., et al. Lancet 2: 1054-1057, 1977.
+9.  Ross, J., Jr. Circulation 58: 1148-1153, 1978.
+10. Braunwale, V., et al. Circulation 58: 1154-1160, 1978.
+11. Folkow, B. Am J Cardiol 42: 611-618, 1978.
+12.  Sloan, E.P., et al. Circulation 58: 1161-1166, 1978.
+13.  Hegner, D.M., et al. J Am Coll Cardiol 2: 409-414, 1979.
+14.  Miller, E.L., et al. Circulation 59: 1167-1172, 1979.
+15.  Tang, W.H., et al. J Clin Invest 63: 408-413, 1980.
+
+From the Department of Medicine, University of Cincinnati College of Medicine, Cincinnati, Ohio.
+Supported by grants HL-26738 and HL-27581 from the Health Research and Services Administration.

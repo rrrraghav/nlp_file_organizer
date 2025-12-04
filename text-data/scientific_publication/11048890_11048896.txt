@@ -1,0 +1,39 @@
+4828
+
+Expression of c-fos and AP-1 Activity in Senescent Human Fibroblasts Is Not Sufficient for DNA Synthesis
+
+David W. Rose,* Gregory McCahe,* James R. Feramisco,* and Mark Adlerf
+
+*Departments of Medicine and Pharmacology, University of California, San Diego Center, La Jolla, California 92093; and
+†Sam and Rose Stein Institute for Research on Aging, University of California, San Diego, La Jolla, California 92093
+
+Abstract. Human fibroblasts have a limited replicative life span when maintained in culture after which they become unresponsive to treatment with mitogens, a phenomenon commonly called senescence. Experiments indicating that serum does not induce expression of the c-fos proto-oncogene in senescent fibroblasts raised the issue of a potential central role for c-fos in the phenotype of sustained growth arrest. This was directly tested by microinjection of oncogenic
+
+c-H-ras protein into senescent fibroblasts. While ras injection was found to induce marked nuclear c-fos expression and functional AP-1 transcription activity, this did not lead to DNA synthesis. These results suggest that the senescence phenotype cannot be solely attributed to the absence of c-fos expression and that the proliferative block in these cells is either independent of AP-1 transcriptional activity downstream or it involves multiple molecular mechanisms.
+
+ESSENTIALLY all eukaryotic cells demonstrate a finite
+capacity for cell division when readily propagated in
+vitro (Hayflick and Moorhead, 1961). This phenomenon, referred to as cellular senescence, is characterized by maintenance of viability and metabolism in the absence of sustained cell cycle progression (Goldstein, 1980; McCormick and Campisi, 1990). Because cultured fibroblasts taken from young individuals are capable of a greater number of population doublings than cells derived from older tissue, cellular senescence is considered to reflect con- stitutive aging processes in the organism.
+
+Recent studies have suggested that the transition to senescence is accompanied by changes in cell surface receptors and intracellular signaling pathways (Campisi, 1985; Yoshida and Tavernier, 1987). One aspect of this transition involves a reversal of mitogen responsiveness. Specifically, young fibroblasts readily respond to treatment with growth factors such as serum, platelet-derived growth factor, or epidermal growth factor by entering S phase (Robbins et al., 1982; Seger et al., 1984). In contrast, senescent fibroblasts are unresponsive to these mitogens (Campisi et al., 1985; Rappaport et al., 1986).
+
+The c-fos proto-oncogene is a component of the immediate early genes that are induced by growth factors in many cell types (Turney et al., 1984). The protein product of c-fos, p-fos, dimerizes with the immunoglobulin heavy chain variable region gene enhancer factor (AP-1) to form a transcriptionally active complex (Karin and Blobel, 1986). AP-1 has been shown to regulate the expression of genes involved in cell proliferation and differentiation (Shafiq et al., 1985; Raval et al., 1988). Similar studies conducted using senescent human fibroblasts have shown that while c-fos and c-jun are expressed in response to mitogen treat- ment (Raval et al., 1985), c-fos expression is absent or is a specific transcriptional block (Sashihara and Campi- si, 1990). On the basis of this observation, it has been suggested that an inherent mechanistic difference exists be- tween the responses of presenescent and senescent cells to mitogens, and that the lack of c-fos expression may account for the failure of the latter to proliferate (Gold- stein, 1980; McCormick and Campisi, 1990). Evidence is now available to suggest that AP-1 activity is in- volved in direct control of senescence induction in certain primary cell types (de Graeff et al., 1993). In order to more directly test the role of c-fos expression in the senes- cent phenotype, we have attempted to induce c-fos ex- pression in senescent fibroblasts by microinjection of oncogenic c-H-ras protein. The results presented here demonstrate that while ras injection induces c-fos expression and AP-1 activity, it does not restore DNA synthesis capacity in senescent cells.
+
+MATERIALS AND METHODS
+
+Cell Culture: Human fetal skin fibroblasts (strain WI-38) were obtained from the American Type Culture Collection (Rockville, MD). Cells were grown in Dulbecco’s modified Eagle’s medium (DMEM) supplemented with 10% calf serum and antibiotics. Senescence was induced by prolonged culture in mitogen-free medium. Cells were considered senescent when they ceased to divide and exhibited a flattened morphology.
+
+Microinjection: Microinjection of purified c-H-ras protein was performed as described previously (Rose et al., 1986). Briefly, c-H-ras DNA was transcribed and translated in vitro using a rabbit reticulocyte lysate system. The resulting protein was purified by chromatography on DEAE cellulose. Senescent fibroblasts were plated at a density of 2 x 10^5 cells/ml in Ham’s F-12 medium supplemented with antibiotics. After 24 hr, the cells were microinjected with 10 fmol of c-H-ras protein per cell. Control cells were injected with buffer alone.
+
+Analysis of DNA Synthesis: DNA synthesis was assessed by measuring [^3H]thymidine incorporation into cellular DNA. Cells were incubated with 1 uCi/ml [^3H]thymidine (specific activity, 64 Ci/mmol) for 4 hr after microinjection. Incorporation of radioactivity into DNA was determined by trypsinization of the cells and filtration through Whatman CM-50 filters.
+
+Detection of c-fos mRNA: Total RNA was isolated from control and injected cells using cesium chloride density gradient centrifugation. Northern blot analysis was performed as described previously (Rose et al., 1986). Briefly, 20 ug of total RNA were electrophoresed on a 1% agarose gel and transferred to nylon membranes. Membranes were hybridized with a ^32P-labeled c-fos cDNA probe.
+
+Immunoblot Analysis: Immunoblot analysis was performed as described previously (Rose et al., 1986). Briefly, cell lysates were prepared by lysis in buffer containing Tris-HCl, NaCl, EDTA, and Nonidet P-40. Protein concentrations were determined by the Bradford method. Samples were electrophoresed on SDS polyacrylamide gels and transferred to nylon membranes. Membranes were probed with a rabbit polyclonal antibody against c-fos protein.
+
+RESULTS
+
+Microinjection of oncogenic c-H-ras protein into senescent fibroblasts induces marked nuclear c-fos expression and functional AP-1 transcription activity, but does not lead to DNA synthesis.
+
+
+

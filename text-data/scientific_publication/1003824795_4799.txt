@@ -1,0 +1,31 @@
+Kaufman Elliot R.
+
+Proc. Natl. Acad. Sci. U.S.A. October 1978
+
+Bromodeoxyuridine mutagenesis in mammalian cells: Mutagenesis is independent of the amount of bromouracil in DNA
+
+ELLIOT R. KAUFMAN and RICHARD L. DAVISSON
+
+Department of Biology, Children’s Hospital School of Medicine and Department of Microbiology and Molecular Genetics, Harvard Medical School, Boston
+
+ABSTRACT
+Elliot R. Kaufman and Richard L. Davisson
+
+Studies were undertaken to determine how 5-bromodeoxyuridine (BrdU) induces mutations in mammalian cells. BrdU is incorporated into DNA during synthesis, where it can base-pair with adenine instead of thymine, leading to transitions. We have found that the frequency of these transitions is independent of the concentration of BrdU in the medium and is proportional to the rate of DNA synthesis. This suggests that the mutagenic effect of BrdU is not due to its presence in DNA but rather to some other effect of BrdU on the mechanism of DNA replication. The possibility is considered that BrdU may interfere with the proofreading activity of DNA polymerases.
+
+MATERIALS AND METHODS
+Cell Lines: The characteristics of the cell lines in this study have been described previously (1, 2). Briefly, we used Chinese hamster ovary cells (CHO) and mouse L5178Y leukemia cells. CHO cells were grown in Eagle’s minimum essential medium supplemented with 10% fetal calf serum. L5178Y cells were grown in suspension culture in RPMI 1640 supplemented with 10% fetal calf serum. The selection of resistant mutants was carried out as described previously (3).
+
+The thymine analog 5-bromodeoxyuridine (BrdU) induces transitions in mammalian cells. We have found that the frequency of these transitions is independent of the concentration of BrdU in the medium and is proportional to the rate of DNA synthesis. This suggests that the mutagenic effect of BrdU is not due to its presence in DNA but rather to some other effect of BrdU on the mechanism of DNA replication. The possibility is considered that BrdU may interfere with the proofreading activity of DNA polymerases.
+
+The thymine analog 5-bromodeoxyuridine (BrdU) induces transitions in mammalian cells. We have found that the frequency of these transitions is independent of the concentration of BrdU in the medium and is proportional to the rate of DNA synthesis. This suggests that the mutagenic effect of BrdU is not due to its presence in DNA but rather to some other effect of BrdU on the mechanism of DNA replication. The possibility is considered that BrdU may interfere with the proofreading activity of DNA polymerases.
+
+The thymine analog 5-bromodeoxyuridine (BrdU) induces transitions in mammalian cells. We have found that the frequency of these transitions is independent of the concentration of BrdU in the medium and is proportional to the rate of DNA synthesis. This suggests that the mutagenic effect of BrdU is not due to its presence in DNA but rather to some other effect of BrdU on the mechanism of DNA replication. The possibility is considered that BrdU may interfere with the proofreading activity of DNA polymerases.
+
+The thymine analog 5-bromodeoxyuridine (BrdU) induces transitions in mammalian cells. We have found that the frequency of these transitions is independent of the concentration of BrdU in the medium and is proportional to the rate of DNA synthesis. This suggests that the mutagenic effect of BrdU is not due to its presence in DNA but rather to some other effect of BrdU on the mechanism of DNA replication. The possibility is considered that BrdU may interfere with the proofreading activity of DNA polymerases.
+
+06108
+
+
+
+1003824735

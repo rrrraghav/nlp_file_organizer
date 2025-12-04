@@ -1,0 +1,61 @@
+SE SURVEYS INC.                                        #1906
+New York, New York                                       Feb. 1983
+
+                         CIGARETTE PRODUCT TEST
+                         CALLBACK QUESTIONNAIRE
+
+NAME:____________________  TEL.: [ Area Code ] (__________)
+[ASK TO SPEAK TO PERSON OR QUESTIONNAIRE. IF NOT AVAILABLE, RECORD TIME AND DATE WHEN
+HE/SHE WILL BE IN. NO ONE ELSE QUALIFIES.]
+
+Hello. I’m _________________________ from SE Surveys. I'm calling about the
+cigarettes we asked you to try.
+
+1a. First, did you receive the cigarettes we asked you to try?
+Yes   a → [CONTINUE]
+No    b → [TERMINATE AND RETURN]
+
+1b. And did you try both types of cigarettes we sent you?
+Yes   a → [GO TO Q. 1d]
+No    b → [ASK Q. 1c AND TERMINATE AND RETURN]
+
+1c. Why didn’t you try both types of cigarettes?
+
+
+
+[TERMINATE AND RETURN]
+
+1d. Please get the note sheet you used for recording your opinions of the cigarettes.
+
+Got note sheet  1
+Did not get note sheet 2   [5]
+
+1e. Did you smoke the cigarettes marked ‘Use First’ before you smoked the second ones? [6]
+Yes   1 → [GO TO Q. 2a]
+No    2 → [ASK Q. 1f]
+Don't remember  3 → [TERMINATE AND RETURN]
+
+1f. Let me just make sure I have it right. The cigarettes you smoked first were not the
+ones marked ‘Use First’. That is, you actually smoked the other cigarettes first.
+Is that correct?
+Yes   4 → [TERMINATE]
+No    → [REPEAT Q. 1e. IF ANSWER TO Q. 1e IS
+STILL NO, TERMINATE AND RETURN]
+
+2a. Now, let’s talk about the cigarettes you smoked first. About how many of
+them did you smoke? [READ LIST] [RECORD BELOW]
+About how many of
+them?
+
+2b. Now think about the cigarettes you smoked second, About how many of them
+did you smoke? [READ LIST] [RECORD BELOW]
+                        2a   2b
+Less than one pack                                   1     [7]
+About one pack [ 1 to 1-1/2 ]                         2     [8]
+About 2 packs [ 1-½ to 2-½ ]                          3     [9]
+About 3 packs [ 2-½ to 3-1/2 ]                        4     [10]
+All of them                                            5     [11]
+
+
+
+C35407

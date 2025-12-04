@@ -1,0 +1,42 @@
+An Autoradiographic Search for
+
+Radioactive Particles in the Lungs of Cigarette Smokers
+
+GILLIAN B. ROBERTSON, Ph.D.
+ANDREW W. ROGERS, D.Sc.
+Unit of Human Morphology
+The Medical School
+The Flinders University of South Australia
+Bedford Park, South Australia
+
+ABSTRACT. Mucosal samples from the bifurcation of a major bronchus were examined from 23 patients undergoing diagnostic bronchoscopy. Samples were autoradiographed using a technique that avoids any contact between tissue and reagents until the end of the autoradiographic exposure. The autoradiographs were scanned for a-particle tracks. No significant level of a-activity was detected, even in samples from heavy smokers who had continued to smoke within several hours of the bronchoscopy. The lower limit of detection of a-activity in this experiment was equivalent to about 55 ± 5 Becquerels (1.50 ± 0.40 µCi/kg) Polonium-210. These results do not support the hypothesis presented by others that radioactivity in particulate material of cigarette smoke contributes significantly to the association between cigarette-smoking and bronchial carcinoma.
+
+THE HYPOTHESIS, first advanced in the 1960s, that radioactive contaminants of cigarette smoke, such as ²¹⁰Po (²¹⁰Pb) may be the agents res-
+ponsible for carcinoma of the lung in smokers, has been recently revived by Marvell.¹ His measurements of the properties and radiochemical content of tobacco leaves have suggested a possible contribution from as much as 10 µCi/kg of Polonium-210 to the total intake of a smoker. This would represent an annual dose of about 3 × 10⁻³ rads to the lung tissue, which is sufficient to induce mutations and increase the risk of cancer.
+
+The autoradiographic technique described in this paper allows for a direct assessment of the distribution of radioactive particles within the lung tissue. The method avoids any possibility of contamination during sample collection or processing, and it provides a high degree of sensitivity. It is possible that the radioactivity is concentrated in certain areas of the lung, such as alveolar macrophages, and that the dose to these cells is much higher than the average dose to the lung tissue. Such concentrations would increase the risk of cancer, and the possibility that this activity may be further concentrated in clusters of insoluble particles, he postu-
+lated that the a-particle dose rate may be much higher in these regions than previously calculated.
+
+The definitive experimental test of Marvell’s theory calls for the autoradiography of bronchial epithelium sec-
+tions from which the depth of the a-particle tracks relative to the epithelial cells and their concentration in var-
+ious regions of the tissue can be recorded simultaneously. We have been able to conduct this experiment as part of a project which investigated the effects of cigarette smoke on the bronchial epithelium of 50 human subjects. Our results from observing autoradiographs of tissues from 23 of these subjects with varying smoking histories are dis-
+cussed in this paper.
+
+Review of previous measurements. During the years 1965 to 1967 many a-particle activity measurements in human tissues were conducted using ionization chambers and gas-flow proportional counters,²³ and there was good agreement between the estimates obtained in different lab-
+oratories. The average estimate of ²¹⁰Po in lung tissue is about 2 × 10⁻⁵ Bq/g which is a factor of 2 to 3 in smokers compared with non-smokers. The only results markedly divergent from this average are those of Little et al.,⁴ who measured the epithelium surface and in the underlying tissue. They found approximately ten times higher concentrations of ²¹⁰Po than other workers.
+
+However, Little et al. did not use autoradiography, and their measurements were based on chemical extraction methods which are susceptible to contamination. Furthermore, they did not provide details of the method used for separating epithelium from underlying tissues. The possibility that some of the activity measured by Little et al. was due to contamination from the underlying tissue cannot be excluded.
+
+MATERIALS AND METHODS
+
+Subjects. The subjects included in this study were 23 patients undergoing diagnostic bronchoscopy at the Flinders Medical Centre, Adelaide. Their smoking histories are summarized in Table I. All patients gave informed consent to participate in the study.
+
+Sample collection. Mucosal samples were taken from the bifurcation of the right main bronchus using a biopsy forceps. The samples were immediately placed into plastic cryovials and stored at -20°C until processed.
+
+Autoradiography. The autoradiographic technique has been described previously.⁵ Briefly, the tissue samples were fixed in 10% buffered formalin for 24 hours, then dehydrated in graded alcohols and embedded in LR resin. Sections (70 µm thick) were cut on a rotary microtome and mounted onto glass slides coated with Ilford Nuclepore membrane filters. The slides were exposed to Kodak nuclear track detectors for 30 days. After exposure, the detector films were immersed in sodium hydroxide solution to dissolve the emulsion and reveal the a-particle tracks.
+
+Scanning. The autoradiographs were scanned using a microfiche scanner connected to a digital computer. The computer was programmed to count the number of a-particle tracks within defined areas of the epithelium and underlying tissue.
+
+TABLE I Smoking Histories of 23 Patients Undergoing Bronchoscopy
+
+00111272

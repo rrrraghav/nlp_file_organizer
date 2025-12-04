@@ -1,0 +1,30 @@
+Cell, Vol. 70, 261–286, July 24, 1992. Copyright © 1992 by Cell Press
+
+Genetic Isolation of ADA2: A Potential Transcriptional Adaptor Required for Function of Certain Acidic Activation Domains
+
+Shelley L. Berger, Benjamin Pilia,* Neal Stiverman,* Gregory Marcus,* Julie Jagrorey,* Jeffrey L. Regier,* Steven I. Treiberberg,* and Leonard Guarente*
+*Department of Biology
+Massachusetts Institute of Technology
+Cambridge, Massachusetts 02139
+*Department of Biochemistry
+*Genetics Program
+Michigan State University
+East Lansing, Michigan 48824
+
+Summary
+
+We have devised a genetic strategy to isolate the target of acidic activation domains of transcriptional activators based on dextility in yeast cells of the chimeric activator, GAL4-VP16. Toxicity required the integrity of both the VP16 acidic activation domain and the GAL4 DNA-binding domain, suggesting that inhibition resulted from mutations of general transcription factors at generic sites. Mutations that break the interaction between GAL4-VP16 and general factors would allow us to identify the interaction partners between activators and general factors. We have identified ADA2, ADA1, GAL3, and GCN4 in ADA2 reduced mutant defects. Mutations in ADA2 also impair the activity of GAL4-VP16 fusion proteins, suggesting that they are required for function. ADA2 is a novel protein with no known homology to other yeast proteins. It is enriched in chromatin fractions and binds directly to VP16 in vitro. ADA2 may act as a transcriptional adaptor, linking activators to general transcription factors.
+
+Introduction
+
+Transcriptional activation is a complex process that involves the recruitment of multiple components to the promoter region of genes (for reviews see Ptashne and Gann, 1988; Fried, 1989). Yeast transcriptional activators typically contain two distinct domains: a DNA-binding domain and an acidic activation domain (e.g., GAL4, Trélazel et al., 1987; LexA, Bensinger and Pabo, 1989). The acidic activation domain is responsible for stimulating transcription, although the precise mechanism by which it functions remains unclear. In some cases, the acidic activation domain can function independently of the DNA-binding domain (e.g., VP16, Harvey et al., 1987; Tjian et al., 1988). However, in other instances, the acidic activation domain requires interaction with a DNA-bound protein to be active (e.g., GAL4, Sherman et al., 1982).
+
+The ability of acidic activation domains to function independently of the DNA-binding domain suggests that they may interact with components present at all promoters. Indeed, several proteins have been identified that can mediate the activity of VP16 in mammalian cells (e.g., SL1, Rawson et al., 1990; TBP, Lazarenko et al., 1990). In yeast, however, few such factors are known (see below).
+
+To identify proteins that interact with acidic activation domains in yeast, we constructed a chimeric activator consisting of the GAL4 DNA-binding domain fused to the VP16 acidic activation domain (GAL4-VP16). We reasoned that if GAL4-VP16 interacted with a general transcription factor, then mutations in that factor would result in toxicity. This approach is based on the observation that VP16 can activate transcription independently of a DNA template (e.g., Tjian et al., 1988), but that this activity is toxic to yeast cells (Pilia and Guarente, unpublished data).
+
+A central question in eukaryotic transcription is how activators contact the transcriptional machinery. General transcription factors that comprise the transcribe initiation complex, even when the activator binds to DNA at significant distances from the initiation site, are required for activation. Several mechanisms have been proposed for activation at a distance. In one model, activators are thought to prevent the repressive effect of histones on promoters. In vitro studies show that the magnitude of activation is usually increased if the transcription reaction is carried out in competition with the assembly of chromatin (Flaus et al., 1990; Workman et al., 1991; LaBonne and Kadonaga, 1991). This increase in the magnitude of activation is due to a strong repression of the basal level of transcription by nucleosomes or chroma-tin. In yeast cells, a reduction in the synthesis of histones H3 and H4 results in the partial activation of several cellu-lar genes (Han and Grunstein, 1989). These in vitro and in vivo studies suggest that histones are required to repress basal transcription to very low levels, and acidic activa-tors can counteract this repression.
+
+However, activators are also capable of functioning by directly contacting the transcriptional machinery. In vitro, even when the activator does not bind close to the promoter region, activation is still robust. This has been shown through in vivo manipulation and yeast/virus systems using a GAL4-VP16 fusion protein (Rawson et al., 1989).
+
+The ability of acidic activation domains to function independently of DNA binding suggests that they may interact with components present at all promoters. We have used a genetic selection strategy to identify these factors in yeast cells. This approach is based on the observation that VP16 can activate transcription independently of a DNA template (Tjian et al., 1988), but that this activity is toxic to yeast cells (Pilia and Guarente, unpublished data). We have identified ADA2, ADA1, GAL3, and GCN4 in ADA2 reduced mutant defects.

@@ -1,0 +1,34 @@
+JOURNAL OF CARDIOVASCULAR ELECTROPHYSIOLOGY, Volume 3, No. 6, December 1992
+Copyright © 1992 by Futura Publishing Company, Inc., Mount Kisco, NY 10549
+
+Toward a Molecular Understanding of Voltage-Gated
+Potassium Channels
+
+ROLF H. POHO, PH.D.
+
+From the Department of Molecular Physiology and Biophysics, and Division of Neuroscience, Baylor College of Medicine,
+Houston, Texas
+
+Voltage-Gated Potassium Channels. Many different types of potassium (K+) channels exist and they play a central role in the fine tuning of excitability properties. Of the distinct subpopulations of K+ channels expressed in different cells, voltage-gated K+ channels have been studied most thoroughly at a molecular level. Over the last few years, the joint application of recombinant DNA technology together with electrophysiological techniques, such as the voltage clamp and the patch clamp techniques, has produced a wealth of information. We have begun to unravel the genetic basis of ion channel diversity. In particular, the Xenopus laevis expression system has turned out to be of enormous experimental value. Oocytes microinjected with “cloned” mRNA have been used to gain insight into biophysical and pharmacological properties of voltage-gated K+ Na+, and Ca++ channels. Here, we will review our understanding of K+ channel diversity based upon the fact that ion channels are encoded as a large multigene family. We have caught a first glimpse at possible molecular mechanisms underlying several biophysical properties characteristic for voltage-gated ion channels: voltage dependence of activation and inactivation, and ion permeation and selectivity. We will discuss molecular mechanisms of K+ channel activation and inactivation. We will also describe experiments that led to the identification of the “pore region,” and we will present a model of a potassium selective ion channel pore. [J. Cardiovascular Electrophysiol., Vol. 3, pp. 589-601, December 1992]
+
+ion channels, voltage gated, pore
+
+Introduction
+
+Potassium (K+) channels are plasma mem- rectifiers, Ca++-activated K+ channels, & pro-
+brane proteins that are ubiquitous in both tein-gated K+ channels, and ligand-regulated K+
+excitable and nonexcitable cells. Major functions channels (e.g., by ATP or Na+). At the present
+of K+ channels include determination and time, voltage-gated K+ channels are described
+stabilization of the resting membrane potential, most thoroughly at a molecular level. Many
+shaping of the action potential in excitable cells, cDNA clones have been functionally expressed and
+modulation of transmitter release, & myocyte electrophysiolgically characterized for K+ cell
+rhythmicity during normal and abnormal con- lines. We’ve seen that we can put into cell
+ditions. In addition to their roles in cellular membranes using the genetic information.
+function, K+ channels are also involved in a It is now widely recognized that K+ channels
+variety of physiological processes, including are encoded by a large multigene family. The
+neuronal excitability, hormone secretion, and number of genes encoding K+ channels in mam-
+muscle contraction. Voltage-gated K+ channels malian cells is estimated to be at least 15–20,
+are classified into several subfamilies based on and this number may increase as more genes are
+their biophysical properties & pharmacological cloned. The existence of a large K+ channel
+selectivity. These include delayed rectifier K+ gene family suggests that the diversity of K+
+channels, rapid-activating K+ channels, inward channels is much greater than previously ap-

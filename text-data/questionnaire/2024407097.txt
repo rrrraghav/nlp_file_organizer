@@ -1,0 +1,40 @@
+Parameter: Dissolved Oxygen [on recorn
+Method: Electrode  [organics]
+
+1. If samples are collected, is collection carried out with
+a minimum of turbulence and air bubble formation?   Yes No
+_
+
+2. If samples are collected, is the sample bottle allowed to
+overflow several times its volume?    _
+
+3. Is analysis performed immediately?     _
+
+4. Are meter and electrode operable and providing
+consistent readings?  _
+
+5. Is membrane in good condition without trapped air bubbles? _
+
+6. Is correct filling solution used in electrode?   _
+
+7. Is meter calibrated before use or at least daily?    _
+
+8. Is calibration procedure performed according to
+manufacturer's instructions?     _
+
+9. Is sample stirred during analysis?  _
+
+10. Is the sample analysis procedure performed according
+to manufacturer’s instructions? _
+
+11. Is meter stabilized before reading D.O.?   _
+
+12. Is electrode stored according to manufacturer’s instructions? _
+
+Comments:
+
+
+
+Rating: • Satisfactory    • Qualified   • Unsatisfactory
+
+Problems:

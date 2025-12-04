@@ -1,0 +1,46 @@
+Bat CO: CHEMICAL METHODS
+
+2
+
+Continuous Flow Methods
+Protein/N
+Nitrate/N
+Total/N
+Ammonia/N
+Starch
+Water Soluble/ N
+Phosphorous
+Nicotine, Total & Reducing Sugars
+Phenols in Smoke
+HCN in Vapour Phase
+
+Gas Chromatographic Methods
+Menthol on Tobacco and Spills GC-FID
+Humectants GC-FID
+Ind. Nic. Alkaloids GC-FID
+Menthol in Smoke GC-FID
+Acetaldehyde in Vapour Phase GC-FID
+Vapour Phase Scan GC-FID
+Acrolein in Vapour Phase GC-FID
+Oil/Water Partition of Smoke GC-FID
+Triacetin in Filters GC-FID
+Nitrosamines in Tobacco GC-TEA
+Nicotine in TPM of Smoke GC-FID
+Water in TPM of Smoke GC-Hot Wire
+
+GC-Mass Spectrometry
+Tobacco Headspace Volatiles TD-GC-MS
+GC-MS Scan (Solvent Ext.) GC-MS
+Capillary Vapour Phase Scan GC-MS
+
+Liquid Chromatography Methods
+Individual Sugars HPLC
+Polyphenols HPLC
+Glycyrrhizic Acid HPLC
+Theobromine HPLC
+3-Methyl Valeric Acid HPLC
+Catechol in Smoke HPLC
+Deoxyfructosazines Deriv.HPLC
+Amadori Compounds Deriv.HPLC
+Individual Organic Acids HPLC(IC)
+Anions in Board (Cl, Br, NO2, PO4, SO4) HPLC(IC) 562CCS204

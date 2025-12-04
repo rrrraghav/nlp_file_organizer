@@ -1,0 +1,69 @@
+British Journal of Psychiatry (1989), 154, 000-000
+
+The Effects of Nicotine on Attention, Information Processing, and Short-Term Memory in Patients with Dementia of the Alzheimer Type
+
+BARBARA SAHAKIAN, GEMMA JONES, RAYMOND LEVY, JEFFREY GRAY and DAVID WARBURTON
+
+Nicotine in patients with dementia of the Alzheimer type (DAT) produces a significant and marked improvement in discriminative sensitivity and reaction times on a computerized test designed to detect a flickering light. It is suggested that nicotine acts through cholinergic receptors. These results support the hypothesis that the neurotransmitter acetylcholine transmission modulates vigilance and attention, and suggest that nicotine may be of some value in treating deficits in attention and information processing in DAT patients.
+
+The cholinergic hypothesis of aging and dementia attributes cognitive decline to age-related reductions in central cholinergic function (Drachman & Sahakian, 1986; Saks, 1987; Shawakian, 1988). Critical evidence for this hypothesis is the finding that the degree of cognitive impairment in patients with dementia of the Alzheimer type (DAT) is positively correlated with a reduction in choline acetyltransferase activity and density of acetylcholine (ACh) synapses in brain, measurable in post-mortem tissue (Davies et al., 1976; Davies & Squire, 1983; Firley et al., 1977). Furthermore, pharmacological interventions that enhance cholinergic neurotransmission, such as muscarinic agonists, have been shown to improve cognitive function in some patients with DAT (Crossman et al., 1985). Nicotine is known to stimulate both nicotinic and muscarinic receptors in the brain of patients with DAT (White & Dichter, 1984), and it has recently been shown that nicotine can improve cognitive performance in healthy elderly volunteers (Jhaveri et al., 1987) and in patients with DAT (Sahakian et al., 1988).
+
+In the present study, we investigated the effects of nicotine on attention and short-term memory in a group of patients with DAT. We also examined the relationship between nicotine’s effects and measures of cognitive impairment and age.
+
+Subjects
+
+Twenty-four consecutive patients with DAT were recruited from the Visual Memory Clinic at the Maudsley Hospital, London. All patients had been assessed at the clinic by a consultant psychiatrist and diagnosed as having Alzheimer's disease following McChane et al (1986). All patients met criteria for probable Alzheimer’s disease according to the diagnostic guidelines of the British Society for Neuropsychology (Forsyth et al., 1983). The mean age of the group was 72.4 years (SD = 6.5), and the range was 65–85 years. Fifteen were female and nine were male. All patients were living in the community and were accompanied by a caregiver during assessment. Twenty-four healthy elderly volunteers, matched to the DAT group for age and sex, were recruited from local senior citizens’ clubs and community centres. The mean age of the control group was 71.9 years (SD = 6.2), with a range of 64–83 years. Eleven were female and thirteen were male. All controls had no history of neurological or psychiatric illness, and none were taking psychoactive medication.
+
+National Adult Reading Test was used to match the two groups for premorbid verbal IQ. The IQ scores of 121, 107, and 105 respectively. All patients and controls gave written informed consent. Patients who were unable to give consent due to cognitive impairment had a proxy caregiver sign on their behalf.
+
+All patients were assessed at the Visual Memory Clinic at the Maudsley Hospital. Memory of events and then assessed it was considered as having Alzheimer's disease by McChane et al (1986). All patients met criteria for probable Alzheimer’s disease according to the diagnostic guidelines of the British Society for Neuropsychology (Forsyth et al., 1983). The mean age of the group was 72.4 years (SD = 6.5), and the range was 65–85 years. Fifteen were female and nine were male. All patients were living in the community and were accompanied by a caregiver during assessment. Twenty-four healthy elderly volunteers, matched to the DAT group for age and sex, were recruited from local senior citizens’ clubs and community centres. The mean age of the control group was 71.9 years (SD = 6.2), with a range of 64–83 years. Eleven were female and thirteen were male. All controls had no history of neurological or psychiatric illness, and none were taking psychoactive medication.
+
+Materials and Methods
+
+The computerized test used in this study was designed to assess discriminative sensitivity and reaction time (Gray et al., 1987). The task involved detecting a flickering light presented briefly on a computer screen. The flicker rate varied randomly between trials. Participants were instructed to press a button as quickly as possible when they detected the flicker.
+
+The test was administered in a double-blind, randomized, crossover design. Each patient received both nicotine and placebo capsules in a random order, with at least 1 week separating treatments. The dose of nicotine was 0.5mg, which is known to produce measurable effects on cognitive function (Jhaveri et al., 1987). Placebo capsules were identical in appearance to the nicotine capsules.
+
+Cognitive assessment
+All patients underwent a comprehensive neuropsychological assessment including the Mini-Mental State Examination (MMSE) (Folstein & McHugh, 1975), the National Adult Reading Test (NART) (Rawson, 1983), and the Clock Drawing Test (Kertesz, 1988).
+
+Statistical analysis
+Data were analysed using SPSS. Repeated measures ANOVA was used to compare reaction times and discriminative sensitivity scores between nicotine and placebo conditions. Pearson correlation coefficients were calculated to examine the relationship between nicotine’s effects and age and MMSE scores.
+
+Results
+
+The computerized test of discriminative sensitivity and reaction time showed that nicotine significantly improved performance in patients with DAT compared with placebo (Table 1). Reaction times were faster under nicotine than under placebo (F(1,22) = 6.83, p < 0.05), and discriminative sensitivity was also improved (F(1,22) = 4.97, p < 0.05).
+
+Table 1. Mean (SD) reaction times (ms) and discriminative sensitivity scores for patients with DAT under placebo and nicotine conditions.
+
+Placebo Nicotine
+Reaction time 680 (120) 620 (100)
+Discriminative sensitivity 0.75 (0.05) 0.80 (0.04)
+
+The improvement in reaction times with nicotine was significantly correlated with age (r = -0.49, p < 0.05), indicating that older patients benefited more from nicotine treatment. There was no significant correlation between the effects of nicotine and MMSE scores.
+
+Discussion
+
+The results of this study provide further evidence for the cholinergic hypothesis of aging and dementia. The finding that nicotine improves attention and short-term memory in patients with DAT supports the idea that enhancing cholinergic neurotransmission can have beneficial effects on cognitive function.
+
+The improvement in reaction times with nicotine was significantly correlated with age, indicating that older patients benefited more from nicotine treatment. This may be because older patients have a greater reduction in central cholinergic function than younger patients. The lack of correlation between the effects of nicotine and MMSE scores suggests that the benefits of nicotine are not limited to patients with severe cognitive impairment.
+
+The findings of this study have important implications for the development of pharmacological treatments for dementia of the Alzheimer type. Nicotine may be a useful adjunct to other therapies aimed at improving cognitive function in these patients. However, further research is needed to determine the optimal dose and duration of nicotine treatment, and to assess the potential risks and benefits of long-term use.
+
+References
+
+Crossman, A. W., et al (1985). Cholinergic agonists in Alzheimer’s disease. British Journal of Psychiatry, 146, 30–34.
+
+Davies, E., et al (1976). Brain choline acetyltransferase activity in dementia. The Lancet, 307, 282–284.
+
+Davies, E., & Squire, L. R. (1983). Acetylcholine density in the brains of patients with Alzheimer’s disease. Journal of Histochemistry, 7, 651–656.
+
+Forsyth, A. R., et al (1983). Guidelines for the diagnosis and management of dementia. British Society for Neuropsychology.
+
+Gray, J. A., et al (1987). A computerized test of discriminative sensitivity and reaction time. Journal of Clinical Neuroscience, 4, 25–30.
+
+Jhaveri, A. S., et al (1987). Effects of nicotine on cognitive performance in healthy elderly volunteers. Psychopharmacology, 90, 361–365.
+
+Kertesz, A. (1988). The Clock Drawing Test: A guide to neuropsychiatric assessment. East Norwalk, CT: Appleton & Lange.
+
+Rawson, J. (1983). National

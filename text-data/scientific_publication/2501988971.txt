@@ -1,0 +1,47 @@
+8139   0020  170
+MUTAT RES-SENT 95
+© ELSEVIER SCIENCE BV NE
+
+Ann's 7/387
+
+ELSEVIER
+
+Mutation Research 342 (1995) 179–190
+
+A comparison of the mutagenicity of mainstream cigarette smoke
+condensates from a representative sample of the U.S. cigarette
+market with a Kentucky reference cigarette (KIR4F*)
+
+Rhonda H. Steele *, Victoria M. Payne b, Cynthia W. Fulip b, D. Cooper Rees b,
+Chin K. Lee b, David J. Dollitle b
+
+* R.J. Reynolds Tobacco Company, Bowman Gray Technical Center, P.O. Box 28399, Winston-Salem, NC 27105-1487, USA
+b R.J. Reynolds Tobacco Company, Bowman Gray Technical Center, P.O. Box 28399, Winston-Salem, NC 27105-2055, USA
+
+Received 13 July 1994; revised 9 November 1994; accepted 5 December 1994
+
+Abstract
+
+The Salmonella mutagenicity assay has been used to investigate the mutagenicity of cigarette smoke and cigarette
+smoke condensates. A Kentucky reference cigarette (KIR4F) was selected as a representative of low-tar, low-nicotine
+cigarettes sold in the U.S. and to serve as a standard for comparative studies on the chemistry and
+biological activities of cigarette smoke components. The objective of this study was to determine if the
+mutagenicity of mainstream smoke condensate from the KIR4F, as measured by the Salmonella mutagenicity assay,
+was representative of the mutagenicity observed in a representative sample of U.S. cigarettes. Smoke was collected
+suffered from the KIR4F and 17 brand types (representing roughly 70% of the total U.S. cigarette market)
+using a whole-smoke machine (AHSTMA method, 25 ± 2.5 cigarettes/min, 38 mm Hg pressure, 75 °C, 2 L/min,
+250 µg/plate). Revertants/mg condensate were determined by calculating the slopes of the dose-response curves
+using linear regression models. Condensate/cigarette/variant was determined by multiplying the
+revertants/mg condensate by the mg condensate/cigarette. Significant differences (p < 0.05)
+between the mean mutagenicity of U.S. market and KIR4F mainstream smoke condensates in terms of revertants/mg
+condensate were observed for several brands. The mutagenicity of the KIR4F was significantly lower than that of
+KIR4F’s 1.5 times higher tar yield. This suggests that the mutagenic potential of cigarette smoke is not directly
+related to tar yield.
+
+Introduction
+
+Cigarette smoking is a major cause of preventable disease and approximately 380,000 deaths per year in the
+United States (U.S. Department of Health and Human Services, 1992). Cigarette smoke contains more than 4,000
+chemical compounds, many of which are known or suspected carcinogens (Baker et al., 1986; Hoffmann, 1973).
+
+250/8557

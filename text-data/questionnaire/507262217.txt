@@ -1,0 +1,63 @@
+PROJECT # 140-1352
+PROJECT # 140-1354
+PROJECT # 140-1355
+PROJECT # 140-1356
+
+RESPONDENT'S NAME:
+
+MAC/dbl REVISED 12/11/87 3:00 pm
+
+State Code Country Code Area. Regio Telephone Number Interviewer Number
+Code
+
+Date: am Time Ended: pm Time Started: pm No. Of Min.: am
+
+1) (ASK TO SPEAK TO RESPONDENT NAMED AT TOP OF SCREEN. IF NOT AVAILABLE, ENTER CODE 2
+AND SCHEDULE CALLBACK. IF NO SUCH PERSON OR NO LONGER IN HOUSEHOLD, CONTINUE WITH
+INTRODUCTION.)
+
+Hello, I’m “01” with  an independent research
+company. We are conducting a survey and would like to include you or someone in
+your household among the people we are talking to.
+
+Respondent Available...................1
+Respondent Not Available...............2
+(SCHEDULE CALLBACK)...................2
+No Eligible Respondent.................3
+All Respondents Screened (ITALY & TERMINATE)......4
+
+[0] 01 02 03 04 05 06 07 08 09
+10 11 12 13 14 15 16 17 18 19
+20 21 22 23 24 25 26 27 28 29
+
+2) TODAY/TONIGHT I need to speak to people in various age groups. Please tell me:
+Are you under the years of age 25-34, 35-49, or 50 or older?
+
+(ENTER APPROPRIATE CODE FOR SEX & AGE BELOW)
+
+wpm 18-24 ...................1
+Male 25-34...................2
+Female 25-34..................3
+Male 35-49....................4
+Female 35-49..................5
+Female 50 or older...............6
+Retired Age (ITALY)..............7
+Sex/Age Unknown.................8
+
+[0] 01 02 03 04 05 06 07 08 09
+10 11 12 13 14 15 16 17 18 19
+20 21 22 23 24 25 26 27 28 29
+
+3) (IF RESPONDENT NOT QUALIFIED, ASK: OTHERWISE SKIP TO Q.2.)
+
+Is this your [own] or a [rented] home?
+Yes [01] No [02] Don’t Know [03] Refused [04] ITALY [05]
+
+4)  Do you have any children under the age of 18 living with you?
+Yes [01] No [02] Don't Know [03] Refused [04] ITALY [05]
+
+[0] 01 02 03 04 05 06 07 08 09
+10 11 12 13 14 15 16 17 18 19
+20 21 22 23 24 25 26 27 28 29
+
+5076 221T

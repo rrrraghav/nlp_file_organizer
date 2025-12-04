@@ -1,0 +1,39 @@
+6005
+
+Both Cell Proliferation and Apoptosis Increase with Lesion Grade in Cervical
+Neoplasia but Do Not Correlate with Human Papillomavirus Type*
+
+Recent molecular studies suggest that the expression of high-risk but
+not low-risk human papillomaviruses (HPV) counterparts E6 and E7 can
+significantly alter normal cell cycle regulation. The alterations in cell cycle
+regulation may be reflected by changes in the balance between cell growth
+and cell loss through apoptosis in cell populations expressing E6 and/or
+E7. We evaluated the kinetic indices of cell proliferation and apoptosis in
+a series of cervical lesions ranging from low-grade dysplasia to high-grade
+neoplasia, with HPV-associated lesions. The cell proliferation index, as
+determined by detection of Ki-67, increased with increasing lesion grade. Apoptotic cells were identified with terminal
+deoxyribonucleotidyl transferase labeling of the 3'-hydroxyl ends of DNA
+nucleotides. Few apoptotic cells were seen in low-grade lesions; only
+occasional apoptotic cells were seen in high-grade lesions. However, there
+was a few but measurable apoptotic indices in the higher grade lesions,
+which correlated with lesion grade. There was no significant difference in
+the proliferative and apoptotic indices in similar grade lesions when
+stratified into HPV-infected high-risk HPV types. These findings suggest that
+apoptosis in HPV-infected lesions correlates with proliferative activity
+rather than HPV type.
+
+Isaacson, C., Kessis, T.D., Hedrick, L., and Cho, K.R.
+
+Cancer Research 56:669-674, February 15, 1996.
+
+Other support: Steer Research Fund for Women Physicians, Richard W. Telinde
+endowment and the National Institutes of Health.
+
+From the Department of Pathology, The Johns Hopkins University School of Medicine,
+Baltimore, MD.
+
+PUBLICATIONS
+
+
+
+0053658

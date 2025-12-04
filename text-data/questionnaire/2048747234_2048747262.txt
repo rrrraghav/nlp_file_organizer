@@ -1,0 +1,67 @@
+MARKETING INFORMATION SYSTEMS, INC.
+100 Van Zandt Avenue
+Englewood Cliffs, New Jersey 07632
+1-800-631-1623/201-947-6900
+
+#837185
+May, 1985
+
+PL 25’S PRO AD/PACK TEST
+(Screeners)
+
+Hello, my name is ______________ from Marketing Information Systems.
+Today we're talking to men and women 18 through 54 years of age about their
+opinions on certain products and I’d like to ask you a few questions.
+
+1. First of all, are you between the ages of 18 and 54? (CARD 7 - COL. 8(1))
+   Yes… ( )  No… ( )
+                      (THANK AND TERMINATE)
+
+2. And are you between 18 and 34 years of age, or 35 and 54 years of age?
+   18 – 34…. 7( -1 ) (CHECK QUOTAS)
+   35 – 54…. )-2 ( )
+
+3. (OBSERVE AND RECORD):
+   Male… 8( -1 ) (CHECK QUOTAS)
+   Female… )-2 ( )
+
+4. Next, I’m going to read you a list of products. For each one I read, please
+tell me if you yourself use the product. The first one is… (READ ENTIRE
+LIST ONE AT A TIME AND RECORD).
+                                 Yes    No
+   Antacids…. 9( -1 ) ( )
+   Aspirin…. )-2 ( )
+   Beer……. )-3 ( )
+   Breakfast cereals… )-4 ( )
+   Cigarettes….. )-5 ( ) THANK AND TERMINATE
+   Diet Soda… )-6 ( )
+   Frozen vegetables… )-7 ( )
+
+WHEN ASKING Q. 5 AND/OR 7, PROBE FOR EXACT OCCUPATION. IF JOURNALISM,
+PUBLIC RELATIONS, ADVERTISING OR MARKETING ANSWERED IN EITHER QUESTION,
+THANK RESPONDENT AND TERMINATE.
+
+5. Since we’re talking to people all across the country, we're interested in
+talking to a cross-section of people in different occupations. What is your
+occupation?
+            (WRITE IN FULL TITLE)
+
+IF RESPONDENT GIVES A GENERAL OCCUPATION SUCH AS SALES OR MANUFACTURING,
+ASK: What products are involved in your occupation? (TERMINATE IF RE-
+SPONDENT ANSWERS “CIGARETTES”)
+             (WRITE IN PRODUCTS)
+
+6. Are you married?
+   Yes… 10( -1 ) ( )  No… )-2 ( )
+
+7. What is the occupation of your spouse?
+            (SKIP TO Q. 8)
+
+8. AT 20% CUTBACK, ASK RESPONDENT’S SOCIAL SECURITY # (JOURNAL).
+IF REFUSAL, THANK RESPONDENT AND TERMINATE AS JOURNAL.
+(CARD 19 - COL. 3(1))
+201-947-6900
+
+
+
+201847034

@@ -1,0 +1,122 @@
+Phytochemistry, Vol. 31, No. 12, pp. 4075-4079, 1992
+Printed in Great Britain.
+
+0031-9422/92 $5.00+0.00
+© 1992 Pergamon Press Ltd
+
+PURIFICATION OF N-METHYLPUTRESCINE OXIDASE
+FROM NICOTIANA RUSTICA
+
+SUSAN C. HASLAM and THOMAS W. YOUNG
+School of Biochemistry, The University of Birmingham, Edgbaston, Birmingham B15 2TT, U.K.
+
+[Received in revised form 30 April 1992]
+
+Key Word Index: Nicotiana rustica; Solanaceae; tobacco; N-methylputrescine oxidase; enzyme purification.
+
+Abstract—The yield of N-methylputrescine oxidase extracted from Nicotiana rustica roots grown in organ culture was
+improved by supplementing White’s medium with 1·5 mM (NH₄)₂SO₄. The enzyme was purified from these roots by
+salt fractionation, anion exchange, affinity and hydrophobic interaction chromatography. The purified protein had
+V, 54000 by SDS-PAGE.
+
+INTRODUCTION
+
+The pyroline ring of nicotinine is produced from putrescine by methylation and oxidation to N-methyl-
+1'-pyrrolinium salt [1]. The enzyme which oxidizes N-
+methylputrescine was first described by Mizusaki et al. [2]
+and has been purified from various sources [3, 4]. When the
+enzyme had not been purified to homogeneity when [3]
+described a partial purification procedure that is similar to
+the purification procedure for roots of N. rustica.
+
+Enzyme activity in White’s medium:
+White's medium + (NH₄)₂SO₄
+
+amount of extracted enzyme increased with the concentration
+of the increased yields of root tissue. Even at a high rate
+(1·5 mM), the specific activity of the enzyme was not
+increased. Therefore, an inhibitory level of substrate on enzyme
+activity in root tissue. The observed stimulation of
+growth by N-methylputrescine might be explained by an
+amine oxidation catalyzed by an amine oxidase:
+
+MENHCH₂CN + H₂O → MENHCH₂COOH + NH₃
+
+N-methylputrescine, C₅H₁₃N₂, is a urea-type compound
+with a methyl group substituted on one of the amino
+groups. N-methylputrescine can be produced from
+putrescine by S-adenosylmethionine: putrescine
+methyltransferase [5]. The enzyme N-methylputrescine
+oxidase catalyzes the oxidation of N-methylputrescine to
+N-methylpyrrolinium, which is then further oxidized to
+nicotinine.
+
+MATERIALS AND METHODS
+
+Plant culture—Nicotiana rustica L. was cultured in
+vitro as described by [6]. Roots were grown in White’s
+medium supplemented with 1·5 mM (NH₄)₂SO₄.
+
+Enzyme extraction—Roots were harvested after 4 weeks
+of growth and frozen in liquid nitrogen. The frozen tissue
+was ground to a fine powder in the presence of ice-cold
+buffer A (50 mM Tris–HCl, pH 7·8, 1 mM DTT). The
+homogenate was centrifuged at 10000 g for 20 min and
+the supernatant was used immediately or stored at -20°C.
+
+Protein determination—Protein concentrations were
+determined by the Bradford method [7] using bovine
+serum albumin as a standard.
+
+
+
+1991 J. exp. Bot. 42,
+91; Plant Soil 136, 59.
+J. Ireland, R. J. (1988)
+
+Plant Sci. 151, 209
+and Joy, K. W. (1983).
+
+8.
+J. S. and Mifflin, B. J.
+hem. Physiol. Pflanzen.
+
+J. Sci. Food Agric. 30,
+
+Langlois, J. and
+46, 411.
+J. exp. Bot. 33, 302.
+S. and Murray, D.
+
+180; Plant Physiol. 66,
+
+(1985) Plant PhysioL
+
+13.
+Mowat, L. and
+333.
+trech. Biochem. Biophys.
+
+72; J. exp. Bot. 23,
+841. (1985).
+
+262; J. gen. Physiol.
+303 et al. (1985).
+J. Biol. Chem. 260,
+11721.
+
+271; Phytochemistry
+281. (1984).
+and Wray, A. C. (1983).
+J. exp. Bot. 34, 581.
+
+and Haslam, S. C.
+609. (1987).
+Anal. Biochem. 162,
+495.
+
+and Young, T. W.
+4076
+
+
+

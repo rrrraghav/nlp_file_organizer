@@ -1,0 +1,37 @@
+Proc. Natl. Acad. Sci. USA
+Vol. 87, pp. 9590–9594, December 1990
+Biochemistry
+
+A fat-specific enhancer is the primary determinant of gene expression for adipocyte P2 in vivo
+
+(transgenic/lipid-binding protein)
+
+SUSAN R. ROSS*, REED A. GRAVEST*, AMY GREENSTEIN†, KENNETH A. PLATT‡, HAI-LUN SHYU§,
+BARRY MELLOWITZ¶, and BRUCE M. SHIGELMAN†
+
+*Department of Biochemistry, University of Illinois, Chicago, IL 60612; †Molecular Pharmacology, Harvard Medical School, Boston, MA 02115; ‡Dana-Farber Cancer Institute and the Department of Biological Chemistry and
+Molecular Biology, Harvard Medical School, Boston, MA 02115; §Department of Biochemistry, University of Iowa, Iowa City, IA 52242; ¶Division of
+
+ABSTRACT The murine gene for adipocyte P2 encodes an adipocyte-specific member of the family of intracellular lipid-binding proteins. A region upstream from the start of transcription of this gene has been found to contain binding sites for several transcription factors, including C/EBP (CCAAT/enhancer binding protein) and several other sequence elements found in other adipocyte gene promoters. We have shown that a 5.4 kb DNA fragment containing sequences that were responsible for the high level of transcription of the P2 gene for adipocyte P2 in vivo. We made a series of transgenic mice containing this 5.4 kb fragment (247 bp, 1.7 kilobases (kb), and 3.1 kb) +0.6 kb flanking sequence linked to the bacterial gene luciferase under control of a synthetic promoter AP-1/ activator (taking into 108 bp) sequencing including C/EBP and AP-1 activity on position 5 of luc genes were expressed (with and without adipocyte differentiation). The luciferase mRNA levels in adipocytes in the adipose tissue of transgenic mice were elevated 234-fold compared to control mice. A 5.4 kb upstream flanking region between -8.9 kilobases and -0.5 kilobases from the start of transcription is responsible for this elevation of luciferase activity. A 1.7 kb fragment within this 5.4 kb region is sufficient to direct high levels of expression in adipocytes. This 1.7 kb fragment contains two direct repeats for C/EBP and one AP-1 binding site. The 1.7 kb fragment was shown to be necessary for the adipocyte specificity of P2 gene expression. A 247 bp sequence within this 1.7 kb fragment is sufficient to mediate high levels of transcription in adipocytes. This sequence contains as few as 168 base pairs (bp) upstream from the transcription start site have been shown to be expressed in a differentiation-dependent fashion, and therefore, considerable attention has been focused on putative regulatory sequences within this promoter. Several short DNA sequences that are common to genes expressed in fat cells, termed “fat-specific elements” have been noted in fat cells and fat-specific gene promoters. The 247 bp sequence is the first identified binding site for a co-fertilizing protein complex (7). This site, now recognized as an AP-1 activator protein (8), has been found to be present in several other promoter regions in culture adipocytes (9). Upstream of the AP-1 site is a consensus C/EBP binding site (9). The element C/EBP can have inducible properties and is of particular importance because it binds to sequences that are expressed at high levels in cultured adipocytes and is induced upon adipocyte differentiation (9, 10). Since C/EBP can bind to sequences in cell types other than adipocytes, the specificity of P2 gene expression requires additional elements.
+
+To determine the region responsible for adipocyte-specific expression of the P2 gene, we constructed a series of transgenic mice containing various fragments of the upstream flanking region. We report here that a 5.4 kb fragment located between -8.9 kb and -0.5 kb from the start of transcription is sufficient to direct high levels of luciferase activity in adipocytes. This 5.4 kb fragment contains two C/EBP binding sites and one AP-1 binding site.
+
+MATERIALS AND METHODS
+
+Transgenic Mice—The construction of transgenic mice has been described (6). The genomic DNA was isolated from mouse embryonic stem cells, digested with BamHI, and the fragments were purified. A 5.4 kb fragment containing sequences between -8.9 kb and -0.5 kb from the start of transcription of the P2 gene was cloned into the plasmid pLuc7 (DuPont) to create a series of transgenic mice.
+
+Adipocyte Differentiation—Primary cultures of mouse adipocytes were prepared as described (9). The cells were maintained in Dulbecco’s modified Eagle’s medium supplemented with 10% fetal bovine serum, 10 mM glucose, and 10 μg/ml insulin.
+
+Luciferase Assay—The luciferase activity was measured by a luminometer (DuPont) using the Luciferase Reporter System (DuPont). The protein content of each sample was determined by the Bradford method (Bio-Rad). The luciferase activity was normalized to the protein content.
+
+RESULTS
+
+A 5.4 kb Fragment Directs High Levels of Luciferase Activity in Adipocytes—To identify the region responsible for adipocyte-specific expression of the P2 gene, we constructed a series of transgenic mice containing various fragments of the upstream flanking region. We found that a 5.4 kb fragment located between -8.9 kb and -0.5 kb from the start of transcription was sufficient to direct high levels of luciferase activity in adipocytes. The luciferase mRNA levels in adipocytes in the adipose tissue of transgenic mice were elevated 234-fold compared to control mice (Fig. 1).
+
+The 5.4 kb Fragment Contains Two C/EBP Binding Sites and One AP-1 Binding Site—The 5.4 kb fragment contains two direct repeats for C/EBP and one AP-1 binding site (Fig. 2). The 247 bp sequence within this 5.4 kb fragment is sufficient to mediate high levels of transcription in adipocytes. This sequence contains as few as 168 base pairs upstream from the transcription start site.
+
+DISCUSSION
+
+The results demonstrate that a 5.4 kb fragment located between -8.9 kb and -0.5 kb from the start of transcription is sufficient to direct high levels of luciferase activity in adipocytes. This fragment contains two C/EBP binding sites and one AP-1 binding site. The 247 bp sequence within this 5.4 kb fragment is sufficient to mediate high levels of transcription in adipocytes.
+
+The identification of the fat-specific elements in the P2 gene promoter provides a basis for understanding the regulation of adipocyte differentiation.

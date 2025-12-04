@@ -1,0 +1,53 @@
+Prof. Dr. Michael W. Linscheid, Humboldt Universität zu Berlin, Institut für Chemie
+Skizze zum Projekt: Nachweis von StyroloidDNA Addukten in Lebergewebe
+
+Seite: 1
+
+Ziel der Arbeiten
+
+Quantitativ von Styroloidaddukten in DNA aus Rattenlebergewebe als Modell
+Nacheis von Styroloidaddukten in DNA aus Rattenlebergewebe als Modell
+Quantitative Bestimmung der Reaktionsprodukte mittels mikro-HPLC-ICPMS
+Strukturaufklärung der Produkte mit nano-HPLC-ESI-MS und CZE-ESI-MS
+
+Voraussetzungen
+
+Die apparative Ausstattung zur Trennung und zum massenspektrometrischen Nachweis bzw. zur Strukturaufklärung von extrem kleinen Mengen der Addukte sind im Institut für Chemie (AG Strukturanalytik) der Humboldt-Universität zu Berlin vorhanden; zusätzlich auch Arbeiten im Institut für Spektrochemie und Angewandte Spektroskopie (ISAS) Dortmund vorgesehen.
+Für die chromatographische Trennung und den Nachweis mit Massenspektrometrie stehen zur Verfügung:
+
+MikroHPLC Pumpe [Fluxit] mit [Splitter JLC Packings] für Flüüsse im Nano-Bereich
+MikroHPLC Pumpe Ultimate mit NanoZell [JLC Packings]
+ESI-MS³ IonTrap LCQ [Thermoquest]
+ESI-MS [Thermoquest]
+
+(im Laufe des Jahres 2000 wird noch ein hochauflösendes FTMS hinzu kommen.
+Apparative Ausstattung zur Probenvorbereitung ist vorhanden; gegebenenfalls müssen wir noch homogenisatoren und DNA Extraktionskits beschaffen.
+
+In meiner Arbeitsgruppe wird in vier Dissertationen an DNA Addukten gearbeitet; eine davon findet in Kooperation mit dem ISAS in Dortmund statt. Eine weitere Wissenschaftler(innen)-stelle ist für diesen Arbeitsbereich ausgeschrieben. Kooperationen mit Instituten der Charité und der Technischen Universität sind im Aufbau.
+
+Eigene Vorarbeiten
+
+Arbeiten zur triko-HPLC-Trennung, zur elektrophoretischen Trennung und zum Nachweis von chemisch modifizierten DNA Komponenten sind in gang und Erfahrungen aus mehreren Projekten, die sich speziell auch mit Styroloidaddukten befassten, liegen vor (siehe angefügte Referenzliste).
+
+Arbeitsplan für den Zeitraum eines Jahres
+
+Im ersten Schritt werden wir Styrol in Leberhomogenaten metabolisieren und DNA Addukte erzeugen, die wir uns unter standardisierten Verfahren nachweisen werden. Daran anschließend sollen die in-situ addukte mit Styroloid in Rattenleber angewiesen werden. Die kritierien müssen sich
+einer Linie auf eine schnelle und rationale Probenbearbeitung konzentrieren.  Dazu ist es wichtig, dass die Addukte ist von Bedeutung und muss untersucht werden. Weiterhin wollen wir kinetik der Anreicherung des Produkts in Bezug zu Zelltyp und den mit ihm verbundenen Stoffwechselprozessen finden.
+
+Die Ergebnisse sollen in einer Publikation zusammengefasst und der Inhalt in einem Kolloquium vorgestellt werden.
+
+Zeitplan
+
+Monat 1-3: Optimierung der Reaktionsbedingungen für die Styroloid-DNA Adduktbildung
+Monat 4-6: Entwicklung eines Nachweismethoden für DNA Addukte im Leberhomogenat
+Monat 7-9: Untersuchung der kinetik der Adduktbildung in verschiedenen Zelltypen
+Monat 10-12: Auswertung der Ergebnisse und Verfassen einer Publikation
+
+Geplante Publikationen
+
+Eine Publikation über die Nachweis von StyroloidDNA Addukten in Lebergewebe ist geplant.
+
+Zusätzliche Bemerkungen
+
+Für die Durchführung des Projekts sind zusätzliche Mittel für Verbrauchsmaterialien, Reagenzien und wissenschaftliches Personal erforderlich.
+28052605

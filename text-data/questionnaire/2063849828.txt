@@ -1,0 +1,37 @@
+Name:
+
+Date:
+
+Cigarette number:
+
+Evaluations
+
+Please circle the number on each scale that indicates your rating for the cigarette that you have just smoked. Try to rate this cigarette strictly on its own taste characteristics.
+
+Dislike Extremely Like Extremely
+
+Liking 1 2 3 4 5 6 7
+
+Very Low Very High
+Strength 1 2 3 4 5 6 7
+
+Very Low Very High
+Mouthcoating 1 2 3 4 5 6 7
+
+Very Low Very High
+Off-taste 1 2 3 4 5 6 7
+Describe:
+
+Very Low Very High
+Smoke body/
+Mouth fullness 1 2 3 4 5 6 7
+
+Very Low Very High
+Harshness 1 2 3 4 5 6 7
+
+Very Difficult Very Easy
+Ease of draw 1 2 3 4 5 6 7
+
+Any other notable qualities or descriptors?
+
+2006-09-0828

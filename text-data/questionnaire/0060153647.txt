@@ -1,0 +1,82 @@
+CROSSLEY, S-B SURVEYS, INC.
+407 Park Avenue
+New York 22, New York
+
+#13382
+February, 1964
+Cluster Frame #
+
+Respondent’s Name
+Interviewer's Name
+
+CIGARETTE STUDY
+"SMOKER" QUESTIONNAIRE
+
+(SECTION "A" CONTINUED)
+
+1. CURRENT SMOKING BEHAVIOR
+
+3. About how long have you been smoking
+cigarettes on a regular basis?
+
+One month or less -7-1
+Over one month to 3 months -2
+Over 3 months to 6 months -3
+Over 6 months to 1 year -4
+
+Over 1 year to 2 years -5
+Over 2 years to 3 years -6
+Over 3 years to 5 years -7
+Over 5 years to 10 years -8
+Over 10 years . -9
+
+4. On the average, about how many cigarettes
+do you smoke each day?
+
+10 cigarettes or less -8-1
+Over 10 to 15 cigarettes -2
+Twenty cigarettes (one pack) -3
+Over 20 to 30 cigarettes -4
+
+Over 30 to 39 cigarettes -5
+Forty cigarettes (two packs) -6
+Over forty cigarettes -7
+
+5a. Is this more, about the same, or less
+than the number of cigarettes you were
+smoking daily at this time last year?
+
+More -9
+Same X
+
+b. Why are you smoking more/less cigarettes? (PROBE)
+
+SKIP TO QUESTION 6a
+
+CURRENT BRAND
+
+6a. What brand of cigarettes are you smoking at present . . .
+that is, the brand you have on hand?
+
+[BRAND]
+
+b. Is that a regular or king size cigarette?
+
+Regular 15-1
+King -2
+
+c. Is that a filter tip or
+non-filter tip cigarette?
+
+Filter tip -3
+Non-filter tip -4
+
+d. Is that a mentholated or
+non-mentholated cigarette?
+
+Mentholated -5
+Non-mentholated
+
+
+
+When you’ve seen (current Brand) at present, purchased from this Brand

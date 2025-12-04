@@ -1,0 +1,62 @@
+TOXICOLOGY AND APPLIED PHARMACOLOGY 64, 405–414 (1983)
+
+Studies on the Deposition and Distribution of Catechol from Whole
+Cigarette Smoke in BCIF1/Cum Mice¹
+
+K. K. HWANG,² O. SONKO, D. R. DANSIE, R. E. KOURI, and C. J. HENRY
+
+Department of Experimental Oncology, Microbiological Associates, 5221 River Road,
+Bethesda, Maryland 20816
+
+Received November 12, 1981; accepted March 18, 1982
+
+Studies on the Deposition and Distribution of Catechol from Whole Smoke in
+BCIF1/Cum Mice. HWANG, K. K., SONKO, O., DANSIE, D. R., KOURI, R. E., and HENRY,
+C. J. (1983). Toxicol. Appl. Pharmacol. 64, 405–414. Tritiated catechol has been used to
+follow the pharmacokinetics and metabolism of inhaled chemicals in cigarette smoke in
+BCIF1/Cum mice. The presence of [¹⁴C]catechol in the whole was verified by slice gel
+electrophoresis and high-performance liquid chromatography, and its quantitation by gas
+spectrometry. Mice were exposed to 10% (v/v) ¹⁴C cigarette smoke on the Walton Horizontal
+Smoking Machine under conditions of 35 ml/min volume, 2 sec/puff, 10 puffs/cigarette.
+The deposition and distribution of inhaled catechol was determined in all internal
+tissues, urine, and feces. Data showed that clearance was occurring during the 10-min smoke
+exposure period. Approximately 94% of the radioactivity was found in the lung,
+blood, with 10% found in the lung, and approximately 10% in the respiratory tract. Over 91%
+of the total dose was recovered in the urine and feces. We conclude that catechol in smoke is
+rapidly absorbed, distributed, and excreted from mice exposed to whole cigarette smoke.
+
+Catechol, 1,2-dihydroxybenzene, is present
+in tobacco leaf (Matsubina et al., 1979)
+and is the most abundant phenol in tobacco
+smoke (Wold et al., 1966). The concentra-
+tion of catechol in main stream smoke ranges
+from 0.08 to 0.28 mg/cigarette (Brunne-
+mann et al., 1978; Gfroerer et al., 1980).
+Catechol is also formed as a result of the
+degradation of dopamine and norepinephrine
+during cigarette smoking (Rohrbaugh &
+Jarvis, 1965). The effect of catechol in
+cigarette smoke on the health of man and
+animals is not well known. However, it has
+been reported that catechol is a potent
+inducer of sister chromatid exchange and
+delays cell division in cultured human
+lymphocytes.
+
+It has been suggested that reduction
+of catechol to smoke might be ex-
+ploited in cigarette smoke containment with
+lead to a more attractive end product for
+man. To investigate this, we have used ¹⁴C
+catechol to trace the fate of inhaled cata-
+chol and its metabolites in BCIF1/Cum mice,
+an animal model that exhibits spontaneous
+development of lung adenocarcinomas (Henry
+et al., 1976).
+
+MATERIALS AND METHODS
+
+Animals—Male BCIF1/Cum mice, aged 8–10 weeks, were obtained from Jackson Laboratory.
+
+
+

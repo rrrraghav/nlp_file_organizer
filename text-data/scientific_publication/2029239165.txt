@@ -1,0 +1,48 @@
+DEC 16 '94
+051/549H PHILIP MORRIS R&D 17
+
+P. 5
+
+Nicotine: Cotinine Levels in Blood During Cessation of Smoking
+
+Philip Zenderberg, Jerome H. Jaffe, Maureen Kangler, Morton D. Levitt
+John J. Langan and Helen Van Vunakis
+
+THE ROLE OF NICOTINE as a primary reinforcer and of nicotine withdrawal as a factor in maintaining cigarette smoking behavior has been recently reviewed by Jarvis.¹ In this paper, we present an exploration of the relationship between the amount of nicotine in cigarettes smoked per day, serum cotinine levels, and difficulty in modifying the smoking habit.
+
+Cotinine is the major nicotine metabolite. In contrast to the short half-life of nicotine itself, cotinine has a half-life in blood of approximately 10 hr versus 1.5 hr for nicotine.² Furthermore, cotinine is usually found in higher concentrations than that of nicotine.3 and cotinine levels remain fairly constant in individuals who smoke regularly.4 Thus, serum cotinine according to this concept would be a better index of the degree of chronic nicotinism than measurement of the parent alkaloid. Cotinine is approximately 50 times less toxic than nicotine in rats.⁵
+
+In this study, participants in a smoking cessation program were asked to rate their level of difficulty in stopping cigarette smoking. They also provided information on the number and type of cigarettes they had been smoking. We then examined the correlations between this information provided by the participants, their serum cotinine levels, and serum cotinine levels taken at several points during the course of participation in the cessation program. In addition, we attempted to ascertain activity of the sympathetic system by measuring plasma dopamine-beta-hydroxylase (DBH).
+
+MATERIALS AND METHODS
+
+Subjects
+
+The participants in this study were members of a smoking cessation group conducted at the New York State Psychiatric Institute in collaboration with “Smokenders,” a proprietary organization specializing in behavior modification.
+
+From: The New York State Psychiatric Institute, New York, N.Y., and the Department of Bi-
+ochemistry, Roosevelt University, St. Louis, Missouri.
+
+*Philip Zenderberg, M.D., Jerome H. Jaffe, Research Fellow; Maureen Kangler, B.A.; Morton D. Levitt,
+Ph.D.; John J. Langan, M.D.; Helen Van Vunakis, Secretary. The New York State Psychiatric In-
+stitute Center for Studies in Behavior and Health, 1051 Riverside Drive, New York, N.Y. 10032.
+
+Supported by a grant from the Tobacco Scientific Research Foundation. Received for publication
+September 29, 1994; accepted December 6, 1994.
+
+Address requests for reprints to Dr. Jerome H. Jaffe, The New York State Psychiatric Institute
+Center for Studies in Behavior and Health, 1051 Riverside Drive, New York, N.Y. 10032.
+
+METHODS
+
+Serum cotinine levels were measured by high-performance liquid chromatography (HPLC) with electrochemical detection.6 Serum samples were obtained from each participant at the time of entry into the cessation program and at weekly intervals thereafter for a period of 8 weeks. The amount of nicotine in cigarettes was estimated based on information provided by the participants regarding the number and type of cigarettes smoked per day.
+
+Statistical analyses were performed using Pearson correlation coefficients to examine the relationships between serum cotinine levels, difficulty in stopping smoking, and cigarette consumption.
+
+RESULTS
+
+Table 1 summarizes the characteristics of the study population. The mean age of the participants was 39 years (SD = 8.6). Seventy-five percent were male. Participants had smoked an average of 24 cigarettes per day (SD = 10) prior to entering the cessation program.
+
+Twenty-Nine participants (58%) reported difficulty in stopping smoking, as indicated by a rating of 7 or greater on a scale of 1 to 10, with 10 representing extreme difficulty. These individuals had significantly higher serum cotinine levels at entry into the program than did those who rated their difficulty as 6 or less (349 ± 82 vs 215 ± 58 ng/ml; p < .001).
+
+2092306165

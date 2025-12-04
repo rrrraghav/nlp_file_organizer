@@ -1,0 +1,48 @@
+548 22 (N) 8 May 92
+(in lenien conducting the foliswion)
+pp 10-16
+
+Investigations of Indoor Air Quality
+at Four Large Office Buildings
+
+Guy B. Oldaker III, Ph.D.; W. David Taylor, CIII, CSP; Ken R. Parrish, BSME, P.E.
+
+ABSTRACT INTRODUCTION
+
+Investigations were performed in four large office Over the past decade there has been an increasing
+buildings to assess the relationships among ventilation, awareness of the role that the indoor environment can
+smoking practices, and concentrations of indoor air play in determining total exposure to contami-
+quality (IAQ). Two types of heating, ventilating and air-nants. A considerable amount of research has been
+conditioning (HVAC) systems were examined: constant air done to assess exposures in various environmen-
+volume (CAV) and variable air volume (VAV). Two types tal settings, offices, restaurants, and aircraft cabins,
+of smoking policy were examined: unrestricted smoking such as hot. Research also has been done to assess
+and restricted smoking to designated areas. The four exposure to specific classes of contaminants, such as
+buildings represented all combinations of these four vari- volatile organic compounds (VOCs). Part of our research
+ables. One of each of the four buildings was investigated, with program (Oldaker, 1990) has been directed at assessing
+HVAC systems were not in economizer mode, and with exposure in offices to environmental tobacco smoke
+minimal outside air. Inspections of the HVAC systems (ETS), which is defined as the diluted used mixture
+indicated that both unrestricted smoking and maintenance of sidestream smoke and exhaled mainstream smoke
+were unacceptable. Ventilation was measured by standard pro- which originates from burning tobacco [National Re-
+cedures based on velocity traverses. search Council, 1986].
+
+During the tests, all four systems provided ventilation Generally, the level of a contaminant in the indoor
+rates essentially conforming to ASHRAE standards (52 air is the result of interplay between the sources of the
+1983). Indoor concentrations of particulate matter con- contaminant and factors that remove the contami-
+taminant (TSP) were determined in outside and nant. Ventilation is one important factor, but it is the
+inside air streams using a model 140 TSP indicator. main removal factor. As used here, ventilation is the
+Indoor concentrations of formaldehyde (HCHO), per- process by which contaminated air is diluted and
+chloroethylene, benzene, toluene, xylene, trichloro- properly distributed and exhausted in order to process
+ethylene, and carbon monoxide (CO) were determined with minimize contamiants and to prevent pollution.[Vre
+gas chromatographs. Indoor concentrations of 1,2- di- American Society of Heating, Refrigerating and Air-
+chloroethane were measured using a gas chromatograph Conditioning Engineers, 1983]. This paper will dis-
+with electron capture detector (ECD). Carbon dioxide cuss the results of an investigation of indoor air qual-
+(CO2) concentrations were determined with nondisper- ity in four large office buildings. The buildings dif-
+sive infrared analyzers. Results indicated that ETS was fered in their heating, ventilating and air conditioning
+the predominant contaminant in offices where smoking (HVAC) systems and in the smoking policies in effect.
+was unrestricted. Formaldehyde concentrations were This investigation was performed as part of a larger
+generally low. The ventilation rates in the four buildings study of indoor air quality in various commercial set-
+were essentially the same, but the indoor air quality tings [Oldaker, 1990].
+varied considerably depending on smoking practices.
+
+
+

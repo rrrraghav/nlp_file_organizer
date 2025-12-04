@@ -1,0 +1,68 @@
+180-1262/9
+30() EXIT
+
+301) We are conducting interview on (DATE).
+
+30(] [IF MORE THAN ONE DAY SAT]:
+When would you most convenient for you?
+[ENTER CODE FOR DAY]
+
+[IF ONLY ONE DAY SAT]:
+Would you be able to attend on that day?
+[IF YES, ENTER CODE FOR DAY. IF NO, ENTER CODE 1]
+
+Day/Date...................1
+Day/Date...................2
+Day/Date...................3
+(DO NOT READ) Unable to
+attend any day day
+(CALL SUPERVISOR)...........0
+(TO BE COMPLETED)
+
+IF THERE IS NO AVAILABLE TIME FOR THIS RESPONDENT ENTER CODE 13 AND RESCHEDULE DAY.)
+
+30(] [IF MORE THAN ONE TIME SAT]:
+I have the following times available (READ LIST). When would you prefer? [ENTER
+CODE FOR TIME]
+
+[IF ONLY ONE TIME AVAILABLE, SAY:]
+I have just the one appointment time left for that day. Would you attend at (TIME)?
+[IF YES, ENTER CODE FOR TIME, IF NO ENTER CODE 1] AND RESCHEDULE DAY.
+
+(READ NO.)
+6-30()
+
+(DO NOT READ) No open time
+for this day...................13
+(DO NOT READ) Unable to
+attend at any time........14
+TO 6-30()...1
+
+30(] [IF CODE 1 IN 0.30, SAY:] I’m sorry, I don't have available time for that
+day. (READ TO 0.30 AND RESCHEDULE DAY.)
+
+30() The session will be held as (NOTE) in the (MEETING ROOM). If you need directions,
+please call me and they will help you. So that we can nail your confirmation
+letter, may I please verify your name and address?
+
+31() EXIT:
+31) And what is your name, please?
+32) Your street address
+33) Your city
+34) Your zip code
+
+30() And finally, when you arrive at the site you will be asked to show your drivers
+license as identification so please have that ready to allow with us.
+
+(IF RESPONDENT HAS QUESTIONS ABOUT TESTING OR DRIVER LICENSE, CONTINUE SCHEDULING
+CALL 800-427-3696)
+
+39) AND, YOUR PHONE NUMBER:
+
+Thank you for your time in completing this interview. We look forward to seeing you on
+(DATE) at (TIME). If you have any questions please don't hesitate to call us.
+If we didn’t cover it fully today, please have a nice day before me.
+
+39() [IF CODE 1 IN 30(), SAY:] Thank you for your time.
+
+5062 0276

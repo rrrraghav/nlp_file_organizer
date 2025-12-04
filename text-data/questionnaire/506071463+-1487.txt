@@ -1,0 +1,50 @@
+Belfomy-Carrigg, Inc. Job 40903
+2801 UNIVERSITY PARKWAY                                  October, 1983
+WINSTON-SALEM, NC 27105
+
+(1 - 4)
+PF ADVERTISING COMMUNICATIONS TEST
+SCREENER 5-1
+
+RESPONDENT'S NAME:
+ADDRESS: CITY: STATE:
+AREA CODE:( ) PHONE: DATE:
+
+(TALK TO MEN AND WOMEN)
+
+Hello. I’m from _______, an independent research
+company. We’re conducting a survey about various types of products and would like to include
+you among the people we are talking to.
+
+1a. Do you use breath mints regularly?
+Yes................................................. .
+No.................................................. .
+
+1b. Have you used either CLORTS or CERTS in the past week?
+Yes................................................. .
+No.................................................. .
+
+2a. Do you use mouthwash regularly?
+Yes................................................. .
+No.................................................. .
+
+2b. Have you used either SCOPE or SIGNAL mouthwash in the past week?
+Yes................................................. .
+No.................................................. .
+
+3. Into which of the following age groups does your age belong? Are you... (READ LIST)
+
+Under 18.......................................... TERMINATE, ERASE AND RE-USE
+
+18 - 24........................................... 6-1
+25 - 34........................................... -2
+35 - 49........................................... -1
+50+................................................. -4
+
+Refused............................................ TERMINATE, ERASE AND RE-USE
+
+50407 145
+
+
+
+(CONTINUE)

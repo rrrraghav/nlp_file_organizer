@@ -1,0 +1,53 @@
+Time Started:
+
+RAC 4279-R
+081781
+101-04
+
+1. First I am going to read you a list of activities. For each one, please
+tell me if you have done it within the past two years. That is, in 1980
+or 1981. Ready? The first one is:
+
+YES, HAVE NO, HAVE DON'T
+DONE NOT DONE KNOW
+
+a. Written a letter to a newspaper to give
+your opinion on an issue of the day. Do
+you remember doing this in 1980 or 1981? 1 2 3 06
+
+b. During the past year or two have you
+written a letter to your congressman,
+senator or other elected official to
+let him know how you feel about something? 1 2 3
+
+c. Have you voiced your opinion at a public
+meeting? 1 2 3
+
+d. Have you collected money for any cause? 1 2 3 08
+
+e. Have you had your name or picture in the
+newspaper in connection with anything
+except family life? 1 2 3
+
+f. During the past two years have you held
+office or been a leader in any church
+group, service organization, or any
+organized community activity? 1 2 3
+
+g. Do you presently own stock in two or more
+different companies or mutual funds? 1 2 3 11
+
+2. Do you read or look through a daily newspaper for at least ten minutes
+every day, or do you get your news in other ways?
+
+1 YES, READ DAILY NEWSPAPER
+2 NO, GET NEWS IN OTHER WAYS
+3 DON'T KNOW 12
+
+3. Have you read or looked through two or more issues of a newsmagazine like
+Time or Newsweek in the past month?
+
+1 YES
+2 NO 13
+
+002686290

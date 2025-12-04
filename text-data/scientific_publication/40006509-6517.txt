@@ -1,0 +1,32 @@
+Journal of Cerebral Blood Flow and Metabolism
+Vol. 16, No. 12: 1089-1103, 1996
+Published by Raven Press, Ltd., New York
+
+Polymorphonuclear Leukocyte Behavior in a Nonhuman
+Primate Focal Ischemia Model
+
+Julia A. Ember,* Gregory J. del Zoppo, *†Elsuro Mori,‡Winston S. Thomas,
+*Brian R. Copeland, and Tony E. Hugli
+
+Departments of Immunology *and *Experimental and Molecular Medicine, The Scripps Institute,
+‡Division of Vascular Surgery, Scripps Clinic Medical Group, La Jolla, California, U.S.A., and †Neurology Service,
+Kyoto Heart and Brain Center at Hinji, Kyoto 670, Japan
+
+Summary: There is increasing interest in the role of polymorphonuclear (PMN) leukocytes in the evolution of fo-
+cal cerebral ischemia. Surgical preparation models may offer limited interpretation of leukocyte reactivity and thereby make interpretation of leukocyte function follow-
+ing ischemic/reperfusion difficult. The effects of surgical preparation and experimental ischemia/reperfusion on granulocyte function were examined prospectively in baboons. Twenty-six adolescent male baboons underwent surgical preparation, of which 11 underwent middle cerebral artery occlusion/reperfusion. Anes-
+thetional animals served as nonsurgical controls. Peripheral blood leukocyte function was assessed before and af-
+ter the surgical preparation (i.e., the overall pro-
+cedure) and after implantation of the microelectrode array. The effects of middle cerebral artery occlu-
+sion/reperfusion on leukocyte behavior were evaluated. A significant increase from 119 to 419 PMN leukocytes/µl in the number of circulating PMNs was observed (p < 0.01). There was a significant de-
+crease in neutrophil chemotaxis (p < 0.05) and in neutrophil respiratory burst activity (p < 0.02). Surgical preparation had no effect (p > 0.4) on the ability of PMN leukocytes, isolated 64 hr after the implantation procedure, to display polarization, O2- production, or β-glucuronidase release when stimulated with human C5a. A moderate decrease in the chemotactic response to C5a was observed following surgical preparation.
+Post-thrombolysis middle cerebral artery occlusion and reperfusion resulted in a significant reduction in C5a-induced polarization. The preocclusion value of 89.2 ± 9.7 was compared with the postocclusion/reperfusion value at 36.8 ± 13.7 (p < 0.01). A moderate de-
+crease was observed in C5a-induced O2- and β-gluc-
+uronidase release, as well as a decrease in chemotac-
+tic response. In the nonhuman primate model, the revers-
+ible alterations in granulocyte function were seen following surgical preparation resolves within 4 days. In contrast, middle cerebral artery oc-
+clusion/reperfusion was associated with a more dramatic and significant reduction in multiple granulocyte functions, including polarization, O2 production, and β-glucuronidase release. Key Words: Baboon—Leukocytes—Ischemia—Reperfusion—Chemotaxis—Respiratory Burst
+
+Received July 18, 1995; accepted November 17, 1996.
+
+Address correspondence to Dr. Tony E. Hugli, The Scripps Institute, 10666 North Torrey Pines Boulevard, La Jolla, California 92037.

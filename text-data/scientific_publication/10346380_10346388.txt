@@ -1,0 +1,51 @@
+FILE LIBRARY
+
+Bactericidal and Opsonic Activity of IgG1 and IgG2 Anticapsular Antibodies
+to Haemophilus influenzae Type b
+
+Jacob Amir, Mitchell G. Scott, Norman Medoff,
+and Dan M. Granoff
+
+From the Department of Medical Investigation of Pediatrics, Children’s Hospital
+Medical Center, Boston, and the Division of Infectious Diseases,
+Department of Medicine, Washington University School of Medicine, St. Louis, Missouri
+
+Complement-mediated bactericidal and opsonic activity of IgG1 and IgG2 anticapsular antibodies to Haemophilus influenzae type b polysaccharide (PRP) were investigated. The antibody sources were IgG1 or IgG2 subclase polyclonal antibody fractions prepared by immunoadsorption of sera from infants immunized with PRP or PRP-D conjugate vaccine or chronically purified anti-PRP antibodies from eight adult volunteers immunized with PRP-D, in bactericidal assays using an inoculum of 10^9 colony-forming units (cfu)/ml. Twofold lower concentrations of IgG1 antibody killed 3 logs more bacteria than were killed by comparable concentrations of IgG2 antibody. The IgG1 antibody also required lower concentrations of complement to kill the same number of bacteria as did the IgG2 antibody. Comparison of bactericidal activity among purified anti-PRP and anti-PRP antibodies from most individuals showed similar relative differences in bactericidal activity. Anti-PRP antibodies were found to enhance the uptake of radiolabeled type b H. influenzae by human polymorphonuclear leukocytes in the presence of complement and in protecting infant rats from developing bacteremia. However, the opsonic activity of IgG1 anti-PRP antibody is functionally more effective than the IgG2 antibody, it is likely that both subclasses can contribute protection against disease.
+
+Serum antibodies to the capsular polysaccharide (poly- The functional activity of anti-PRP antibodies was sche-
+ribitol phosphate) of Haemophilus influenzae (Hib) are tized by Johnston et al. in 1973 [I] and later by Schreiber
+type b (Hib) confer immunity against Hib disease. The et al. in 1986 [II]. In the presence of complement, IgG anti-
+isolate composition of age-immunized infants most adults bodies were required to opsonize Hib bacteria, and IgG
+and children >3 years of age immunized with PRP vaccine isIgG1 antibodies had higher bactericidal activity, as
+includes the combination of IgM, IgG, and IgA antibod- [III] and Steele et al. [IV]. To compare the functional ac-
+ies [I]. The Hib antibody levels consist of 60% IgM, 35% tivity of IgG1 and IgG2 anti-PRP antibodies, we used
+IgG, and 5% IgA [2]. In infants <6 months of age, the serum from infants immunized with PRP or PRP-D conju-
+dominant Hib antibody is IgM [3], reflecting the gate vaccine and from adult volunteers chronically immu-
+fact that IgG2 responses are deficient in early infancy nized with PRP-D. The bactericidal activity was measured
+[4]. As children mature, there is a switch to IgG subclasses using an inoculum of 10^9 cfu/ml of Hib bacteria [V].
+IgG1 and IgG3 [5, 6], although IgG2 responses are still Opsonization was assessed by measuring the uptake of
+relatively low [7]. radiolabeled Hib bacteria by human polymorphonuclear
+leukocytes (PMN) in the presence of complement [VI].
+
+Materials and Methods
+Bacterial Strains. A type b H. influenzae strain, HI4345, was used in these studies. The bacteria were grown in Brain Heart Infusion (BHI) medium and stored frozen at -70°C in BHI medium containing 15% glycerol. Before use, the bacteria were thawed and grown to log phase in BHI medium.
+
+Sera Samples. Sera samples were obtained from two groups of subjects: (a) infants immunized with PRP or PRP-D conjugate vaccine, and (b) adult volunteers chronically immunized with PRP-D. The immunization protocols for these subjects have been described previously [V, VII].
+
+Antibody Purification. IgG1 and IgG2 antibody fractions were prepared by immunoadsorption of sera using staphylococcus protein A–Sepharose chromatography [VIII].
+
+Bactericidal Assay. Bactericidal activity was measured in a 96-well microtiter plate as described previously [V]. Briefly, serial twofold dilutions of serum or purified antibodies were incubated with an equal volume of Hib bacteria (10^9 cfu/ml) in BHI medium supplemented with 5% normal human serum. After 1 hour of incubation at 37°C, the remaining viable bacteria were determined by plating on BHI agar plates. The bactericidal titer was defined as the reciprocal of the highest dilution that killed >90% of the bacteria.
+
+Opsonic Assay. Opsonization was measured by incubating radiolabeled Hib bacteria with serum or purified antibodies in the presence of complement, followed by incubation with human PMN [VI]. The uptake of bacteria by PMN was determined by measuring the radioactivity associated with the PMN.
+
+Results
+IgG1 Antibodies are More Effective than IgG2 Antibodies in Bactericidal Assays. To compare the functional activity of IgG1 and IgG2 anti-PRP antibodies, we performed bactericidal assays using an inoculum of 10^9 cfu/ml of Hib bacteria. Twofold lower concentrations of IgG1 antibody killed 3 logs more bacteria than were killed by comparable concentrations of IgG2 antibody (Fig. 1). For example, a serum sample containing 32 units of IgG1 antibody killed >90% of the bacteria, whereas a serum sample containing 64 units of IgG2 antibody killed only 1 log of bacteria.
+
+The IgG1 Antibody Requires Lower Concentrations of Complement to Kill Bacteria. To determine whether IgG1 and IgG2 antibodies differ in their requirement for complement-mediated bactericidal activity, we performed bactericidal assays with varying concentrations of rabbit complement [V]. The results showed that the IgG1 antibody required lower concentrations of complement to kill the same number of bacteria as did the IgG2 antibody (Fig. 2).
+
+Anti-PRP Antibodies Enhance Uptake of Hib by PMN. To assess the opsonic activity of anti-PRP antibodies, we measured the uptake of radiolabeled Hib bacteria by human PMN in the presence of complement. Anti-PRP antibodies enhanced the uptake of bacteria by PMN (Fig. 3).
+
+Discussion
+The results of this study demonstrate that IgG1 anti-PRP antibodies are more effective than IgG2 antibodies in bactericidal assays and require lower concentrations of complement to kill bacteria. These findings suggest that IgG1 antibodies play a more important role than IgG2 antibodies in protecting against Hib disease.
+
+(Continues)

@@ -1,0 +1,43 @@
+Friday, 1986
+
+Sample Questionaire
+Awareness; Attitide & Usage Study
+
+INTRODUCTION/SCREENING
+
+A. HELLO, MY NAME IS ______ WITH _______ RESEARCH. WE ARE CONDUCTING A SURVEY ABOUT PRODUCTS USED IN THE HOME.
+
+B. ARE YOU/MAY I SPEAK WITH SOMEONE IN YOUR HOUSEHOLD WHO IS 21 YEARS OF AGE OR OLDER?
+   Yes  [Q.C.]     No    [RHA]
+            Disc./Record Col.   Make callback
+         If no 21+        appointment
+         Record Col.
+
+C. DO YOU, YOURSELF...
+   A. EAT COLD CEREALS? -1 -1 { }
+   B. DRINK COFFEE OR TEA? -1 -1 { }
+   C. EAT REGULAR PASTRIES? -1 -2 { }
+   D. SMOKE CIGARETTES? -1 -2 { }
+   E. EAT MEXICAN FOOD? -1 -2 { }
+
+[If "No" to smoke cigarettes, skip to Q.D.]
+[If “Yes” to smoke cigarettes, skip to Q.E.]
+
+D. IS THERE ANYONE IN YOUR HOUSEHOLD 21 YEARS OF AGE OR OLDER WHO SMOKES CIGARETTES?
+   Yes     No    [RHA]
+   Rescreen with Q.C.  Disc./Record Make callback
+                        Col.       appointment
+
+E. ABOUT HOW MANY CIGARETTES DO YOU SMOKE IN AN AVERAGE DAY? WOULD YOU SAY YOU SMOKE… (Read list)
+
+        (Rec-sch Q.) LESS THAN HALF A PACK A DAY -1 { }
+        (Continue OR, HALF A PACK OR MORE A DAY -2 { }
+
+G. DO YOU, OR DOES ANY MEMBER OF YOUR IMMEDIATE HOUSEHOLD, WORK FOR A MARKETING RESEARCH FIRM, AN ADVERTISING AGENCY, A PUBLISHING COMPANY OR A CIGARETTE MANUFACTURER?
+
+   Yes to any [ ]  No to all [ ]
+   (Obtain name, Record Col.) (Continue)
+
+
+
+415\309\L75

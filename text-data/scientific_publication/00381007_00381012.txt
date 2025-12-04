@@ -1,0 +1,52 @@
+Beiträge zur Tabakforschung • Band 7 • Heft 5 • September 1974
+
+The Effect of Perforated Tipping Paper
+on the Yield of Various Smoke Components*
+
+by V. Normann
+
+Research Department, Liggett & Myers International, Durham, N.C., U.S.A.
+
+INTRODUCTION
+
+There have been numerous publications dealing with ventilation through porous cigarette paper during the smoking of a cigarette (3, 4, 6, 7, 10, 12, 14, 17).
+The current presentation is not concerned with cigarette paper but deals with the effect that perforations in the tipping have on the composition of smoke. The idea of tipping perforation is rather old and there is a British patent issued in the neighborhood of 1860 that covers this principle. Nevertheless, there have been very few publications dealing with the investigation of this system. Morie and Sloan (15) and Mikami, Naito and Kaburaki (12) have briefly reported the effect of filter perforations on carbon monoxide and carbon dioxide yields. Kiefer (6) and Royer (16) have compared the effect of filter perforations on the relative yields of carbon monoxide, nicotine-free dry smoke and nicotine.
+
+A perforated filter is a somewhat simpler system than porous or paper smoking, the tipping perforations stay intact throughout the life of the cigarette.
+
+EXPERIMENTAL APPARATUS
+
+The two ventilation systems used in the experiments are depicted in Figure 2.
+One system consisted of an empty multiple cigarette tube and an impervious peripheral insertion which shut all air
+
+Figure 2. Schematic representation of the device used to measure the degree of ventilation.
+
+Air
+                                  To smoking
+                                   machine
+                                       Soda-bubbler
+                                        bottle
+
+the diluting air stream enters through the periphery whereas the smoke stream is predominantly through the central passage. This system eliminates filtration complications and provide more information about what happens in the cigarette zone where the air flow through the cigarette is varied.
+The second model was equipped with a cellulose acetate filter with the air stream entering directly into the air stream. This system reflects the additional complicating influence of varying filtration efficiency which would be mainly due to different smoke volume flow rates through the filter.
+
+In the test cigarettes the tobacco column, paper, filter, etc. were kept constant and only the draw resistance of the ventilation passages was varied by changing the number of perforations.
+
+Figure 3 shows the device that was used to measure the degree of ventilation. Basically, the air that was pulled into the cigarette through the perforations during smoking was measured directly in a bubble volume trap. The apparatus consists of a cylindrical chamber (13 mm internal diameter) connected to the cigarette by a short length of rubber tubing. The outlet from the bubble trap is connected to a glass tube which is immersed in water and extends to the top of the bubble trap. As air flows through the trap, bubbles form at the tip of the glass tube and rise to the surface of the water. The volume of water displaced by these bubbles is measured with a graduated scale on the side of the bubble trap.
+
+The cigarette was clamped between two metal plates which were connected to a mechanical vacuum pump. The rate of ventilation was maintained constant by adjusting the speed of the pump. The number of bubbles that entered the trap during the smoking of the cigarette was counted and recorded.
+
+Figure 3. Diagram of the apparatus used for measuring the degree of ventilation.
+
+Air
+                                  Bubble
+                                   volume
+                                    trap
+                                       Water
+                                        bottle
+
+
+
+EXPERIMENTAL PROCEDURE
+
+Cigarettes were prepared by hand using a standard tobacco blend. The cigarettes had a diameter of 8 mm and a length of 70 mm. The tipping paper was cut into rectangular pieces, each 21 x 50 mm. Perforations were made in the tipping paper with a heated needle. The number of perforations varied from 0 to 16. Each cigarette was smoked under constant draft conditions using a mechanical vacuum pump. The rate of ventilation was maintained at 34 ml/min. The total smoking time was 2 minutes.

@@ -1,0 +1,120 @@
+THE LANCET, FEBRUARY 5, 1972
+
+                                                                      291
+
+Preliminary Communication
+
+CONTRIBUTION OF CIGARETTE SMOKING
+TO CADMIUM ACCUMULATION IN MAN
+
+GEORGE P. LEWIS     WILLIAM J. HUIZING
+LINDA L. COUGHLIN    STUART HARTZ
+
+Clinical Pharmacology Section, Veterans’ Administration
+Hospital, Boston, and Biostatistical Division, Boston
+University Medical Center, Boston, U.S.A.
+
+Summary Cadmium, a non-essential, potentially
+toxic metal, accumulates in human
+tissues with increasing age. Because some foods
+contain cadmium, the diet has been considered the
+major source of this element. Cigarette smoking introduces
+appreciable amounts of cadmium, which on burning
+passes into the smoke. Analysis of necropsy material
+has shown that non-smokers accumulate smaller
+amounts of cadmium in their organs than smokers. In
+addition, the amount of cadmium accumulated is related
+to the number of pack-years smoked. It is concluded that
+tobacco constitutes a major source for cadmium
+accumulation in man and that heavy smoking, inhibition
+of the cadmium contained in tobacco smoke may make
+a significant contribution to the total body burden than
+the amount delivered by dietary intake.
+
+                                    INTRODUCTION
+
+Much concern has been expressed in the past few
+years regarding the inadvertent exposure of the general
+population to toxic trace metals. “Exposure of these tóx-
+ic elements to the body, are considered sources that
+effort to prevent made readily for their use. Great
+efforts have been made to identify low cadmium con-
+tent foods and to ensure that drinking water is so
+treated as to minimize cadmium intake. It seems
+that a significant contribution to the total body load
+with cigarette smoking will be difficult to assess
+without a detailed study of cadmium levels in various
+tissues of smokers and non-smokers.
+
+CASE HISTORIES AND METHODS
+
+Twenty-five consecutive necropsy specimens were
+obtained at the Veterans’ Administration Hospital,
+Boston. The subjects included 15 smokers and 10
+non-smokers. Smoking habits were determined from
+hospital records and confirmed by interviews with
+relatives. Pack-years smoked were calculated as the
+product of the number of packs smoked per day and
+the number of years smoked. Tissue samples were
+obtained from the liver, kidney, lung, heart, brain,
+and femur. The cadmium content was determined by
+atomic absorption spectrophotometry after digestion
+in nitric acid. All tissues were dried at 105°C to
+constant weight before analysis.
+
+RESULTS
+
+The mean age of the smokers (58 years) was similar
+to that of the non-smokers (62 years). The cadmium
+content per gram of tissue in the liver, kidney, lung,
+heart, brain, and femur is shown in Table I. Smokers
+had significantly higher cadmium levels in all tissues
+except the brain. The differences were statistically
+significant at the 5% level for the liver, kidney, lung,
+and heart (p < 0.05).
+
+TABLE I CADMIUM CONCENTRATIONS (µg/g dry weight) IN TISSUES OF SMOKERS AND NON-SMOKERS
+
+
+
+                                    LIVER      KIDNEY    LUNG       HEART     BRAIN      FEMUR
+SMOKERS
+Mean   S.D.  Mean   S.D.  Mean   S.D.  Mean   S.D.  Mean   S.D.  Mean   S.D.
+n=15   3.24   1.60   8.97   3.10   18.8   10.2   3.85   1.90   1.58   0.60   3.90   1.80
+NON-SMOKERS
+Mean   S.D.  Mean   S.D.  Mean   S.D.  Mean   S.D.  Mean   S.D.  Mean   S.D.
+n=10   1.57   0.60   3.84   1.20   6.9    3.5    1.80   0.80   0.95   0.30   2.00   0.70
+
+
+
+Fig. 3.-Relation of cadmium concentration to pack-years smoked.
+There is a positive correlation of S.A. and positive
+correlation of S.A. and positive correlation.
+
+three human sources of M.A.O. are consistent in show-
+ing a positive correlation of enzyme activity with age.
+In addition, the fact that cadmium levels also rise with
+age-related correlation in animals, suggests that this
+age-related increase in M.A.O. is a general biological
+phenomenon. The fact that cadmium concentrations cor-
+related positively with pack-years smoked demonstrates
+that cigarette smoking may play a role in regulating
+this enzymatic system of major significance in cereb-
+rospinal fluid. It has been shown that the cadmium
+content of cigarettes varies considerably, depending on
+the type of tobacco used and the method of processing.
+The cadmium content of U.S. brands averages about 2
+µg per cigarette. The amount of cadmium absorbed
+from a single cigarette is not known, but it is likely to
+be greater than that absorbed from dietary sources.
+
+ACKNOWLEDGMENTS
+
+We are indebted to Mr. Robert J. O’Connell for his
+technical assistance in the determination of cadmium
+levels. This work was supported by grants AM-19458
+and HL-17320 from the National Institutes of Health.
+
+
+
+(Figure)

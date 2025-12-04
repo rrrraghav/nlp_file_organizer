@@ -1,0 +1,27 @@
+Atc CTR.
+
+Pass mark by B.H.
+
+Chow's
+comments in biochemistry SF05-P0517
+
+Nutritional influence on cellular antioxidant defense systems*¹²
+
+Chang H. Chow, Ph.D. Oxidative stress and cellular damage
+
+Oxidation–reduction, including the provision of energy and detoxification, are common and important biological reactions. While oxygen is essential for normal metabolism with oxidation it may also spontaneously react with components of cells, leading to degradation or inactivation of important biological molecules. The cell can defend itself or prevent such adverse reactions by physical barriers, by providing molecules that effectively scavenge free radicals, by activating or removing damaged molecules, and by repairing damaged macromolecules. Cellular protective mechanisms involve the synthesis and maintenance of intracellular components. The susceptibility of given tissues to oxidative stress is a function of several factors including the degree of oxidative stress and the antioxidant defense system. The relative importance of these factors are attributed to the consequences of inflammation and tissue damage. Oxidative stress may be attributed to lipid oxidation or to other mechanisms related to auto-oxidation or injury. The role of nutrition in supporting cellular antioxidant defenses is a growing area of interest.
+
+The relationship of oxidative stress and its control to nutritional status is complex. It has been suggested that the body’s defense against free radicals can be supported by increased intake of antioxidants, including ascorbic acid, tocopherols, carotenoids, and selenium. The purpose of this review is to discuss the role of nutrition in supporting cellular antioxidant defenses and to examine the evidence for the effectiveness of dietary interventions in preventing or treating diseases associated with oxidative stress.
+
+Free radical initiated lipid peroxidation
+
+Free radicals have long been recognized as intermediates in many biological reactions essential for the maintenance of life. The deleterious effects of free radicals in biological systems has been established as a result of the convenient detection by electron spin resonance spectroscopy.
+
+Biological membranes, particularly membranes, contain high concentrations of unsaturated lipids. These unsaturated lipids act as initiator and oxygen may be oxidized. The reaction is known as lipid peroxidation, which has implicated a general biological consequence and may be an important in vivo process (-1, 3).
+
+A simplified sequence of free radical initiated lipid peroxidation is summarized here. In the first reaction a hydrogen from an unsaturated fatty acid (R-H) is abstracted by a peroxidizing species to produce a radical (1). This radical reacts with molecular oxygen to form a peroxyl radical which then reacts with another fatty acyl double bond with acceptance of a hydrogen atom and formation of a hydroperoxide (ROOH) (2). The reaction of ROOH with transition metals, such as iron or copper, can generate free radicals that initiate further lipid peroxidation (-1, 3).
+
+*From the Department of Biochemistry, College of Agriculture and Life Sciences, Texas Tech University, Lubbock, Texas 79703. Supported by grant nos. DEO5-84-0261 and IAB 85-0311 from the National Institutes of Health.
+
+
+

@@ -1,0 +1,39 @@
+Date: 72-6-15
+File: Quibbing
+
+A DISTILLATION METHOD FOR THE DETERMINATION OF
+INORGANIC BROMIDE IN CURED TOBACCO
+by L. Teet
+
+1. INTRODUCTION
+
+Banks, Demarcheller and Elek (1) outline four main
+methods for the analysis of bromide in foodstuffs.
+A simple and faster distillation method is described
+in this paper. Its accuracy and reproducibility are
+compared with neutron activation, X-ray fluorescence
+and iodometric methods.
+
+2. METHOD
+
+lg finely ground cured tobacco leaves is heated
+slowly (3 - 4 h) to 450 - 475°C and maintained at that
+temperature until it becomes a white ash, or preferably
+ashed overnight for 15 hours. The ash is transferred
+to a Markham still with a brush through a small glass
+funnel and is washed down with 5 ml distilled water.
+A volume of 5 ml oxidizing mixture, containing
+400 ml 1.25 M aqueous chromium trioxide and 300 ml
+concentrated sulphuric acid, is added. Steam is
+admitted to the still where selective oxidation of
+bromide to bromine takes place and this is distilled
+into 25 ml of 10% potassium iodide until 100 ml have
+been collected. The liberated iodine is titrated
+with 0.005N sodium thiosulphate using a 1% starch
+solution as indicator and a 10 ml burette graduated
+in 0.02 ml.
+
+2/.....
+
+Tobacco Research Board Research Paper No. 152
+06065082

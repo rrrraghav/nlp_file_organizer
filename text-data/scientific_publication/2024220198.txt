@@ -1,0 +1,28 @@
+REPORTS
+
+Environmental Tobacco Smoke and Lung Cancer Risk in Nonsmoking Women
+
+Heather G. Stuckwell, Allan L. Goldman, Gary H. Lyman, Charles J. Noss, Adam W. Armstrong, Patricia A. Pinkham, Elizabeth C. Candelaura, Marcia R. Bruce
+
+Background: Exposure to environmental tobacco smoke (passive smoking) has been suggested to be a cause of lung cancer, although early epidemiologic studies have produced inconsistent results. Purpose: We conducted an epidemiologic assessment study to assess the relationship between exposure to environmental tobacco smoke and lung cancer risk among women who have never smoked. Methods: A case-control series of 616 lung cancer patients (aged <65 years) living in homes with smokers at the time of diagnosis (20–70) were recruited through 13 New England hospitals during 1984–1991. Control subjects consisted of 1,234 women matched to cases by age (±5 years), race, and geographic location. Data on exposure to environmental tobacco smoke were collected via telephone interviews with cases and controls. Odds ratios (OR) with 95% confidence intervals (CI) were calculated to estimate the association between exposure to environmental tobacco smoke during childhood and adolescence and risk of lung cancer in women who have never smoked.
+
+Results: The risk of lung cancer more than doubled for women who reported 20 or more pack-years of household exposure during adulthood [odds ratio (OR) = 2.4; 95% confidence interval (CI = 1.8–3.2)]. Exposure to environmental tobacco smoke during childhood and adolescence [OR = 2.4; 95% CI = 1.6–3.6] increased the risk of lung cancer, although modest elevations in risk were observed for other exposures. When a surrogate respondent provided information on exposure, risk estimates were considerably lower. Conclusion: These findings suggest that long-term exposure to environmental tobacco smoke increases the risk of lung cancer in women who have never smoked. [J Natl Cancer Inst 84:1417–422, 1992]
+
+In 1986, reports by the Surgeon General ([1]) and the National Academy of Sciences ([2]) concluded that involuntary smoking (passive smoking) poses a health risk to nonsmokers. The evidence for adverse effects in adults included respiratory illness, cardiovascular disease, and possibly lung cancer. Although epidemiologic studies have generally failed to demonstrate an increased risk of lung cancer among adult nonsmokers living with smokers ([3]), some studies have suggested that childhood exposure to environmental tobacco smoke may increase the risk of lung cancer later in life [4–6].
+
+The current study further explores the effect of environmental tobacco smoke and other risk factors for lung cancer on women who have never smoked to-bacco.
+
+Patients and Methods
+
+A population-based case-control study was conducted in central Florida to examine the causes of lung cancer in nonsmoking women. Women were eligible for inclusion as cases if they had histologically confirmed patients of
+
+References
+1. U.S. Department of Health and Human Services. The health consequences of involuntary smoking. Rockville, MD: U.S. Department of Health and Human Services, 1986.
+2. National Research Council. Respiratory effects of passive smoking: the adverse effects of tobacco smoke on nonsmokers. Washington, DC: National Academy Press, 1986.
+3. Wynder EL, Jr., Stevenson JL. Epidemiology of lung cancer among smokers and nonsmokers. In: Rogan JM, ed. Lung cancer research and prevention. New York: Raven Press, 1985:27–48.
+4. Thun MJ, Shames EE, D’Angelo TA, et al. Pulmonary function and parental smoking history in children. Am Rev Respir Dis 1986;133:407–12.
+5. U.S. Environmental Protection Agency. Reducing indoor air pollution: a guide to safer homes. Washington, DC: U.S. Environmental Protection Agency, 1989.
+6. Marchant DG, Wakefield J, Reynolds P, et al. Lung function and respiratory symptoms in children exposed to passive smoking. BMJ 1983;287:1457–60.
+
+
+

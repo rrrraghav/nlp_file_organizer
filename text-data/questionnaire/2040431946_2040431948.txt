@@ -1,0 +1,41 @@
+Gail B. Levine
+
+MARKETING RESEARCH AND MARKETING PLANNING 26 DUNCAN DRIVE
+GREENWICH, CONNECTICUT 06831
+(203) 531-6480
+
+Job PM-01-90
+
+BENSON & HEDGES
+PHILLIP MORRIS
+JANUARY 1989
+
+SCREENING QUESTIONNAIRE
+
+Hello, my name is _______ from __________. We are conducting a survey in your area and I’d like to ask you a few questions.
+
+Q.1 Are you/May I speak with a (male)/(female) between 25 - 44 years of age?
+Yes  ( )
+No   ( ) TERMINATE
+
+Q.2 Into which of the following groups does your age fall?
+
+(PROVIDE A SPREAD OF AGES FOR EACH SESSION)
+Under 25    ( ) ---------> TERMINATE
+25 - 30     ( )
+31 - 35     ( )
+36 - 40     ( )
+41 - 44     ( )
+Over 44     ( ) ---------> TERMINATE
+
+Q.3a Sometimes the type of work people do and the companies they work for affect the products they buy. Please tell me what your occupation is and what kind of company you work for.
+RECORD
+
+Q.3b If you are married I need to know the occupation of your spouse and the type of company he/she works for?
+Not married ( )
+Married   ( ) 
+SPOUSE
+
+
+
+204A31946

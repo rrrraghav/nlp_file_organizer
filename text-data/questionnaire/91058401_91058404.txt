@@ -1,0 +1,32 @@
+-1-
+
+NAME: HOME PHONE:
+ADDRESS: WORK PHONE:
+CITY: STATE: ZIP:
+INTERVIEWER: DATE:
+ORGANIZATION:
+
+Hello, I’m _______ with _______ .
+Today we are conducting a brief survey on cigarettes and would like to include your opinions.
+
+1. First, is there anyone living in your household who is employed in the sale, manufacture or distribution of tobacco products, or market research or advertising?
+
+Yes……………1 → TERMINATE
+No………….2
+
+2. Is there a male living in your home between the ages of 18 and 34 who smokes at least 10 cigarettes per day?
+
+Yes…………..1 → TERMINATE
+No………….2
+
+3. May I speak to that person?
+
+Yes……………1
+No………….2
+
+MAKE APPOINTMENT TO CALL LATER. SAVE SCREENER.
+GET NAME AND TELEPHONE NUMBER: _______
+DATE: _______
+TIME: _______
+
+CONFIDENTIAL 603120 L

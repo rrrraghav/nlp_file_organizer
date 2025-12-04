@@ -1,0 +1,125 @@
+Cancer Communications, Vol. 1, No. 6, 1988, pp. 345-350
+Printed in the U.S.A. All rights reserved.                                  0885-3742/88/0100 0345 $2.00
+                                                                        © 1988 Pergamon Press pic
+
+Phosphorylation of HeLa Cell Multiproten DNA Polymerase α Complex:
+Impact on Activity and Partial Purification of the Associated Kinase
+
+Jamboor K. Vishvanatha*
+
+Department of Biochemistry
+University of Nebraska Medical Center
+42nd and Dewey Avenues, Omaha, NE 68105-1065
+
+(Submitted November 10, 1988; accepted January 3, 1990)
+
+Abstract: Phosphorylation is a major post-translational regulatory mechanism and plays a key role in transducing
+signals in various cellular processes. The role of phosphorylation and dephosphorylation in regulating
+the activities of a multiprotein DNA polymerase α complex was examined. Treatment of HeLa cell nuclei
+with DNA polymerase α with calf intestinal alkaline phosphatase resulted in the inactivation of DNA poly-
+merase α and DNA primase but had no effect on deoxyribonuclease activity. A protein kinase co-purified
+with the multiprotein DNA polymerase α and was partially purified from HeLa cells. The par-
+tially purified kinase was active in phosphorylating DNA polymerase α and associated histones as
+activities substrates. This study demonstrates that phosphorylation and dephosphorylation may modify
+the activities of DNA replicative enzymes and suggests a role for specific phosphatases and kinases in this pro-
+cess.
+
+Cell proliferation is a tightly regulated process in
+normal cells. Abnormal cell proliferation is the hall-
+mark of the tumorigenic phenotype and is a result of
+relaxation of such controls. Many environ-
+mental signals such as cell to cell contact or extracel-
+lular growth factors exert their effects by regulating
+cell proliferation. The ability of signal cells to re-
+spond to extracellular or mitogenic signals depends
+on the capacity of the cells to couple primary prolif-
+eration signals to the processes of DNA synthesis and
+cell cycle control. It is recognized that phosphoryla-
+tion plays a central part in the transduction of
+signals within the cell, particularly however,
+that relates to its triggers to DNA synthesis.
+
+DNA polymerase α (pol α) is the enzyme that ini-
+tiates DNA replication in eukaryotes [1]. Pol α
+forms a multiprotein complex with primase and other
+unidentified proteins [2, 3]. The pol α complex
+functions to synthesize short RNA primers on single-
+stranded DNA templates, which are subsequently elon-
+gated by the replicative DNA polymerases [4]. It has
+been shown that pol α is stimulated by ATP [5],
+
+though pol α is stimulated by phosphorylation, it is
+not known if phosphorylation and dephosphoryl-
+ation modulate its activity in vivo. Further, the effects
+of phosphorylation on other enzymes in DNA synthesis
+have not been investigated.
+
+Pol α is similar to DNA replicating enzyme in pro-
+karyotes, designated pol γ [6]. A multiprotein form of
+pol γ, animal cells [7, 8], has also been isolated from HeLa
+cells [9], which includes cofactor proteins for pol α
+that may have a role in DNA replication.
+
+In this report, a presentation on the effects of
+dephosphorylation on the various enzymatic activ-
+ities associated with pol α and the partial purification
+of the kinase that phosphorylates pol α are reported.
+The results demonstrate that phosphorylation and de-
+phosphorylation can modify the activities of DNA re-
+plicative enzymes and suggest a role for specific
+phosphatases and kinases in this process.
+
+MATERIALS AND METHODS
+
+HeLa cell nuclei were prepared as described [10]. Calf
+intestinal alkaline phosphatase (CIAP) was obtained from
+Sigma Chemical Co. Part A protein kinase assay buffer
+was composed of 25 mM Tris-HCl, pH 7.0, 2 mM DTT,
+1 mM EGTA, and 0.1% β-mercaptoethanol.
+
+RESULTS
+
+Effect of Dephosphorylation on DNA Polymerase α Activity
+and Associated Activities
+
+Treatment of HeLa cell nuclei with CIAP resulted in
+the inactivation of DNA polymerase α activity (Figure 1A).
+The effect of CIAP was concentration dependent, with a
+half maximal inhibition observed at approximately 0.2 U/
+nucleus (data not shown). Dephosphorylation of DNA poly-
+merase α also inactivated DNA primase activity (Figure 1B).
+However, deoxyribonuclease I activity was unaffected by
+CIAP treatment (Figure 1C).
+
+(Figure 1 would be here)
+
+Partial Purification of the Kinase Associated with DNA Polymerase α
+
+A multiprotein complex containing DNA polymerase α
+was partially purified from HeLa cell nuclei by a pro-
+cedure similar to that described previously [9]. The par-
+tially purified complex was then subjected to ion ex-
+change chromatography on DEAE-Sepharose. Fractions
+eluted with increasing concentrations of NaCl were as-
+sayed for kinase activity using DNA polymerase α as a
+substrate (Figure 2A). Kinase activity co-distributed
+with DNA polymerase α in the eluting fractions.
+
+(Figure 2 would be here)
+
+DISCUSSION
+
+The results presented here demonstrate that phos-
+phorylation and dephosphorylation can modify the ac-
+tivities of DNA replicative enzymes. The inactivation
+of DNA polymerase α and DNA primase by CIAP sug-
+gests that phosphorylation plays a role in regulating
+the activities of these enzymes in vivo. Further, the par-
+tial purification of a kinase that phosphorylates DNA poly-
+merase α suggests that this enzyme may be regulated
+by phosphorylation in a manner similar to other cellu-
+lar proteins.
+
+
+
+*To whom reprint requests should be addressed.

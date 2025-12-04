@@ -1,0 +1,55 @@
+CHARGE NUMBER: 4008
+
+PROJECT TITLE: SMOKER SIMULATION STUDIES
+
+PERIOD COVERED: June 1 - June 29, 1973
+
+DATE OF REPORT: July 10, 1973
+
+PROJECT LEADER: George C. Kiritsis
+
+1. DATA COLLECTION
+
+   A. Upgrading
+
+      Additional recording units are being prepared to facilitate
+      subject data collection. The collection of additional smoker profile
+      data is an on-going part of this project. The Engineering Services
+      Division completed the preparation of additional cigarret holders
+      to accomodate various types of cigarets for the recording of human
+      smoking patterns.
+
+   B. Smoking Pattern Results
+
+     1. Cigaret Holders (Cigar Tip vs. Severed Filter Tip)
+
+        The statistical evaluation of the smoking data from the
+        computer readout, to determine if smoking differences existed
+        between the cigar tip and the severed filter tip, showed that either
+        tip can be used in a product test, but the tips cannot be mixed
+        within a study. Furthermore, subjects smoked the same cigaret dif-
+        ferently with the two tips but the direction of the difference was
+        not consistent from one smoker to another.
+
+     2. Filter vs. Non-Filter Study
+
+        A product test comparing a filter (Marlboro 85) cigaret
+        vs. non-filter (PM Commander) cigaret was completed.
+
+       a. PM Commander Smokers on Marlboro 85
+
+          Smoked fewer puffs, had a slightly lower
+          volume per puff and a lower flow rate, compared
+          to their own brand.
+
+       b. Marlboro 85 Smokers on PM Commander
+
+          Smoked more puffs with essentially the
+          same volume and flow rate compared to their
+          own brand.
+
+       c. All Smokers Combined
+
+          Smoked the Marlboro 85: fewer puffs,
+          lower puff volume and lower flow rate
+          compared to the PM Commander.

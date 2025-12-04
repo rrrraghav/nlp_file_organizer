@@ -1,0 +1,84 @@
+SCREENER
+
+Two CELLS
+
+
+
+A. First, do you, or do any of your friends
+or relatives work for any of the following
+companies... (READ LIST)                                  An automobile manufacturer . . . .1
+                                                        A food processing company . . . .2
+                                                        An advertising agency . . . . . .3
+                                                        A newspaper or magazine company.4
+                                                        A tobacco manufacturer . . . . .5
+                                                        An insurance company . . . . . .6
+                                                        A marketing research firm...7
+
+
+
+(IF RESPONDENT, OR FRIEND/RELATIVE WORKS
+FOR ANY OF THE MARKED COMPANIES, TALLY
+& TERMINATE)
+
+
+
+
+B. Have you smoked any cigarettes in the past
+seven days or not?                                    Yes (CONTINUE)
+                                                              No (TALLY & TERMINATE)
+
+
+
+
+C. Approximately how many cigarettes do
+you usually smoke per day?                              Less than 10 (TALLY & TERMINATE)
+                                                        10-15 . . . . . . . . . . . . . . .2
+                                                        16-20 . . . . . . . . . . . . . .3
+                                                        21-30 . . . . . . . . . . . . . .4
+                                                        31-40 . . . . . . . . . . . . . .5
+                                                        41+ . . . . . . . . . . . . . . .6
+
+
+
+
+D. Have you participated in any research
+studies concerning... (READ LIST)                      Soft drinks in the past 6
+                                                              months . . . . . . . . . . . . . .1
+                                                        Cigarettes in the past year . . .2
+                                                        Beer in the past 6 months . . .3
+                                                        Magazines in the past year . . .4
+
+                                                       (IF CIGARETTES ▲ MENTIONED, TALLY & TERMINATE)
+
+
+
+
+E. Are you, or any member of your
+immediate family, currently a member
+of an on-going cigarette testing panel?              Yes (TALLY & TERMINATE)
+                                                              No (CONTINUE)
+
+
+
+F. What one brand of cigarettes do you smoke
+most often and consider to be your usual
+brand?                                                  (WRITE IN BRAND NAME)
+
+
+
+
+G. Is that a filter or non-filter
+cigarette?                                            Filter (CONTINUE)
+                                                              Non-Filter (TALLY & TERMINATE)   5008 4128
+
+
+
+H. Is it the menthol or non-menthol style?           Menthol (¬ TERMINATE)
+                                                              Non-Menthol (TALLY & TERMINATE)
+
+
+
+
+I. Is the regular sized 35mm or the
+longer 100mm size?                                   85mm (TALLY & TERMINATE)
+                                                              100mm (CONTINUE)

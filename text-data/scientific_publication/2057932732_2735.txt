@@ -1,0 +1,136 @@
+Environmental Health Perspectives
+Vol. 86, pp. 75–81, 1990
+
+In Vitro and In Vivo Genotoxicity of
+1,3-Butadiene and Metabolites
+
+by Gail Theall Arce,* Daniel R. Vincent,* Mary Jane
+Cunningham,* Wai Nang Choy,* and Awni M. Sariff*
+
+1,3-Butadiene and two major genotoxic metabolites 3,4-epoxybutane (EB) and 1,2,3,4-diepoxybutane
+(DEB) were evaluated for their ability to induce DNA damage in mammalian cells.  It is difficult
+can aid in extrapolating animal toxicity data to man. Sister chromatid exchange (SCE) and micronucleus
+induction were assessed in cultured human lymphocytes.  UDS was measured in vivo using rat and mouse
+bone marrow cells following a single exposure. This part of the study is necessary because 1,3-butadiene
+is known to be metabolized to genotoxic compounds. UDS was also measured in bone marrow from
+mouse hepatocytes following in situ exposure. Likewise, UDS in rat and mouse hepatocytes in vitro was not
+observed when using TA1535, TA98, or TA100 strains of Salmonella typhimurium.  However, UDS was observed with
+TA1535, TA98, TA88, and TA100 and employing rat, mouse, and human liver S9 metabolic systems were
+observed when using the TA1537 strain.  The results indicate that 1,3-butadiene is a weak genotoxin.
+Blood was collected from 53 unrelated 1,2,-Butadiene may be a weak SCE inducer in the human whole blood
+lymphocytes. Human liver S9 metabolic activation. In general, 1,3-butadiene is genotoxic in situ but in a weak in vitro genotoxin.
+
+Introduction                                               1,3-Butadiene has been shown to be genotoxic in the
+Salmonella mutation assay [18–20] and in vivo in mice
+1,3-Butadiene is a potent carcinogen (BECF), mice [21].  However, negative results have also been reported.
+(1,2) but only weakly tumorigenic in Sprague-Dawley 1,3-butadiene must be metabolized to exhibit geno-
+rats (3). These differences in carcinogenic potency have toxicity [18], and the metabolic competence of different
+raised questions as to which of the two species, if species may determine the positive versus negative
+either, is the better indicator of the human response. results.  Thus, it is important that tissues that possess
+Studies evaluating the mutagenic response to 1,3-buta- enzymes for 1,3-butadiene metabolism be included in gen-
+diene have been performed with both cultured human toxicity assays [22].  Primarily, (including human) liver
+lymphocytes more quantitatively than examined the poses a greater risk than other tissues. The genotoxic com-
+possibility that the major metabolites of 1,3-butadiene pounds are not as likely to be present in other tissues,
+contribute to its mutagenicity. We looked at the such as bone marrow or lung [23].  The major metabo-
+genotoxic potential and role of genotoxicity of lites of 1,3-butadiene are 3,4-epoxybutane (EB) and
+1,3-butadiene and its metabolites 3,4-epoxybutane (EB) 1,2,3,4-diepoxybutane (DEB) [24].  The relative impor-
+and 1,2,3,4-diepoxybutane (DEB). Genotoxicity was tance of these metabolites in the overall toxicity of
+assessed by measuring sister chromatid exchange (SCE) 1,3-butadiene is not fully understood.
+and micronucleus induction in cultured human lympho-
+cytes and unscheduled DNA synthesis (UDS) in vivo in
+Materials and Methods
+rat and mouse bone marrow cells following a single
+exposure.
+
+Experimental Design
+Female Sprague-Dawley rats (Charles River Breed-
+ers, Wilmington, MA) were used in all in vivo experi-
+ments.  The animals were 6–8 weeks old and weighed
+175–225 g at the time of exposure.  Swiss mice (Jacobs
+Laboratory Animals, Inc., Meriden, CT) were also used
+in in vivo experiments. The mice were 6–8 weeks old
+and weighed 20–30 g at the time of exposure.
+
+Chemicals
+1,3-Butadiene was obtained from Matheson Gas Products
+(Basking Ridge, NJ).  EB and DEB were synthesized as
+described previously [24].
+
+
+
+Environmental Health Perspectives Vol. 86, pp. 75–81, 1990 77
+
+Results
+
+Sister Chromatid Exchange in Human Lymphocytes
+
+SCE frequencies were significantly elevated in cultured
+human lymphocytes exposed to 1,3-butadiene (Figure 1).
+The dose-response relationship was linear up to 64 ppm.
+At concentrations above 64 ppm, the SCE frequency
+appeared to plateau.  The maximum SCE frequency
+observed was approximately 8 per cell.  EB and DEB
+also induced SCEs in human lymphocytes, but at con-
+centrations significantly higher than those required for
+1,3-butadiene (Figure 1). The relative potency of the
+three compounds appears to be 1,3-butadiene > EB >
+DEB.
+
+Unscheduled DNA Synthesis in Rat and Mouse Bone Marrow
+
+UDS was measured in vivo in rat and mouse bone mar-
+row cells following a single exposure to 1,3-butadiene
+(Figure 2).  A dose-dependent increase in UDS was ob-
+served in both species. The maximum UDS observed
+in rats was approximately 80 cpm per cell at a dose of
+50 ppm.  The maximum UDS observed in mice was ap-
+proximately 60 cpm per cell at a dose of 25 ppm.
+
+UDS in Mouse Hepatocytes In Vitro
+
+When using TA1537, UDS was observed in mouse hepato-
+cytes in vitro (Figure 3).  The results indicate that the
+genotoxic potential of 1,3-butadiene is dependent on
+metabolic activation.
+
+
+
+Environmental Health Perspectives Vol. 86, pp. 75–81, 1990 79
+
+Discussion
+
+The data presented here demonstrate that 1,3-butadiene
+is genotoxic in vitro and in vivo.  The results also indi-
+cate that the genotoxicity of 1,3-butadiene is dependent
+on metabolic activation. The relative potency of the three
+compounds appears to be 1,3-butadiene > EB > DEB.
+
+The fact that SCE frequencies plateaued at concentrations
+above 64 ppm suggests that there may be a saturation
+effect.  This could be due to a limited number of sites
+available for DNA damage or it could be due to the
+inability of the cells to repair the damage as quickly as
+it is being induced.
+
+The results from the UDS assays are consistent with the
+results from the SCE assays. Both assays show that 1,3-
+butadiene is genotoxic in vivo and that the genotoxicity
+is dependent on metabolic activation.
+
+The data presented here have important implications for
+the risk assessment of 1,3-butadiene exposure.  The fact
+that 1,3-butadiene is genotoxic in vitro and in vivo sug-
+gests that it may be carcinogenic in humans.  However,
+the relatively low levels of genotoxicity observed in these
+assays suggest that the cancer risk associated with 1,3-
+butadiene exposure may not be as high as previously
+thought.
+
+References
+
+1. National Cancer Institute. 1985. International Agency for Research on Cancer Monographs. Lyon, France: IARC.
+2.  Archer, V.L., and R. Wyandt. 1976. Carcinogenic effects of butadiene in the rat. Health Lab. Bull. N.Y. State Dep. Health 38(5):241–248.
+3.  Wyandt, R., and V.L. Archer. 1978. Butadiene: a review of its toxicity. Environ. Health Perspect. 26:109–125.
+4.  Sarff, A.M., D.R. Vincent, G.T. Arce, W.N. Choy, and M.J. Cunningham. 1987. Genotoxicity of butadiene and its metabolites in human lymphocytes. Mutat. Res. 186:235–240.
+5.  Ames, B.P., D.O. Ballantyne, and S. Marti. 1975. Salmonella mutagenicity assay. Methods Enzymol. 65:173–205.
+6.  Lawlor, M.J., and J.M. Kadis. 1984. Detection of DNA damage in mammalian cells using the unscheduled DNA synthesis assay. In: Handbook of

@@ -1,0 +1,48 @@
+THE HETEROLOGOUS EXPRESSION
+OF THE CYTOCHROMES P450:
+A NEW APPROACH FOR THE STUDY
+OF ENZYME ACTIVITIES AND
+REGULATION*
+
+RONALD W. ESTABROOK, J. IAN MASON, EVAN R. SIMPSON,
+JULIAN A. PETERSON and MICHAEL R. WATERMAN†
+Department of Biochemistry and the Cecil H. and Ida Green Center for
+Reproductive Biology Sciences, University of Texas Southwestern Medical
+Center, Dallas, TX 75235
+
+INTRODUCTION
+
+By September, 1990, there were 146 different cytochromes P450 that had
+been cloned and sequenced (1). The genes for these hemoproteins have
+been described in a total of 24 eukaryotes (including 10 mammalian and 1
+plant species) and 4 prokaryotes. For each P450 gene that has been studied
+in detail one can estimate that there are at least three additional genes in the
+process of being evaluated or waiting to be identified. The P450s that have
+been characterized can be classified into 26 gene families (Fig. 1) based on
+protein sequence similarity (viz in most cases a member of a P450 family
+will have greater than 40 percent amino acid sequence similarity).
+Clearly, the P450s represent a large superfamily of hemoproteins that
+touch many central paths of cellular metabolism across the breadth of
+phylogeny.
+
+We recognize that one primary function of P450s is to alter the
+oxidation-reduction state of a chemical by the removal of two electrons.
+This transformation involves, in most cases, molecular oxygen and a source
+of reducing equivalents, such as NADPH. The reducing equivalents from
+NADPH can be transferred to a particular P450 by either of two
+types of mini-electron transport systems (i.e. the FAD and FMN
+containing flavoprotein, NAD(P)H:cytochrome P450 reductase, for those
+P450s associated with microsomal membranes, or the non-flavoprotein and
+iron-sulfur protein system characteristic of mitochondrial P450s) (2). One
+consequence of oxidizing an organic chemical by a P450 is the generation
+of reactive electrophilic metabolites which may interact with cellular
+
+*Supported in part by grants from U.S. Public Health Service (NIGMS 16488, 19002,
+37942 and CHE 37 91) and NCI (30255 and 31111) and the Robert A. Welch Foundation
+(0-4959 and 49565).
+
+                                                                 365
+
+
+
+569.2/J Biol Chem.

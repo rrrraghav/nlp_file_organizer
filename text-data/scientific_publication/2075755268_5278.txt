@@ -1,0 +1,22 @@
+Assessment of Conducting Polymer Odour Sensors
+for Agricultural Malodour Measurements
+
+Krishna C. Persaud, Soad Mohialdin Khallaf, Phillip J. Hobbs¹ and Robert W. Sneath²
+
+'Department of Instrumentation and Analytical Science, UMIST, Manchester M60 1QD, ¹ARC Institute of
+Land and Environmental Research, North Wyke Research Station, Okehampton, Devon EX20 2SB and
+²Silsoe Research Institute, Wrest Park, Silsoe, Bedfordshire MK45 4HS, UK
+
+Correspondence to be sent to: K.C. Persaud, DIAS, UMIST PO Box 88, Sackville Street, Manchester M60 1QD, UK
+
+Abstract
+
+A major odouriferous components of fresh pig slurry were identified using gas chromatography coupled to mass spectrometry. From the analytical data, a standard artificial slurry was reconstituted. The performance of conducting polymer odour sensor arrays was evaluated using the individual chemical volatile components and the artificial slurry itself. Most of the components are discriminated from each other when presented singly to the sensor array. The sensors are not poisoned by the chemicals and give reproducible responses over a 3 month period. The odour components being detected in an artificial pig slurry appear to be associated with patterns obtained from indole, skatole and ammonia. The intensity of the signal is proportional to the concentration of the volatiles presented to the sensor. The results indicate that conducting polymer sensor arrays show promise for measurement of agricultural malodours, and may complement olfactometric techniques. Chem. Senses 21: 495–505, 1996.
+
+Introduction
+
+The practice of intensive livestock farming, and the problems associated with the treatment and disposal of waste has raised public awareness of agricultural malodours. Environmental pollutants (Jones, 1977; Snifferman, 1992). Such odours may be released from ventilation systems in farm buildings, waste storage and slurry treatment systems. Malodours emanating from cow and pig slurries are an increasing source of substance pollution (O’Neill and Phillips, 1991). Many environmental problems during the anaerobic digestion of substances produce a low han olfactory threshold and so are perceived as odorous nuisances even when their concentrations in air are very low. This includes putrefying fats and proteins, indole, methyl
+
+sulphides, disulphides, mercaptans and many heterocyclic compounds (Schiefer, 1977; Williams, 1980). It has been reported that environmental odours greatly affect the physiological and psychological states of a human population. A recent study on the effect on a population exposed to malodours from pig farms reports more tension, depression and anger, reduced vigour, increased fatigue and more confusion than a control population (Schiffman et al., 1995).
+
+The nature of odorous components is such that they can be detected by the human nose even when their odours are compounds very present at higher concentrations. For an odour, the perceived intensity of odour is proportional to analyte concentration in time and space. It may be possible

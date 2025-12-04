@@ -1,0 +1,27 @@
+TOXICOLOGICAL PATHOLOGY, vol. 26, no. 3, pp. 307–314, 1998
+Copyright © 1998 by the Society of Toxicologic Pathology
+
+A Review of Chronic Inhalation Studies with Mainstream Cigarette
+Smoke in Rats and Mice*
+
+CHRISTOPHER R. E. COOGGINS
+
+Lorillard Tobacco Co., Greensboro, North Carolina 27408-7018
+
+ABSTRACT.
+
+In this paper, I review the results of a representative selection of chronic inhalation studies with rats and mice exposed to mainstream cigarette smoke and describe the inhalation exposures and the histopathological changes reported by various authors. Many of the studies involved exposure to relatively low concentrations of smoke, whereas others involved high-dose exposures. Adenomas, hyperplastic and squamous metaplasia were reported in the conducting airways in most of the studies, along with increased numbers of intraepithelial neoplasms that were occasionally associated with invasive carcinomas. Lung adenocarcinomas and bronchiolar carcinoid tumors were reported in only a few of the studies. No statistically significant increase in the incidence of malignant lung tumors was seen in either species as a result of smoke exposure. A finding that does not agree with the results of epidemiological studies in humans. Possible reasons for this lack of correlation are given.
+
+Keywords: Cigarette smoke; inhalation toxicology; rodent respiratory tract
+
+INTRODUCTION
+
+Rats and mice are used routinely in studies of experimental carcinogenesis (12, 30, 33), leading others (11) to consider that these laboratory results are the main source of information that is used to set regulatory standards for potential human exposures. The (unstated) presumption is that the rodent responses can accurately predict human carcinogenic responses (27). The present review was performed to verify whether the measured response to cigarette smoke in rodents reflects the strong epidemiological findings in human smokers (19, 31).
+
+This paper is a critical review of the scientific literature relating to the pulmonary pathology of rats and mice exposed by inhalation to cigarette smoke. There is a large amount of published literature on this subject, so for space reasons only a selection of the major papers in present since the reviewed studies are similar to those pre-
+sented by Liddell (16) and others who have used rats and mice quite widely as models for human lung cancer risk assessment (25). A number of earlier reviews on this subject are available (8, 9, 23, 24, 29), but these do not cover the studies published since 1985.
+
+The criteria for inclusion of studies in this review were: (a) an overall duration consistent with the induction of cancer, includ-
+ing those studies where details on gross pathology, sub-
+mitted histopathology, or both were lacking, and (b) de-
+tailed histopathological descriptions, no matter what the duration of the experiment.

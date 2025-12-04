@@ -1,0 +1,11 @@
+AMMONIA DETERMINATION
+
+When cigarette smoke is drawn through a Cambridge filter very little ammonia or ammonium salts are detected. Possibly the ammonia in the first puff comes through the filter. After the first puff the increasing deposit of acids on the filter combines with the ammonia and removes it from the gas stream. When no Cambridge filter is used, 95% free ammonia and ammonium salts are collected in 80 ml of .018 N H₂SO₄.
+
+Since the concentration of ammonia in cigarette smoke is quite low compared to the amount of acetic, formic and other acids present, we do not feel that the 40-70 µg./cig. represents free ammonia.
+
+Procedure - Two charcoal filter cigarettes are smoked for each determination. The smoke is dispersed through 80 ml of .018 N H₂SO₄ in a specially designed trap by means of a coarse fritted disc. The solution is added to a 100 ml volumetric flask containing about 1.5 gn. of perrnit. The perrnit has been screened and washed 3 times with 25 ml portions of water. The flask is shaken for 15 minutes on a barrel wrist action shaker. If the desired agitation is not achieved, the flask is shaken by hand. The acid solution is poured off and the perrnit is washed 3 times with 25 ml portions of distilled water. Five ml of water and 1 ml of 10% NaOH is added to the perrnit. The flask is shaken again for 5 minutes. The addition of 60-70 ml water is followed by 3 ml Nesslers reagent. The flask is filled to the mark with water, inverted many times for mixing, and allowed to stand 30 minutes.
+
+0073440
+
+Blank - The blank is processed in the same manner as the sample; except, of course, the .018 N H₂SO₄ solution contains no dissolved smoke.

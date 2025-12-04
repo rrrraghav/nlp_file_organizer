@@ -1,0 +1,14 @@
+PRIORITY
+
+Evaluation
+
+• calculation of mean specific activity
+= slope in linearized dose/response curve
+• calculation of activity ratios between URSUS and 1R4F
+= relative potency
+
+
+
+2029169570
+
+W_IWRE_0586.DOC

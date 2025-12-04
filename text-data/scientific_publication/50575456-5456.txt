@@ -1,0 +1,14 @@
+JOURNAL OF MAGNETIC RESONANCE Vol. 81, 299-311 (1989)
+
+Noninvasive Quantitation of Phosphorus Metabolites in Human Tissue by NMR Spectroscopy
+
+K. ROTH,* H. HUBESCH, D. J. MEYERHOFF, S. NARUSE, J. R. GOBER, T. J. LAWRY,
+M. D. BOSKA, G. B. MATSON, and M. W. WEINER
+
+Magnetic Resonance Unit, *Veterans Administration Medical Center and Departments of Medicine, Pharm. Chemistry, and Radiology, University of California, 4150 Clement Street, San Francisco, California 94122
+
+Received December 11, 1987; revised May 17, 1988
+
+Quantitation of metabolic concentrations by NMR spectroscopy is complicated by the need to determine the ratio of signals which are detected, and by the need to obtain the relative sensitivity of detection within this volume. The use of coils with ribbon geometries can improve signal-to-noise ratios in order to quantitate metabolite concentrations using 31P NMR spectroscopy, an external reference of hexamethylphosphoramide (HMPA) was used. A surface coil or a Helmholtz head coil co confirm the accuracy of both the ISIS volume selection technique and the use of an external reference. The limitations of this method are related to saturation effects and signal-to-noise ratios in the 31P spectra, and difficulties with interpretation of broad overlapping peaks. The method was applied to seven normal human subjects. The concentrations of phosphocreatine (PCr) and ATP were determined by using NMRJ software. The T1 values of the signals of all phosphorus metabolites in the selected volume were measured in order to correct for saturation effects. The concentrations of PCr, ATP, P2, and inorganic phosphate were 3.7 ± 0.8, 14.6 ± 3.5 mM in brain and 36.5 ± 5.7 and 13.4 mM in muscle. These results are in good agreement with those reported for animals, demonstrating the validity of this quantitation technique. © 1989 Academic Press, Inc.
+
+In principle, data from NMR spectra may be used to derive absolute concentrations of metabolites in animal and human tissue. Values of molar concentration provide more information than values of peak areas or heights and allow the calculation of hemodynamic parameters such as the phosphorylation potential ([(ATP + free energy) / (ADP + Pi)]). However, previously reported techniques to obtain quantitative molar concentrations of animals and bolted organs [7] are not easily adapted to studies of subjects. The major difficulties relate to coil design and the need for an internal or external standard. To overcome these limitations, we have solely focused on tissue whose known composition is relatively simple (i.e., well-defined structural proteins). We have developed a 31P NMR technique allowing nondestructive quantitation of phosphorus metabolites in normal human tissue [8]. The method relies on the use of an external reference of hexamethylphosphoramide (HMPA) to allow absolute quantitation without the need for an internal standard.

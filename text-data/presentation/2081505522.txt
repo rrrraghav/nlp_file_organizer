@@ -1,0 +1,76 @@
+PM USA MACRO PROCESS FLOW
+
+System Wide
+GQ 01 Quality Policy
+GQ 02 Quality Responsibility
+GQ 03 Process Ownership
+GQ 04 Documentation Control and Management
+GQ 05 Change Control
+GQ 06 Corrective & Preventive Action
+GQ 07 Internal Audits
+GQ 08 Document Records
+GQ 09 Standard Procedures
+GQ 10 Training
+
+Concept & Design
+(Product Development)
+
+Design Transfer
+(Commercialization)
+
+Demand
+Planning
+& Materiality
+
+Processing Center
+
+Component
+Preparation
+
+Capsule/Filter
+Manufacturing
+
+Processing Plant
+
+Dimmer
+(Cut Filter)
+
+Warehousing
+and Distribution
+
+Promotions
+
+Wholesaler /
+Distributor
+
+Result
+
+Solvents
+
+Consumer
+
+Complaints
+
+Lead
+
+GQ 20 Process Control
+GQ 21 Product Validation
+GQ 22 Acceptance Criteria
+GQ 23 Deviation Handling
+GQ 24 Material Traceability
+GQ 25 Storage
+GQ 26 Shelf Life
+
+GQ 27 Process Administration
+GQ 28 Equipment Qualification
+GQ 29 Cleaning Validation
+GQ 30 Documentation
+GQ 31 Training
+GQ 32 Records
+
+Warehousing
+and Distribution
+
+Privileged and Confidential
+
+206150522

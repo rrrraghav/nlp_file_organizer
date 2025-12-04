@@ -1,0 +1,28 @@
+Effect of Carbon Monoxide
+on the Cardiorespiratory System
+
+Carbon Monoxide Toxicity: Physiology and Biochemistry
+
+GERARD M. TURNER
+
+Introduction
+
+CARBON MONOXIDE is a ubiquitous product of natural and man-made combustion processes, and it has marked effects on the function of biological systems. At present there have been relatively few studies in animals and are focused to a minor extent on man concerning its physiological consequences in relation to exposure. The presentation of these studies concepts which form the basis of our understanding of the effects of carbon monoxide on the cardiorespiratory system and its attributes which form a basis for clinical management concerning carbon monoxide as a environmental hazard.
+
+The acute toxicity of carbon monoxide is due to hypoxemia. CO combines with hemoglobin more readily than oxygen because it has a chemical affinity 200 times greater than that of oxygen, presumably 200 times greater than that of oxygen. The binding of CO from two effects of carboxhemoglobin (COHb) i) a reduction in the total amount of oxygen carried by the blood and ii) a shift with delivery of oxygen to tissues and a diminished ability of hemoglobin to release oxygen. A careful consideration of the oxygen-hemoglobin dissociation curve of blood which contains both oxygen and carboxhemoglobin. This requires that we consider the effect of pH, temperature, and carbon dioxide on the position of this curve. The binding of CO to hemoglobin is altered by these factors.
+
+The arterial PO2 remains relatively constant during acute exposure to carbon monoxide, but the PCO2 increases as a result of increased metabolism. The arterial blood pH decreases with exposure to carbon monoxide because of the formation of carboxyhemoglobin and the increase in PCO2.
+
+The rate of COHb formation is dependent on the inspired concentration of CO and the minute ventilation. The alveolar concentration of CO can be calculated by applying Fick’s law of diffusion, which states that the net transfer of a gas across a membrane is proportional to the surface area, the partial pressure difference, and the permeability coefficient.
+
+The rate of elimination of CO from the body depends on the inspired concentration of CO and the minute ventilation. The alveolar concentration of CO can be calculated by applying Fick’s law of diffusion, which states that the net transfer of a gas across a membrane is proportional to the surface area, the partial pressure difference, and the permeability coefficient.
+
+The COHb levels may be calculated by knowing the inspired concentration of CO, the time of exposure and the minute ventilation.
+
+The percentage of COHb after a given exposure approximates pulmonary ventilation x rate of leeching (approximately 0.1% per minute). So if CO exposure time of (minutes) Similary, for light air (approx. 1%) CO exposure time (minutes) = %COHb / approximately 1% CO in the air is a lethal concentration.
+
+The duration of exposure and the concentration of inhaled CO, the duration of exposure, and the volume of expired CO, the duration of exposure, and the volume of inspired CO exposure cause bound hypoxea, are cardiac output, pulmonary ventilation, and the rate of leeching of CO from hemoglobin. The effects of carbon monoxide on the cardiorespiratory system include an increase in heart rate, an increase in respiratory rate, a decrease in arterial PO2, an increase in PCO2, a decrease in pH, and an increase in carboxyhemoglobin.
+
+The cardiac output increases with exposure to carbon monoxide because of the increased sympathetic activity. The respiratory rate increases with exposure to carbon monoxide because of the stimulation of chemoreceptors. The arterial PO2 decreases with exposure to carbon monoxide because of the binding of CO to hemoglobin. The PCO2 increases with exposure to carbon monoxide because of the increased metabolism and decreased ventilation. The pH decreases with exposure to carbon monoxide because of the formation of carboxyhemoglobin and the increase in PCO2.
+
+The effects of carbon monoxide on the central nervous system include headache, dizziness, confusion, loss of consciousness, and death. The mechanism of action is not fully understood, but it is thought to be due to a combination of hypoxemia and direct toxic effects of CO on the brain.

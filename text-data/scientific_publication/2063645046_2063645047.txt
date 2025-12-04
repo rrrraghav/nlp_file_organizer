@@ -1,0 +1,72 @@
+B974 HT519 3425 BLOM
+
+J. AM CHEM SOC. 97 Chem. Soc. 1997, 119, 3425–3426
+(10)amer CHEMICAL SOC
+
+The Interaction Between p53 and MDM2:
+Transfer NOE Study of a p53-Derived Peptide
+Ligated to MDM2
+
+M. J. J. Blommeirs,‡ G. Fenrich,§
+C. Garcia-Echeverria,* and P. Chène*
+
+Physics, Core Drug Discovery Technologies, and
+Oncology Research, Chemo-GigA A.G., P.O. Box
+CH-4002 Basel, Switzerland
+
+Received September 23, 1996
+
+The tumor suppressor gene p53 is the most frequently mutated gene found in conjunction with human cancer. The p53 protein can also be inactivated by binding to viral or cellular proteins such as MDM2 (HsEti1), a minute 2-protein homolog (MDM2) that upon binding inactivates transcription activity of p53. Thus, in certain human cancers the expression of MDM2 is elevated, which counteracts the action of the oncogene MDM2 inhibits p53 tumor suppressor activity. The interaction between p53 and MDM2 prevents the binding of p53 to MDM2 in such tumors would release 53 active for tumor suppression. We report here an NMR study by transfer NOE experiments of a p53-derived peptide in complex with MDM2. The data reported in this paper may be useful in the rational design of specific ligands that are inhibitors of the p53–MDM2 interaction.
+
+The interaction between p53 and MDM2 has been extensively investigated by biochemical, crystallographic, and mutational analyses (1-7). It is now well established that MDM2 binds to p53 with high affinity (8, 9) and that this interaction leads to ubiquitination of p53 and subsequent degradation. The p53–MDM2 complex also inhibits the transcriptional activity of p53 (10).
+
+We have recently developed a new NMR technique called transfer NOE (trNOE) (11), which allows for the determination of distances between protons in two molecules that are interacting noncovalently. In trNOE experiments, one molecule is selectively deuterated and irradiated with radio frequency pulses. The resulting magnetization is transferred to the second, nondeuterated molecule through-space via NOEs. This technique has been used to study protein–protein interactions (12) and protein–ligand interactions (13).
+
+In this paper, we report trNOE experiments on a p53-derived peptide ligated to MDM2. The peptide corresponds to residues 86–97 of p53 (p53(86–97)) and contains the proline-rich region that is important for the interaction between p53 and MDM2 (14).
+
+Experimental Procedures
+
+Peptide Synthesis
+The peptide p53(86–97) was synthesized by solid-phase Fmoc chemistry on a 96-well synthesizer (Biosystems, Inc.). The peptide was cleaved from the resin with trifluoroacetic acid in the presence of scavengers. The crude peptide was purified by reversed-phase HPLC.
+
+MDM2 Expression and Purification
+The cDNA encoding human MDM2 was cloned into the pET30a bacterial expression vector (Novagen). Recombinant MDM2 protein was expressed in Escherichia coli BL21(DE3) cells, as described previously (15). The His6-tagged MDM2 protein was purified by Ni-affinity chromatography.
+
+NMR Spectroscopy
+All NMR experiments were performed at 25 °C on a Varian Unity Plus 500 MHz spectrometer equipped with an inverse detection probe. Samples contained 1 mM peptide and 1 mM unlabeled MDM2 in phosphate buffer (20 mM, pH 7.4) containing 100 mM NaCl.
+
+Figure 1. Specific interaction between human MDM2(1–188) and p53(86–97). (A) ELDTR spectra of the peptide with GST-MDM2 (left and right bar) and with GST (middle bar). The plates were saturated with a constant amount of GST-MDM2. (B) A constant amount of GST-MDM2 was immobilized on CNBr-activated Sepharose beads.
+
+Scheme 1. Part of the N-Terminal Amino Acid Sequence of
+p53 Which Is Important for the Interaction with MDM2
+
+Pro-Asn-Ser-Gly-Ile-His-Gln-Asp-Lys-Thr
+
+(16)
+
+in the presence of a peptide corresponding to residues 1–188 of MDM2 (MDM2(1–188)) is shown. The sequence of the amino acids is consistent with the published sequence (17). A lysine residue in the p53 peptide was modified with biotin for immobilization on streptavidin-coated microtiter plates. The peptide was ligated to GST-MDM2 via a cleavable linker (Gln-Gly-Ala-Gly-Lys-Gly-Asn) that can be removed by thrombin cleavage.
+
+Acknowledgments
+We thank Dr. David L. Hiller for his assistance with the NMR experiments. This work was supported by grants from the Swiss National Science Foundation and the Cancer Research Institute.
+
+References
+
+(1) Baker, C. W.; et al. Nature 1993, 365, 480–484.
+(2) Montalvo, A. B.; et al. Genes Dev. 1994, 8, 273–283.
+(3) Clarke, N. J.; et al. Oncogene 1995, 10, 1671–1678.
+(4) Nakatani, Y.; et al. Jpn. J. Cancer Res. 1995, 86, 231–237.
+(5) Studzinska, M.; et al. Oncogene 1995, 10, 1713–1720.
+(6) Sears, J. A.; et al. Biochemistry 1996, 35, 4872–4879.
+(7) Matsuoka, M.; et al. Cancer Res. 1996, 56, 2078–2084.
+(8) Leng, Y.; et al. Science 1993, 262, 1559–1562.
+(9) Winkler, F. D.; et al. J. Biol. Chem. 1994, 269, 17081–17087.
+(10) Bond, G. A.; et al. Nature 1993, 365, 484–487.
+(11) Blommeirs, M. J. J.; et al. Biochemistry 1996, 35, 1270–1276.
+(12) Chen, P.; et al. Nature Struct. Biol. 1996, 3, 482–486.
+(13) Blommeirs, M. J. J.; et al., manuscript in preparation.
+(14) Sears, J. A.; et al. Biochemistry 1996, 35, 4872–4879.
+(15) Garcia-Echeverria, C.; et al. J. Biol. Chem. 1995, 270, 18415–18421.
+(16) Ref 14.
+(17) Ref 17.
+
+This article is for individual use only and may not be reproduced or distributed electronically or by other means without prior written permission from The American Chemical Society. Requests should be directed to copyright@acs.org. IN FINANCIAL AND OTHER PENALTIES.

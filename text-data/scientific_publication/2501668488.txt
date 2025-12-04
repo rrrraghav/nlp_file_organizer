@@ -1,0 +1,131 @@
+Proc. Natl. Acad. Sci. USA
+Vol. 74, pp. 1739-1743, April 1977
+Biochemistry
+
+Protonated base pairs explain the ambiguous pairing
+properties of 0°-methylguanine
+
+(Hydrogen bonding/DNA structure/protonation/antitumor)
+
+LOREN WILLIAMS and BARBARA RAMSEY SMALL*
+
+Department of Chemistry, Duke University Laboratory, Durham, North Carolina 27705
+Communicated by John A. Lehman, November 18, 1976
+
+ABSTRACT. The base pairing interactions of protonated
+0°-MeGua with thymine and cytosine were studied by means of
+spectroscopic measurements.  The results show that the
+protonated form of 0°-methylguanine is a stable hydrogen bond
+donor, capable of forming strong hydrogen bonds with both
+thymine and cytosine. The formation of protonated base pairs
+is favored in aqueous solution at pH values below approximately
+5.  The stability of these interactions suggests that protonation
+may play an important role in the biological activity of 0°-
+methylguanine, a potent antitumor drug.  The observed hydrogen
+bonding between protonated 0°-MeGua and thymine is
+consistent with the ability of this modified base to disrupt DNA
+replication. The formation of stable protonated base pairs
+between 0°-MeGua and cytosine may also contribute to its
+antitumor activity.
+
+Protonation of guanine derivatives at N2 or O6 can alter
+their hydrogen bonding properties (1, 2).  The antitumor drug
+0°-methylguanine (0°-MeGua) has been shown to disrupt DNA
+replication and cell division (3-5).  Although the precise
+mechanism of action is not fully understood, it is believed that
+the modified base interferes with normal base pairing.  We have
+investigated the hydrogen bonding interactions of protonated
+0°-MeGua with thymine and cytosine in aqueous solution.
+
+MATERIALS AND METHODS. 0°-Methylguanine was obtained
+from Aldrich Chemical Company, Milwaukee, Wisconsin.
+Thymine and cytosine were purchased from Sigma Chemical
+Co., St. Louis, Missouri.  All reagents were of reagent grade
+and used without further purification.  The UV-Vis spectra
+were recorded on a Cary Model 340A spectrophotometer.
+The pH was adjusted with HCl or NaOH using a pH meter
+(Beckman Model 240).
+
+RESULTS. The protonated form of 0°-MeGua, [0°-MeGuaH]+,
+forms stable hydrogen bonds with both thymine and cytosine.
+The UV-Vis spectra of the base pairs are shown in Fig. 1.  The
+maximum absorbance for the 0°-MeGua-thymine pair is at
+293 nm, while that for the 0°-MeGua-cytosine pair is at 285
+nm. The stability of these interactions suggests that protonation
+may play an important role in the biological activity of
+0°-MeGua.  The formation of stable protonated base pairs
+between 0°-MeGua and cytosine may also contribute to its
+antitumor activity.
+
+DISCUSSION. The hydrogen bonding properties of
+protonated bases are significantly different from those of their
+neutral counterparts (6).  Protonation increases the hydrogen
+bonding donor ability of guanine derivatives, allowing them to
+form stronger interactions with both thymine and cytosine.
+The stability constants for the formation of protonated base pairs
+are relatively high, indicating that these interactions are quite
+strong. The observed hydrogen bonding between protonated
+0°-MeGua and thymine is consistent with the ability of this
+modified base to disrupt DNA replication.  The protonation of
+0°-MeGua is favored at pH values below approximately 5.
+At higher pH values, the neutral form predominates, and the
+base pairing properties are more characteristic of normal
+guanine.
+
+The ambiguous pairing properties of 0°-MeGua can be
+explained by the fact that it can form stable hydrogen bonds
+with both thymine and cytosine when protonated.  This means
+that 0°-MeGua can substitute for either guanine or adenine in
+DNA, leading to miscoding and disruption of DNA replication.
+The stability does not any other 0°-MeGua base pair, whereas
+0°-MeGua-cytosine base pairs do the base destabilizing
+effect.  The protonated form of 0°-MeGua is a strong base
+and is the polymerization. It forms the least stable base
+pair with cytosine. The formation of this base pair either
+that base pairing is not as important as generally
+believed in the biological activity of 0°-MeGua.  The
+MeGua base pairing the polymerase complex offer signif-
+icant resistance to DNA repair.  We have shown that the
+base at pH 3 (11). It indicated by UV that the base has
+a strong hydrogen bonding with cytosine. The protonated
+0°-MeGua is a strong hydrogen bond donor, capable of
+forming stable hydrogen bonds with both thymine and
+cytosine.  The formation of protonated base pairs between
+0°-MeGua and cytosine may also contribute to its
+antitumor activity.
+
+The ambiguous pairing properties of 0°-MeGua are
+consistent with the ability of this modified base to disrupt
+DNA replication. The hydrogen bonding interactions have
+shown that the protonated 0°-MeGua is a strong hydrogen
+bond donor, capable of forming stable hydrogen bonds with
+both thymine and cytosine.  The formation of protonated
+base pairs between 0°-MeGua and cytosine may also
+contribute to its antitumor activity.
+
+The stability constants for the formation of protonated base
+pairs are relatively high, indicating that these interactions are
+quite strong. The observed hydrogen bonding between
+protonated 0°-MeGua and thymine is consistent with the
+ability of this modified base to disrupt DNA replication.  The
+protonation of 0°-MeGua is favored at pH values below
+approximately 5. At higher pH values, the neutral form
+predominates, and the base pairing properties are more
+characteristic of normal guanine.
+
+ACKNOWLEDGMENTS. We thank Dr. John A. Lehman for his
+helpful suggestions and encouragement.  This work was
+supported by National Cancer Institute grant CA-19725.
+
+LITERATURE Cited
+1.  Chargaff, G. 1964. Cell Chemistry. Harper & Row, New York.
+2.  Olsson, M., and Finch, J. T. 1968. Biochemistry 7:2033.
+3.  Rowe, R. W., and Stine, S. G. 1965. Jour. Amer. Chem. Soc.
+    87:4727.
+4.  Stine, S. G., and Rowe, R. W. 1966. Cancer Res. 26:330.
+5.  Rowe, R. W., Stine, S. G., and Hsia, D. Y. 1967. Cancer Res.
+    27:2483.
+
+
+
+*To whom reprint requests should be addressed.

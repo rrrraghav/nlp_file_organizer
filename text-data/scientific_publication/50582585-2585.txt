@@ -1,0 +1,185 @@
+Biochem. J. (1988) 256, 13–21 (Printed in Great Britain) 13
+
+Identification of a surface membrane proton-translocating ATPase
+in promastigotes of the parasitic protozoan Leishmania donovani
+
+DAN ZILBERSTEIN* and Dennis M. DWYER†
+*Department of Biology, Technion—Israel Institute of Technology, Haifa 32000, Israel, and
+†Cellular and Molecular Section, National Institute of Allergy and Infectious Diseases, National Institutes of Health,
+Bethesda, MD 20892, U.S.A.
+
+ATPase activities were measured in surface membranes and mitochondria isolated from promastigotes of
+the parasitic protozoan Leishmania donovani. The two enzymes were differentiated on the basis of pH
+optima, inhibitor sensitivity and immunological methods. The surface-membrane (SM) ATPase had
+an activity of 100 nmol/min per mg of protein, which was optimal at pH 6.5. The enzyme was Mg2+-
+dependent, partially inhibited by Ca2+, and unaffected by Na+ or K+. The SM-ATPase was inhibited by
+orthovanadate, N-(cyclohexyl)ethylcarbodiimide and N-ethylmaleimide [IC50 (concentration causing half-
+maximal inhibition) 7.5, 23 and 520 μM respectively]. It was unaffected by ouabain, digitoxin or
+oligomycin. The Km of ATP was 1.4 μM and a Vmax of 225 nmol/min per mg of protein.
+Moreover, fine-structure cytochemical results demonstrated that the SM-ATPase was localized to the
+cytoplasmic lamina of the parasite SM membrane as derived from the isolation of SM-derived vesicles. These
+were used to demonstrate the proton-pumping capacity of the SM-ATPase. Cumulatively, these results
+constitute the first demonstration of a surface-membrane proton-translocating ATPase in a parasitic
+protozoan.
+
+INTRODUCTION
+
+Species of the parasitic protozoan Leishmania are the
+cause of a wide variety of human cutaneous,
+mucocutaneous and visceral diseases. These parasites
+have a digenetic life cycle which involves developmental
+stages residing in flagellate promastigotes, i.e. extra-
+cellularly replicated promastigotes found within the alimen-
+tary tract of their sandy vector and as obligate
+intracellular amastigotes found within secondary host
+macrophages (Cornelious, 1973; Hyde, 1976). The
+parasite’s survival depends on its ability to adapt to a
+range of environmental conditions.
+
+Previous studies have shown that energy metabolism
+in Leishmania is unusual in several respects (Hyde
+& Wilson, 1982; Reeves, 1983). For example,
+Leishmania lack conventional mitochondria and rely
+on glycolysis for ATP production. Furthermore, they
+possess a unique tricarboxylic acid cycle which lacks
+α-ketoglutarate dehydrogenase (Wilson et al., 1986).
+Despite these differences, Leishmania have several
+features in common with other eukaryotes, including
+the presence of a plasma membrane H+-ATPase
+(Dwyer & Gottlieb, 1981; Reeves, 1983; All-Alqati,
+1986; Pederson & Caralli, 1987). As pmf drives energy transduction
+processes across the Leishmania SM (Zilberstein &
+Dwyer, 1985), it was anticipated that an H+-ATPase
+acting as a primary proton pump should be present in the
+plasma membrane of this organism. Previously, it was
+suggested that the Leishmania SM might contain an
+ATPase (Dwyer & Gottlieb, 1981). In the present study,
+we have identified and characterized a vanadate-sensitive
+Mg2+-dependent ATPase activity in the Leishmania
+donovani SM. The enzyme is shown to be an H+-ATPase
+with proton-pumping capacity.
+
+MATERIALS AND METHODS
+
+Promastigote culture and membrane preparation
+
+Leishmania donovani promastigotes (MHAS 10) were
+cultured as described previously (Dwyer, 1987).
+Surface membranes were isolated by a combination of
+differential centrifugation and density gradient centri-
+fugation. Briefly, parasites were harvested by centrifu-
+gation at 500 g for 10 min, washed twice in phosphate-
+buffered saline (PBS) and resuspended in PBS. The
+cells were then lysed by addition of hypotonic buffer
+(25 mM Tris–HCl pH 7.4, 1 mM EDTA). After
+incubation on ice for 15 min, the lysate was diluted
+with an equal volume of PBS and centrifuged at 1000 g
+for 10 min. The pellet containing nuclei and unlysed
+cells was discarded. The supernatant was centrifuged at
+20000 g for 30 min. The resulting pellet contained the
+surface membranes. Mitochondria were isolated by a
+modified version of the method of Racker & Dubinsky
+(1961).
+
+ATPase assay
+
+ATPase activity was measured using an oxygen-sensitive
+microelectrode system (Beckon Dickinson, Mountain
+View, CA) as described previously (Dwyer, 1987).
+The reaction mixture contained 25 mM Tris–HCl pH 7.4,
+0.2 mM MgCl2 and the membrane preparation. Oxygen
+consumption was monitored at 37°C. Data are expressed
+as nmol of phosphate consumed per min per mg of protein.
+
+Protein determination
+
+Protein concentrations were determined by the method
+of Bradford (1976) using Bio-Rad protein reagent.
+
+Inhibition studies
+
+The effect of various inhibitors on ATPase activity was
+determined as described previously (Dwyer, 1987).
+
+Km and Vmax determinations
+
+Kinetic parameters for ATP hydrolysis were determined
+by measuring ATPase activity at different concentrations
+of ATP (0.1–10 μM) using a coupled assay with NADH
+as described by Weiner et al. (1985).
+
+Cytochemical localization
+
+The cytochemical localization of the SM-ATPase was
+determined as described previously (Zilberstein &
+Dwyer, 1985).
+
+RESULTS
+
+SM-ATPase activity
+
+Surface membrane ATPase activity was detected in
+Leishmania donovani promastigotes. The enzyme had a
+specific activity of 100 nmol/min per mg of protein.
+The ATPase activity was dependent on Mg2+ and was
+partially inhibited by Ca2+. Na+ and K+ did not affect
+the ATPase activity (Table 1).
+
+Inhibition studies
+
+The SM-ATPase was sensitive to several inhibitors
+including orthovanadate, N-(cyclohexyl)ethylcarbodi-
+imide and N-ethylmaleimide (Table 2). The IC50 values
+for these inhibitors were 7.5, 23 and 520 μM respectively.
+The enzyme was unaffected by ouabain, digitoxin or
+oligomycin.
+
+Kinetic parameters
+
+The Km of ATP for the SM-ATPase was 1.4 μM and
+the Vmax was 225 nmol/min per mg of protein (Figure 1).
+
+Cytochemical localization
+
+Fine-structure cytochemical results demonstrated that
+the SM-ATPase was localized to the cytoplasmic lamina
+of the parasite SM membrane as derived from the isolation
+of SM-derived vesicles (Figure 2).
+
+DISCUSSION
+
+The identification of a proton-translocating ATPase in
+the Leishmania SM provides further evidence for the
+complexity of energy transduction processes in this
+parasite. The enzyme is similar to other plasma mem-
+brane H+-ATPases found in eukaryotes (Dwyer &
+Gottlieb, 1981; Reeves, 1983; All-Alqati, 1986;
+Pederson & Caralli, 1987). The sensitivity of the
+enzyme to vanadate and N-ethylmaleimide is consistent
+with its being an H+-ATPase. The localization of the
+SM-ATPase to the cytoplasmic lamina suggests that it
+may be involved in maintaining membrane potential or
+in transporting ions across the plasma membrane.
+
+Table 1. Effect of divalent cations on SM-ATPase activity
+
+[TABLE]
+
+Table 2. Effect of inhibitors on SM-ATPase activity
+
+[TABLE]
+
+Figure 1. ATPase kinetics
+
+[GRAPHIC]
+
+Figure 2. Cytochemical localization of SM-ATPase
+
+[GRAPHIC]
+
+REFERENCES
+
+All-Alqati, M. S. (1986) J. Biol. Chem. 261, 13750–13754.
+Bradford, M. M. (1976) Anal. Biochem. 72, 248–254.
+Cornelious, W. A. (1973) Am. J. Trop. Med. Hyg. 22, 507–514.
+Dwyer, D. M. (1987) J. Biol. Chem. 262

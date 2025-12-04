@@ -1,0 +1,42 @@
+Cancer Incidence by Levels of Cholesterol
+
+Roger R. Williams, MD; Paul D. Sorlie, MS; Manning Feinleib, MD, DrPH;
+Patricia M. McNamara, MS; William B. Kannel, MD; Thomas R. Dawber, MD
+
+   In 9,209 subjects studied for 24 years in Framingham, Mass., 691 cases
+of cancer were documented, with histological confirmation for 548%.
+Predetermined personal characteristics were tested for associations with
+subsequent occurrence of cancer at specific sites using multiple logistic
+regression. Significant associations of various cancer sites with cigarette
+smoking, alcohol use, education, height, weight, and family history of
+studies. Serum cholesterol level was inversely associated with incidence
+of colon cancer and with other sites only in men; these inverse associations
+were statistically significant after adjustment for age, alcohol consumption,
+cigarette smoking, education, systolic blood pressure, and native weight.
+Associations may reflect effects of competing lethal diseases, underlying
+pathophysiological mechanisms that promote or inhibit development of
+cancer in men, biologic or social response to early and undiagnosed states
+of cancer.
+(JAMA 1981;245:247-252)
+
+A RECENT clinical trial of a collaborative project for prevention of coronary heart disease showed that elevated levels of cholesterol in hypercholesterolemic patients were associated with increased risk of myocardial infarction, and that reduction in serum cholesterol through dietary modification was associated with decreased risk.
+The Framingham Heart Study, begun in 1948, has provided extensive data on the incidence of cardiovascular diseases and their association with various risk factors. The present report concerns the relationship between levels of serum cholesterol and the subsequent occurrence of cancer in this population.
+
+From 1948 to the present time with the
+major objective of determining risk factors for major cardiovascular diseases. Details concerning the design and execution of this prospective study are given else-
+where; the diagnosis of cancer was not
+included in the original plans during the course of the Framingham Heart Study. However, medical records were carefully reviewed in the chart for each subject during the annual history and physical examination. Such data were recorded every two years as described with the Framingham Heart Study Clinic. Copies of hospital records were requested from subjects hospitalized for those patients requiring and procedures. More reports of radiological reports were always requested and obtained in most cases.
+
+A panel of pathologists reported most tumors. The incidence of cancer was determined by review of medical records, pathology reports, and death certificates. All cases of cancer diagnosed during the 24-year study period were included in this report. Cancer was excluded if it was diagnosed before the start of the study (1948) or after the end of the study (1972).
+
+The data used in this report are from 9,209 subjects who participated in the Framingham Heart Study. The population consisted of 4,653 men and 4,556 women aged 30 to 61 years at the start of the study.
+
+Roger R. Williams, MD
+Paul D. Sorlie, MS
+Manning Feinleib, MD, DrPH
+Patricia M. McNamara, MS
+William B. Kannel, MD
+Thomas R. Dawber, MD
+From the Division of Epidemiology and Clinical Preventative Medicine, Department of Preventive Medicine, Boston University School of Public Health, Boston, Mass.
+
+JAMA • VOL 245 • NO. 9 • MARCH 13, 1981 247

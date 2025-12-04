@@ -1,0 +1,50 @@
+The Relationship of Tar Content to Decline in Pulmonary Function in Cigarette Smokers⁻³
+
+DAVID SPARROW, TED STEFOS, RAYMOND BOSSÉ, and SCOTT T. WEISS*
+
+Introduction
+Over the past 30 yr, smoking habits have changed considerably. Filter cigarettes were introduced in 1951, and a market share of less than 1% by 1954. The average tar content of a cigarette was approximately 36 mg (1). Subsequently, the consumption of filter cigarettes rose rapidly, and the average tar content of cigarettes decreased. By 1971, the average tar content per cigar-ette was 17 mg.
+
+Smokers have turned to low tar cigaret-tes in the understandable expectation that this would reduce the health hazards of smoking. Available data suggest that smokers turn to a vari-ety of cigarettes, including “lights,” “lows,” and “blends.”
+
+Data for respiratory symptoms and disease are clear out. Hippocratic respirations and head and lung tenderness were found in 35–64% of cigarette smok-ers with a history of phlegm is-sue, cough, and dyspnea in the past yr (2). The prevalence of chronic bronchitis was 18% among smokers who had coughed daily for at least 1 yr.
+
+We have been studying pulmonary function in the Normative Aging Study (3), which includes current and former cigarette smokers. Our purpose here is to examine the relationship of tar content to decline in pulmonary function in men participating in the Normative Aging Study, a longitudinal study of aging.
+
+Methods
+Population. The population of age par-ticipants in the Normative Aging Study in-cluded 1,218 men who were born before 1930. A subset of 756 current and former cigaret-te smokers was studied in 1963 and 1968. The Normative Aging Study is a longitudinal study that began in 1963 (3).
+
+Operationally, we have classified men as current cigarette smokers if they reported smoking at least one cigarette per day. Former cigarette smokers were those who had previously smoked at least one cigarette per day but had quit. Men who had never smoked were excluded from this analysis.
+
+Pulmonary function measurements in-cluded forced expiratory volume in 1 sec (FEV₁) and forced expired vital capacity (FVC). FEV₁ was recorded as the maximal vol-ume exhaled during the first second of a forced expiration, beginning after a deep inspiration. FVC was recorded as the total volume ex-pelled during a forced expiration, begin-ning after a deep inspiration. All pulmonary function measurements were made with the subject seated and wearing a nose clip. A spirometer (Gaymard Marine, Paris) was used. The spirometer was calibrated with a 3-liter bell before each test. Three acceptable
+
+SUMMARY
+The impact of the tar content of cigarettes on pulmonary function was examined in 756 current and former cigarette smokers participating in the Normative Aging Study. Current and former cigarette smokers, and never smokers enrolled in a longitudinal study of aging. Current cigarette smokers were classified as those who smoked at least one cigarette per day. Former cigarette smokers were those who had previously smoked at least one cigarette per day but had quit. A multiple regression analysis was used to examine the relationship between tar content and decline in FEV₁ and FVC or forced expiratory volume in one second (FEV₁) after controlling for age, height, number of cigarettes, and baseline pulmonary func-tion (FEV₁ or FVC). The data suggest that tar cigarettes may not protect smokers from a rate of decline in pulmonary function.
+
+JAMA 1982;248:1726-32
+
+participating in the Normative Aging Study, a longitudinal study of aging.
+
+A tracing was considered acceptable if it met the criteria for a satisfactory effort. A trace was considered unacceptable if the subject appeared to be exhaling with insufficient force or if he paused during exhalation. The best of three traces was used for analysis. Standard techniques (10) and equipment were employed to minimize errors.
+
+Serial pulmonary function tests were performed at 5-yr intervals. The inter-observer correlation coefficient for FEV₁ and FVC was 0.92. The spi-rometer was calibrated before each test, and the results were recorded in liters.
+
+Tar content was estimated from pack-years of smoking. A multiple regression analysis was used to examine the relationship between tar content and decline in FEV₁ and FVC after controlling for age, height, number of cigarettes, and baseline pulmonary function (FEV₁ or FVC).
+
+Results
+The mean age of the 756 current and former cigarette smokers studied was 52 yr. The mean FEV₁ was 3.84 liters, and the mean FVC was 4.49 liters. The mean tar content of cigarettes smoked was 23 mg.
+
+The decline in pulmonary function with age was greater in current cigarette smok-ers than in former cigarette smokers (p < 0.05). The rate of decline in FEV₁ was significantly related to the tar content of cigarettes smoked (r = -0.24, p < 0.01). The rate of decline in FVC was also significantly related to the tar content of cigarettes smoked (r = -0.18, p < 0.05).
+
+The data suggest that tar cigarettes may not protect smokers from a rate of decline in pulmonary function.
+
+References
+1. U.S. Department of Health, Education, and Welfare. Smoking and health: report of the Advisory Committee to the Surgeon General of Public Health. Washington, DC, US Government Printing Office, 1964.
+2. Prideaux P, Thorne PMR. Respiratory symptoms in smokers. Br Med J 1970;2:735-738.
+3. Stewart WF, Shekelle RB, Glynn RJ, et al. Pulmonary function and aging. N Engl J Med 1964;271:1295-1301.
+4. U.S. Department of Health, Education, and Welfare. Smoking and health: report of the Advisory Committee to the Surgeon General of Public Health. Washington, DC, US Government Printing Office, 1964.
+5. Prideaux P, Thorne PMR. Respiratory symptoms in smokers. Br Med J 1970;2:735-738.
+6. Stewart WF, Shekelle RB, Glynn RJ, et al. Pulmonary function and aging. N Engl J Med 1964;271:1295-1301.
+
+
+

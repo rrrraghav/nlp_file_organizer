@@ -1,0 +1,129 @@
+252 Epidemiology
+IOS Press, 1994
+
+IMPORTANCE AND INTERACTION OF GENETIC AND ENVIRONMENTAL FACTORS IN DEVELOPMENT OF ATHEROSCLEROSIS
+
+J. Shepherd
+Department of Pathological Biochemistry, Royal Infirmary, Glasgow, UK
+
+Summary Statement:
+
+Six hundred and eighty-two aged students between 18 and 26 years (Mean 22.6±SD 2.1), whose fa-
+thers had proven coronary heart disease (CHD) before the age of 55 years (cases), and 1312 age and
+sex matched controls were recruited from centres in Europe.
+The recruitment centres were grouped on the basis of CHD mortality rates, geographic location and
+language area: Northern Europe (Oslo, Tromsø, Reykjavik, Aberdeen, Glasgow, Belfast), Western Eu-
+rope (Gothenburg, Aarhus and Hamburg), Middle (Innsbruck, Zurich) and Southern Europe
+(Naples, Bordeaux, Barcelona and Rome).
+Male offspring of men with premature CHD made cases were significantly different from male
+controls in that they were not as tall, had a higher body mass index and a greater waist:hip
+ratio. Male and female cases were not different from controls with respect to their weight and systolic
+blood pressure. Female cases but not male cases, had higher systolic blood pressure measurements
+male case controls.
+Male cases had significantly higher plasma cholesterol, triglyceride, apolipoprotein B, lipopro-
+tein A-I and fibrinogen concentrations than controls. These differences were not seen in female
+cases and female controls.
+Both male and female cases had higher plasma HDL cholesterol (HDL-C) levels and lower
+cholesterol than their respective controls.
+Male cases had a significantly higher apolipoprotein A-IV with smaller total fasting plasma
+lipoproteins, whereas female cases had an apparently lower apolipoprotein A-IV.
+The genetic contribution to the differences in lipid and lipoprotein concentrations between
+cases and controls was estimated by digital phenotyping. The results suggest that there is a
+significant genetic effect on HDL-C levels in both male and female offspring of men with pre-
+mature CHD. There were significant regional differences in triglyceride concentrations, suggesting
+that environmental factors also play an important role.
+The findings indicate that the development of premature coronary heart disease is influenced
+by both genetic and environmental factors. The relative importance of these factors may vary
+between males and females and between different regions of Europe.
+
+Key words:
+Apolipoproteins; Atheros-
+clerosis; diet; en-
+zymes; phenotype; triglyc-
+
+1. Introduction, origin
+
+Coronary heart disease
+rope, is unevenly distri-
+bution has been shown to
+incidence. These trends
+seem to be of crucial im-
+
+since genetic predisposi-
+tion varies between popu-
+lations and that environ-
+mental factors can modify
+genetic effects. The Euro-
+pean Community Heart
+Survey (ECHHS) pro-
+vided a unique oppor-
+tunity to investigate the
+relative contributions of
+genetic and environmental
+factors to the development
+of premature CHD in Eu-
+rope.
+
+2. Materials and Methods
+
+2.1 Recruitment centres
+
+Six hundred and eighty-two aged students between 18 and 26 years (Mean 22.6±SD 2.1), whose fa-
+thers had proven coronary heart disease (CHD) before the age of 55 years (cases), and 1312 age and
+sex matched controls were recruited from centres in Europe. The recruitment centres were grouped on
+the basis of CHD mortality rates, geographic location and language area: Northern Europe (Oslo, Trom-
+sø, Reykjavik, Aberdeen, Glasgow, Belfast), Western Europe (Gothenburg, Aarhus and Hamburg), Mid-
+dle (Innsbruck, Zurich) and Southern Europe (Naples, Bordeaux, Barcelona and Rome). The study
+was approved by the ethics committees of each centre.
+
+2.2 Data collection
+
+Data were collected using a standardised questionnaire. Information was obtained on age, sex, height,
+weight, systolic blood pressure, smoking habits, physical activity and dietary history. Blood samples
+were collected from all subjects after an overnight fast. Plasma lipids and lipoproteins were measured
+on the same day or stored at -20°C until analysis.
+
+2.3 Biochemical measurements
+
+Plasma cholesterol was determined by enzymatic method (Kit AZ-43; Sigma Chemical Co., St Louis,
+MO, USA). Plasma triglyceride was measured by a modified version of the Falk and Nelson method
+(Biolab Systems, Milano, Italy). HDL-C was determined by precipitation with phosphotungstic acid
+(adapted from Burstein et al.). Apolipoproteins A-I and B were measured by immuno-nephelometry
+(Pharmacia Diagnostics, Uppsala, Sweden). Apolipoprotein A-IV was measured by ELISA (Ani-
+motive, West Drayton, UK). Fibrinogen was determined by a modified Clauss method. All assays were
+performed at the Royal Infirmary, Glasgow.
+
+2.4 Statistical analysis
+
+Data were analysed using SPSS statistical software package. Differences between cases and controls were
+assessed by t-tests for continuous variables and chi-squared tests for categorical variables. Regression
+analysis was used to assess the relative contributions of genetic and environmental factors to the differ-
+ences in lipid and lipoprotein concentrations between cases and controls.
+
+3. Results
+
+3.1 Baseline characteristics
+
+The baseline characteristics of the cases and controls are shown in Table 1. Male offspring of men with
+premature CHD made cases were significantly different from male controls in that they were not as tall, had
+a higher body mass index and a greater waist:hip ratio. Male and female cases were not different from
+controls with respect to their weight and systolic blood pressure. Female cases but not male cases, had
+higher systolic blood pressure measurements than male case controls.
+
+3.2 Lipid and lipoprotein concentrations
+
+Male cases had significantly higher plasma cholesterol, triglyceride, apolipoprotein B, lipopro-
+tein A-I and fibrinogen concentrations than controls. These differences were not seen in female
+cases and female controls. Both male and female cases had higher plasma HDL cholesterol (HDL-C) levels
+and lower LDL cholesterol than their respective controls.
+
+3.3 Apolipoprotein A-IV
+
+Male cases had a significantly higher apolipoprotein A-IV with smaller total fasting plasma
+lipoproteins, whereas female cases had an apparently lower apolipoprotein A-IV.
+
+4. Discussion
+
+The findings of this study indicate that the development of premature coronary heart disease is influenced
+by both genetic and environmental factors. The relative importance of these factors may vary between
+males and females and between different regions of Europe.

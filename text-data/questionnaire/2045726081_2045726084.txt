@@ -1,0 +1,74 @@
+PM-4492
+
+SPECIFICATIONS
+
+In all six groups:
+* Males;
+* Must smoke at least 1/2 pack of cigarettes in an average day;
+* Must be white (no Hispanic or African American respondents);
+* “Opinion leaders”;
+* Must have graduated from high school;
+* Past participation and security screens.
+
+In Quota Group A:
+Must smoke full-flavored Marlboro cigarettes;
+Ages 18 - 24 years.
+
+In Quota Group B:
+Must smoke Marlboro Light cigarettes;
+Ages 18 - 24 years.
+
+In Quota Group C:
+Must smoke full-flavored Camel cigarettes
+or Camel Light cigarettes (filtered);
+Ages 18 - 24 years.
+
+In Quota Group D:
+Must smoke full-flavored Marlboro cigarettes;
+Ages 25 - 34 years.
+
+In Quota Group E:
+Must smoke Marlboro Light cigarettes;
+Ages 25 - 34 years.
+
+In Quota Group F:
+Must smoke full-flavored Camel cigarettes
+or Camel Light cigarettes (filtered);
+Ages 25 - 34 years.
+
+SCREENER
+
+[Note: Please ask to speak with a MALE member of the household.]
+
+Hello, my name is ______ and I’m calling from ______, a marketing research company. We are putting some panel discussions together, and I'd like to ask you just a few short questions to see if you might be able to join us.
+
+1) First, may I ask your age? (RECORD AGE AND CHECK APPROPRIATE BOX BELOW)
+
+(Age)
+Under 18 [ ] TERMINATE AND TALLY
+18 - 19 [ ] QUALIFIES FOR QUOTA GROUP A, B, OR C – CONTINUE
+20 - 24 [ ] QUALIFIES FOR QUOTA GROUP A, B, OR C – CONTINUE
+25 - 30 [ ] QUALIFIES FOR QUOTA GROUP D, E, OR F – CONTINUE
+31 - 34 [ ] QUALIFIES FOR QUOTA GROUP D, E, OR F – CONTINUE
+35 - 44 [ ] TERMINATE AND TALLY
+45+ [ ] TERMINATE AND TALLY
+
+[Note: In each group, spread ages to the degree possible.]
+
+2) Now, I am going to read you a list of products. For each one I mention, please tell me if you, yourself, currently use that product? (READ LIST)
+
+[ ] MUST NOT QUALIFY
+
+* Soft drinks
+* Diet soft drinks
+* Regular coffee
+* Decaffeinated coffee
+* Filtered cigarettes
+* Bent cigarettes
+
+All respondents must currently smoke cigarettes.
+
+
+
+The GreenField Consulting Group, LLC.
+PM-4492 Screener

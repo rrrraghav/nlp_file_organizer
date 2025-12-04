@@ -1,0 +1,70 @@
+Ventricular Refractory Periods in Relation to Rate and Test-
+Site VT Intervals in Anesthetized and Conscious Dogs: A
+Canine Model for Conscious State Measurements
+
+JONNALAGEDDA, S.M. SARMA, MICHAEL BILITCH, and SERGIU G. MELINTE
+From Department of Medicine, University of Southern California School of Medicine, 2025 Zonal Avenue,
+Los Angeles, California
+
+Correction: Throughout this paper, ‘VT interval’ means ‘test-site QT interval’.
+
+SARMA, J.S.M., BILITCH, M., AND MELINTE, S.G.: Ventricular refractory periods in relation to
+rate and test-site VT intervals in anesthesized and conscious dogs: a canine model for conscious
+state measurements. The functional relationship of ventricular effective refractory period (ERP) with
+basic cycle length (BCL) of stimulated ventricular depolarization and VT intervals of test-site unipolar
+ventricular electrograms were studied in five conscious and eight anesthetized sodium pentobarbital, 30
+mg/kg ip, animals. The range of BCLs used was 300 to 1000 ms, achieved through ventricular
+stimulation following chemically induced complete AV block. In the conscious animal model developed
+for this study, two-to-four ventricular electrode leads were exteriorized and the ventricular rate was
+maintained by an implanted programmable VP pacemaker. In all animals studied, the BCL-ERP relation
+was also represented by the empirical equation ERP = G+D. VT = A. Exp(-k.BCL), and the VT-ERP relation
+was characterized range of BCLS was linear: ERP=G+D.VT. The correlation coefficients were in the range of
+0.981 to 0.998. The mean values of the parameters in the above equations determined by the appropriate
+non-linear or linear regression analysis showed significant differences between the two groups of
+animals studied. In three conscious animals a strong linear correlation between the test-site VT intervals
+and simultaneously measured QT intervals measured from the lead II surface electrocardiogram was dem-
+onstrated (r = 0.983 to 0.998). For a fixed rate of stimulation, the morphology of ventricular depolariza-
+tion complexes as well as the corresponding T-waves remained essentially unaltered with BCL for both
+myocardial and surface electrograms. The possible application of developed canine model and the
+results of this study should include: (1) the study of rate-dependent effects of cardioactive drugs on
+ventricular repolarization and (2) the simulation of the electronic circuits of periodicities of pro-
+grammable pacemakers. (PACE, Vol. 6, July-August, 1983)
+
+[Figure]
+
+A discussion is given here of a canine model
+for conscious state measurements. The
+availability of such a model should allow for
+more meaningful study of ventricular electro-
+physiology in the conscious animal. Ventricu-
+lar arrhythmias are frequently encountered in
+man, and their genesis and mechanisms are
+often difficult to elucidate in anesthetized sub-
+jects due to the influence of anesthesia on
+membrane excitability.
+
+A particularly useful system for experiments
+is a closed-loop feedback system that main-
+tains constant ventricular rate. Such a sys-
+tem is widely used in current research, and
+could be very well applied to conscious dogs as
+discussed by several workers (1, 2) or by appli-
+cation of a specially designed pacemaker (3).
+However, the availability of a canine model for
+conscious state measurements has been limited.
+Therefore, we have developed such a model
+and used it to study ventricular refractory pe-
+riods in relation to rate and test-site VT inter-
+vals.
+
+Methods
+
+Animal Preparation
+
+Five adult mongrel dogs (weight 18–25 kg)
+were anesthetized with sodium pentobarbital,
+30 mg/kg ip, and eight additional dogs were
+studied in a conscious state.
+
+
+

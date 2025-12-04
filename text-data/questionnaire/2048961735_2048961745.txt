@@ -1,0 +1,31 @@
+XKO LANTZKI
+
+DATABASE DIALOGUE QUESTIONNAIRE
+PM "RECONTACT" SURVEY
+
+Hello, this is ______ from ______. We're conducting a survey with people who live in your area. May I speak with (READ NAME).
+
+***IF RESPONDENT IS NOT AVAILABLE, TRY TO ARRANGE A CALLBACK. DO NOT INTERVIEW ANYONE ELSE.***
+
+IF RESPONDENT ASKS HOW THEIR NAME WAS CHOSEN OR HOW WE GOT THEIR NUMBER, SAY: "We are using a computer generated sample that randomly selects respondents."
+
+1A. Record sex.
+
+Male
+Female
+
+1B. First, are you under 21, between the ages of 21 and 34, or 35 years of age or older?
+
+Under 21 ---------> THANK AND TERMINATE
+21-34 years old
+35 years old and over
+
+1C. Do you smoke cigarettes?
+
+Yes --> CONTINUE
+No  ☐ THANK AND TERMINATE
+DK/NA ☐
+
+
+
+2048961735

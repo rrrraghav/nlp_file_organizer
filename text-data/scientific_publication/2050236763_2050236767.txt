@@ -1,0 +1,184 @@
+FEB 07 '95 12:26PM PHILIPMORRIS
+
+To C. Ellis
+W. Brownlee, PH
+R. Canchrin
+
+P. 4/8
+
+How do Smokers Differ From Nonsmokers
+in Their Response to Thrombolysis?
+(The TIMI-4 Trial)
+
+Daron Zager, MD, Bojan Cercek, MD, Christopher P. Cannon, MD,
+Matthew Jordan, MS, Vicki Davis, DrPH, Eugene Braunwald, MD,
+and Prediman K. Shah, MD, for the TIMI-4 Investigators
+
+Smokers with acute myocardial infarction appear to do
+have a better outcome after thrombolysis than do non-
+smokers. To identify factors that could contribute to this
+curious finding, we analyzed data from the Thrombol-
+ysis in Myocardial Infarction (TIMI-4) trial, in which 382
+patients with acute myocardial infarction were ran-
+domized to tissue plasminogen activator, anistreplase,
+or both. Coronary angiography was performed 90 min-
+utes and 18 ± 6 hours after randomization; a myo-
+cardial perfusion scan was performed at 18 ± 6 hours
+and before discharge, and a radionuclide ventriculo-
+gram was obtained before discharge. Angiographic
+and clinical outcome variables were determined in cur-
+rent smokers, ex-smokers, and nonsmokers, and re-
+gression analysis was used to correct for differences in
+baseline characteristics. The in-hospital mortality of cur-
+rent smokers was lower than that of ex-smokers and
+
+[Am J Cardiol 1995;75:232-286]
+
+gare smoking is associated with increased moro-
+tality and morbidity and mortality1,2 which is mediated
+by multiple deleterious effects of smoking on arteries3-6
+correct, thrombosis, vasospasm, and arrhythmogensis7-13.
+Paradoxically, smoking is associated with better outcome
+in patients who undergo acute myocardial infarction
+with thrombolysis.14 This curious finding has led us to
+hypothesize that smokers may have a different type of
+thrombus than do nonsmokers, and that this difference
+may contribute to the improved outcome after throm-
+bolysis. To test this hypothesis, we analyzed data from
+the Thrombolysis in Myocardial Infarction (TIMI-4) trial,
+in which patients with acute myocardial infarction were
+randomized to tissue plasminogen activator, anistrepla-
+se, or both.
+
+Methods
+
+Study Population
+
+The TIMI-4 trial was conducted at 32 sites in the
+United States and Canada. Patients aged >38 years
+with chest pain suggestive of acute myocardial infarc-
+tion were entered if they had ST-segment elevation on a
+12-lead electrocardiogram or new bundle branch block,
+and who presented within 4 hours of onset of symptoms.
+Patients were excluded if they had received prior coro-
+nary artery bypass grafting, had a history of carcioid
+pulmonary edema, or had a contraindication to throm-
+bolysis. Patients were randomized in a double-blind
+manner to receive tissue plasminogen activator (tPA)
+(100 mg intravenous bolus followed by 90 mg over 1
+hour), anistreplase (10 U intravenous bolus), or both.
+
+Three hundred eighty-two patients were enrolled, and
+286 patients completed the study. The protocol was ap-
+proved by each participating institution’s ethics com-
+mittee, and informed consent was obtained from all pa-
+tients.
+
+Data Collection
+
+Baseline data, including smoking history, were col-
+lected at the time of enrollment. Smoking status was de-
+fined as current smoker (patient currently smokes), ex-
+smoker (patient has quit smoking), or nonsmoker (pa-
+tient has never smoked). The primary end point was
+mortality during hospitalization. Secondary end points
+included in-hospital mortality, reinfarction, and the oc-
+currence of TIMI grade 3 flow at 90 minutes.
+
+Statistical Analysis
+
+Data are presented as mean ± SD or as percentages.
+Differences in baseline characteristics among current
+smokers, ex-smokers, and nonsmokers were assessed
+by t test or chi2 analysis. In-hospital mortality was com-
+pared by Mantel-Haenszel chi2 analysis, stratified for
+age (38 to 54 years and >54 years) and initial ECG
+findings (ST-segment elevation myocardial infarc-
+tion [STEMI] and non-ST-segment elevation myocar-
+dial infarction [NSTEMI]). The incidence of TIMI grade
+3 flow at 90 minutes was compared by Mantel-Haenszel
+chi2 analysis, stratified for age and initial ECG findings.
+A p value < 0.05 was considered significant.
+
+Results
+
+Baseline Characteristics
+
+The baseline characteristics of the patients are shown in
+Table 1. Current smokers (n = 89) were younger than ex-
+smokers (n = 164) and nonsmokers (n = 129) (p < 0.05).
+There were no significant differences among the three
+groups with respect to initial ECG findings or time to
+treatment.
+
+Outcomes
+
+The in-hospital mortality rate was lower in current smok-
+ers (2.8%) versus ex-smokers (5.2%) and nonsmokers
+(7.0%), respectively (p = 0.04 by paired comparison, cur-
+rent vs non-smokers). Ninety minutes after randomization, the inci-
+dence of TIMI grade 3 flow was significantly higher in
+smokers than in ex-smokers and nonsmokers (55% vs
+43% and 45%, p = 0.02); this difference was no longer
+observed at the second angiography, nor did smokers
+differ from ex-smokers with respect to residual throm-
+bus burden because infarct size, ejection fraction, or
+recurrent ischemia. Because a strong inverse relation
+exists between TIMI grade 3 flow and mortality, our
+findings suggest that the lower overall mortalitiy
+of current smokers after thrombolytic therapy may
+be related to a higher incidence of early, complete
+reperfusion.
+
+[Am J Cardiol 1995;75:232-286]
+
+382 patients with evolving AMI. An open-label phases
+were the combination was first conducted in 34 patients
+during our inclusion in this analysis. The study was con-
+ducted in 18 participating centers (see Appendix).
+
+Patients were eligible for entry if they were >38 years
+of age, had chest pain suggestive of AMI, and had ST-
+segment elevation or a new left bundle branch block on
+a 12-lead ECG. Patients were excluded if they had pre-
+vious coronary artery bypass grafting, cardiogenic shock,
+or a contraindication to thrombolysis. Informed consent
+was obtained from all patients.
+
+Patients were randomized in a double-blind manner to
+receive tPA (tissue plasminogen activator) 100 mg IV
+bolus followed by 90 mg over 1 hour), anistreplase
+(10 U IV bolus), or both. The primary end point was
+mortality during hospitalization. Secondary end points in-
+cluded reinfarction, TIMI grade 3 flow at 90 minutes,
+and mortality at 30 days.
+
+Baseline data, including smoking history, were col-
+lected at the time of enrollment. Smoking status was de-
+fined as current smoker (patient currently smokes), ex-
+smoker (patient has quit smoking), or nonsmoker (pa-
+tient has never smoked). The in-hospital mortality rate
+was compared by Mantel-Haenszel chi2 analysis, strat-
+ified for age and initial ECG findings. The incidence of
+TIMI grade 3 flow at 90 minutes was compared by Man-
+tel-Haenszel chi2 analysis, stratified for age and ini-
+tial ECG findings. A p value < 0.05 was considered
+significant.
+
+Baseline Characteristics
+
+The baseline characteristics of the patients are shown in
+Table 1. Current smokers (n = 89) were younger than ex-
+smokers (n = 164) and nonsmokers (n = 129) (p < 0.05).
+There were no significant differences among the three
+groups with respect to initial ECG findings or time to
+treatment.
+
+Outcomes
+
+The in-hospital mortality rate was lower in current smok-
+ers (2.8%) versus ex-smokers (5.2%) and nonsmokers
+(7.0%), respectively (p = 0.04 by paired comparison, cur-
+rent vs non-smokers). Ninety minutes after randomization, the inci-
+dence of TIMI grade 3 flow was significantly higher in
+smokers than in ex-smokers and nonsmokers (

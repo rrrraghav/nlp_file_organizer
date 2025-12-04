@@ -1,0 +1,59 @@
+NATIONAL AAU STUDY Year (1=1)
+(API #1104) Resp. # (2-5)
+Card - 1 (7=1)
+
+GOOD MORNING/AFTERNOON/EVENING. I’M CALLING LONG DISTANCE
+FROM AD FACTORS. WE ARE A RESEARCH FIRM CONDUCTING A SHORT NATIONAL
+STUDY. (Go directly to Q. A.)
+
+A. WHO IS THERE ANYONE LIVING IN YOUR HOUSEHOLD 18 YEARS OF AGE OR OLDER
+WHO SMOKES TEN OR MORE CIGARETTES A DAY? Yes - 1 (Continue)
+(Terminate record “x” on sample form & circle No - 1 next available number below.) (8-9)
+
+NO  01 02 03 04 05 06 07 08 09 10 11 12 13 14 15 16 17 18 19
+SMOKER 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38
+
+PLEASE TELL ME THE AGES OF ALL MEN, FROM THE YOUNGEST TO OLDEST,
+LIVING IN THIS HOUSEHOLD WHO SMOKE TEN OR MORE CIGARETTES A DAY.
+(If respondent is male, be sure to include yourself if you
+smoke ten or more cigarettes a day.)
+
+C. NOW, TELL ME THE AGES OF ALL THE WOMEN, FROM THE YOUNGEST TO OLDEST,
+IN THE HOUSEHOLD WHO SMOKE TEN OR MORE CIGARETTES A DAY.
+(If respondent is female, be sure to include yourself if you
+smoke ten or more cigarettes a day.)
+
+Ages Male Female
+(Be sure to write in 1-10 1-10
+the actual number of 11-17 11-17
+respondents within 18-24 18-24
+each age category) 25-34 25-34
+35-49 35-49
+50 & over 50 & over -
+
+(blank)
+D. FOR THIS STUDY, I WOULD LIKE TO SPEAK TO: (Read list in order)
+(If no male smokers, do not ask males)
+
+Youngest male smoker
+Next youngest male smoker
+Next youngest female smoker
+Youngest female smoker
+
+(Speak to the first available qualified respondent above 18
+years-his representative will then answer a few more
+is called to the telephone.)
+
+E. Male - 1  Male - 2 (25)
+
+F. ABOUT HOW MANY CIGARETTES DO YOU SMOKE IN A DAY?
+(If respondent doesn't answer figure 12)
+Do you smoke:
+0-9 cigarettes? 1-2
+10-14 cigarettes? 3-4
+15-19 cigarettes? 5-6
+20-24 cigarettes? 7-8
+25-29 cigarettes? 9-10
+30 or more cigarettes? 11-12
+
+84431031

@@ -1,0 +1,52 @@
+MARKETING INFORMATION SYSTEMS, INC.
+100 Sylvan Avenue
+Englewood Cliffs, NJ 07632
+800-831-1623/(201)-541-6900
+
+#83882
+November, 1982
+
+P+M DISPLAY TEST
+(Black Smoker)
+
+CARD
+
+Respondent’s Name
+
+RECORD RESPONDENT'S REGULAR BRAND SCREENER 0.6:
+
+(FULL BRAND NAME)
+
+8a. How long have you been smoking [BRAND IN 0.6]? (DO NOT READ LIST) 23- ?
+    3 months or less... . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . ( ) -1
+    4 - 6 months. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . ( ) -2
+    7 - 11 months. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . ( ) -3
+    12 months (about 1 year). . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . ( ) -4  24/25-
+    Over 1 to 2 years. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . ( ) -5
+    Over 2 years  (SPECIFY) ( )
+
+8b. Some brands come in more than one type or size. Before you started smoking (FULL NAME FROM 0.6), were you smoking some other type or size of [FIRST NAME FROM 0.6] or were you smoking some other brand?
+    Other type or size of same brand . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . ( ) -1  →(ASK 0.8c)
+    Another brand . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . ( ) -2  (SKIP TO 0.9)
+(DO NOT READ—No previous brand). . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . ( ) -0  (SKIP TO 0.10)
+
+8c. What type or size of [FIRST NAME FROM 0.6] did you smoke most often before
+you started smoking (FULL NAME FROM 0.6)? (SHOW BRAND LIST TO DETERMINE WHICH VERSION)
+FULL NAME:
+
+(RECORD FULL NAME FROM BRAND LIST; THEN SKIP TO 0.10)
+27/28/29-
+
+9. What one brand of you smoke most often before you started smoking (FULL NAME FROM 0.6)? (SHOW BRAND LIST TO DETERMINE WHICH VERSION) 30-
+    FULL NAME:
+
+(RECORD FULL NAME FROM BRAND LIST)
+31/32/33- 34-
+
+(HAND RESPONDENT SCREEN DOT PORTFOLIO; tell "I would like you to do
+this next task as soon as I finish this one and then go on with the rest
+of the test when you have finished.")
+
+WHEN RESPONDENT HAS FINISHED, TAKE PORTFOLIO.
+
+2/45/258 0.6

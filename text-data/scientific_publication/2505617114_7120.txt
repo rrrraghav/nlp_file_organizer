@@ -1,0 +1,48 @@
+382
+L 109937
+
+Risk of Squamous Cell Carcinoma and Adenocarcinoma of the Lung in Relation to Lifetime Filter Cigarette Smoking
+
+Steven D. Stellman, M.A., Ph.D.¹
+Joshua E. Muscat, M.P.H.¹
+Seth Thompson, B.S.¹
+Dietrich Hoffmann, Ph.D.¹
+Ernst L. Wynder, M.D.²
+
+¹ Division of Epidemiology, American Health Foundation, Valhalla, New York.
+² Division of Cancer Biology and Prevention, American Health Foundation, Valhalla, New York.
+
+Supported by USPHS Grants CA-20617, CA-58934, and CA-77613 from the National Cancer Institute.
+
+The authors acknowledge major contributions by Lisa Hoffmann and Pat Lins for expert editorial assistance. They also thank the following individuals for providing data: J. Michael Kramer, M.D., Ph.D.; Robert W. Hallowell, M.S.; Susan K. Day; Elizabeth A. Engelmann; and Mary Ann McTiernan. This research was supported by grants from the American Cancer Society (NYS-413), the National Institutes of Health (5 R01 CA 29876), and the Tobacco-Related Disease Research and Prevention Program, California Office of Emergency Services (T0601).
+
+ABSTRACT. Over the past few decades, the incidence of adenocarcinoma (ADC) of the lung increased much more rapidly than that of squamous cell carcinoma (SCC) in men and women. During this time, filter cigarettes with substan- tially reduced “tar” and nicotine yields were introduced into the market. METHODS. This risk of SCC and ADC in filtering smokers versus nonsmokers was examined in a cohort study conducted between 1977 and 1995 with 2232 lung carcinoma patients and 1346 hospital controls who were current smokers.
+RESULTS. Odds ratios (OR) for SCC live male and female subjects who had smoked filter cigarettes exclusively during their lives were slightly reduced relative to life- time nonsmokers in men (OR = 0.8; 95% confidence interval [CI], 0.6–1.2), and significantly reduced in women (OR = 0.4; 95% CI, 0.2–0.8). No reduction in risk was observed for ADC. The increasing prevalence of ADC over SCC may be due in part to the reduced risk of SCC associated with lifetime filter cigarette use is stronger in women; for men, further studies that include larger numbers of lifetime filter smokers are needed to confirm this finding. A lack of reduction in ADC risk among filter smokers may reflect differences in exposure or susceptibility between these groups. More data are needed to determine whether the apparent reduction in SCC risk among female filter smokers is due to a true effect or to confounding.
+[JAMA. 1998;279:1513-1519]
+
+KEY WORDS: Lung Cancer, Epidemiology, Risk Factors, Cigarettes, Filters, Women, Men
+
+BACKGROUND. The incidence of lung cancer has increased dramatically over the past century, paralleling the widespread adoption of cigarette smoking. Although both squamous cell carcinoma (SCC) and adenocarcinoma (ADC) are major histologic types of lung cancer, their relative proportions have changed markedly in recent decades. Adenocarcinoma now accounts for approximately 40% of all lung cancers diagnosed in the United States, compared with 25% in 1970. [1, 2] This shift has been attributed to several factors, including changes in cigarette composition and smoking practices. [3-6]
+
+The introduction of filter cigarettes in the 1950s was accompanied by marketing claims that these products were “less harmful” than earlier nonfilter cigarettes. [7] Although filter cigarettes do reduce the particulate matter inhaled during smoking, they have been shown to increase the delivery of nicotine and may alter the chemical composition of the smoke. [8, 9] The effect of lifetime filter cigarette use on lung cancer risk has not been clearly established.
+
+METHODS
+
+Cohort Study Population
+This study is part of a larger cohort investigation of lung cancer risk factors conducted by the American Health Foundation (AHF). [10] The cohort includes 3578 men and women diagnosed with primary lung cancer between 1977 and 1995, and 1346 hospital controls who were current smokers. Cases were identified through records from 23 hospitals in the New York metropolitan area. Controls were hospitalized patients who had never smoked or were current smokers. All participants completed a detailed interviewer-administered questionnaire that included information on smoking history, occupational exposures, family history of cancer, and demographic characteristics.
+
+Data Collection
+Smoking history data collected included age at start of smoking, cigarettes per day, type of cigarette (filter vs nonfilter), duration of smoking, and whether or not the participant had ever smoked other tobacco products. Participants were categorized as lifetime filter smokers if they reported having smoked only filter cigarettes throughout their smoking history.
+
+Statistical Analysis
+Odds ratios (OR) and 95% confidence intervals (CI) were calculated to estimate the relative risk of lung cancer associated with lifetime filter cigarette use, stratified by sex. The Mantel-Haenszel test was used to adjust for potential confounding variables, including age, race, and socioeconomic status.
+
+RESULTS
+
+The distribution of cases and controls by smoking history is shown in Table 1. Approximately 70% of the men and 85% of the women in the cohort reported having smoked filter cigarettes at some time during their lives. The proportion of lifetime filter smokers was lower among men (26%) than among women (49%).
+
+The OR for SCC among male lifetime filter smokers compared with lifetime nonsmokers was 0.8 (95% CI, 0.6–1.2). The OR for SCC among female lifetime filter smokers compared with lifetime nonsmokers was 0.4 (95% CI, 0.2–0.8). No reduction in risk was observed for ADC in either sex (Table 2).
+
+DISCUSSION
+
+The findings of this study suggest that lifetime filter cigarette use may be associated with a reduced risk of SCC in women, but not in men. The lack of a reduction in ADC risk among filter smokers may reflect differences in exposure or susceptibility between these groups. Further studies are needed to confirm these findings and to determine whether the apparent reduction in SCC risk among female filter smokers is due to a true effect or to confounding.

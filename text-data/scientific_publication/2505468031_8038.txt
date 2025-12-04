@@ -1,0 +1,22 @@
+Risk of Respiratory Illness Associated with Day-Care Attendance: A Nationwide Study
+
+Eugene S. Hurwitz, MD; Walter J. Gunn, PhD; Paul F. Pinsky, MPH; and Lawrence E. Schomberger, MD
+
+From the Division of Viral and Rickettsial Diseases, Center for Infectious Diseases, Center for Disease Control, Public Health Service, US Department of Health and Human Services, Atlanta, Georgia.
+
+ABSTRACT. The risk of respiratory and other illnesses in children aged 6 weeks through 17 months in various types of day-care facilities was studied. Children consid-ered exposed were those who attended day care with at least one unrelated child for at least 10 hours per week; unexposed children were those who did not have siblings or cousins attending day care and who were not receiving regular day care. An increased risk of respiratory illness was associated with attending day care for children aged 6 weeks through 17 months (relative risk = 1.10 to 2.41 confidence interval = 1.10 to 2.41) and children 18 months through 35 months of age (relative risk = 1.19, 95% confidence interval = 1.07 to 1.60). In contrast, day-care attendance was not associated with an increased risk of respira-tory illness in children 36 months of age or older (rel-ative risk = 1.03, 95% confidence interval = 0.92 to 1.15). The association with attending day care was most pronounced when the child had siblings or cousins who attended day care with an increased risk of respiratory illness in children aged 6 weeks through 17 months (relative risk = 1.43, 95% confidence interval = 1.18 to 1.74). In addition, the presence of a sibling or cousin attending day care was associated with an increased risk of respira-tory illness in children aged 18 months through 35 months (relative risk = 1.20, 95% confidence interval = 1.06 to 1.36). The illnesses most commonly reported were upper respiratory infections, bronchitis, and otitis media.
+
+ABBREVIATIONS. ABE, attributable risk in the exposed; FAR, population attributable risk; CL, confidence interval.
+
+In recent years, interest has been growing in the possible health-related risks that result from the increasing use of day care facilities in the United States. Among the illnesses of concern are infec-tions of the upper respiratory tract, the most com-mon cause of illness in children attending day care facilities, as well as diarrheal Hepatitis, and Haemophilus influenzae infections. Infections of the upper respiratory tract, although typically mild, are of increasing interest because of their association with otitis media and associ-ated complications. We conducted a study to as-sess the risk of respiratory and other illnesses related to attending various types of day care facilities. This study provided the opportunity to assess the risk of respiratory illness in children of various ages attending day care facilities and to explore possi-ble underlying characteristics and factors that may bear their potential role in the risks of day-care-associated illnesses.
+
+METHODS
+
+The data for this study were obtained from the National Health Interview Survey, an ongoing survey conducted by the National Center for Health Statistics. The survey includes a sample of approximately 27,000 households each year. Data are collected through personal interviews and cover a wide range of health topics, including child care arrangements. For this analysis, we used data from the 1983 National Health Interview Survey, which included information on 64,541 children aged 6 weeks through 35 months.
+
+The survey questionnaire asked about day-care attendance and illnesses experienced during the 12 months preceding the interview. Children were classified as exposed if they attended day care with at least one unrelated child for at least 10 hours per week. Unexposed children were those who did not have siblings or cousins attending day care and who were not receiving regular day care.
+
+Illnesses were categorized into respiratory illnesses (e.g., bronchitis, pneumonia, upper respiratory infections) and other illnesses (e.g., diarrhea, gastroenteritis). Relative risks and 95% confidence intervals were calculated to estimate the association between day-care attendance and illness.
+
+
+

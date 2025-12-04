@@ -1,0 +1,53 @@
+440 Sylvan Avenue
+Englewood Cliffs, NJ
+July, 1986
+
+FOR OFFICE USE ONLY:
+
+Phase # -1 -2 -3 -4 -5 (8)
+Job #: 100-12-POS-086 Rot. #: -1
+Loc: LI-1; FL-2; CH-3; MN-4; DN-5; TX-6; CA-7 (10)
+Age: 18-24 -1 Female ->2 (CHECK QUOTAS) (11)
+(2-2) 35 and over ->2 (12)
+
+Point of Sale (CHECK QUOTAS)
+Screening Questionnaire (SKIP COLS. 13,15)
+
+Good morning/afternoon/evening. I am from Perception Research Services. Today we are exploring consumers’ opinions about various products. Could you spend a few minutes to answer some questions? Your opinion is important.
+
+(RECORD SEX BY OBSERVATION. CHECK QUOTAS)
+
+1. Have you been interviewed on these premises in the past 6 months?
+Yes -> (TERMINATE) No -> (CONTINUE)
+
+2. Do you, or does anyone in your household, work for… (READ LIST):
+Yes No
+An advertising agency -1 -2
+A company engaged in marketing research -1 TERMINATE -2
+A company that manufactures or distributes food products -1 -> CONTINUE -2
+A company that manufactures or distributes health or beauty aids -1 -2
+A company that manufactures or distributes cigarettes -1 TERMINATE -2
+
+3. Which of the following products do you use on a regular basis:
+
+4. Do you chew gum on a regular basis?
+Yes ->1 (ASK Q3b:) No ->2 (SKIP TO Q3d)
+
+3b. (IF “YES” TO Q3a, ASK:) Do you chew… (READ LIST):
+Less than 1 pack a day -1
+About 1 pack a day -2
+More than 1 pack a day -3
+
+3c. (IF "YES" TO Q3a, ASK:) When you buy gum, do you... (READ LIST):
+1 pack at a time -1
+More than 1 pack at a time -2
+
+3d. (ASK ALL:) Do you drink beer on a regular basis?
+Yes ->1 (ASK Q3e:) No ->2 (SKIP TO Q3g)
+
+3e. (IF “YES” TO Q3d, ASK:) Do you drink… (READ LIST):
+Less than 1 beer a day -1
+About 1 beer a day -2
+More than 1 beer a day -3
+
+507ZR 8068

@@ -1,0 +1,49 @@
+Association of Dietary Fat and Lung Cancer 1,2
+
+Ernst L. Wynder, M.D.,³ James R. Hebert, Sc.D.,³ and Geoffrey C[?]asat. ROGER CALMAN
+PM COMPANIES, INC.
+
+ABSTRACT—An international comparison study of the relation- METHODS
+ship among dietary predictors, tobacco consumption, incomes, and OCT 2 2 1984/
+truncated age-adjusted lung cancer mortality was conducted with
+the use of data from 107 countries. A regression analysis Data sources—Each of the 43 countries used in this
+weighting each country to the square root of the appro- analysis had a mid-1978 population in excess of
+priate population and adjusting for several covariates showed that 1,000,000 persons. Of these 43 countries, all but South
+calories from fat were significantly associated Africa had sufficient data for multivariable analyses. A
+(P<0.001) with lung cancer mortality. This finding was obtained validation of results based on all 42 countries has less
+after accounting for disappearance data for tobacco (P<0.001). than 15% of the deaths classified as due to ill-defined symp-
+The dominant risk factor for lung cancer, and total calories toms or conditions (ICD8° 780–796) (9).
+(P < .02). Other covariates included per capita gross national
+product and proportion of calories from fruits, vegetables, roots, In the multivariable analyses, the outcome variable
+tubers, and pulses. Weaknesses of this study, statistical considera- was age-adjusted lung cancer mortality rates by
+tions, biologic plausibility, in particular the modulation of tobacco direct method; the age-straturn-specific 42-country
+smoke carcinogens by lipids in the lung, and suggestions for average populations). Lung cancer mortality rates by
+future study are discussed.—UNCJ 1984; 79:631–637. country were mortality data from the period 1974
+to 1979 (10, 11). Predictors were total calories, calories to-
+Smoking, especially of cigarettes, is the major estab- tal fat, animal fat, animal protein, vegetable fat,
+lished cause of lung cancer (1). To fully account for vegetable foods. Nonnutritional variables considered
+one must consider other factors. There is increasing evi- were tobacco disappearance and per capita GNP. All
+dence that dietary factors may influence the risk of lung values were derived on a per capita basis, and all but
+cancer (2, 3). This study examines the association be- per capita GNP data are based on disappearance data™.
+tween diet and lung cancer mortality in 43 countries. Tobacco disappearance was calculated for approximately
+The study is limited to countries with adequate data on 20 years, and food values were aggregated for all
+both diet and lung cancer mortality. available data. Country ranking were labeled for 10
+years because they do not change in a short time.
+MATERIALS AND METHODS
+Data—Age-adjusted lung cancer mortality rates (per
+Sources of data included the World Bank (4), the Food 1,000,000 population) were obtained from the WHO
+and Agricultural Organization of the United Nations (5), and (12). Data on tobacco disappearance were obtained
+the Central Intelligence Agency (6). The period used was from the U.S. Department of Agriculture (13). Per
+1974 to 1979, which allowed for a comparison of countries capita GNP data were obtained from the World Bank
+with similar levels of economic development. (4).
+
+The following dietary predictors were considered: total
+calories, calories from fat, animal fat, animal protein,
+vegetable fat, and vegetable foods. Nonnutritional vari-
+ables included tobacco disappearance and per capita gross
+national product. All values were derived on a per capita
+basis.
+
+Statistical analysis was performed using multiple linear
+regression. Countries were weighted to the square root of
+the appropriate population.

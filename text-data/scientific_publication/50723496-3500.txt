@@ -1,0 +1,63 @@
+SHORT REPORT
+
+ALL-1 interacts with wnr, a protein containing multiple cold shock domains
+
+D Leshkowitz¹, O Rozenblatt¹, T Nakamura², T Yano³, F Dautry⁴, CM Crocé¹ and E Canaani¹
+
+¹Department of Molecular Cell Biology, Weizmann Institute of Science, Rehovot 76100, Israel; ²Jefferson Cancer Institute, Jefferson Medical College, Philadelphia, Pennsylvania 19107, USA; ³CNRS, Institut de Recherches sur le Cancer Villejuif 94801, France
+
+The ALL-1 gene is involved in human acute leukemia through chromosome translocations and fusion to partner genes, or through partial tandem duplications. ALL-1 is the human homologue of Drosophila rithorax which regulates the homeotic genes of the Antennapedia and bithorax complexes controlling body segment identity. ALL-1 encodes a very large protein of 3968 amino acids which presumably interacts with many proteins. Here we applied yeast two-hybrid screening to identify proteins interacting with the N-terminal region of ALL-1. One protein obtained in this way was the product of an unknown gene. This protein consists of multiple repeats homologous to the cold shock domain (CSD), a motif common to some bacterial and eukaryotic nucleic acids-binding proteins. The minimal region on wnr required for the interaction with ALL-1, as well as two CSDs and four intervening polypeptides. The interaction was confirmed by in vivo co-immunoprecipitation using antibodies raised against its C-terminal end. This suggests that wnr is involved in the two proteins. These results suggest that ALL-1 is a RNA-binding protein.
+
+Keywords: yeast two hybrid screening; nucleic acids binding proteins; cold shock domain; Drosophila rithorax; human ALL-1 gene
+
+Introduction
+
+The ALL-1 gene was initially identified as a fusion partner in t(11;22) chromosomal translocations found in some patients with acute leukemia (Radke et al., 1989). The resulting hybrid gene, MLL-AF1, encodes a chimeric protein that is constitutively active and leads to uncontrolled cell proliferation (Wong et al., 1994). ALL-1 maps to chromosome 11q23 and encodes a very large nuclear protein of 3968 amino acids (Canaani et al., 1995). The deduced amino acid sequence reveals that ALL-1 contains several domains, including histone acetyltransferase activity (see references in Canaani et al., 1995) and regions homologous to zinc finger motifs.
+
+The Drosophila homologue of ALL-1, rithorax, is a component of the Antennapedia and bithorax complexes which regulate the expression of homeotic genes during development (Gehring et al., 1980; Morrough et al., 1984). Rithorax acts as a positive regulator of the Antennapedia and bithorax complex genes, influencing their spatial and temporal patterns of expression. Homozygous mutant rithorax flies display severe defects in body segment identity (Morrough et al., 1984).
+
+To identify proteins that interact with ALL-1, we performed yeast two-hybrid screening using a cDNA library from human placenta (Dautry et al., 1995). Here we report the identification of wnr, a protein containing multiple cold shock domains, as an ALL-1 interacting partner.
+
+Results
+
+Yeast Two-Hybrid Screening
+
+A human placental cDNA library was screened with the N-terminal region of ALL-1 (amino acids 1–734) fused to the yeast GAL4 DNA-binding domain. Positive interactions were detected using a panel of reporter gene constructs, including both α-factor and leucine markers. The strongest positive signals were obtained with a plasmid encoding wnr, a protein containing multiple cold shock domains.
+
+wnr is a novel human protein that we have named after its initial identification in the yeast two-hybrid screen. The predicted amino acid sequence of wnr reveals an open reading frame of 2379 nucleotides, encoding a protein of 793 amino acids with a molecular weight of approximately 86 kDa. Wnr contains five cold shock domains (CSDs), each consisting of about 100 amino acids. CSDs are commonly found in bacterial and eukaryotic nucleic acid-binding proteins and are thought to be involved in RNA stabilization and protection from degradation (Margolis et al., 1991).
+
+rithorax, ALL-1 heterozygous (+/-) mice display homeotic transformations (Yu et al., 1993). D rithorax is a member of a class of genes (rithorax group) which have been characterized genetically as positive regulators of the homeotic gene complexes Antennapedia and bithorax, the latter control the development of the fly’s body pattern (Gehring et al., 1980). It is consistent with the idea that rithorax proteins act in a complex with some regulatory transcription factor(s) to activate transcription of Antennapedia, bithorax and other genes. Moreover, the large size of the rithorax and ALL-1 proteins (~3968 residues respec- tively, suggests physical interactions with a variety of other proteins. Here we embarked on identification of these interactions by utilizing screens of ALL-1 as bait in yeast two hybrid systems (Duffield and Song, 1993) on human B cell cDNA library (Durfee et al., 1993). The first protein we fished is encoded by the untranslated at L-ras gene (Jeffers et al., 1990; Miller et al., 1991).
+
+The wnr and ALL-1 proteins share no significant homology except for the presence of CSDs. ALL-1, 11q23 → qter, hybridizes to a single transcript of 17 kb (Canaani et al., 1995). The wnr gene was mapped to chromosome 8p21.3 by Recombination Supported Mapping (RSM) and FISH analyses (data not shown).
+
+Interaction between ALL-1 and wnr in Vivo
+
+To confirm the interaction between ALL-1 and wnr, we performed co-immunoprecipitation experiments using anti-ALL-1 antibodies. Nuclear extracts from human placenta were incubated with anti-ALL-1 antibodies, and immunoprecipitates were analyzed by Western blotting using anti-wnr antibodies. As shown in Figure 1A, a band corresponding to wnr was detected in the ALL-1 immunoprecipitates. Conversely, when nuclear extracts were incubated with anti-wnr antibodies, a band corresponding to ALL-1 was detected (Figure 1B). These results indicate that ALL-1 and wnr physically interact in vivo.
+
+Discussion
+
+The identification of wnr as an ALL-1 interacting partner provides new insights into the function of this protein. The presence of multiple CSDs in wnr suggests that it may be involved in RNA metabolism, possibly by stabilizing or protecting mRNA transcripts. Given the role of rithorax in regulating homeotic gene expression in Drosophila, it is possible that the interaction between ALL-1 and wnr plays a similar role in human development or leukemia pathogenesis.
+
+The fact that both proteins are nuclear suggests that they may function together in transcriptional regulation. Further studies are needed to determine the precise nature of this interaction and its biological significance.
+
+Acknowledgements
+
+We thank Dr. Shlomo Yaniv for assistance with the yeast two-hybrid screening.
+
+References
+
+Canaani, E., Rozenblatt, O., Leshkowitz, D., et al., 1995. The human ALL-1 gene encodes a large nuclear protein with histone acetyltransferase activity. Nucleic Acids Res. 23, 4087–4094.
+
+Dautry, F., Crocé, C.M., Canaani, E., et al., 1995. A human placental cDNA library for yeast two-hybrid screening. Gene 161, 155–158.
+
+Duffield, A.S., Song, J., 1993. Yeast two-hybrid system. Current Protocols in Molecular Biology 1, 2.7.1–2.7.34.
+
+Gehring, W., Akamatu, K., Behre, W., et al., 1980. The murine homeotic gene complex Antennapedia maps to chromosome 6. Nature 285, 607–611.
+
+Jeffers, G.L., Miller, T.P., Barbez, J.F., et al., 1990. A novel upstream open reading frame in the human c-ras oncogene. Science 248, 1351–1354.
+
+Leskowitz, D., Rozenblatt, O., Nakamura, T., et al., 1995. ALL-1 interacts with wnr, a protein containing multiple cold shock domains. Gene 161, 207–212.
+
+Margolis, R.L., Bothner, N.C., Goodman, H.M., 1991. Cold-shock proteins: sequence conservation and functional implications. Trends Genet. 7, 345–351.
+
+Morrough,

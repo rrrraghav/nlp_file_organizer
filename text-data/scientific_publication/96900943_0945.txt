@@ -1,0 +1,30 @@
+259
+
+7782 LIBRARY COPY JUL 26 1977
+7782
+
+Note
+
+The use of a carbon analyzer to detect and analyze sugars separated by aqueous column chromatography
+
+CHUNG-MAY WUY*, JOYCE S. HUDSON, and R. M. MCCRADY
+
+Western Regional Research Laboratory, Agricultural Research Service, U.S. Department of Agriculture, Berkeley, California 94710 (U. S. A.)
+Received March 18, 1971; accepted for publication April 27th, 1971
+
+Sugars were first separated from each other on ion-exchange columns by Khym and Zill¹ as borate complexes. This separation procedure is widely used, but suffers the drawback that the cations and borate must be removed before the sugars can be crystallized.
+
+Mixtures of sugars have been separated successfully on ion-exchange columns with water as the eluent2-4. Fractions of eluates are usually monitored by some colorimetric reaction for sugars, such as the phenol-sulfuric acid method developed by Dubois et al.5. The procedure is effective, but usually a relatively large sample of test solution is required, and for quantitative analysis each sugar reacts to give a different color intensity and must be compared to a standard of that particular sugar.
+
+This note describes the use of the Beckman Carbon Analyzer™ as a detector for sugars separated by column chromatography. Although the instrument was developed for analyzing carbon contents in aqueous solutions, we have not seen reports of its use to monitor fractions of sugars or other organic compounds separated by column chromatography. The analyzer contains an oven with a combustion tube, absorption tubes, a specific infrared detection system, and a strip-chart recorder. Two milliliters of carbon-containing aqueous solution is injected on a gas combustion column in a stream of oxygen. The products of combustion, carbon and carbon dioxide, pass through a tube where water is absorbed, and the concentration of carbon dioxide is measured by the detector and recorded on the strip chart. The carbon analyzer detects parts per million of organic carbon-containing compounds quantitatively within seconds.
+
+EXPERIMENTAL
+
+Sugars. 10 mg each of raffinose, stachyose, gentianose, sucrose, D-glucose, xylose, and D-fructose, in water (1 ml) were applied to a gas column (2.4 x 148 cm)
+
+*Present address: Food Processing Institute of the United Nations, July 1970 to July 1971;
+now at The Food Industries Organization, P. O. Box 3126, Tehran, Iran. Supported in part by funds from California Processors of Agriculture, Sacramento, California.
+
+
+
+95600045

@@ -1,0 +1,135 @@
+MOLECULAR AND CELLULAR BIOLOGY, Feb. 1993, p. 122-123
+0270-9475/93/02122-06$2.00
+
+Copyright © 1993, American Society for Microbiology
+
+Vol. 13, No. 2
+
+A New Serum-Responsive, Cardiac Tissue-Specific Transcription
+Factor That Recognizes the MEF-2 Site in
+Myosin Light Chain-2 Promoter
+
+MING-DONG ZHOU, SHYAMLAL K. GOSWAMI, MARY ELLEN MARTIN,
+and M. A. O. SIDDIQUI*
+Department of Anatomy and Cell Biology, State University of New York
+Health Science Center, Brooklyn, New York 11203
+
+Received 7 February 1992/Returned for modification 14 April 1992/Accepted 30 November 1992
+
+We have identified a serum-responsive, cardiac tissue-specific transcription factor, BBF-1, that recognizes an
+AT-rich sequence (element B), identical to the myocyte enhancer factor 2 (MEF-2) site, in the myosin
+light chain-2 (MLC-2) promoter. Deletion of the element B sequence alone from the cardiac MLC-2
+genes, a marked reduction of transcription. BBF-1 is distinguishable from MEF-2 by its ability to
+immunoprecipitate with an antibody which recognizes MEF-2 but not BBF-1. Unlike MEF-2, BBF-1 is
+present exclusively in heart extracts and does not bind to the MEF-2 consensus sequence. The basis
+of this difference lies in the removal of serum from culture medium abolishes BBF-1 activity selectively with a
+concomitant loss of MLC-2 gene transcription. This suggests that BBF-1 and MLC-2 gene transcription, indicating that
+site) sequence. The loss of element B-mediated activation of MLC-2 gene transcription is reversed following the refeeding
+of cells with serum-containing medium. We have also identified a second protein, MEF-2B, which binds to the same target site but that, unlike MEF-2, it does not interact
+with cardiac tissue extracts. BBF-1 and MEF-2B appear to be a crucial member of the family of
+proteins which serve as important tool in understanding the regulatory mechanisms underlying
+cardiogenic differentiation.
+
+The expression of cardiac muscle genes during myogene-
+sis is influenced by a plethora of factors, including serum (13,
+17), growth factors (15, 20), and hormones (1, 19). It is
+currently hypothesized that these external stimuli act
+through an intracellular signaling pathway which results in
+the activation of transcription of cardiac muscle genes.
+Several lines of evidence suggest that a class of nuclear
+proteins plays a critical role in this process. These proteins
+bind to specific DNA sequences within the promoter regions
+of cardiac muscle genes and either enhance or repress their
+transcription (2, 4, 6, 11, 18).
+
+Myosin light chain-2 (MLC-2) is an essential component
+of the contractile apparatus of vertebrate skeletal and
+cardiac muscle (9, 21). The MLC-2 gene contains several
+cis acting elements in its promoter region that regulate its
+expression during development (7, 10, 14). One such
+element, designated MEF-2 site, has been shown to mediate
+the induction of the MLC-2 gene by serum (7). The MEF-2
+site is also present in the promoters of other cardiac muscle
+genes, such as atrial natriuretic factor (ANF) (5), and its
+function is thought to be widespread (3).
+
+In this study, we describe an activator element(s) underlying
+cardiac tissue-specific MLC gene transcription. This
+element has been designated element B, which is imprinted
+in the cardiac tissue upon entry T protein. A 41-kilodalton
+nuclear protein, termed BBF-1 (Brooklyn Binding Factor 1),
+specifically recognizes element B. We show that BBF-1
+activity is dependent on serum and that it plays a crucial
+role in regulating MLC-2 gene transcription in cardiac
+muscle cells.
+
+MATERIALS AND METHODS
+
+Plasmid Constructions. The region of the human MLC-2
+promoter used in this study was obtained by PCR using
+primers based on the published sequence (7). The full-length
+MLC-2 cDNA was used as a template for the PCR reaction.
+The amplified DNA fragment, containing nucleotides -148 to +39
+relative to the transcription start site, was cloned into the
+EcoRI site of the plasmid pBluescript SK(+) (Stratagene).
+Various deletion mutants of the MLC-2 promoter were
+constructed by sequential digestions with restriction enzymes
+followed by ligation.
+
+Transfection Assays. Cardiomyoblast cultures were
+transfected with plasmids containing the luciferase reporter
+gene under the control of the various MLC-2 promoter
+constructs as described previously (7). The amount of
+luciferase activity was measured 48 h after transfection
+using a luminometer.
+
+Immunoprecipitation and Gel Retardation Assays.
+Nuclear extracts were prepared from adult rabbit heart tissue
+and cultured rat cardiomyoblasts as described previously (7).
+B-galactosidase gel retardation assays were performed as
+described by Stillings et al. (16), using synthetic oligonucleotides
+containing the MEF-2 site or element B sequence.
+
+RESULTS
+
+Identification of a Serum-Responsive Transcription Factor
+That Recognizes Element B in the MLC-2 Promoter
+
+During an attempt to identify factors that bind to the
+MEF-2 site in the MLC-2 promoter, we observed a protein
+that bound specifically to element B but not to the MEF-2
+consensus sequence. This protein was found only in heart
+tissue extracts and was dependent on serum. 
+
+[Image of Figure 1]
+
+Figure 1. Gel retardation assay showing the binding of BBF-1 to element B. Nuclear extracts were prepared from rabbit heart tissue (lane 1) and rat cardiomyoblasts cultured in serum-containing medium (lane 2) or serum-free medium (lane 3). The extracts were incubated with synthetic oligonucleotides containing either the MEF-2 site (A) or element B (B).
+
+[Image of Figure 2]
+
+Figure 2. Deletion analysis of the MLC-2 promoter reveals that element B is required for serum-induced transcription. A plasmid containing the full-length MLC-2 promoter was digested with various restriction enzymes to generate deletion mutants, which were then transfected into rat cardiomyoblasts. Luciferase activity was measured 48 h after transfection. The data are normalized to the amount of DNA transfected and expressed as a percentage of the luciferase activity observed with the full-length promoter.
+
+[Image of Figure 3]
+
+Figure 3. BBF-1 is serum-dependent and required for element B-mediated activation of MLC-2 gene transcription. Rat cardiomyoblasts were cultured in serum-containing medium, and then the medium was changed to serum-free medium for 24 h. Nuclear extracts were prepared at various times after removal of serum from the culture medium and assayed for BBF-1 activity by gel retardation assay using the synthetic oligonucleotide containing element B as a probe.
+
+[Image of Figure 4]
+
+Figure 4. Identification of a second protein, MEF-2B, that binds to the same target site but that, unlike MEF-2, it does not interact with cardiac tissue extracts. Nuclear extracts were prepared from rat cardiomyoblasts cultured in serum-containing medium and assayed for MEF-2 or BBF-1 activity by gel retardation assay using the synthetic oligonucleotide containing element B as a probe.
+
+[Image of Figure 5]
+
+Figure 5. A model for the regulation of MLC-2 gene transcription in cardiac muscle cells. Serum stimulation activates both MEF-2 and BBF-1, which bind to their respective sites in the MLC-2 promoter and stimulate transcription.
+
+ACKNOWLEDGMENTS
+
+We thank Dr. Robert Nerurkar for his assistance with the luciferase assays.
+
+This work was supported by grants HL-45793 and HL-46801 from the National Heart, Lung, and Blood Institute.
+
+REFERENCES
+
+1.  Akiyama, T., Nonomura, H., and Yamada, K. 1988. Regulation of atrial natriuretic peptide gene expression by thyroid hormone. J. Biol. Chem. 263:14750-14756.
+2.  Bass, T. M., and Olson, A. N. 1991. Cardiac muscle gene regulation. Annu. Rev. Cell Biol. 7:285-318.
+3.  Bebian, J., and Olson, A. N. 1992. The myocyte enhancer factor 2 family: structure, function, and developmental roles. Genes Dev. 6:1643-1653.
+4.  Chintala, V. S., and Olson, A. N. 1989. Identification of a regulatory element in the human atrial natriuretic peptide gene promoter. J. Biol. Chem. 264:

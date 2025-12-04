@@ -1,0 +1,160 @@
+Production of unsaturated carbonyl compounds during metabolism
+of hydroperoxy fatty acids by colonic homogenates
+
+Arthur W.Bull and Joel C.Brunstein
+
+Oakland University, Department of Chemistry, Rochester, MI 30904-3801,
+USA
+
+Recent evidence has suggested that unsaturated carbonyl
+compounds may be the ultimate products from the
+primary auto-oxidation products of unsaturated fatty acids.
+The present study has investigated the metabolism of
+1-hydroperoxy-eicosadienoic acid (13-HOOH) by rat colonic
+homogenates. This hydroperoxide is one of the primary
+products formed from the oxygenation of linoleic acid, the
+most abundant dietary polyunsaturated fatty acid. Incubation
+mixtures contained 13-HOOH and colonic homogenates
+prepared from male Sprague-Dawley rats. After 30 min of
+incubation the reactions were quenched and the products
+extracted for analysis by HPLC. The identity of the eluted
+products was verified by UV, MS, and NMR spectroscopy.
+The major products include a mixture of isomers of
+2,4-dienone cis fatty acids and 1-hydroxy-eicosatrienoic
+acid. Direct comparison of homogenate-mediated to
+hematein-catalyzed, allyl radical-mediated decomposition
+of 13-HOOH shows some similarities. In addition,
+particular products are detected in the presence
+of tissue homogenates where these are absent in the often
+unreactive during the decomposition of UV irradiation. The
+present study demonstrates significant differences in the
+production of relatively large amounts of unsaturated
+carbonyl-containing fatty acids during the metabolism
+of 13-HOOH that occur at colonic sites, as opposed to
+hematein-catalyzed reactions. The fact that the major
+products are dienone cis fatty acids suggests that these
+are formed by a mechanism involving allylic oxidation.
+The formation of 1-hydroxy-eicosatrienoic acid is
+consistent with the involvement of an oxygenated species
+such as hydroperoxy or hydroxy fatty acids. It is
+hypothesized that these reactions may contribute to the
+carcinogenicity of diets high in polyunsaturated fatty acids.
+
+Several studies have shown that colonic microflora can
+convert dietary polyunsaturated fatty acids into a variety of
+metabolic products, including phenolic compounds and short-
+chain fatty acids (1, 2). These metabolic activities are
+influenced by diet composition and the types of bacteria
+present in the colon. Recent studies have provided some support for this possibility by
+demonstrating that colonic carcinogenicity is enhanced to a greater
+degree by diets rich in polyunsaturated fatty acids than by diets
+containing similar amounts of saturated fatty acids (4, 5).
+
+The oxidation products of the major unsaturated fatty acids
+have been shown to be mutagenic to the *Salmonella* his+
+(3). Hydroperoxy, hydroxy and keto fatty acids are all equipotent
+mutagens. These results raise the possibility that the oxidation
+products are converted to a common metabolic intermediate that
+is responsible for the observed activity. On the basis of a number
+of lines of reasoning, we have suggested that 13-eicosatrienoic
+ketone is the ultimate mutagen formed from the products of fatty
+acid oxygenation (6).
+
+The initial products of unsaturated fatty acid oxidation are
+hydroperoxy fatty acids (7). In numerous tissues, stimulated by
+a variety of agents, there are enzymatic routes available
+for the formation of hydroperoxy fatty acids. Without question
+the most investigated intermediate compounds are those derived
+from linoleic acid; however, it has recently been observed
+that oleic acid is also susceptible to oxygenation (8, 9).
+In addition to enzymatically mediated hydroperoxy lipid peroxidation
+also results in the formation of hydroperoxy products (10). In fact,
+it is often suggested that the oxidation of polyunsaturated fatty
+acids mediates many of the deleterious responses to toxic agents
+(11, 10).
+
+Due to the distribution of enzymes for oxygenation and subsequent
+reactions, the metabolism of fatty acids may vary significantly.
+For example, in the liver, there are enzymes capable of catalyzing
+the beta-oxidation of fatty acids (12), while in the colon,
+fatty acids are metabolized by bacterial flora (13). The relative
+importance of these metabolic pathways is dependent on diet and
+other factors. In this study, we have investigated the metabolism
+of 13-HOOH by rat colonic homogenates to determine whether
+the products formed are similar to those observed in other tissues.
+
+Materials and Methods
+
+Animals: Male Sprague-Dawley rats (Charles River Breeding
+Laboratory, Wilmington, MA) were used in this study. The animals
+were fed a standard chow diet for at least 1 week prior to sacrifice.
+
+Homogenates: Colonic homogenates were prepared as previously
+described (6). Briefly, the colon was removed from fasted rats and
+rinsed with ice-cold buffer. The tissue was then homogenized in 9
+volumes of ice-cold buffer using a Potter-Elvehjem glass
+homogenizer. The buffer consisted of 50 mM Tris-HCl, pH 7.4,
+containing 1 mM EDTA and 1 mM phenylmethylsulfonyl fluoride.
+
+Incubation: Incubation mixtures contained 50 μL of colonic
+homogenate, 13-HOOH (20 μM), and buffer to a final volume
+of 1 mL. The reactions were incubated at 37°C for 30 min.
+Quenching: After incubation, the reactions were quenched by
+addition of 5 mL ice-cold methanol.
+
+Extraction: The products were extracted with ethyl acetate as
+previously described (6). The organic extracts were dried over
+anhydrous sodium sulfate and concentrated under vacuum.
+
+Analysis: The eluted products were analyzed by HPLC using a
+reversed-phase C18 column. Elution was performed with a gradient
+of acetonitrile in water. Fractions were collected and analyzed by
+UV, MS, and NMR spectroscopy.
+
+Results
+
+The metabolism of 13-HOOH by rat colonic homogenates
+results in the formation of several products (Figure 1). The major
+products are isomers of 2,4-dienone cis fatty acids and
+1-hydroxy-eicosatrienoic acid. These products were also detected
+when hematein was used to catalyze the decomposition of 13-HOOH
+(Figure 2).
+
+Discussion
+
+The results of this study demonstrate that colonic homogenates
+can metabolize 13-HOOH to form a variety of products, including
+dienone cis fatty acids and 1-hydroxy-eicosatrienoic acid. The
+formation of these products is consistent with the involvement of
+oxygenated species such as hydroperoxy or hydroxy fatty acids.
+
+The dienone cis fatty acids are likely formed by an allylic
+oxidation mechanism. This mechanism involves the abstraction of a
+hydrogen atom from an allylic position on the fatty acid molecule,
+followed by reaction with oxygen to form an enol intermediate. The
+enol intermediate then tautomerizes to form the dienone cis fatty
+acid.
+
+The 1-hydroxy-eicosatrienoic acid is likely formed by hydroxylation
+of the hydroperoxy fatty acid. This reaction may be catalyzed by a
+cytochrome P450 enzyme or other oxygenase.
+
+The formation of these products suggests that colonic bacteria
+may play a role in the metabolism of polyunsaturated fatty acids.
+Further studies are needed to identify the specific bacterial species
+involved and to determine the enzymes responsible for these reactions.
+
+References
+
+1. Macfarlane, G. T., et al. 1983. *Adv. Microbial. Physiol.* 25:
+1-64.
+2. Tipton, K. H., et al. 1983. *Adv. Microbial. Physiol.* 25: 65-97.
+3. Weisburger, J. H., et al. 1978. *Mutat. Res.* 43: 291-297.
+4. Reddy, J. S., et al. 1980. *Carcinogenesis* 1: 561-566.
+5. Reddy, J. S., et al. 1981. *Carcinogenesis* 2: 37-42.
+6. Bull, A. W., et al. 1983. *J. Biol. Chem.* 258: 10811-10817.
+7. Nelson, D. J., et al. 1981. *Lipids* 16: 499-505.
+8. Horrocks, L. B., et al. 1973. *J. Biol. Chem.* 248: 4133-4139.
+9. Nelson, D. J., et al. 1981. *Lipids* 16: 499-505.
+10. Frei, B., et al. 1982. *Proc. Soc. Exp. Biol. Med.* 200: 371-377.
+11. Slater

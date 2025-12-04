@@ -1,0 +1,28 @@
+Protocol for Enzyme Immunoassay of Nicotine
+
+Introduction
+
+As an alternative to RIA of nicotine, enzyme immunoassay (EIA)
+is sought in order to avoid some of the disadvantages of RIA currently
+available, i.e. short half-life of radiolabeled compound and its
+cost involved, potential radiation hazard, etc.
+
+EIA could be as sensitive as RIA and the assay speed could be
+equally fast and efficient. Here, described the development of an
+enzyme immunoassay of nicotine using β-galactosidase as an enzyme
+of choice.
+
+Preparation of the enzyme labeled nicotinc.
+
+The compound which will be used for the enzyme immunoassay will
+be 6-p-aminobenzamido nicotine. The procedure for conjugation to
+the maleimide coupling agent, meta-maleimidobenzoic acid (MBA), will
+be as follows.
+
+A. Synthesis of nicotine - MBA conjugate.
+
+1) Activation of carboxyl group of MBA by thionyl chloride.
+
+
+
+[I]

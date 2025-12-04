@@ -1,0 +1,33 @@
+56 Reprınted from Biochemistry, 1996, 35.
+
+CTR-ACK
+
+Flavin-Dependent Alkyl Hydroperoxide Reductase from Salmonella typhimurium.¹
+Purification and Enzymatic Activities of Overexpressed AhpF and AhpC Proteins¹
+
+Leslie B. Poole* and Holly R. Ellis
+
+Department of Biochemistry, Wake Forest University Medical Center, Winston-Salem, North Carolina 27157
+Received August 11, 1995; Revised Manuscript Received October 16, 1995²
+
+ABSTRACT: The two components, AhpF and AhpC, of the Salmonella typhimurium alkyl hydroperoxide reductase enzyme system have been overexpressed in Escherichia coli for investigations of their catalytic properties. Recombinant proteins were isolated in high yield (25–33 mg per liter of bacterial culture) and were shown to impart a high degree of protection against killing by cumene hydroperoxide to the E. coll cells. We have developed quantitative enzymatic assays for AhpF alone and for the combined AhpC/AhpF system which have allowed us to address issues such as substrate specificity and inhibition by thiol reagents for each protein. All assays gave identical results whether overexpressed S. typhimurium proteins from E. coli or proteins isolated directly from S. typhimurium were used. Anaerobic hydroperoxide reduction assays have demonstrated that cumene hydroperoxide, ethyl hydroperoxide, and hydrogen peroxide can all be reduced by the combined enzyme system. AhpF possesses multiple pyridine nucleotide-dependent activities [3-(thio)bis(2-nitrobenzoic acid) (TNBH) reductase, oxidase, transhydrogenase, and in the presence of NADPH, a peroxıdase activity]. Although AhpF can use either NADH or NADPH as the electron donor for these activities, NADH is the preferred reductant (kcat/Km for AhpF for NADH was more than 7 orders of magnitude lower than that for NADPH when analyzed using DTNB reductase assays). Thiol-modifying reagents react readily with each reduced protein, leading to complete loss of hydroperoxide and TNB reductase activities. In contrast, thiol modification of reduced AhpF does not affect transhydrogenase or oxidase activities. These data provide the first direct evidence for a catalytic mechanism for peroxide reduction involving redox-active disulfide within each protein.
+
+Protection of aerobic organisms from the toxic and damaging effects of hydroperoxides is a wide variety of enzymes which, in bacterial systems at least, can be coordinately regulated through redox-sensitive transcriptional factors (Staal et al., 1996; Ursino et al., 1991; Ringers et al., 1993). In Escherichia coll, two major alkyl hydroperoxide reductase components are AhpF (EC 1.10.1.21) and AhpC (EC 1.10.1.20) (Poole, 1993). The AhpF protein is a flavin-dependent oxidoreductase that catalyzes the reduction of alkyl hydroperoxides using pyridine nucleotides as electron donors (Poole, 1993; Poole et al., 1994a), whereas AhpC is a thioredoxin-like protein that functions as the physiological reductant for AhpF (Poole et al., 1994b). The amino acid sequence of AhpF shows no significant homology to any other known enzymes, although it does share some features with members of the flavodoxin family (Poole, 1993). AhpC, on the other hand, is closely related to thioredoxin proteins and contains the typical Cys-X-Cys motif found in these proteins (Poole et al., 1994b).
+
+The trıphylline reductase (TrR) branch of the flavoprotein pyridine nucleotide oxidoreductase enzyme family. Although sequence alignments do not indicate any particular relationships between AhpF and thioredoxin TRPs (e.g., thioredoxin I, which is extremely widespread throughout all kingdoms to be able to investigate their catalytic mechanisms in detail. In this paper, we report the overexpression of AhpF and AhpC in E. coll, purification of the recombinant proteins, and characterization of their enzymatic activities. We have developed quantitative assays that allow us to address issues such as substrate specificity and inhibition by thiol reagents for each protein.
+
+MATERIALS AND METHODS
+Bacterial Strains and Plasmids
+E. coll strains XL1-Blue (λgı830(de1 amp) hsdR recA1 endA(araD139) φ85pyrF(knrB2)CamR) and JM109+ were used for cloning and protein expression. Plasmids pUC18 and pET-28f(+) (Studier et al., 1986) were used as cloning vectors.
+
+Cloning and Overexpression of AhpF and AhpC
+The genes encoding AhpF and AhpC from S. typhimurium LT-2 were cloned into the pET-28f(+) expression vector as described previously (Poole et al., 1994b). The resulting plasmids, pAHF-PET and pACP-PET, contain the ahpF and ahpC genes, respectively, under the control of the T7 promoter.
+
+Protein Purification
+Recombinant AhpF and AhpC proteins were overexpressed in E. coll JM109+ by induction with isopropyl β-d-galactopyranoside (IPTG). The cells were harvested by centrifugation, resuspended in buffer A [20 mM Tris-HCl, pH 8.0, 50 mM NaCl], and lysed by sonication. The lysates were clarified by centrifugation, and the proteins were purified by a combination of ion exchange chromatography and size exclusion chromatography as described previously (Poole et al., 1994b).
+
+Enzymatic Assays
+The hydroperoxide reduction assay was performed as described previously (Poole et al., 1994b), using cumene hydroperoxide, ethyl hydroperoxide, or hydrogen peroxide as substrates. The DTNB reductase assay was performed as described previously (Poole et al., 1994a).
+
+
+

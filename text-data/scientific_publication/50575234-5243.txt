@@ -1,0 +1,99 @@
+65
+
+Maximal Twitch Tension in Intact
+Length-Clamped Ferret Papillary Muscles
+Evoked by Modified Posttetanic
+Potentiation
+
+Ferdinand Urthaler, Alfred A. Walker, David N.S. Reeves, and Lloyd L. Hefner
+
+A modified test of posttetanic potentiation achieved with a brief episode of rapid pacing followed
+by a 0.5-second pause (RPP) was used to examine the force-frequency relationship in isolated ferret right
+ventricular papillary muscles. Maximal RPP responses were examined under length-clamped conditions
+and compared with the steady-state tensions at which further increases in [Ca++]i did not further
+increase force and the tensions recorded at the point of saturation of force when similarly
+length-clamped muscles were subjected to caffeine-induced tetanization. The results show that the
+tetanus maximal tension is similar to the peak RPP tension, suggesting that RPP represents a state observed in
+intact single skeletal muscle fibers. The study also shows that the beat-to-beat decay of the potentiated
+contraction is exponential. While the amount of the transient fractional beat-to-beat decay is a function
+of [Ca++]i, it is not influenced by length. During the course of potentiation, the ratio of the tension
+any heat divided by that of the previous beat is a constant, called (v). With certain assumptions,
+it is shown that (v) is a measure of the fraction of calcium released from the sarcoplasmic
+reticulum in each beat and, in the steady state, the fraction of activator calcium that comes from the
+sarcoplasmic reticulum. The amount of Ca++i is 25%, 40%, and 65% when [Ca++]i is 1.25, 2.50, and
+5.0 mM respectively. Thus, at 1.25 mM [Ca++]i, some two thirds of the total calcium required to
+activate the myofilaments comes from the extracellular compartment during excitation and only one
+third is contributed by release from the sarcoplasmic reticulum. In the region of maximal tension
+overlap, RPP force-length curves are remarkably shallow and almost indistinguishable from the
+sarcomere length-tension relation observed in skinned single cardiac cells. Tetanus plateau tensions
+are significantly smaller than RPP forces at any given length, and the slope of the tetanus force-length curves
+is greater than that obtained with RPP. Thus, and by exclusion, we also suggest that caffeine may exert
+significant downstream inhibitory effects. (Circulation Research 1986;58:65-74)
+
+myofilatic free calcium concentration, [Ca++]i,
+wasoles the most important and relevant of
+the intracellular signals that control contraction
+in cardiac muscle. The release of Ca++i from
+sarcoplasmic reticulum (SR) is a major mech-
+anism by which contractile force is regulated
+during systole. Evidence suggests that SR Ca++i
+release is also involved in the generation of
+posttetanic potentiation (PTP).
+
+PTP is an increase in contractile force that
+occurs after a train of electrical stimulation
+of cardiac muscle. The magnitude and duration
+of PTP are dependent on several factors, includ-
+ing stimulus frequency, pulse length, and inter-
+val between trains.1-3 PTP has been shown to
+be associated with an increase in the sensitivity
+of contractile proteins to Ca++i.4-6
+
+In the present study, we have used a modified test
+of posttetanic potentiation achieved with a brief
+episode of rapid pacing followed by a 0.5-second
+pause (RPP) to examine the force-frequency
+relationship in isolated ferret right ventricular
+papillary muscles. Ferret papillary muscles are
+suitable for this type of study because they retain
+their physiological characteristics when isolated
+and mounted on an experimental apparatus.7
+
+Methods
+
+Muscle Preparation
+
+Right ventricular papillary muscles were dis-
+sected from adult ferrets (Mustela putorius furo)
+weighing 250 to 350 g. The animals were anesthe-
+tized with pentobarbital sodium (45 mg/kg ip), and
+the heart was excised and placed in a cold, oxygen-
+ated physiological salt solution. Papillary muscles
+were pinned out on a Sylgard dish containing the
+salt solution and superfused at 25°C.
+
+Experimental Solutions
+
+The physiological salt solution had the following
+composition (in mM): NaCl, 138; KCl, 5.4; CaCl2,
+1.8; MgCl2, 1.0; NaHCO3, 25; KH2PO4, 1.8;
+glucose, 5.5; and EDTA, 0.01. The pH was ad-
+justed to 7.4 with NaOH.
+
+Experimental Protocol
+
+Papillary muscles were pinned out on a force
+transducer (Kistler Instrument Corp., Winterthur,
+Switzerland) and allowed to equilibrate for at least
+30 minutes before the start of the experiment. The
+muscles were superfused with physiological salt
+solution throughout the experiment. After an initial
+equilibration period, the muscles were stimulated
+at a frequency of 1 Hz for 5 minutes. Then, the
+stimulation frequency was increased to 10 Hz for
+10 seconds, followed by a 0.5-second pause (RPP).
+The force-frequency relationship was determined by
+stimulating the muscles at frequencies ranging from
+0.1 to 20 Hz. The maximal RPP tension was de-
+termined at each frequency.
+

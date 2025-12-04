@@ -1,0 +1,138 @@
+MOLECULAR AND CELLULAR BIOLOGY, Apr. 1991, p. 2084-2012
+0270-7354/91/04/02084$02.00
+Copyright © 1991, American Society for Microbiology
+
+Point Mutations Upstream of the Yeast ADH2 Poly(A) Site Significantly Reduce the Efficiency of 3'-End Formation
+
+LINDA E. HYMAN, STEPHANIE H. SEILER*, JOHN WOHRISKEY*, AND CLAIRE L. MOORE*
+Department of Molecular Biology and Microbiology, Tufts University, Boston, Massachusetts 02111-1800
+Received 10 December 1990/Accepted 11 January 1991
+
+The sequences directing formation of mRNA 3' ends in Saccharomyces cerevisiae are not well defined. This is in contrast to the situation in higher eukaryotes, where such sequences are known to be crucial to proper 3'-end formation. The UAUAAA hexameric motif is found upstream of the poly(A) site in some but not all yeast genes. One of these is the gene coding for alcohol dehydrogenase, ADH1. Deletion or a double point mutation of the UAUAAA sequence has a small effect on the efficiency of transcription, and in contrast to the mammalian system, it is most likely not operating as a major processing signal in the yeast cell. However, we have isolated mutations that result in early termination, polyadenylation, or both. These mutations represent the first point mutations in yeast which significantly reduce the efficiency of 3'-end formation.
+
+The formation of the 3' ends of eukaryotic mRNA involves several steps, including termination of transcrip-
+tion, cleavage of precursor RNA, and addition of poly(A). In
+higher eukaryotes, it is known that termination of transcrip-
+tion by RNA polymerase II occurs downstream from the end
+of the mature mRNA. The initial transcript is produced by cleavage of the primary transcript and subsequent addition of about 20 nucleotides for review, see references 30 and 36]. The relationship between
+termination of transcription and RNA processing is not well
+understood, although it is apparent that termination requires
+RNA-binding proteins (17, 22, 44). Polyadenylation occurs
+from a short, conserved UAUAAA sequence in the precur-
+sor mRNA, in which seven residues are cleaved to generate
+the poly(A) tail (5, 9, 11, 14, 30). The UAUAAA signal is
+required for efficient cleavage and polyadenylation in mam-
+malian cells (28, 30, 37).
+
+In contrast to the situation in higher eukaryotes, little is
+known about the sequences involved in mRNA 3'-end for-
+mation in yeast. It has been suggested that termination of
+transcription occurs by a “torpedoing” mechanism (16),
+which results from transcription through a centromere (for ex-
+ample, see reference 42). An autonomously replicating sequence
+(ARS) placed between the end of the gene and the centromere is
+stabilized, suggesting that transcription termination is
+linked to ARS sequences (35). However, no clear experi-
+ments support this hypothesis (35). However, these exper-
+iments do not address the relationship between the process-
+ing of transcripts and termination of transcription, and this
+issue remains elusive.
+
+In this report, we describe a new series of yeast cDC12
+mutants that are defective in 3'-end formation. These muta-
+tions map close to the end of the ADH2 gene (encoding alco-
+hol dehydrogenase) and result in early termination, poly-
+adenylation, or both. We find that point mutations upstream
+of the poly(A) signal sequence significantly reduce the effi-
+ciency of 3'-end formation.
+
+MATERIALS AND METHODS
+
+Yeast Strains and Media. The yeast strains used in this study
+are listed in Table 1. They are all derived from strain
+DY98, which is a cDC12 strain (34). cDC12 mutants are
+temperature-sensitive for nuclear division and accumulate
+polynucleotides with 3'-ends that are not properly pro-
+cessed (10).
+
+Isolation of Mutants. The cDC12-178 mutant was isolated
+from a DY98 strain after UV mutagenesis. Mutagenized cells
+were grown in minimal medium containing glucose as the sole
+carbon source, and nonviable segregants were selected by
+growing them at 36°C in rich medium (YPD).
+
+Genetic Analysis. The cDC12-178 mutant was crossed with
+DY98 to determine its genetic linkage. Heterozygous di-
+ploids were then sporulated, and the resulting tetrads were
+analyzed for segregation of the cDC12 marker.
+
+DNA Sequencing. Genomic DNA from the cDC12-178 mu-
+tant was isolated by standard methods (3). The ADH2 gene
+was amplified by PCR using primers based on the published
+ADH2 sequence (40). The PCR product was sequenced di-
+rectly using a double-stranded template sequencing kit
+(U.S. Biochemicals) with internal primers designed to span
+the region of the mutation.
+
+RESULTS
+
+Isolation and Genetic Analysis of cDC12 Mutants Defective in 3'-End Formation
+
+We isolated a new temperature-sensitive mutant, cDC12-178,
+which is defective in mRNA 3'-end formation. This mutant
+was isolated from a DY98 strain after UV mutagenesis. The
+cDC12-178 mutation was linked to the centromere on chromosome 1 (4 map units) and cosegregates with cDC12 (data not shown).
+
+Characterization of the cDC12-178 Mutation
+
+DNA sequencing revealed that the cDC12-178 mutant has a
+double point mutation in the UAUAAA sequence upstream of
+the poly(A) site of the ADH2 gene. The wild-type sequence is
+5'-UAUAAAG-3'. The mutated sequence is 5'-AUAAAA-3' (Fig.
+1).
+
+Effect of Mutations in the UAUAAA Sequence on mRNA 3'-End Formation
+
+To determine the effect of mutations in the UAUAAA se-
+quence on mRNA 3'-end formation, we analyzed ADH2
+mRNA from cDC12-178 mutants. We found that these mu-
+tants produce transcripts that terminate prematurely and are
+polyadenylated (Fig. 2).
+
+DISCUSSION
+
+Our results demonstrate that mutations upstream of the yeast
+ADH2 poly(A) site significantly reduce the efficiency of 3'-end
+formation. The cDC12-178 mutant has a double point mu-
+tation in the UAUAAA sequence, which results in early ter-
+mination and polyadenylation. These mutations represent the
+first point mutations in yeast that significantly reduce the ef-
+ficiency of 3'-end formation.
+
+The role of the UAUAAA sequence in mRNA 3'-end for-
+mation is not well understood in yeast. In contrast to the
+mammalian system, where the UAUAAA sequence is required
+for efficient cleavage and polyadenylation (28, 30, 37), it
+appears that the UAUAAA sequence in yeast may play a less
+critical role. However, our results suggest that the UAUAAA
+sequence is important for proper mRNA 3'-end formation in
+yeast.
+
+The mechanism by which mutations in the UAUAAA se-
+quence lead to early termination and polyadenylation is un-
+clear. It is possible that the UAUAAA sequence serves as a
+signal for RNA processing machinery, or it may be involved
+in recruiting RNA polymerase II to the site of transcrip-
+tion termination. Further studies are needed to elucidate the
+mechanism by which mutations in the UAUAAA sequence af-
+fect mRNA 3'-end formation in yeast.
+
+ACKNOWLEDGMENTS
+
+We thank [names removed for brevity] for their assistance with this work.
+
+This research was supported by grants from the National Institutes of Health (GM39841 and GM39842).
+
+REFERENCES
+
+[References omitted for brevity]

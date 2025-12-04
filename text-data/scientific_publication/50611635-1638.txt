@@ -1,0 +1,25 @@
+An Eosinophil-Dependent Mechanism for the Antitumor Effect of Interleukin-4
+
+Robert Ie. Tepper*, Robert L. Coffman, Phillip Leder
+
+Human interleukin-4 (IL-4) exhibits potent antitumor activity when present at the site of tumor cell challenge. Associated with tumor cell death is the appearance of an inflammatory infiltrate composed predominantly of eosinophils and macrophages, but few lymphocytes. Antibodies that specifically block the accumulation of granulocytes at the site of inflammation were able to abolish the antitumor effect of IL-4. These studies implicate eosinophils in IL-4 mediated tumor cytotoxicity. The lymphoid-independent nature of IL-4 action is supported by the analysis of mutant mouse strains deficient in lymphocyte function. The observed regression of established tumor masses by localized IL-4 action provides a rationale for exploring IL-4 mediated tumor killing as a potential therapy for human malignant disorders.
+
+In a previous report (1), tumor cells engrafted to produce IL-4 by transfection had reduced or abolished tumorigenicity when introduced into syngeneic mice. This antitumor effect was associated with an intense mononuclear cell infiltrate at the tumor site, with IL-4 producing cells being heavily infiltrated. These transfectants also induced a transient but significant elevation in serum IL-4 levels (2). To further characterize the cellular components of this inflammatory response and to determine their role in mediating the antitumor activity, we have examined the effect of anti-granulocyte antibodies on tumor regression in vivo.
+
+The results presented here demonstrate that granulocytes are essential for the antitumor effect of IL-4. Specifically, administration of rat IgG2a monoclonal antibody (clone HK14) directed against mouse granulocyte surface antigens blocks the regression of tumors produced by IL-4 transfectants and is associated with a marked increase in tumor size. This antibody does not affect the growth of control tumor cells that do not produce IL-4 (Table 1). The marked eosinophilia associated with this infection can be reversed within 18 hours by administration of HK14, concurrent with the abolition of antitumor activity (Figs. 2A and 2B). Mice treated with HK14 also exhibit a significant decrease in serum IL-4 levels (Fig. 3).
+
+These observations suggest that granulocytes, particularly eosinophils, play a critical role in mediating the antitumor effect of IL-4. The mechanism by which IL-4 induces tumor cell lysis and recruits granulocytes to the site of inflammation remains to be elucidated. It is possible that IL-4 directly stimulates tumor cells to release chemotactic factors that attract granulocytes, or that IL-4 acts on local stromal cells to induce the production of such factors.
+
+Materials and Methods
+
+Tumor Cells. The murine fibrosarcoma cell line HS364T (3) was obtained from Dr. J. A. Steitz. This cell line was transfected with a eukaryotic expression vector containing the human IL-4 cDNA, as described previously (1). Transfection resulted in stable integration of the IL-4 gene into the host cell genome and constitutive production of IL-4. The parental HS364T cells were used as control tumor cells.
+
+Animals. All experiments were performed with 8- to 12-week-old male C57BL/6 mice (Jackson Laboratory).
+
+Antibodies. Rat IgG2a monoclonal antibody (clone HK14) directed against mouse granulocyte surface antigens was obtained from Dr. R. W. Coligan. This antibody blocks the attachment of granulocytes to endothelial cells and inhibits their migration in response to chemotactic stimuli (4). The specificity of this antibody for granulocytes has been confirmed by immunofluorescence staining and flow cytometry (data not shown).
+
+Tumor Transplantation and Treatment. Tumor cells (5 x 10^6) were injected subcutaneously into the flank of C57BL/6 mice. After tumor establishment, mice were treated with HK14 at a dose of 1 mg per mouse, administered intraperitoneally every other day for 8 days. Control mice received an equivalent volume of normal rat IgG. Tumor size was measured twice weekly using calipers. Tumor volume was calculated by the formula: V = (length x width^2)/2.
+
+Measurement of Serum IL-4 Levels. Sera were collected from mice at various times after tumor transplantation and treatment with HK14. IL-4 levels were determined by ELISA, as described previously (2).
+
+Results

@@ -1,0 +1,42 @@
+6097
+
+Loss of DNA Mismatch Repair in Acquired Resistance to Cisplatin
+
+Selection of cells for resistance to cisplatin, a well-respected mutagen,
+could result in mutations in genes involved in DNA mismatch repair and
+thereby to resistance to DNA-alkylating agents. Parental cells of the
+human ovarian adenocarcinoma cell line 2008/C1 expressed hMLH1 when
+analyzed with immunoblot. One subline selected for resistance to cisplatin
+(2008/R) expressed no hMLH1, whereas another (2008/C15.25) re-
+mained parental. The 2008/R cells but not in 2008/C15.25 cells. In
+addition, the 2008/R cells were found to be deficient for hMSH2. In
+support and had a de-repressed mutation rate in [the] HPFRT locus as
+compared to 2008 cells, both of which are consistent with the loss of DNA
+mismatch repair. To determine whether the loss of DNA
+mismatch repair itself contributes to cisplatin resistance, studies were
+performed on a human colon cancer cell line deficient in hMLH1
+function, HCT116. A human colon cancer cell line defect in hMLH1
+function was 2-fold resistant to cisplatin when compared to a subline
+expressing hMLH1. Similarly, the human endometrial cancer cell line HEC59, which expresses no hMSH2,
+was 3-fold resistant to cisplatin when compared to a subline expressing
+hMSH2 with chromosome 2 that possesses MSSII. Therefore, the selec-
+tion of cells for resistance to cisplatin can result in the loss of DNA
+mismatch repair, and loss of DNA mismatch repair turn contributes to
+resistance to cisplatin.
+
+Aebi, S., Kurdi-Haider, B., Gordon, R., Cerni, B., Zheng, H., Fink, D., Christen,
+R.D., Boland, C.R., Koi, M., Fishel, R., and Howell, S.B.
+
+Cancer Research 56:3087-3090, 1996.
+
+Other support: American Cancer Society, American Society of Clinical Oncology,
+Association for the Cure of Cancer of the Prostate at the Clayton Foundation for
+Research-California Division.
+
+From the Department of Medicine and the Cancer Center, University of California, La
+Jolla, CA, Laboratory of Molecular Genetics, National Cancer Institute at Frederick
+Cancer Research Facility, Frederick, MD, and UCSF Cancer Biology Consortium, San
+Francisco, CA.
+
+086915-01
+USUB2591

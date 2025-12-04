@@ -1,0 +1,23 @@
+NEW SCIENTIST
+
+5
+
+Why laboratory rats are here to stay
+
+Testing toxic chemicals is a very complex process. Many of the companies that produce them doubt that it will ever be possible to replace animals
+
+Phil Botham and lain Purchase
+
+THE manufacturers of industrial, agricultural and pharmaceutical products are caught in the crossfire of a major moral conflict. While there is an ever-increasing demand for safety assessments, the challenge is to use fewer (or even no) animals in experiments. Toxicologists have long accepted that both concerns are legitimate and have been striving to find practical ways of dealing with these tests.
+
+Toxicologists attempt to identify and understand toxic hazards, to assess the risk to human health from exposure to chemicals. Virtually every chemical presents some exposed hazard or other; it is very high doses that determine whether those materials are dangerous. Toxicology helps to identify situations and defines concentrations of substances that can be safely handled without causing harm. But too casual an approach could slow the development of a product that researchers must therefore use the most available methods to assess toxic hazards. In increasingly complex experiments on laboratory animals, most tests, this means drawing on the observations of toxicologists to define the basic biology behind which chemicals work and how they affect living organisms.
+
+The 1986 Animals (Scientific Procedures) Act controlled by the Home Office, but regulators acknowledge that flexibility is needed in assessing toxicity. So toxicologists have some leeway in deciding which tests are performed, although not in choosing whether or not a combination of tests chosen depends on the circumstances. For example, if toxicity data are out of date for chemicals that have been on the market for a long time, then additional studies complement the existing information from toxicology and epidemiological sources. The aim is to build up a comprehensive database of the chemical’s toxicity will be built up.
+
+A broad screening process will detect a range of toxic endpoints—signs of toxicity ranging from mild rash to tumours or even death—and provide information on the doses that produce a specific effect. For some chemicals, 30 or so different toxicity studies are necessary to cover all the significant areas of potential concern.
+
+Most experiments are carried out on rats and mice, although other species are used for specific points. Where chronic, long-term effects are being investigated, dogs are commonly used. Eye irritation studies are frequently carried out on rabbits, while guinea pigs are appropriate for allergy testing.
+
+The first step in investigating a new chemical is a search of the published literature. If all that information is lacking, A study of the physiological properties will reveal whether the chemical is likely to excite, irritate or depress the central nervous system. This can be done by observing the animal’s behaviour and measuring its heart rate and blood pressure.
+
+If the chemical is found to have a particular property, such as being an irritant, further tests are needed to determine how it affects different tissues. For example, if a chemical is suspected of causing skin irritation, it will be applied to the shaved skin of rabbits and the degree of redness and swelling will be measured over several days.

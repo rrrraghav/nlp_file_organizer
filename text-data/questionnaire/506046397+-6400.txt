@@ -1,0 +1,36 @@
+Beilomy-Carrigg,Inc.
+3501 WINSTON SALEM HWY
+WINSTON SALEM NC 27106
+
+Job #0904
+October, 1981
+5 - 1
+
+(1 - 4)
+
+PACKAGE TEST
+SCREENER
+
+RESPONDENT'S NAME:__________________________ CITY:__________________________ STATE:__________________________
+ADDRESS:__________________________ PHONE NUMBER:__________________________ DATE:__________________________
+AREA CODE:__________________________ INTERVIEWED BY:__________________________
+
+Hello, I’m from _______________ , a local marketing research company. We’re conducting a survey today and I'd like to ask you a few questions.
+
+1. First, do you or does any member of your family work for........
+   An automobile manufacturer...........................................................................
+   A food processing company..........................................................................
+   An advertising agency...............................................................................
+   A newspaper or magazine......................................................................... TERMINATE, ERASE & RE-USE
+   A tobacco manufacturer..............................................................................
+   An insurance company.................................................................................
+   A marketing research company..................................................................... TERMINATE, ERASE, & RE-USE
+
+2. Which of the following products do you personally use? Just tell me yes or no as I read them. (CHECK ALL ANSWERED YES)
+   Soft drinks...............................................................................................
+   Beer.......................................................................................................
+   Wine......................................................................................................
+   Pipe Tobacco...........................................................................................
+   Cigarettes.............................................................................................. CONTINUE ONLY IF CHECKED
+
+5004.6537

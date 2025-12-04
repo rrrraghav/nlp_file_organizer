@@ -1,0 +1,41 @@
+Occupational Exposure
+to Environmental Tobacco Smoke
+
+S. Katharine Hammond, PhD; Göran Sioranis, PhD; Mighl Richard Youngstrom, MS, CIH, CSP; Judith K. Ockene, PhD
+
+Objectives.—To measure occupational exposures to environmental tobacco smoke in diverse settings, including offices and production areas, and to evaluate the effectiveness of policies that restrict or ban smoking in the workplace.
+Methods.—Personal exposure to environmental tobacco smoke was measured with passive monitors that sample nicotine. Approximately 25 samplers were placed in each worksite for 1 week.
+Setting.—Twenty-five Massachusetts worksites, including fire stations, newspaper publishers, textile dyeing plants, manufacturers of valves, fiber optics, paper labels, batteries, batteries, adhesives, semiconductor equipment, filters, and dies. Samples were collected in offices and production areas.
+Main Outcome Measures.—The distribution of nicotine concentrations in various work settings as a function of company smoking policies. These data were used with risk assessment comparing occupational exposures with home exposures; and evaluating the effectiveness of worksite smoking policies.
+Results.—Worksite smoking policy had a major effect on the nicotine concentrations, which fell from a median of 8.6 µg/m³ in the open offices at worksites that allowed smoking to 0.3 µg/m³ at worksites that banned smoking. The nonoffice workplaces were effecled similarly, with medians of 12 µg/m³ at sites that allowed, re 0.5 µg/m³ at worksites that banned smoking, revealing significant inter-occupational differences and altered exposure patterns.
+Conclusion.—A ban on smoking produces a substantial risk reduction of approximately 3.7 times.
+
+Text for Figure 1
+
+The following is a summary of the legal requirements in five states that have enacted smoke-free workplace laws. The laws vary with respect to the scope of coverage, enforcement mechanisms, and penalties for violations.
+Alabama.—Requires employers to provide a smoking area; permits smoking in an establishment if the employer has a “general duty” to pro-
+tect its employees from a risk of hazard which is free from exposure to environmental tobacco smoke; provides that no one shall be exposed to serious physical harm due to employee’s use of tobacco products, provided that the employer allows smoking. may not meeting this duty.
+
+In 1982, 60% of workers that e ployed more than 50 workers had a policy restricting or banning smoke or restricted smoking to ventilated areas. [3] When only 27% of works report such policies. The increasing prevalence of worksite smoking policies is a re flection of legislative changes as well as increased awareness of the health effects of TE. According to the Surgeon General’s report, [1] states requiring smoking restrictions in public workplaces and 18 required it for all places of employment.
+Non-smoking policies are an effective way to reduce exposure. A policy is a “rule or regulation” that “prohibits or restricts smoking in the workplace.” [4] The Surgeon General’s report [1] recommends that employers:
+1. Develop and implement a comprehensive smoke-free workplace policy.
+2. Establish procedures for enforcing the policy.
+3. Provide employees with information about the hazards of tobacco smoke and the benefits of not smoking.
+4. Offer assistance to employees who want to quit smoking.
+
+Figure 1. Smoke-Free Workplace Laws in Five States, 1986
+
+State Alabama Arkansas California Illinois Michigan
+Scope of Coverage All places of employment; exceptions for certain private offices and outdoor areas. All places of employment; exceptions for certain private offices and outdoor areas. All places of employment; exceptions for certain private offices and outdoor areas. All places of employment; exceptions for certain private offices and outdoor areas. All places of employment; exceptions for certain private offices and outdoor areas.
+Enforcement Mechanisms Complaint investigation by the Alabama Industrial Commission. Complaint investigation by the Arkansas Department of Health. Complaint investigation by the California Occupational Safety and Health Board. Complaint investigation by the Illinois Department of Labor. Complaint investigation by the Michigan Department of State Services.
+Penalties Civil penalties up to $500 for each violation. Civil penalties up to $100 per violation. Civil penalties up to $250 per violation. Civil penalties up to $500 per violation. Civil penalties up to $500 per violation.
+
+References
+
+1. U.S. Department of Health and Human Services. The health consequences of involuntary smoking. Atlanta, GA: U.S. Department of Health and Human Services, 1986. PHS publication no. 86-1427.
+2. Hammond, S.K., Barrett, B.C., & Lando, J.A. Occupational exposure to environmental tobacco smoke. Am J Public Health 1985; 75:1309–1314.
+3. U.S. Department of Labor. Survey of employer smoking policies. Washington, DC: U.S. Department of Labor, 1982.
+4. U.S. Department of Health and Human Services. The guide to protective and preventive programs. Atlanta, GA: U.S. Department of Health and Human Services, 1986. PHS publication no. 85-1370.
+
+
+

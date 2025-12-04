@@ -1,0 +1,36 @@
+CURRICULUM VITAE
+
+Surname and name: URPI, LOURDES
+Date of birthday: February 17th, 1961.
+Place of birthday: La Bisbal del Penedès (Tarragona), Spain.
+
+1.- ACADEMIC DEGREES
+
+1985: Degree in Chemistry from the University of Barcelona.
+1992: Ph. D. Degree in Chemistry from the University of Barcelona.
+
+2.- JOB AT THE UNIVERSITY
+
+From 1985 I have been working in the Department of Chemical Engineering of the Universitat Politécnica de Catalunya as:
+1986 - 1991: assistant professor,
+1991 - 1996: associate professor.
+
+3.- RESEARCH
+
+I am working in the structure determination by crystallography of single crystals. The molecules I have been studied are:
+a) Small basic peptides.
+b) One nucleoside.
+c) Some oligodesoxynucleotides.
+
+Steps of the structure determination:
+1.- Crystallization of the molecule (single crystal), usually by vapour diffusion technique in sitting or hanging drops.
+2.- Mounting the crystal in a capillary.
+3.- Data collection by X-ray diffraction, usually using Cu Kaα radiation.
+4.- Data processing, correction and reduction.
+5.- Resolution of the structure.
+6.- Refinement of the structure.
+7.- Analysis of the structure and possible relation with function.
+
+The two first cases (a and b) are small molecules, but the third one (c) are macromoleules, so the methods applied in solving structures are different. In cases a and b the structures are solved by direct methods, but in case c, the structures are solved by molecular replacement. The refinement procedure is also different according to the size of the molecule. With this knowledge I am now interested in getting broader experience and enter the field of protein structure.
+
+Because of the difficulty in getting good crystals for X-ray diffraction, some oligodesoxynucleotides have been preliminary studied by Raman and FTIR.

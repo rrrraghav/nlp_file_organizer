@@ -1,0 +1,42 @@
+A Blue 81
+B Vanilla 83
+C Melen 85
+
+Should
+have
+been
+CT4-2
+CT4-1
+CT4-3
+
+Doing
+CT4-1
+CT4-2
+CT4-3
+
+Session Product
+A B
+B A
+Through
+1 pm
+session
+
+A - Blue CT 4-3
+B - Vanilla CT 4-4
+C - Melen CT 4-3
+
+A - Blue CT 4-2
+B - Vanilla CT 4-1
+C - Melen CT 4-3
+
+A-
+B-
+C-
+
+1st two sessions
+- A + B were mixed
+V.P.
+
+
+
+SQ89 5600

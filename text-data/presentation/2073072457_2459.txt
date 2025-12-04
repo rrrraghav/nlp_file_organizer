@@ -1,0 +1,75 @@
+P. 3
+1988 MALBORO BAR PROGRAM
+Weekly Club Status Report
+
+DATE: November 27, 1987
+WEEK #14
+
+MARKET   GOAL  SALES  TARGET  REMAIN  TOTAL  REMAIN
+                                   CONNECTED
+Amesbury     0      0       0        0      0       0
+Andover       0      0       0        0      0       0
+Ashland       0      0       0        0      0       0
+Auburn        0      0       0        0      0       0
+Bellingham    0      0       0        0      0       0
+Beverly       0      0       0        0      0       0
+Blackstone   0      0       0        0      0       0
+Boxborough    0      0       0        0      0       0
+Boylston     0      0       0        0      0       0
+Braintree     0      0       0        0      0       0
+Bridgewater  0      0       0        0      0       0
+Brockton      0      0       0        0      0       0
+Chelmsford    0      0       0        0      0       0
+Chicopee      0      0       0        0      0       0
+Clinton       0      0       0        0      0       0
+Dover         0      0       0        0      0       0
+Dracut        0      0       0        0      0       0
+East Longmeadow 0      0       0        0      0       0
+Easthampton   0      0       0        0      0       0
+Fitchburg     0      0       0        0      0       0
+Framingham    0      0       0        0      0       0
+Franklin      0      0       0        0      0       0
+Gardner       0      0       0        0      0       0
+Groton        0      0       0        0      0       0
+Haverhill     0      0       0        0      0       0
+Hudson        0      0       0        0      0       0
+Leominster    0      0       0        0      0       0
+Lexington     0      0       0        0      0       0
+Lincoln       0      0       0        0      0       0
+Littleton     0      0       0        0      0       0
+Lowell        0      0       0        0      0       0
+Ludlow        0      0       0        0      0       0
+Lynn          0      0       0        0      0       0
+Malden        0      0       0        0      0       0
+Medford       0      0       0        0      0       0
+Melrose       0      0       0        0      0       0
+Methuen       0      0       0        0      0       0
+Milton        0      0       0        0      0       0
+Millis        0      0       0        0      0       0
+Natick        0      0       0        0      0       0
+Newton        0      0       0        0      0       0
+North Adams   0      0       0        0      0       0
+Northampton  0      0       0        0      0       0
+Norton        0      0       0        0      0       0
+Norwood       0      0       0        0      0       0
+Paxton        0      0       0        0      0       0
+Pepperell     0      0       0        0      0       0
+Quincy        0      0       0        0      0       0
+Reading       0      0       0        0      0       0
+Shrewsbury    0      0       0        0      0       0
+South Hadley  0      0       0        0      0       0
+Springfield   0      0       0        0      0       0
+Taunton       0      0       0        0      0       0
+Tewksbury     0      0       0        0      0       0
+Townsend      0      0       0        0      0       0
+Uxbridge      0      0       0        0      0       0
+Westfield     0      0       0        0      0       0
+Woburn        0      0       0        0      0       0
+Worcester     0      0       0        0      0       0
+
+
+
+TOTALS    0   0  0   0   0   0
+
+2073072457
+11-27-1987 8:06AM FROM ENT_JACK(INC) 91344384

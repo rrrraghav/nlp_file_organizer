@@ -1,0 +1,22 @@
+Beiträge zur Tabakforschung, Berlin 7 (1954) : 117-123
+
+A Method for Measuring the Elution of Nicotine
+and Total Particulate Matter from a Cigarette Filter*
+
+By John G. Curran and John E. Kiefer
+
+Research Laboratories, Tennessee Eastman Company, Division of Eastman Kodak Company,
+Kingsport, Tennessee, U.S.A.
+
+INTRODUCTION
+
+It has been shown that, during smoking, compounds with boiling points as high as 573° C are not held entirely by the particulate matter. Previous work in our laboratory indicated that phenol, nitrosamine, isobutyric acid, ethyl mercaptan, dimethyl sulfide, beta-ethyl-
+tetra-, pentadecane, hexadecane, and octadecane added as a cellulose acetate filter wetting agent were lost during smoking of cigarettes. These compounds escaped from the filter by entrapment in nonfiltered smoke particles. This method was developed to investigate this phenomenon with to add 14C-labeled compound to the cigarette smoke stream and measure the amount of 14C-labeled compounds that escaped from the filter (5). This method does not accurately simulate conditions when unlabelled cigarette components were not filtered from organic smoke but were added to the cigarette. The purpose of this work is to determine that more recently simulations that contain a procedure for measuring the elution of nicotine and total particulate matter from the tobacco until this week to include 14C-labeled compounds in the cigarette smoke stream, and to measure the amount of 14C-labeled compounds that escaped from the filter.
+
+If air is puffed, the amounts of nicotine at three different rates of puffing by means of a linear time program are carefully measured. The rate of puffing is controlled by a mechanical device which delivers puffs of approximately 12 mm3 volume at a constant pressure. The apparatus is such that the cigarette is held in a vertical position and the air flows upward through the tobacco.
+
+The amount of nicotine or 14C-labeled TPM which escaped from the filter was measured. The escape of infrared “film-volatile” (SV) compounds from a cigarette filter is an important phenomenon (1). When cigarette smoke passes through a filter, the escape of previously trapped SV compounds may occur. If air is puffed through a filter containing SV compounds, there is a loss of SV compounds from the filter. Thus, the passage of smoke aerosol particles through a filter is necessary before an appreciable amount of SV compounds can escape from a filter.
+Some of the processes which probably occur within a cigarette are shown schematically in Fig. 1 (not drawn to scale). An SV compound may be trapped on a surface to some extent from the fiber (A) or from an aerosol particle (B), (C), or another fiber (D). The SV compound or another aerosol particle (E) may escape from a filter particle, is removed by filtration as part of a larger particle (F), or escapes as part of the nondesaturated surface. The particulate vapors occur from the filter. This overall process of a filtered cigarette is shown in Fig. 2.
+
+
+
