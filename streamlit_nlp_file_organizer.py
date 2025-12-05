@@ -251,7 +251,7 @@ def main():
                                 predicted_label = chosen[0][0]
                                 confidence = chosen[0][1]
                                 
-                                st.info(f"Top prediction: **{predicted_label}** (confidence: {confidence:.4f})")
+                                st.info(f"Top prediction: **{predicted_label}** (confidence: {confidence:.2f})")
                                 
                                 if st.button(f"Move file to organized/{predicted_label}"):
                                     dest_dir = ORGANIZED_DIR / predicted_label
