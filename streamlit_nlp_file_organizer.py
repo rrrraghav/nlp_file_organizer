@@ -265,17 +265,8 @@ def main():
 
     # Sidebar footer
     st.sidebar.markdown("---")
-    st.sidebar.write("**Class names inferred:**")
+    st.sidebar.write("**Class names:**")
     st.sidebar.write(CLASS_NAMES)
-    
-    st.sidebar.markdown("---")
-    st.sidebar.markdown("### Quick tips")
-    st.sidebar.markdown("""
-    - **LR**: Save `vectorizer.pkl` and `lr_model.pkl` into `models/`
-    - **RNN**: Save `tokenizer.pkl` and `rnn_model.h5` into `models/`
-    - **RoBERTa**: Save a HF model into `models/roberta/` or type a HF model id above
-    - **Class names**: Save `class_names.pkl` in `models/` or they'll be inferred from `text-data/` folders
-    """)
 
 
 if __name__ == '__main__':
