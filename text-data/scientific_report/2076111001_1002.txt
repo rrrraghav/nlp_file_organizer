@@ -1,0 +1,60 @@
+plabvg.
+12/13/93
+CIGARETTE QUALITY SYSTEM Preliminary Laboratory Averages Report Page 1
+11:06 AM
+Request : 0931160-05 Date Submitted: 11/18/93
+Submitter... dave sealey Date Received: 11/18/93
+Request Type: inh Date Completed: 12/13/93
+
+Description: CIGT. PAPER QUALIFICATION - BLUE CARD 93-006 JAPAN
+
+Test Categories/Tests MARLboro Lts. M&Lboro Proposd MFKS - current
+Smoke MRK8-C Target Result MRK8-P Target Result MRK8-C Target Result
+Plug Butt Length, mm 30.0 29.5 30.0
+DIOJ TPM, mg/cigt. 10.7 10.6 16.1
+DIOJ Nicotine, mg/cigt. 0.84 0.84 1.14
+DIOJ Waters, mg/cigt. 0.92 0.92 1.91
+TAR/puff, mg 13.5 13.6 17.3
+Paper
+Cltrate, % 1.0 0.6 1.6
+Fumarate, % 0.0 0.6 0.5
+Acetate, % 0.0 0.0 0.0
+Permeability, CORESTA Units 32 35 35
+Filter Content see note see note see note
+Tipping Paper Length, mm 24.0 24.0 24.0
+Filler 30.0 30.0
+Oven Volatiles, % (Equil.) 14.1 14.1 14.1
+Paper (Pack)
+Firmness, g 3.42 3.56 3.59
+Tobacco Weight, g 0.718 0.724 0.782
+Oven Volatiles, % MFKS 12.29 12.55 12.56
+
+Test Categories/Tests MRK8-P Proposed
+Smoke Target Result
+Plug Butt Length, mm 30.0 30.0
+DIOJ TPM, mg/cigt. 11.0 10.6
+DIOJ Nicotine, mg/cigt. 0.84 0.84
+TAR/puff, mg 17.2 17.3
+Paper
+Cltrate, % 0.6 0.6
+Fumarate, % 0.5 0.5
+Acetate, % 0.0 0.0
+Permeability, CORESTA Units 35 35
+Filter Content see note
+Tipping Paper Length, mm 24.0
+Filler 30.0
+Oven Volatiles, % (Equil.) 14.1
+
+Paper (Pack)
+Firmness, g 3.56
+Tobacco Weight, g 0.724
+Oven Volatiles, % MFKS 12.55
+
+MFKS - current
+MRK8-P Proposed
+MRK8-C Target Result
+TAR/puff, mg 17.2 17.3 17.3
+DIOJ Waters, mg/cigt. 1.91 1.91 1.91
+
+Note: See attached summary for details.
+20611001

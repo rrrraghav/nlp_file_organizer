@@ -1,0 +1,17 @@
+Inverse Regulation of Hepatic α₁B- and β₂-Adrenergic Receptors
+
+Cellular Mechanisms and Physiological Implications
+
+GEORGE KUNOS, EDWARD J. N. ISHAC, BIN GAO,
+AND LIU JIANG
+
+Departments of Pharmacology & Toxicology and Medicine
+Medical College of Virginia
+Virginia Commonwealth University
+Richmond, Virginia 23220
+
+Catecholamines control a wide variety of metabolic processes in the liver, including key steps in carbohydrate, lipid, and amino acid metabolism. Of the multiple subtypes of adrenergic (AR) that have been identified by pharmacological means as well as by molecular cloning two subtypes have major roles in the control of hepatic functions in the rat: α₁B-linked aR and cAMP-linked β₂AR. The most extensively studied metabolic effect of catecholamines in the liver is glycogenolysis, which is stimulated by activation of the rate-limiting enzyme, glycogen phosphorylase. Phosphorylase activation by catecholamines can occur both through α₁B AR and β₂AR.
+
+In addition to their direct metabolic effects, catecholamines also influence hepatocyte growth and differentiation; they increase hepatic DNA synthesis and are involved in the early phases of liver regeneration after partial hepatectomy. The mammalian liver displays unusual plasticity in that it can partially regenerate after extensive tissue loss or injury. This regenerative response is preceded by a transient period of cellular disarray characterized by the loss of liver-specific functions and gene products, such as the synthesis of albumin and transferrin, and the parallel appearance of nonliver-specific gene products, such as the protooncogenes c-myc, c-fos, efs, and n-ras. Adrenergic receptors also display a unique form of plasticity; best exemplified by studies of hepatic glycogenolysis in the rat. Although in the normal adult male rat this response is mediated exclusively by α₁B AR, after partial hepatectomy the same response is rapidly converted to predominantly β₂AR mediation. Interestingly, a similar conversion from α₁ to β-type responses occurs in a number of other conditions, including giant chondroid deformity / hypophysectomy/12, 13, streptozotocin-induced diabetes/14, partial transformation by cholera toxin/15, fetal liver adult rat liver regeneration/16 and dissociation of hepatocytes by enzymatic digestion/16. In many of these conditions, a correspondence in time exists between the shift from α₁B AR to β₂AR mediation and the appearance of new beta-adrenergic receptors on hepatic cells. This suggests that the switch is not merely a consequence of altered receptor density but rather reflects a more fundamental change in the cellular mechanisms regulating glycogenolysis.
+
+To investigate this phenomenon further, we have examined the effects of catecholamines on glycogenolysis in partially hepatectomized rats and have compared these findings with those obtained from normal adult male rats. We report here that after partial hepatectomy, β₂AR-mediated glycogenolysis is associated with an increase in cAMP synthesis, a decrease in cyclic GMP synthesis, and an increase in the phosphorylation of phosphorylase. These changes are accompanied by an increase in the hepatic content of adenylyl cyclase and guanylyl cyclase activities.

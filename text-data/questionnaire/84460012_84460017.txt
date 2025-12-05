@@ -1,0 +1,56 @@
+COMMUNICUS, INC.
+Project LLD-3
+November, 1977
+
+09 Male 5 -1 Los Angeles 6 -1
+Female Denver Chicago ->3
+
+
+
+GROUP A 41
+
+NAME:
+
+ADDRESS:
+
+CITY/TOWN:
+
+TELEPHONE #:
+
+INTERVIEWED BY:                                  DATE:
+
+VALIDATED BY:
+
+Hello, I’m _______ from Communicus, a consumer opinion firm. We are
+conducting a survey and would like to include you.
+
+la. Do you smoke cigarettes?
+Yes CONTINUE
+No TERMINATE
+
+b. How many cigarettes do you usually smoke per day? (DO NOT READ LIST.)
+
+0 - 9 TERMINATE
+Between 10 and 15 -1
+16 to 25 ->3
+More than 25 -3
+
+2. Which of the following statements apply to you?
+
+a. I eat dinner in a restaurant at least once a month.  -1
+b. I read a daily newspaper. -2
+c. I do most of the food shopping for myself and/or my family. ->3
+d. I have taken an airline trip on a scheduled commercial airline in the past 12 months. -4
+
+3. Into which of the following age groups do you fall? (READ LIST.)
+
+Under 18 TERMINATE
+18 to 24  -1
+25 to 34 QUOTA 1 ->2
+35 to 44 -3
+45 to 49 QUOTA 2 -3
+50 or over TERMINATE
+
+-1-
+
+8460012

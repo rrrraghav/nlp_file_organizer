@@ -1,0 +1,68 @@
+Int. J. Cancer, 42, 461-468 (1988)
+
+HUMAN Lung TUMOUR CELL LINE ADAPTED TO GROW IN SERUM-FREE MEDIUM SECRETES ANGIOGENESIS FACTOR
+
+S. KUMAR¹, D. WEST², Mary DANIEL³, Anne HANCOCK³ and T. CARR¹
+¹ Christie Hospital, Manchester, M20 8BX; ²Clatterbridge Hospital, Bebington, Merseyside, L42 6LT; ³England.
+
+A human lung tumour cell line has been grown in serum-free medium for 12 months and during this period it has been shown to secrete an angiogenesis factor which stimulates the migration of endothelial cells in vitro. This is a report of the isolation and characterization of an angiogenesis factor by a cell line adapted to growth in serum-free medium.
+
+The growth of a solid tumour beyond the size of a few millimetres depends on its ability to stimulate the formation of new vessels from the surrounding host tissues (Folkman, 1974). This process is thought to be mediated by the secretion of a soluble factor (tumour angiogenesis factor) which induces neovascularization and stimulates the migration and proliferation of endothelial cells in vitro (Zetter, 1988; Burr et al., 1988). Angiogenesis factors have been extracted from various human tissues, and serum-free culture systems have also been used to obtain them (Kugizaki et al., 1986; Murata et al., 1987; Gilligan & Knowles, 1988). Endothelial cell proliferation also occurs in several tumour and non-tumour cell lines grown in serum-free medium, suggesting that the factor may be constitutively secreted (Sutherland et al., 1986; Ross et al., 1987). We report here a human lung tumour cell line which has been adapted to growth in serum-free medium and which secretes an angiogenesis factor. The factor stimulates endothelial cell migration in vitro, is non-haemolytic, non-mitogenic for fibroblasts and is not adsorbed by collagen.
+
+METHODS
+
+Cell Culture
+
+The cell line was established from a biopsy of a lung tumour diagnosed histologically as a poorly differentiated carcinoma. The patient was a 63-year-old male. The tissue was obtained during lobectomy and transported to the laboratory in a dilute Hanks solution. The tissue was minced with scissors and washed with sterile saline.
+
+The cells were cultured in Dulbecco's modification of Eagle’s medium (DMEM) containing 50 mg/l gentamycin, or supplemented with 10% bovine calf serum. The cell line (designated lungla) has also been used successfully in adaptation and cell culture.
+
+A sample of the patient’s tumour tissue diagnosed histologically as a poorly differentiated carcinoma was obtained during lobectomy from a 63-year-old male. The tissue, approximately 1 cm³, was obtained with a dilute Hanks solution. The tissue was minced with scissors and washed with sterile saline.
+
+The cells were cultured in Dulbecco’s modification of Eagle's medium (DMEM) containing 50 mg/l gentamycin, or supplemented with 10% bovine calf serum. The cell line (designated lungla) has also been used successfully in adaptation and cell culture.
+
+Serum-free conditions were achieved by gradually reducing the concentration of serum in the culture medium over a period of several weeks. The final serum-free medium consisted of DMEM containing 50 mg/l gentamycin, 2 mM glutamine, 10 µg/ml insulin, 5 µg/ml transferrin and 5 ng/ml epidermal growth factor (all from Sigma).
+
+Conditioned Medium
+
+Conditioned medium was prepared by culturing lungla cells in serum-free medium for 48 h. The medium was collected, filtered through a 0.22 µm filter (Millipore) and stored at -20°C until use.
+
+Endothelial Cell Migration Assay
+
+Human umbilical vein endothelial cells (HUVECs) were isolated from the umbilical cord of a newborn baby as described previously (Folman et al., 1974). The cells were cultured on collagen-coated glass slides in Dulbecco’s modification of Eagle's medium (DMEM) containing 50 mg/l gentamycin, 2 mM glutamine, 10 µg/ml insulin and 5 ng/ml epidermal growth factor.
+
+The migration assay was performed as described previously (Zetter, 1988). Briefly, a 1 mm diameter area was excised from the centre of the endothelial cell monolayer using a sterile cork borer. The area was then exposed to conditioned medium or control medium (DMEM) and the number of cells that had migrated through the wound over a period of 24 h was counted under a microscope.
+
+Protein Assay
+
+The protein content of the conditioned medium was determined by the Bradford method (Bradford, 1976), using bovine serum albumin as the standard.
+
+Gel Electrophoresis and Immunoblotting
+
+Conditioned medium was concentrated 50-fold by ultrafiltration using an Amicon Diaflo membrane with a molecular weight cut-off of 10 000. The concentrated medium was then subjected to SDS gel electrophoresis under reducing conditions, followed by immunoblotting using anti-human collagen IV antibody (Nichrei Biosciences).
+
+RESULTS
+
+Adaptation to Serum-Free Medium
+
+The lung tumour cell line, designated lungla, was adapted to growth in serum-free medium over a period of 6 months. The cells grew well in serum-free medium and exhibited normal morphology.
+
+Stimulation of Endothelial Cell Migration
+
+Conditioned medium from lungla cells stimulated the migration of HUVECs (Figure 1). The stimulatory effect was dependent on the concentration of conditioned medium used, with maximal stimulation observed at a dilution of 1:4 (Figure 2). Control medium (DMEM) did not stimulate endothelial cell migration.
+
+Protein Composition of Conditioned Medium
+
+SDS gel electrophoresis of concentrated conditioned medium revealed several bands, one of which migrated at approximately 70 kDa and appeared to be immunoreactive for collagen IV (Figure 3).
+
+DISCUSSION
+
+The results demonstrate that a human lung tumour cell line can be adapted to growth in serum-free medium and that this cell line secretes an angiogenesis factor which stimulates the migration of endothelial cells in vitro. The factor appears to be a collagen IV fragment, as it is detected by immunoblotting using anti-human collagen IV antibody.
+
+The ability of tumour cells to stimulate angiogenesis is well established (Folkman, 1974). This process is thought to be mediated by the secretion of a soluble factor which induces neovascularization and stimulates the migration and proliferation of endothelial cells in vitro (Zetter, 1988; Burr et al., 1988).
+
+The isolation and characterization of angiogenesis factors from tumour cell lines grown in serum-free medium is important for several reasons. First, it allows for the production of large quantities of these factors without the need for animal serum. Second, it provides a means of studying the biosynthesis and regulation of these factors. Third, it may lead to the development of new therapies for cancer and other diseases involving angiogenesis.
+
+The fact that lungla cells can be adapted to growth in serum-free medium is also significant. It suggests that these cells are capable of synthesizing all of the nutrients and growth factors required for their survival and proliferation. This could have implications for our understanding of tumour metabolism and for the development of new cancer therapies.
+
+Further studies are needed to confirm the identity of the angiogenesis factor secreted by lungla cells and to investigate its mechanism of action. However, these results provide further evidence that tumours can stimulate angiogenesis and that this process is mediated by soluble factors.

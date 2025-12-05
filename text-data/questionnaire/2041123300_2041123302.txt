@@ -1,0 +1,48 @@
+WINONA RESEARCH, INC.
+8200 Humboldt Ave. So.
+Minneapolis, MN 55431
+
+RQA TEST
+NO. 1602-4061
+JULY, 1984
+
+SCREENER
+
+Hello, I’m _____ of WINONA RESEARCH, a national public opinion
+firm calling long distance from Phoenix, Arizona, and I'd like to ask you a few
+questions.
+
+1. We’re talking to people 18 years of age and over, so first of all, are you 18 years
+of age or over?
+
+Yes ….. 1
+No ……. 2 ---> (ASK) “May I please speak to someone
+who is 18 or over?”
+
+IF NO ONE 18 OR OVER AT HOME WHO CAN BE INTERVIEWED, THANK AND
+ARRANGE TO CALL BACK. IF NECESSARY, RE-INTRODUCE YOURSELF AND PROCEED.
+
+2a. Are there any people in this household … including yourself … who are 18 years of
+age or over and smoke filtered cigarettes?
+
+Yes ….. 1  THANK AND TERMINATE
+No ……. 2 --->
+
+2b. Do you, yourself, smoke filtered cigarettes?
+
+Yes ….. 1
+No ……. 2 ---> (ASK) “May I please speak to someone
+who smokes filtered cigarettes
+and is 18 years of age or over?”
+
+IF NO SMOKER 18 OR OVER AT HOME CAN BE INTERVIEWED, THANK AND ARRANGE TO
+CALL BACK. IF NECESSARY, RE-INTRODUCE YOURSELF AND PROCEED.
+
+CALLBACK INFORMATION
+
+NAME:___________________ PHONE: (______)
+DATE:___________________ TIME:__________
+
+07/02/84 ms
+ATTACHMENT 3
+201123200

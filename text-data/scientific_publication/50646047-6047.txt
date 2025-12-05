@@ -1,0 +1,94 @@
+Hepatlc gene therapy: Adenovirus enhancement of receptor-
+mediated gene delivery and expression in primary hepatocytes
+
+(asialoglycoprotein / cndoyte/phenylketonuria)
+
+RICHARD J. CRISTIANO*, LOUIS C. SMITH*, and SAVIO L. COO**‡§
+*Howard Hughes Medical Institute and Departments of Cell Biology, Molecular Genetics, and Medicine, Baylor College of Medicine, Houston, Texas 77030
+Communicated by W. K. Summers, December 3, 1992 (received for review October 1, 1992)
+
+ABSTRACT We have combined a receptor-mediated DNA
+delivery system with the endosomal lysis ability of adenovirus
+and shown that DNA can be delivered into primary hepato-
+cytes, resulting in high levels of gene expression. When
+asialoglycoprotein conjugated with poly(L-lysine) was used to
+deliver the Herpes simplex virus thymidine kinase (HSV-tk)
+gene into primary cultures of human hepatocytes, the hepatic asialoglycopro-
+tein receptor, only a few level of B-galactosidase was detectable,
+with less than 0.1% of the hepatocytes being transduced. This
+level of activity can be greatly enhanced by the co-internaliza-
+tion of the DNA/protein complex with a replication-defective
+adenovirus, resulting in 100+ times the fluorescence staining due
+with 3'-brom-o-chlor-o'-indolyl B-D-galactosidase. Quantita-
+tive analysis of HSV-tk expression showed more than 1000-
+fold enhancement of activity. To test the applicability of this
+DNA delivery system for the correction of phenylketonuria, a
+metabolic disorder that causes severe mental retardation in
+children, we have delivered the human phenylalanine hydroxylase
+(PAH) gene into hepatocytes derived from a PAH-deficient
+mouse strain and demonstrated complete restoration of enzymatic
+activity. This method may therefore great promise for
+efficient gene delivery to the liver for correction of genetic
+disorders.
+
+The liver is an attractive target for gene therapy because it
+is readily accessible, possesses a high regenerative capacity,
+and has a unique sinusoidal structure that allows for efficient
+uptake of macromolecules. Receptor-mediated DNA delivery
+systems have been developed to overcome the limitations of
+traditional viral vectors, such as low efficiency and toxicity.
+These systems typically involve conjugating DNA with a ligand
+that binds to a receptor on the surface of target cells. The
+receptor-ligand complex is then internalized by endocytosis,
+and the DNA is released into the cytoplasm. However, most
+endocytosed material is degraded in lysosomes, which limits
+the efficiency of receptor-mediated gene transfer.
+
+Adenovirus is an efficient vector for gene delivery to a wide
+range of cell types. Adenoviral vectors can be engineered to
+lack viral genes, resulting in replication-defective viruses that
+are safe for clinical use. We have combined the specificity of
+receptor-mediated DNA delivery with the endosomal lysis
+ability of adenovirus to create a novel system for efficient
+gene transfer into hepatocytes. In this system, DNA is complexed
+with an asialoglycoprotein (ASOR) ligand and then co-internalized
+with a replication-defective adenovirus. The adenovirus then
+lyses the endosome, releasing the DNA into the cytoplasm.
+
+MATERIALS AND METHODS
+
+Preparation of ASOR and Uptake Studies in Primary He-
+patocytes. Ornithine (Sigma) was desialylated with
+neuraminidase (Calbiochem) to form ASOR. Residual sialic
+acid was determined to be less than 0.5% by the thiobar-
+bituric acid assay. ASOR was labeled with europium-chelate
+II phycoerythrin (Amersham). All media used for hepatocyte
+isolation and growth were purchased from Gibco. Hepato-
+cytes were isolated from 10- to 12-week-old C57BL/6 mice
+and 10 to 12-week-old phenylalanlne hydroxylase (PAH)-
+deficient mice by collagenase perfusion (37). The hepatocytes
+were plated at a density of 3 x 10^5 cells per ml in Williams’
+E medium plus 10% fetal bovine serum. 2 hours after plating,
+cells were incubated with 10 µg/ml of either unlabeled
+ASOR or europium-chelate II phycoerythrin labeled ASOR.
+After 2 hours, the cells were washed three times with phosphate-
+buffered saline (PBS) and fixed in 4% paraformaldehyde.
+Cells were then incubated with a replication-defective adenoviral
+vector expressing B-galactosidase (AdBgal). The adenovirus
+was used at a multiplicity of infection (MOI) of 10. After
+incubation for 2 hours, the cells were washed three times with
+PBS and fixed in 4% paraformaldehyde. Cells were then
+incubated with X-Gal substrate to detect B-galactosidase
+activity.
+
+DNA/protein complex formation. Quantitative enhancement
+of DNA delivery and functional expression in hepatocytes
+was achieved by the co-internalization of the asialoglycoprotein (ASOR) system for gene delivery and the
+endosomal lysis ability of adenovirus is a powerful
+technology that can be developed into a simple procedure for
+hepatic gene therapy by systemic gene delivery.
+
+
+
+Vol. 90, pp. 2122-2128, March 1993
+Genetics

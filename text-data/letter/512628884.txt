@@ -1,0 +1,35 @@
+JDP
+
+August 22, 1990
+
+SUBJECT: Strip Nicotine Variation Control Test
+
+From: J. B. Wilson
+
+To: Mr. T. J. Porter
+
+Bob Shore and I have reviewed with Leaf Processing and Storage and PT&D the logistics of the proposed strip nicotine variation control test. Originally, this test was to have been conducted using 1990 Georgia tobaccos. The early market dates and subsequent PT&D equipment delays necessitates a shift in test design from Georgia tobaccos to Old Belt tobaccos.
+
+The objective of this test is to determine whether meaningful improvement in strip nicotine measurement variations can be achieved through on-line green leaf nicotine measurement and subsequent stemmery infeed blending. A three part test using 4X OB 90 tobacco will be conducted. Each test leg will be limited to approximately half a shift at Brook Cove. A line nicotine values for bailed green leaf tobacco will be measured at Davis County Prizerry prior to shipment to Brook Cove. The following test design will be used:
+
+A-Leg: as received tobacco, no special market mixing at either Davis County or Brook Cove.
+
+B-Leg: as received tobacco, maximum market mixing at Brook Cove in-feed.
+
+C-Leg: nicotine tagged tobacco from Davis County, pre-determined blending ratio of high, mean, and low nicotine level tobaccos per crop grade target, blending at Brook Cove in-feed.
+
+Nicotine Measurement A-Leg B-Leg C-Leg
+Green-leaf (PT&D IR) X X X
+[Davis County Prizerry]
+Stemmery / On-line X X X
+(PT&D IR)
+Stemmery / QA NIR X X X
+Standard Bale Tests
+In-feed Mixing (/by): none market nicotine
+Production Line: BC-A BC-A BC-A
+Test Size (green lbs.): 120,000 120,000 120,000
+Product Specifications: std. std. std.
+Product Disposition: put all product into regular inventory
+Timing: mid-September
+
+5126.884

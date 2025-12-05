@@ -1,0 +1,62 @@
+Mumian Research, 206 (1988) 17–24
+Elsevier
+
+MTTR 01296
+
+In vitro studies of the biological effects of cigarette smoke condensate.
+III. Induction of SCE by some phenolic and related constituents
+derived from cigarette smoke
+
+A study of structure—activity relationships
+
+Tommy Jansson, Margareta Curvall ª, Annica Hedin ª and Curt R. enzell ª
+Department of Medical Cell Genetics, Medical Institute, Karolinska Institutet, P.O. Box 66090, S-104 01 Stockholm (Sweden)
+and Research Department, Swedish Tobacco Co. P.O. Box 71007, S-104 01 Stockholm (Sweden)
+
+(Received 22 October 1987)
+(Revised accepted 28 December 1987)
+
+Keyword: Cigarette smoke; Induction of SCE; Phenols and benzaldehydes; Structure—activity relationships.
+
+Summary
+
+Since our earlier studies of 23 individual weakly acidic constituents of cigarette smoke indicated that benzenes having vicinal oxygenation or a conjugated double bond induce sister-chromatid exchanges (SCE), we have now screened and examined a complementary suite of 27 smoke constituents for their SCE-inducing properties. Of the 50 compounds tested in all, 23 were found to induce SCE, and these include both benzaldehydes and phenols, as well as the majority of the compounds having a conjugated carbon–carbon double bond as well as vanillin, eugenol and guaiacol. The groups of active compounds comprise important flavourants such as benzyl-isovanillin, isoeugenol and guaiacol. The structure—activity relationships encountered here may be useful in predicting the SCE-inducing activity of related compounds.
+
+Introduction
+The importance of cigarette smoke to human health is well established [1–3]. A major contribution to various noxious effects is thought to stem from the complex mixture of chemicals that are exuded during combustion [4, 5]. Among these constituents, phenols and benzaldehydes have been shown to be particularly important inducers of sister-chromatid exchanges (SCE) [6, 7], a sensitive measure of chromosomal damage.
+
+Earlier studies from this laboratory [8] have demonstrated that benzenes having vicinal oxygenation or a conjugated double bond induce SCE in cultured human lymphocytes. In the present study, we have extended these investigations to include a complementary suite of 27 smoke constituents, with the aim of further elucidating the structure—activity relationships involved in the induction of SCE. The compounds tested included both phenols and benzaldehydes (see Table I), as well as some other structurally related compounds [9].
+
+Materials and Methods
+Compounds — The cigarette smoke condensate (CSC) was obtained from a commercial source (Swedish Tobacco Co.). Individual constituents were either purchased from chemical suppliers or isolated from CSC by preparative gas chromatography, as described previously [8]. All compounds were dissolved in dimethyl sulfoxide (DMSO) at concentrations of 1–10 mg/ml.
+
+SCE assay — The SCE assay was performed on cultured human lymphocytes using the method of Schneider [10], with minor modifications. Lymphocytes were isolated from peripheral blood heparinized by venipuncture, and cultured for 48 h in RPMI 1640 supplemented with 10% fetal calf serum, 2 mM L-glutamine, and antibiotics. Cells were treated with the test compounds for 24 h, after which they were incubated with colcemid (0.1 µg/ml) for 2 h to arrest mitosis at metaphase. Cells were then treated with a hypotonic solution, fixed in methanol:acetic acid (3:1), and stained with Hoechst 33258. Metaphase spreads were examined under a fluorescence microscope, and SCEs were counted per cell.
+
+Cytotoxicity assay — Cytotoxicity was assessed by measuring the percentage of viable cells after treatment with the test compounds for 24 h. Viability was determined using the trypan blue exclusion method.
+
+Results
+The results of the SCE assay are summarized in Table I. Of the 50 compounds tested, 23 were found to induce SCE. The most potent SCE-inducing agents were 2,4-dinitrophenol (relative activity = 100), guaiacol (relative activity = 68) and benzyl-isovanillin (relative activity = 67). Other active compounds included vanillin, eugenol, isoeugenol and benzaldehyde. Compounds containing a conjugated carbon–carbon double bond were also frequently SCE-inducing, although generally less potent than the phenols.
+
+The relationship between SCE induction and cytotoxicity is shown in Fig. 1. There was a general correlation between these two parameters, but some compounds induced SCE at concentrations below those that caused significant cytotoxicity. For example, guaiacol induced SCEs at a relative activity of 68, whereas its cytotoxic index was only 25.
+
+Discussion
+The results of this study confirm and extend our earlier findings [8] regarding the ability of certain cigarette smoke constituents to induce SCE in cultured human lymphocytes. The observation that both phenols and benzaldehydes are potent SCE-inducing agents is consistent with previous reports [6, 7]. The relative potencies of the various compounds tested suggest that the presence of a hydroxyl group on an aromatic ring is important for SCE induction. The conjugation of a carbon–carbon double bond also appears to be a significant factor, although less so than the phenolic hydroxyl group.
+
+The finding that some compounds induce SCE at concentrations below those that cause significant cytotoxicity suggests that these agents may have the potential to cause chromosomal damage in vivo, even if they do not directly kill cells. This is particularly relevant for compounds such as guaiacol and benzyl-isovanillin, which are present in relatively high concentrations in cigarette smoke.
+
+The structure—activity relationships encountered here may be useful in predicting the SCE-inducing activity of related compounds. Further studies are needed to investigate the mechanisms by which these compounds induce SCE, and to assess their potential role in the etiology of human cancer.
+
+Acknowledgements
+We thank Miss Birgitta Sjöberg for excellent technical assistance.
+
+References
+[1] Wynder, C.L. (1978) Cigarette smoking and cancer. Environ. Health Perspect., 26, 3–14.
+[2] Doll, R.E. and Hill, A.B. (1964) Lung cancer and smoking. Br. Med. J., 1, 1071–1075.
+[3] US Department of Health, Education, and Welfare (1981) The health consequences of increased cigarette use. DHHS Publication No. 81-1646.
+[4] Hoffmann, D. (1978) Chemical constituents of tobacco smoke. In: Tobacco Smoke—Chemical and Biological Effects (ed. Jarvik, L.) pp. 35–70. American Cancer Society, New York.
+[5] Tainer, B.J., Bumma, J.W., Gelb, P.H., Osborn, D.J. and Hoffmann, D.D. (1982) Gas chromatographic mass spectrometric survey of cigarette smoke. Chem. Res. Toxicol., 1, 375–386.
+[6] Boobis, A.R., Brown, S.M., Wright, J.L., Stewart, W.F. and Lauwerys, R. (1984) Induction of sister chromatid exchanges by phenols in human lymphocytes. Mutat. Res., 128, 157–163.
+[7] Miller, C.R., D’Silva, A., Hsia, S.S., Staveley, J. and Thorgeirson, T.E. (1984) Induction of sister chromatid exchanges by phenols in human lymphocytes. Mutat. Res., 126, 235–240.
+[8] Jansson, T., Hedin, A. and Enzell, C.R. (1987) In vitro induction of sister-chromatid exchanges by benzene derivatives in cultured human lymphocytes. Mutat. Res., 186, 135–142.
+[9] Hoffmann, D. (1978) Chemical constituents of tobacco smoke. In: Tobacco Smoke—Chemical and Biological Effects (ed. Jarvik, L.) pp. 35–70. American Cancer Society, New York.
+[10] Schneider, P.L. (1972) A simple technique for measuring sister chromatid exchanges in human peripheral lymphocytes. Experimental Cell Research, 73, 614–618.

@@ -1,0 +1,134 @@
+Ctr Acknowledged
+D. B. Cohen
+
+Improved Isolation of Rat Lung Alveolar Type II Cells
+
+More Representative Recovery and Retention of Cell Polarity
+
+2868
+
+NANCY K. WELLER, PH.D., and
+MORRIS J. KARNOWSKY, MBBC, DSC
+
+From the Department of Pathology, Harvard School
+Busse, Massachusetts
+
+We have developed an improved isolation procedure for
+rat lung alveolar type II cells (ATII) which yields a more
+representative sample of ATII cells with respect to their
+morphology and function. The method provides a density
+gradient product of approximately the complex class
+of ATII cells, enriched in those that are relatively free of
+contaminating macrophages and lymphocytes from this
+fraction, the ATII cells have leukocyte common antigen (LC)
+
+on their surfaces, whereas the ATII cells do not. Our pro-
+cedure yields 2–10 × 10^6 ATII cells per rat in a function
+which can be readily assessed by biochemical or physio-
+logical or pharmacological analysis and represent a
+significant improvement over previous methods. The den-
+sity gradient. The cells retain their in vitro morphologic
+characteristics, including their polarity (Am J Pathol
+1986, 122:92–100)
+
+PULMONARY alveolar type II (ATII) cells synthesize
+surfactant and, prior to secretion, store it intracellularly
+in lamellar bodies.1-3 Surfactant is a complex of
+lipids and proteins which, after it is secreted, coats the
+interface between the air and the surface components
+of the alveoli and lowers the surface tension as
+the alveoli can be expanded during inflation4-7.
+The respiratory distress syndrome in premature infants 8, 9
+allows for the cells which can lead to deaths with ATII
+cells are also important in adult animal models
+(ATII) -cells10, 11 It is important to this ATII cell
+function and it is important to learn more about
+the biochemistry and physiology of the lamellar bodies
+40 types of ATII cells.12-15 To facilitate these studies,
+we have developed a procedure designed to isolate ATII
+cells from rat lungs in pure form.16 The method pro-
+duces a density gradient product enriched in ATII cells
+and relatively free of macrophages and lymphocytes.
+
+The ATII cells obtained by this procedure retain their
+morphology and function in vitro, and they can be used
+for biochemical or physiological studies.17 In addition,
+the ATII cells are readily identified by their ability to
+synthesize surfactant.18-20
+
+Previous methods for isolating ATII cells have been
+limited by the low yield of cells, the presence of con-
+taminating macrophages and lymphocytes, and the lack
+of a means to assess the function of the isolated cells.21
+The method described here overcomes these limitations.
+The procedure, therefore, in the interests of purity and at
+the same time yields most macrophage cells.21 Some
+isolation procedures rely on antibody-mediated or den-
+sity gradient adsorption techniques or solely rely on
+differential adhesion in tissue culture to remove the re-
+maining macrophages and the lymphocytes.22-24 The use
+of density gradients is a potential problem, in that
+the biochemical and pharmacological features of the cells
+may be altered in vitro25
+
+We have developed an isolation procedure that is
+change in initial selection of almost the complete den-
+sity gradient fraction of ATII cells. To achieve this con-
+stituents the method we employed, the density gradi-
+ent is collected in 10 fractions and the fractions are re-
+combined to obtain a product enriched in ATII cells.
+The procedure yields 2–10 × 10^6 ATII cells per rat,
+which can be readily assessed by biochemical or physio-
+logical or pharmacological analysis and represent a sig-
+nificant improvement over previous methods. The den-
+sity gradient. The cells retain their in vitro morphologic
+characteristics, including their polarity (Am J Pathol
+1986, 122:92–100)
+
+Materials and Methods
+
+Rat Lungs—Adult male Sprague-Dawley rats (250–350 g)
+were obtained from BioResearch. Inc., Feltham, UK. The
+rats were killed by an overdose of pentobarbital sodium.
+
+Lung Homogenization—The lungs were lavaged with 5 ml
+of cold Hanks’ balanced salt solution (HBSS), pH 7.4,
+containing 10 mM Hepes buffer and 1 mM EDTA. The
+lungs were then minced and homogenized in 5 ml of HBSS
+with a Potter-Elvehjem homogenizer.
+
+Density Gradient Centrifugation—The lung homogenate
+was diluted to a final volume of 20 ml with HBSS con-
+taining 10 mM Hepes buffer and 1 mM EDTA. The
+homogenate was then layered over a density gradient
+composed of 45% (w/v) OptiPrep (Nycomed, Pharma-
+cia Fine Chemicals, Oslo, Norway) in HBSS with 10 mM
+Hepes buffer and 1 mM EDTA. The gradients were cen-
+trifuged at 20°C for 30 minutes at 500g using a swing-
+out rotor.
+
+Fraction Collection—After centrifugation, the density
+gradient was fractionated by collecting 1-ml fractions
+from the top to the bottom of the gradient. The fractions
+were pooled based on their ability to synthesize surfactant.
+
+Cell Counting and Viability—The cell number in each
+fraction was determined using a hemocytometer. Cell vi-
+ability was assessed by trypan blue exclusion.
+
+Immunofluorescence Staining—Fractions were cytocentri-
+fuged, fixed in acetone, and stained for leukocyte com-
+mon antigen (LC) using fluorescein-conjugated anti-LC
+monoclonal antibody (Becton Dickinson Immuno-
+cytometry Systems, Mountain View, CA). The cells were
+examined by fluorescence microscopy.
+
+Results
+
+Identification of ATII Cells—ATII cells are readily
+identified by their ability to synthesize surfactant.
+
+Discussion
+
+The method described here overcomes the limitations of
+previous methods for isolating ATII cells.

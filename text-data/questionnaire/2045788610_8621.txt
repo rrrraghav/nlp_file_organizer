@@ -1,0 +1,38 @@
+CIGARETTE TEST April 1, 1979
+Time Started__________
+
+Hello, my name is __________ from __________. We’re
+conducting a survey and I'd like to ask you a few questions.
+
+1. Do you smoke cigarettes?
+
+YES ( ) NO ( )
+(Terminate)
+
+2. What is your regular brand of cigarettes, that is the brand you smoke most
+often? (HAND RESPONDENT BRAND LIST. RECORD THE FULL BRAND NAME EXACTLY
+AS PRINTED ON THE BRAND LIST AND THE 2 LETTERS. IF NO LETTERS, THANK AND
+TERMINATE).
+
+Brand __________ Letters __________
+
+3. Estimate age. Check quota.
+Under 18 ......................} terminate
+18 - 34 .....................}
+35 and over ...................}
+
+4. Observe and record sex. Do not ask. Check Quota.
+Male ( ) Female ( )
+
+If eligible, escort respondent into test room.
+
+5. I have some packs of different brands of cigarettes that will soon be put
+on the market. I’d like you to look at the name on each of these packs
+and then I'm going to ask you a few questions about each one.
+
+For the purpose of this test we left only the name on each pack, and have
+eliminated everything else.
+
+
+
+204578610

@@ -1,0 +1,30 @@
+CUSTOMER COMPLAINT
+SOURCE = WAREHOUSE / DISTRIBUTOR
+
+SECTION ONE
+
+(A) Nature of Complaint – Problem Identified:
+(1) How/When problem was found : Retailer 04/9/90
+(2) Brand affected: Parliament 100 SP/100 Box
+(3) Complaints related to : Packaging
+(4) Observed Quantity: NA
+(5) Unusual Conditions Observed:
+
+(B) Codes
+(1) Case Carton: NA
+(2) Carton End: NA
+
+(C) Inventory Status
+(1) Product on Hold pending resolution ? No
+(2) Product Distributed? Yes
+(Number of Outlets Affected)
+
+(D) Representative Sample Provided
+(1) Randomly selected/Systematic Sampling individual Packs collected
+from Retailer
+
+
+
+Submitted By: A.C. Foo Prepared By: Oebel Harmsma
+Date of Submission: 04/9/90 Approved By:
+206346438

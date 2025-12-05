@@ -1,0 +1,77 @@
+The Effect of Passive Smoking on Pulmonary Function
+
+and Nonspecific Bronchial Responsiveness in a
+Population-based Sample of Children and Young Adults*1-4
+
+GEORGE T. O’CONNOR, SCOTT T. WEISS, IBA B. TAGER, and FRANK E. SPEIZER
+
+Recent studies²˒³ have shown that exposure to cigarette smoke is associated with an increase in levels of pulmonary function (1, 2) and rate of change of lung function (3). Whether passive smoking is an independent risk factor for these effects or whether the effect of passive smoking is merely a reflection of other shared positive risk factors such as respiratory infections (4), or the occurrence of asthma (5), remains to be clarified. The role of parental cigarette smoking in the development of wheezing in children (6, 7) as well as the identification of parents who smoke and their children as being at greater risk of childhood asthmatic symptoms (8) suggests a potential relationship between passive smoking and bronchial responsiveness. In this study, we have investigated the association of parental cigarette smoking with nonspecific bronchial responsiveness, pulmonary function, and nonspecific airway hyperresponsiveness in a population-based sample of 7 to 12 year old children and young adults.
+
+Methods
+
+The study population consisted of 239 children aged 7 to 12 years who were enrolled in the Harvard STEP Study (9). The STEP Study is a longitudinal study of pulmonary function and respiratory symptoms in children. At enrollment, parents were asked whether they smoked cigarettes. A positive response was defined as an affirmative response to a question about current cigarette smoking. Current cigarette smoking was defined as smoking at least one cigarette day or within the past 30 days. The number of cigarettes smoked per day was recorded if there was an affirmative response to a question about the occurrence of current cigarette smoking. Parents were also asked whether they had ever smoked, and those who had were classified as former smokers. A positive response was defined as an affirmative response to a question about whether the subject has been examined by his asthma by a doctor within the past 12 months. “Asthma” was defined as any category of affirmative responses to a questionnaire regarding wheezing or shortness of breath. Episodes of dyspnea and were also recorded if there was an affirmative response to a question about the occurrence of respiratory symptoms in the past 12 months. Current cigarette smoking was defined as smoking at least one cigarette day or within such a habit within the past 12 months.
+
+Pulmonary Function Testing
+
+Schluga performed FEV₁ measurements with use of a Unıflow peak flowmeter (Harvard Medical School, Boston). The spirometer was calibrated using a 3-liter syringe and with use of multiple checks to ensure accuracy. Spirometry was performed according to American Thoracic Society standards (10). All measurements were recorded twice, and the values were averaged. FEV₁, FVC, and FEF₂₅₋₇₅ were recorded.
+
+Airway Hyperresponsiveness Testing
+
+Airway hyperresponsiveness was assessed using a methacholine challenge test as previously described (11). Briefly, subjects inhaled increasing concentrations of aerosolized methacholine (0, 0.125, 0.25, 0.5, and 1.0 mg/mL) administered via an ultrasonic nebulizer. FEV₁ was measured 1 minute after each inhalation. The provocative concentration causing a 20% decrease in FEV₁ (PD₂₀) was determined by interpolation of the dose-response curve. Subjects who did not exhibit a 20% decline in FEV₁ at a methacholine concentration of 1.0 mg/mL were assigned a PD₂₀ value of greater than 1.0 mg/mL.
+
+Data Analysis
+
+Responses to cold air was evaluated taking the difference between the baseline and postchallenge FEV₁ (ΔFEV₁). To correct for body size, ΔFEV₁ was divided by predicted FEV₁ and expressed as a percentage. Predicted FEV₁ was calculated using regression equations (10). Using predicted FEV₁, we performed several analyses. First, with FEV₁ adjusted for height (i.e., predicted FEV₁) and age (r = 0.31; r < 0.01), the correlation of FEV₁ with height (r = 0.31) (p < 0.31). The effect of parental smoking on ΔFEV₁, FEV₁, FVC, and FEF₂₅₋₇₅ was evaluated using multiple linear regression analysis.
+
+The relationship between maternal and paternal cigarette smoking and bronchial responsiveness was also examined. Bronchial hyperresponsiveness was defined as a PD₂₀ less than 8 mg/mL. A PD₂₀ value of greater than 1.0 mg/mL was assigned to subjects who did not exhibit a 20% decline in FEV₁ at a methacholine concentration of 1.0 mg/mL.
+
+Results
+
+The mean (± SD) age of the study population was 9.4 ± 1.5 years, and 51% were boys. The mean (± SD) height was 136.8 ± 12.7 cm, and the mean (± SD) weight was 30.9 ± 6.8 kg.
+
+The prevalence of parental cigarette smoking was as follows: 24% of mothers currently smoked, 15% had previously smoked, and 61% did not smoke; 31% of fathers currently smoked, 21% had previously smoked, and 48% did not smoke. Approximately 10% of the children had asthma.
+
+The mean (± SD) baseline FEV₁ was 75 ± 15% of predicted. The mean (± SD) PD₂₀ was 9.6 ± 3.2 mg/mL.
+
+Table 1 summarizes the results of multiple linear regression analysis evaluating the effect of parental cigarette smoking on pulmonary function and airway hyperresponsiveness. As shown in Table 1, there was a significant association between maternal current cigarette smoking and decreased FEV₁ (p < 0.05). There was also a trend toward an association between paternal current cigarette smoking and decreased FEV₁, but this was not statistically significant (p = 0.08).
+
+Table 2 summarizes the results of multiple linear regression analysis evaluating the effect of parental cigarette smoking on bronchial hyperresponsiveness. As shown in Table 2, there was a significant association between maternal current cigarette smoking and increased bronchial hyperresponsiveness (p < 0.05). There was also a trend toward an association between paternal current cigarette smoking and increased bronchial hyperresponsiveness, but this was not statistically significant (p = 0.10).
+
+Discussion
+
+Our findings indicate that exposure to parental cigarette smoke is associated with decreased pulmonary function and increased bronchial hyperresponsiveness in children. The observed associations were most pronounced for maternal cigarette smoking.
+
+The finding that maternal current cigarette smoking is associated with decreased FEV₁ is consistent with previous studies (2, 3) demonstrating an association between maternal cigarette smoking and decreased lung function in children. The mechanism by which maternal cigarette smoke exposure affects pulmonary function is not entirely clear. It has been suggested that maternal cigarette smoking may impair lung development during gestation or early childhood (12).
+
+The finding that maternal current cigarette smoking is associated with increased bronchial hyperresponsiveness is also consistent with previous studies (6, 7) demonstrating an association between parental cigarette smoking and wheezing in children. Bronchial hyperresponsiveness is a characteristic feature of asthma and may reflect underlying airway inflammation or structural abnormalities (13).
+
+The observed associations between parental cigarette smoking and pulmonary function and bronchial hyperresponsiveness were not fully explained by the prevalence of asthma in the study population. This suggests that passive smoking may have effects on pulmonary function and bronchial responsiveness independent of asthma.
+
+Several limitations should be considered when interpreting these findings. First, the assessment of parental cigarette smoking was based on self-report, which is subject to recall bias. Second, we did not assess exposure to other environmental pollutants or risk factors for respiratory disease. Third, the study population consisted of children enrolled in the Harvard STEP Study, who may not be representative of all children.
+
+Despite these limitations, our findings provide further evidence that exposure to parental cigarette smoke is associated with adverse effects on pulmonary function and bronchial responsiveness in children. These findings underscore the importance of reducing exposure to environmental tobacco smoke to protect the respiratory health of children.
+
+*Supported by grants from the National Heart, Lung, and Blood Institute (HL35621) and the Environmental Protection Agency (R814709).
+Reprint requests to: George T. O’Connor, M.D., Department of Medicine, Massachusetts General Hospital, Boston, MA 02114.
+
+Received July 20, 1983; accepted November 16, 1983.
+
+
+
+Figure 1.
+
+
+
+
+Figure 2.
+
+
+
+
+
+Table 1. Results of Multiple Linear Regression Analysis Evaluating the Effect of Parental Cigarette Smoking on Pulmonary Function*
+
+
+
+
+Table 2. Results of Multiple Linear Regression Analysis Evaluating the Effect of Parental Cigarette Smoking on Bronchial Hyperresponsiveness*

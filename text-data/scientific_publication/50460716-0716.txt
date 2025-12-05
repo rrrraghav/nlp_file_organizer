@@ -1,0 +1,101 @@
+Isochromosome 12p in non-seminoma cell lines: karyologic amplification
+of c-ki-ras, without point-mutational activation
+
+Ethan Dmitrovsky¹, V.V. Murty¹, Denise Moy¹, Wilson H. Miller Jr.¹, David Janus¹²,
+Anthony P. Albino³, Felipe Samaniego¹, George Bosl³ & R.S.K. Chaganti²
+
+'The Genitourinary Solid Tumor Service, Department of Medicine, Memorial Hospital; ¹Immunology Program,
+Sloan-Kettering Institute; ²The Laboratory of Cancer Genetics and Cytogenetics, Memorial Sloan-Kettering Cancer Center, Cornell
+University Medical College, New York, New York 10021.
+
+We examined eight human germ cell cancer lines
+(GCCLs) for cytogenetic abnormalities and found an iso-
+chromosome 12p (i12p), marker in all seven male non-
+seminoma GCCLs, but not in the single female
+teratocarcinoma cell. Southern blot analysis of these
+cell lines increased copy number for c-ki-ras, a
+gene located on 12p, in all the male GCCLs. The com-
+parison of Southern blot analysis for a restriction frag-
+ment length polymorphism (RFLP) probe localized to
+12p to a probe for intl, which maps to 12q, indicates
+that the increased copy number for c-ki-ras is primarily
+from the greater numbers of 12p relative to 12q.
+Although Northern analysis revealed enhanced mRNA
+expression for c-ki-ras in the GCCLs with i12p,
+hybridization of specific end-labeled oligonucleotides to
+the polymerase chain reaction products of c-ki-ras
+codons 12, 13, or 61 did not identify sequence mutations
+of these codons in these cells. Thus, c-ki-ras activating
+through point mutation is an infrequent event in GCCLs.
+These data further suggest that increased 12p copy
+number is a common event in the transformation process
+leading to male germ cell cancer. We conclude that deter-
+mination of i12p copy number by cytogenetic analysis or
+Southern blotting is useful in the diagnosis of human
+germ cell cancer.
+
+embryonal cancers (Wang et al., 1987), suggesting that
+c-ki-ras activation might represent one step in the
+transformation process of human germ cell. Our
+results reported here show that all the male GCCLs we
+examined had one or more copies of an i12p and
+increased copies of c-ki-ras, primarily on the basis of
+the increased copies of 12p. Although enhanced expres-
+sion of c-ki-ras was found in those GCCLs with an
+i12p, pointmutational activation of c-ki-ras codons
+12, 13, or 61 was not found. These data indicate
+that increased copy number without c-ki-ras,
+point-mutation is a common event in non-seminoma
+germ cell cancer. These data also suggest that determi-
+nation of the 12p copy number is an important aspect
+of the diagnostic evaluation of germ cell cancer.
+
+Results
+12p copy number
+
+We performed a cytogenetic analysis and 12p copy
+number changes affecting chromosomes 11 and 10
+in eight human GCCLs at generations 1 and 2
+structural details detailed in a related the numerical and
+it has this correlation. A summary of these metaphases
+appear in Table 1. The i12p was found in all seven male
+GCCLs (HSC-4, HSC-4.1, JW613, NSC-37, NSC-78,
+NSC-80, and NSC-91), but not in the single female
+teratocarcinoma cell line (NCCIT).
+
+Southern blot analysis for 12p copy number was per-
+formed on DNA from these GCCLs. The results of this
+analysis are shown in Figure 2. As expected, the
+female teratocarcinoma cell line (NCCIT) had two copies
+of the 12p region. All seven male GCCLs had an increased
+number of copies of 12p compared to NCCIT.
+
+Figure 3 shows a comparison of Southern blot analysis
+for a restriction fragment length polymorphism (RFLP)
+probe localized to 12p with a probe for intl, which maps
+to 12q. The ratio of the intensity of hybridization to
+the 12p probe compared to the intl probe was increased in
+all male GCCLs with i12p. This indicates that the
+increased copy number for c-ki-ras is primarily from the
+greater numbers of 12p relative to 12q.
+
+c-ki-ras sequence analysis
+
+To determine whether point mutations were present in
+the coding sequences of c-ki-ras, we amplified DNA
+from each GCCL by polymerase chain reaction (PCR)
+using oligonucleotide primers specific for codons 12, 13,
+and 61. The PCR products were hybridized to end-labeled
+oligonucleotides corresponding to the wild-type and mutant
+sequences of these codons. Figure 4 shows the results of
+this analysis. No mutations were detected in any of the
+GCCLs examined.
+
+Discussion
+
+The i12p is a common cytogenetic abnormality in non-
+seminoma germ cell tumors (Stein et al., 1983). The
+increased copy number of c-ki-ras, which is located on
+12p, suggests that amplification of this oncogene may
+play a role in the pathogenesis of these tumors. Although
+mutations in c-ki-ras have been found in some human

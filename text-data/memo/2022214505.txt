@@ -1,0 +1,56 @@
+PHILIP MORRIS U.S.A. RECEIVED
+INTER-OFFICE CORRESPONDENCE AUG 11 1987
+RICHMOND, VIRGINIA CLIFF LILLY
+CONFIDENTIAL
+
+To: John Campbell
+Date: August 6, 1987
+From: Lou Turano
+Subject: ART MONTHLY PROJECT STATUS
+
+GENERAL
+
+During June and July, all engineering consultants for the Commercial Plant
+were selected. The high pressure building and the tobacco processing building
+were assigned to M. Kellogg and Fluor-Daniel respectively. Construction
+management was awarded to Daniel who is the major contractor for the pilot
+plant.
+
+P-500 has been selected as the site of the Commercial Plant. The exact
+location on the site should be finalized during the first week of August
+and is pending analysis of soil boring data and issues relating to P-500
+operations.
+
+Air permits, which were applied for during May, for the operation of a
+commercial ART facility at P-500 have been granted by the State of Virginia.
+
+The pilot plant passed Factory Mutual’s inspection and occupancy permits
+were issued by Chesterfield County.
+
+PILOT PLANT
+
+Mechanical and electrical construction, as well as high pressure (550 psi)
+hydro testing were completed by July 2, 1987.
+
+Checkout and simulated testing of the electrical instrumentation and control
+software were completed on July 16, 1987, and released for testing with
+high pressure carbon dioxide.
+
+The following represents the major problems which were encountered and
+resolved during the startup period from July 16 to August 1:
+
+- All high pressure Moog valves failed to function as block valves
+and leaked past the seats. This required disassembly, remachining
+and lapping of valve seats. It was necessary to ship five valves
+back to the manufacturer in Texas to fabricate new seats.
+
+- Although all piping was flushed subsequent to hydro testing, the
+dismantling of the valves revealed copious amounts of welding slag
+and grinding stone material within the piping system. All lines
+were re-cleaned using high pressure lances.
+
+The CO detection system was seen to be defective in the manufacturer’s
+instrument design. After three changes to the design,
+the internals are functioning properly.
+
+C87-086

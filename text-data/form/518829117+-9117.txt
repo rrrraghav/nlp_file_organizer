@@ -1,0 +1,55 @@
+Deadline: October 28, 1997
+
+ABSTRACT FORM
+FOR OFFICE USE ONLY
+Original abstract form plus 3 copies required. (The form must be completed completely. Required.) AARC Annual Meeting
+March 28-April 1, 1998
+New Orleans, LA
+Temp. Abst. No.
+CK / Other NP
+eDNA expression array analysis of mRNA levels in cultured normal human bronchial epithelial, lung adenocarcinoma, and small cell lung carcinoma cells. Hellmann, G.M., Qian, X., Fields, W.R., Bomblek, D.W. and Dolittle, D.L. Biological Research, KIR Research & Development, R.J. Reynolds, Winston-Salem, NC 27102.
+The generation of varying complex phenotypes displayed by human lung tumors is poorly understood. One approach to understanding this involves the expression spectrum of a wide range genes. The complete phenotype may arise from changes in the expression of different gene classes including oncogenes/tumor suppressor genes, cell cycle control genes, growth factors, and differentiation genes. Hence, the simultaneous monitoring of differential expression changes in these genes can provide mechanistic information to increase our understanding of human pulmonary carcinogenesis related events. To this end, we have employed a commercially available human cDNA microarray to systematically screen for alterations in the expression of over 500 human genes. Total mRNA was obtained from cultured cells of normal human bronchial epithelial as well as several lung carcinoma lines. The expression level of each gene was compared and normalized with three housekeeping genes (actin, ribosomal protein S9, and transferrin). Among the carcinoma lines, this exhibits the greatest number of gene expression increases from normal bronchial epithelium were the containing oncogenes/tumor suppressor genes, while the greatest number of decreases were in those containing cell-control methodology has shown promise as a useful tool in simultaneous monitoring of complex gene changes during stages of pulmonary carcinogenesis.
+
+Type abstract within 48 hours. See sample abstract.
+51882 917
+ABSTRACT FORM: 10-96
+Category and Subclassification
+See Pages 8-10 for instructions for entering codes in the blocks provided, for example.
+(Please type or print legibly.)
+AARC Annual Meeting
+March 28-April 1, 1998
+New Orleans, LA
+Member No.
+51882 917
+Abstract Number: To be presented by AARC.
+Title of Abstract (First line must be printed in capital letters)
+(Limit: 250 words)
+A-1 ( ) A-2 ( ) A-3 ( ) B-1 ( ) B-2 ( ) B-3 ( ) C-1 ( ) C-2 ( ) C-3 ( ) D-1 ( ) D-2 ( ) D-3 ( ) E-1 ( ) E-2 ( ) E-3 ( ) F-1 ( ) F-2 ( ) F-3 ( )
+( ) 1. Airway Inflammation & Allergy
+( ) 2. Pulmonary Circulation
+( ) 3. Respiratory Muscle Function
+( ) 4. Lung Physiology
+( ) 5. Gas Exchange
+( ) 6. Ventilation
+( ) 7. Bronchial Response
+( ) 8. Mucociliary Transport
+( ) 9. Airway Obstruction
+( ) 10. Pulmonary Pharmacology
+( ) 11. Respiratory Infections
+( ) 12. Lung Cancer
+( ) 13. Sleep Apnea
+( ) 14. Cystic Fibrosis
+( ) 15. Asthma
+( ) 16. COPD
+( ) 17. Respiratory Cell Biology
+( ) 18. Other (Please Specify)
+Author(s): (Last name, first initial.)
+Address: (Complete mailing address, including zip code)
+Telephone: (Area code and number)
+eDNA expression array analysis of mRNA levels in cultured normal human bronchial epithelial, lung adenocarcinoma, and small cell lung carcinoma cells. Hellmann, G.M., Qian, X., Fields, W.R., Bomblek, D.W. and Dolittle, D.L. Biological Research, KIR Research & Development, R.J. Reynolds, Winston-Salem, NC 27102.
+The generation of varying complex phenotypes displayed by human lung tumors is poorly understood. One approach to understanding this involves the expression spectrum of a wide range genes. The complete phenotype may arise from changes in the expression of different gene classes including oncogenes/tumor suppressor genes, cell cycle control genes, growth factors, and differentiation genes. Hence, the simultaneous monitoring of differential expression changes in these genes can provide mechanistic information to increase our understanding of human pulmonary carcinogenesis related events. To this end, we have employed a commercially available human cDNA microarray to systematically screen for alterations in the expression of over 500 human genes. Total mRNA was obtained from cultured cells of normal human bronchial epithelial as well as several lung carcinoma lines. The expression level of each gene was compared and normalized with three housekeeping genes (actin, ribosomal protein S9, and transferrin). Among the carcinoma lines, this exhibits the greatest number of gene expression increases from normal bronchial epithelium were the containing oncogenes/tumor suppressor genes, while the greatest number of decreases were in those containing cell-control methodology has shown promise as a useful tool in simultaneous monitoring of complex gene changes during stages of pulmonary carcinogenesis.
+
+
+
+Abstract submitted by: ____________________________ Date: _______________
+(Please print name)

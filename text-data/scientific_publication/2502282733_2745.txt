@@ -1,0 +1,34 @@
+Risk Analysis, Vol. 18, No. 4, 1998
+
+Air Nicotine and Saliva Cotinine as Indicators of Workplace Passive Smoking Exposure and Risk¹
+
+Received November 15, 1996; revised August 22, 1997
+
+We model nicotine from environmental tobacco smoke (ETS) in office air and salivary cotinine in nonsmokers to estimate the risk of lung cancer. We find that exposure to ETS corresponds to an increased lifetime mortality risk of 1/100 for lung cancer, and 1/100 for heart disease. The estimated risks are based on a linear model with no threshold.  The relative risk for heart disease and 40% exceed significant risk for lung cancer mortality. 4000 heart disease deaths and 400 lung cancer deaths occur annually among office workers from passive smoking in the workplace, at the current prevalence of unrestricted smoking in the office workplace.
+
+KEY WORDS: Salivary cotinine; environmental tobacco smoke; air nicotine; Monte Carlo modeling; passive smoking; workplace; lung cancer; heart disease; risk assessment.
+
+1. INTRODUCTION
+
+A body of evidence on the health risks of environmental tobacco smoke (ETS) has accumulated during the past two decades.²³⁴⁵⁹ Connecting exposure to ETS to mortality is difficult. The U.S. Environmental Protection Agency (EPA) declared ETS to be a known human lung carcinogen.⁶ The American Heart Association pro-
+
+claimed passive smoking to be a cause of fatal cardiovascular disease in nonsmokers.⁷ The U.S. Occupational Safety and Health Administration (OSHA), citing the risk of heart and lung fatality to nonsmoking workers from passive smoking, has proposed a rule to eliminate nonsmokers’ ETS exposures in the workplace.⁸ In a protracted and contentious public debate over this proposed rule, the tobacco industry challenged OSHA's proposal, asserting that possible risks were less than the “significant risk” level which the Supreme Court imposed as a test to justify OSHA action, and therefore were legally insufficient to allow OSHA to set forth.
+
+In order to estimate the workplace prevalence of exposure to ETS, we must consider both the concentration of nicotine in office air and the salivary cotinine levels in nonsmokers. Cotinine is a metabolite of nicotine that is readily measured in biological fluids such as saliva and blood.  Cotinine concentrations are proportional to the amount of nicotine absorbed from tobacco smoke. ¹⁰
+
+James L. Repace²,²˒ Jennifer Jmots, Steven Bayard,¹⁴ Karen Emmons,’ and S. Katharine Hammond²
+
+²Risk Sciences, Inc., Columbia, Maryland 21045
+³U.S. Environmental Protection Agency, Washington, D.C. 20460
+⁴Department of Public Health, University of California, Berkeley, California 94720
+⁵Division of Cancer Epidemiology and Genetics, National Cancer Institute, Bethesda, Maryland 20892
+⁶Occupational Studies Group, American Heart Association, Dallas, Texas 75240
+
+¹Disclosure: The views expressed in this paper do not necessarily reflect the views or policies of the U.S. EPA or OSHA.  The authors retain copyright and trademark rights. EPA employees are authorized to use this information for official purposes.
+²Office of Air and Radiation, U.S. Environmental Protection Agency, Washington, D.C. 20460
+³Department of Public Health, University of California, Berkeley, California 94720
+⁴Risk Sciences, Inc., Columbia, Maryland 21045
+⁵Division of Cancer Epidemiology and Genetics, National Cancer Institute, Bethesda, Maryland 20892
+⁶Occupational Studies Group, American Heart Association, Dallas, Texas 75240
+⁷Department of Public Health, University of California, Berkeley, California 94720
+⁸Risk Sciences, Inc., Columbia, Maryland 21045

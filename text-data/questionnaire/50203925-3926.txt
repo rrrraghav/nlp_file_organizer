@@ -1,0 +1,25 @@
+Smoking Cessation Questionnaire
+
+Code £ Date
+Age Sex Height Weight
+Right or left handed.
+How long have you been smoking?
+How did you start?
+Have you ever tried to stop? Yes No.
+If yes, how many times? How long?
+How many cigarettes do you use per day (average)?
+What brand?
+When do you smoke the first cigarette of the day?
+When do you smoke the last cigarette of the day?
+How long before this recording did you last smoke?
+Did you experience any unusual event today? Yes No
+If yes, explain.
+Did you experience any unusual event yesterday? Yes No
+If yes, explain.
+How would you judge today insofar as your performance is concerned?
+above average. average below average.
+Do you use alcoholic beverages? Yes No
+If yes, could you indicate (roughly) your weekly consumption:
+beer wine whisky liquor other
+
+50203925

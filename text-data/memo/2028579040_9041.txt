@@ -1,0 +1,23 @@
+PHILLIP MORRIS U.S.A.
+
+INTER-OFFICE CORRESPONDENCE
+
+Richmond, Virginia
+
+To: Charles Glenn Date: July 19, 1991
+From: Jay Fournier
+Subject: PM 1511 Draft Revision
+
+Enclosed please find the revision of PM 1511. One additional example and a few figures have been added along with some minor changes to the text. A number of additional claims need to be considered. We would like to strengthen our patent position with claims of the following:
+
+1) composition of matter for the aggregates of Examples 1-4 where magnesium hydroxide is adhered to (coating) the magnesite (see Figures 3 and 4 of the draft application). The aggregates as prepared by our technique (Equation 1) are novel compositions. There are reports in the Russian literature [CA97/24:200843z] of pure magnesite being produced by a reaction (Equation la) similar to that used by us involving the hydrothermal reaction of magnesium hydroxide (brucite) with carbon dioxide. However, no reference is given to the formation of the magnesite/magnesium hydroxide aggregates that we have observed (because their reactions were run to completion, i.e., there is no magnesium hydroxide present in their product). By varying the carbon dioxide amount (less than stoichiometric) and/or time of reaction we are able to produce different ratios of magnesite and magnesium hydroxide. What is unexpected and unprecedented is the scattered adhesion of magnesium hydroxide to the surface of the magnesite to form, what we are calling, magnesite/magnesium hydroxide aggregates.
+
+Mg(OH)₂ + (1-x)CO₂  -----> (1-x)MgCO₃ + x Mg(OH)₂ + (xH₂O (xs)) (1)
+
+Mg(OH)₂ + CO₂ -----> MgCO₃ + H₂O   (la)
+
+2. The reaction (Equation 2) used to produce the samples in Examples 5 and 6 (the hydrothermal treatment of hydromagnesite in absence of CO₂) has also been reported in the Russian literature [CA93/16:153209z]. This reaction was carried out to completion (i.e., to the stoichiometric amounts of Mg(OH)₂ and MgO(OH)) and it is very likely that the samples have similar associations of magnesite magnesium hydroxide aggregates (agglomerates, or clusters, of magnesium hydroxide interspersed amongst the magnesite i.e., more like a physical mixture, see Figure 5 of the draft application).
+
+MgCO₃ + (OH)₂ -----> Mg(OH)₂ + CO₂ + H₂O   (2)
+
+208579040

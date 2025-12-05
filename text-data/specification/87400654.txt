@@ -1,0 +1,48 @@
+COMPOUND PHYSICAL PARAMETERS
+
+LRC FILE NUMBER LOT NUMBER
+B164
+PHYSICAL STATE
+Brownish-gray powder
+
+PH
+The pH of a 50% concentration of B164 in water was theoretically calculated to
+be 4.82 at 23°C according to the extrapolation procedure of Dr. P. D. Schickedanz
+Loriillard Research Center Accession Number 1662.
+
+SPECIFIC GRAVITY
+not applicable
+
+SOLUBILITY
+MUTAGENICITY SOLVENTS
+B164 forms a slightly soluble slurry in distilled water at 0.2 g/mL, with stirring
+at room temperature. Reference BC30-62.
+
+PH
+B164 is insoluble for IP dosing. Reference BC20-48.
+
+ORAL
+B164 forms a suspension in corn oil at 0.1 g/mL, with constant stirring. Dosing
+volumes of 20 mL/kg or higher may be necessary to achieve desired dosage.
+Reference BC20-48.
+*Pulverize with mortar & pestle before using preparing dosing solutions.
+
+ACUTE CARDIOVASCULAR
+B164 in insoluble for this procedure. Reference BC20-48.
+
+STORAGE RECOMMENDATIONS
+Refrigerate in an amber glass bottle at no more than 8°C.
+
+
+
+87400654
+
+COMPOUND SENSITIVE TO
+□ AIR □ HEAT □ MOISTURE □ OTHER
+
+SAFETY COMMENTS (SUGGESTED HANDLING PROCEDURE)
+
+SIGNATURE DATE
+Amelia Deaton December 2, 1985
+
+LORILLARD RESEARCH CENTER FORM 9 (Rev.)

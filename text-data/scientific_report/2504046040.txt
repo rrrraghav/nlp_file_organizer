@@ -1,0 +1,27 @@
+6904
+
+PROJECT TITLE: BIOLOGICAL METHODS DEVELOPMENT AND UTILIZATION
+
+PERIOD COVERED: OCTOBER 1 - 31, 1985
+
+PROJECT LEADER: MIKE PENN
+
+DATE OF REPORT: NOVEMBER 4, 1985
+
+WRITTEN BY: B. D. DAVIES
+
+I. V79 INHIBITION OF METABOLIC COOPERATION (IMC) ASSAY
+
+Several experiments were conducted in an effort to reinstate the IMC assay using a lower passage cell line. As is usual, the new cell cultures were evaluated to determine their plating efficiency and response to positive control compounds. Three assays were completed. Analyses of the results indicated that the assay was functioning normally and routine testing has begun [1].
+
+The IMC activity of hydroquinone (HQ) was evaluated [2] using a concentration range of 0.05 to 3.0 µM As with three previous experiments involving HQ, toxicity was indicated at the higher HQ concentrations. Preliminary analysis of the data indicates that dose-related activity existed for the lower concentrations. Statistical evaluations are in progress to determine the specific activity of HQ and will be reported next month.
+
+II. SOS CHROMOTEST
+
+A previous SOS Chromotest experiment performed in-house [3] using freshly smoked CSC from six model cigarettes indicated that none of the CSCs were active, either with or without metabolic activation (59). However, these results were questionable due to the unknown efficacy of the lyophilized (+) S9 system supplied with the kit.
+
+In order to test whether the lack of activity was due to the lyophilized S9 or was actually a real observation, the activity of freshly-smoked 281 CSCs was tested using both the lyophilized [4] and the frozen S9 preparation which is routinely used in-house with 5 ml/assay. Equal protein concentrations were used with the two systems. CSC concentrations used were comparable to those used with the previous experiment. The preliminary results indicated that while there appears to be no CSC activity using the lyophilized S9, definite activity was detected when using our standard frozen S9 preparation.
+
+Toxicity was evaluated by measuring the enzymatic activity of alkaline phosphatase (produced by the bacteria) which is not under the control of the SOS functions. The results indicated no toxicity existed when using the frozen S9, but possible toxicity existed with the lyophilized S9 at the higher CSC concentrations.
+
+20-049640

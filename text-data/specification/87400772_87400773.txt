@@ -1,0 +1,40 @@
+HAZLETON
+LABORATORIES AMERICA, INC.
+
+PRODUCT DESIGNATION                 MATERIAL
+A290                                 SAFETY DATA SHEET
+
+Section 1. Source & Nomenclature Section
+
+SPONSORS NAME                       EMERGENCY TELEPHONE NO.
+Lorillard, Inc.                     (919) 373-6663/6662
+ADDRESS (Number, Street, City State, Zip Code)
+420 English St. Greensboro, NC   27405     CHEMICAL FAMILY
+MOLECULAR WEIGHT                      n/alkyl Substituted cycloalkenyl
+                                          hydroxyd acid
+
+Section 2. Hazardous ingredients
+
+Section 3. Physical Data Section
+
+BOILING POINT °F                       VAPOR PRESSURE (mm Hg)
+Not Available                         Not Available
+MELTING POINT °F                       VAPOR DENSITY (Air = 1)
+Not Available                         Not Available
+SPECIFIC GRAVITY (H2O=1)              EVAPORATION RATE (Butyl Acetate = 1)
+Not Available                         Not Available
+SOLUBILITY IN WATER (g/100 pts H2O)     VOLATILE
+Not Available                          % Vol.
+SOLVENTS                                 % Wt
+Not Available
+
+Section 4. Fire & Explosion Hazard Data
+
+FLASH POINT METHOD USED                FLAMMABLE
+Not Available                         LIMITS
+EXTINGUISHING MEDIA
+Fire Extinguishers type B & C           8°400°772
+
+SPECIAL FIRE FIGHTING PROCEDURES
+WE ARE AWARE
+UNUSUAL FIRE EXPLOSION HAZARDS

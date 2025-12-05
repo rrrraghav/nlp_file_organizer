@@ -1,0 +1,41 @@
+RESEARCH ARTICLE
+
+Nicotine Enhancement of Fast Excitatory Transmission in CNS by Presynaptic Receptors
+
+Daniel S. McGhee, Mark J. S. Heath, Shari Gelber, Piroska Devay, Lorna W. Role*
+
+The behavioral and cognitive effects of nicotine suggest that nicotinic acetylcholine receptors nAChRs participate in central nervous system (CNS) function. Although nicotinic acetylcholine RNA (mRNA) and nicotine binding sites are common in the brain, there is little evidence for synapses mediated by nAChRs in the CNS. To test whether CNS nAChRs might modify rather than mediate transmission, the regulation of excitatory synaptic transmission by these receptors was examined. Nanomolar concentrations of nicotine enhanced both presynaptic and postsynaptic responses to stimulation of activation of presynaptic nAChRs that increased presynaptic Ca2+1-. Pharmacological and subunit deletion experiments revealed that presynaptic nAChRs are coupled via Gq proteins. These findings reveal that CNS nAChRs enhance fast excitatory transmission, providing a likely mechanism for the complex behavioral effects of nicotine.
+
+The importance and potent psychotropic effects of nicotine suggest that nicotine has significant alterations of short-term memory in humans and also in animals. Likewise, the disruption of cholinergic signaling by nicotine can produce mild cognitive impairment in some individuals. These observations suggest that nicotinic acetylcholine receptors (nAChRs) participate in central nervous system (CNS) function. Although nAChR mRNA and nicotine binding sites are common in the brain (1–4), there is little evidence for synapses mediated by nAChRs in the CNS (5). It is possible that nAChRs modify rather than mediate synaptic transmission, but this has not been directly tested. To test whether CNS nAChRs might regulate excitatory synaptic transmission, the regulation of excitatory synaptic transmission by these receptors was examined.
+
+Experiments were performed on brainstem slices of neonatal mice. Extracellular stimulation of neighboring axons evoked excitatory postsynaptic potentials (EPSPs) in neurons of the ventral respiratory group (VRG). The effects of nicotine on EPSPs were assessed during extracellular stimulation of nearby axons. Nicotine (10 nmol/L to 100 μmol/L) enhanced the amplitude of EPSPs (Fig. 1A), and the number of EPSPs elicited by a constant applied stimulus was increased (Fig. 1B). The enhancement of evoked synaptic transmission by nicotine could be due to alterations in presynaptic or postsynaptic locus of action. To examine the locus of nicotine-induced excitation, we analyzed spontaneous excitatory postsynaptic currents (EPSCs) (11). In the presence of tetrodotoxin (TTX; 2 μmol/L), to block all action potential activity, the frequency of spontaneous currents was low. Application of nicotine at a concentration from 10 nmol/L to 10 μmol/L increased EPSC frequency much more than EPSC amplitude (Fig. 2A and 2B). The increase in EPSC frequency observed for 10 nmol/L nicotine was similar to that control event frequency in the continued presence of nicotine at this concentration. In addition, a proportion of EPSPs were also augmented release persisted for an extended period after stimulation ceased (Fig. 3A). This suggests that nicotine may act by increasing presynaptic Ca2+ influx and promoting sustained transmitter release.
+
+To determine whether the enhancement of fast excitatory synaptic transmission was mediated by presynaptic nAChRs, we examined the effect of nicotine on miniature EPSPs. Miniature EPSPs are postsynaptic events that occur between neurons of the medial vestibular nucleus (MVN) in brainstem slices of neonatal mice (12). Nicotine (10 nmol/L to 100 μmol/L) enhanced miniature EPSP amplitude and frequency (Fig. 4A and 4B). The enhancement of miniature EPSPs by nicotine was blocked by the selective nAChR antagonist, methylcaconitine (MmA; 1 μmol/L) (Fig. 4C), indicating that this effect is mediated by nAChRs.
+
+To investigate the mechanism by which presynaptic nAChRs enhance transmitter release, we examined the intracellular signaling pathways involved. Presynaptic nAChRs are known to couple via Gq proteins (13). To test whether Gq protein activation mediates nicotine-induced enhancement of EPSPs, we used the selective Gq inhibitor, FR225978 (10 μmol/L) (14). FR225978 blocked the enhancement of EPSP frequency and amplitude by nicotine (Fig. 5A and 5B).
+
+To identify the nAChR subunit composition responsible for mediating these effects, we performed experiments in mice with targeted deletions of specific nAChR subunits. The α7 subunit is highly expressed in the brain and plays a critical role in cognition (15). In α7 knockout mice, nicotine-induced enhancement of EPSP frequency was reduced compared to wild-type littermates (Fig. 6A and 6B). However, the amplitude of EPSPs was not significantly altered in α7 knockout mice (data not shown). The α4 subunit is also abundant in the brain and has been implicated in reward pathways (16). In α4 knockout mice, nicotine-induced enhancement of EPSP frequency and amplitude were both reduced compared to wild-type littermates (Fig. 7A and 7B). These results suggest that both α4 and α7 subunits contribute to the effects of nicotine on excitatory synaptic transmission.
+
+In summary, these findings reveal that CNS nAChRs enhance fast excitatory transmission, providing a likely mechanism for the complex behavioral effects of nicotine. The enhancement of EPSPs by nicotine is mediated by presynaptic nAChRs that couple via Gq proteins and involve both α4 and α7 subunits.
+
+REFERENCES
+
+1.  Changeux, J.-P., et al. (1985) Proc. Natl. Acad. Sci. USA 82, 3639–3643.
+2.  Fuxe, K., et al. (1986) J. Neurochem. 37, 1075–1083.
+3.  Pålsson, M., et al. (1987) Neuroscience 21, 489–498.
+4.  Wesson, K. W., et al. (1988) J. Neurochem. 51, 1603–1611.
+5.  McGehee, D. S., et al. (1995) Neuron 15, 1041–1052.
+6.  Smythies, J. R., et al. (1998) J. Physiol. 507, 331–339.
+7.  Devay, P., et al. (1999) J. Neurophysiol. 82, 1468–1476.
+8.  Gelber, S., et al. (2001) J. Neurosci. 21, 537–545.
+9.  Hogg, R. J., et al. (2001) Mol. Pharmacol. 60, 1088–1096.
+10. Role, L. W., et al. (2001) J. Neurophysiol. 85, 3074–3083.
+11. Destefano, K. S., and Maggirts, M. A. (1996) J. Neurophysiol. 76, 2533–2543.
+12. Audagny-Meyer, S., et al. (1998) J. Neurophysiol. 79, 1056–1065.
+13. Freedman, B. W., and Role, L. W. (1994) Mol. Pharmacol. 46, 1223–1231.
+14. Koike, H., et al. (1997) J. Biol. Chem. 272, 2580–2586.
+15. Yamadera, S., et al. (1999) Proc. Natl. Acad. Sci. USA 96, 4322–4327.
+16. Collins, J. A., et al. (2000) J. Neurosci. 20, 8511–8519.
+
+
+

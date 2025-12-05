@@ -1,0 +1,50 @@
+Carcinogenesis vol.17 no.2 pp.209-212. 1996
+
+Inhibition of 7,12-dimethylbenz[a]anthracene-induced lung tumorigenesis in A/J mice by food restriction is reversed by adrenaloctomy
+
+Laura P.Lashko and Arthur G.Schwartz²
+
+Department of Microbiology and Fels Institute for Cancer Research and Molecular Biology, Temple University School of Medicine, Philadelphia, PA 19140, USA
+²To whom correspondence should be addressed
+
+Prior work has demonstrated that food restriction of mice markedly suppresses 12-o-tetradecanoylphorbol-13-acetate (TPA) induced skin papillomas and reverses the tumor prior to initiating food restriction completely reverses the tumor inhibitory effect of food restriction. In the present experiment, the ability of food restriction, with or without prior adrenaloctomy, on 7,12-dimethylbenz[a]anthracene (DMBA)-induced lung tumorigenesis in A/J mice was explored. Food restriction (27%), beginning 3 weeks after a single oral dose of 0.5 mg DMBA and continued for the duration of the experiment (14 weeks), significantly inhibited lung adenoma development, whereas adrenaloctomy 2 weeks before initiating food restriction abolished the tumor inhibitory effect of underfeeding and also enhanced tumor development in the ad/dmba fed mice. Plasma corticosterone levels were significantly elevated in food-restricted A/J mice, whereas plasma deoxycorticosteroid (Adrea) levels showed no apparent changes. These studies suggest that adrenal gland secretory products play a signal role in the tumor preventive effect of food restriction in laboratory mice.
+
+Introduction
+7,12-Dimethylbenz[a]anthracene (DMBA) is a potent carcinogen that induces lung tumors in A/J mice. The incidence and multiplicity of lung tumors are markedly increased by DMBA administration compared with control animals (1, 2). Lung tumorigenesis in this strain and lung tumorigenesis enhanced by asbestos treatment are inhibited by caloric restriction (14). The induced pulmonary tumors occur directly underneath the pleura and are readily quantitated on the external surface of the lung following fixation (13).
+
+Using this lung tumor model we now report that food restriction of A/J mice following a single administration of 7,12-dimethylbenz[a]anthracene (DMBA) significantly reduces the number of induced lung adenomas; adrenaloctomy prior to initiating food restriction completely abolishes the tumor inhibitory effect of underfeeding.
+
+Materials and methods
+Animals and adrenaloctomy
+Male A/J mice were obtained from the Jackson Laboratory (Bar Harbor, ME). Mice were housed in individually ventilated cages with five animals per cage in 11.5 x7.5 inch plastic shoebox cages on hardwood bedding with ad libitum access to Wayne Labs rodent chow and tap water. The study mice were dosed with 0.5 mg DMBA orally as described in the text. All mice were treated with DMBA between the ages of 3 and 4 weeks.
+
+Adrenaloctomy was performed by making a mid-line incision under anesthesia with Avertin (2,2,2 tribromo-3-(aminomethyl)butane). The adrenal glands were made on the back of each mouse. The peritoneum was closed with sutures and the skin wound was closed with staples. Mice were given Buphenex (Durvet Inc., Albany, GA) for pain relief until recovery from anesthesia. Adrenalectomized mice were allowed to recover for 2 weeks before initiating food restriction. Control animals received sham operations.
+
+Food restriction
+Beginning 3 weeks after DMBA administration, one-third of the control group and one-half of the adrenalectomy group were subjected to food restriction. Food was restricted by reducing the amount of chow given daily to 27% of the ad libitum intake (approximately 1.5 g/day). Food-restricted mice were weighed three times per week and the amount of food consumed was recorded daily. Body weight loss exceeding 20% resulted in a return to ad libitum feeding until body weight recovered.
+
+Plasma hormone measurements
+Blood samples were collected from the tail vein of mice under anesthesia with Avertin. Plasma was separated by centrifugation and stored at -80°C until assayed for corticosterone and deoxycorticosteroid (DOC) using commercially available radioimmunoassay kits (ICN Radiochemicals, Irvine, CA).
+
+Lung tumor quantitation
+Mice were killed by an overdose of Avertin 14 weeks after DMBA administration. The lungs were removed and fixed in formalin. Lungs were sectioned at 5 μm intervals through the hilus and every fifth slide was examined for lung tumors. Lung tumors were classified as adenomas, adenocarcinomas or carcinomas based on histological criteria (13). The number of lung tumors per mouse was recorded.
+
+Results
+Effect of food restriction and adrenaloctomy on lung tumorigenesis
+A/J mice were dosed with DMBA at 3 weeks of age and then either fed ad libitum, subjected to food restriction, or adrenalectomized before initiating food restriction (Figure 1). As previously reported (1), DMBA administration significantly increased the number of lung tumors per mouse compared with control animals. Food restriction beginning 3 weeks after DMBA administration markedly reduced the number of lung adenomas (Table 1). Adrenaloctomy prior to initiating food restriction completely abolished the tumor inhibitory effect of underfeeding and also enhanced tumor development in the ad/dmba fed mice.
+
+Statistical analysis
+All data are expressed as mean ± SEM. Statistical significance was determined by one-way ANOVA followed by Tukey’s post hoc test. A p value < 0.05 was considered significant.
+
+Discussion
+The results of this study demonstrate that food restriction inhibits DMBA-induced lung tumorigenesis in A/J mice. The tumor inhibitory effect of food restriction is dependent on the adrenal glands, as adrenaloctomy prior to initiating food restriction completely abolishes the protective effect of underfeeding and also enhances tumor development.
+
+Annie’s 3941
+HHM - 7 WRE
+(4526-)
+
+
+
+Figure 1. Effect of food restriction and adrenaloctomy on lung tumorigenesis in A/J mice. Mice were dosed with DMBA at 3 weeks of age and then either fed ad libitum, subjected to food restriction, or adrenalectomized before initiating food restriction. The number of lung tumors per mouse was recorded 14 weeks after DMBA administration. Bars represent mean ± SEM. *p < 0.05 compared with control group.
+
+Table 1. Effect of food restriction and adrenaloctomy on lung tumorigenesis in A/J mice. Mice were dosed with DMBA at 3 weeks of age and then either fed ad libitum, subjected to food restriction, or adrenalectomized before initiating food restriction. The number of lung tumors per mouse was recorded 14 weeks after DMBA administration. Values are mean ± SEM. *p < 0.05 compared with control group.

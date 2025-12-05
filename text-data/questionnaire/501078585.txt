@@ -1,0 +1,30 @@
+DORAL CONTINUOUS AWARENESS STUDY
+
+MRD # 9-2-201
+EMR # 11-900
+
+On both versions (white and blue) of the questionnaire, a question was
+omitted. That is, when a respondent says Doral is his/her usual brand, we
+want to know what the previous usual brand was.
+
+Therefore, the following instructions apply to question 2:
+
+IF USUAL BRAND GIVEN IS DORAL, ASK
+
+2e. "What was your usual brand just before you started smoking Doral?"
+f. “Is that a filter, or a non-filter cigarette?”
+
+IF FILTER, ASK
+
+g. “Is that the extra-long, 100mm size or not?”
+h. “Is that a menthol cigarette or not?”
+
+Record this information at the bottom of the first page.
+
+
+
+Don't double space
+between - & E.k
+& 55
+
+50107 888

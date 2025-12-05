@@ -1,0 +1,44 @@
+PROCTER & GAMBLE
+INDUSTRIAL CHEMICALS DIVISION
+P.O. BOX 999, CINCINNATI, OHIO 45201
+
+MATERIAL SAFETY DATA SHEET
+
+PROCTER & GAMBLE OPERATOR (513) 983-1100 (24 Hour Emergency Service)
+
+SECTION I IDENTITY
+Trade Names Superol Glycerine USP, Kosher Superol Glycerine USP issue date 1/28/91
+Chemical (1,2,3-Propanetriol) 01, FJ
+CAS Number 56-81-5
+
+SECTION II PHYSICAL DATA
+BOILING POINT SPECIFIC GRAVITY (20C) 1.2 - 1.3
+@760 mmHg Over 550 F %VOLATILE
+VAPOR PRESSURE Less than 0.1 mm EVAPORATION RATE
+VAPOR DENSITY (AIR = 1) Not known (n-BuOAc=1) Not known
+SOLUBILITY IN WATER
+@72 F Complete
+APPEARANCE AND ODOR
+@72 F Water white, clear liquid; bland odor; sweet taste
+
+SECTION III FLAMMABILITY & EXPLOSIVITY DATA
+FLASH POINT (METHOD) Over 390 °F (PMCC) EXPLOSIVE LIMITS
+LOWER UPPER N/A
+EXTINGUISHING MEDIA
+Use water, CO2, or dry chemical
+
+SPECIAL FIRE FIGHTING PROCEDURES
+None
+
+UNUSUAL FIRE AND EXPLOSION HAZARDS
+Contact of Glycerine with strong oxidizing agents such as Chromium Trioxide,
+Potassium Chlorate, or Potassium Permanganate may cause an explosion.
+
+SECTION IV HEALTH AND SAFETY DATA
+THRESHOLD LIMIT VALUE Glycerine mist = nuisance particulate 10 mg/m³
+
+EFFECTS OF OVEREXPOSURE No harmful effects expected.
+
+EMERGENCY AND FIRST AID PROCEDURES None required.
+
+Repro:2840-130-6/88 Data supplied for use only in connection with occupational safety and health.

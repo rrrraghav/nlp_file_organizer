@@ -1,0 +1,52 @@
+OFFICE USE ONLY
+
+V CEC CEC CEC OEC OEC OCC RECOL
+DRAFT #1
+#31989
+September, 1989
+
+MARKETING INFORMATION SYSTEMS, INC.
+100 Synlar Avenue
+Englewood Cliffs, New Jersey 07632
+1-800-631-1623/201-947-6900
+
+B&H PACK TEST
+(Screener - Mail)
+
+1. Hello, my name is _______ from Marketing Information Systems. Today we’re talking to people 18 through 54 years of age about their opinions on certain products and I'd like to ask you a few questions.
+
+1a. First of all, are you between the ages of 18 and 54?
+Yes… ( ) No… ( )
+(THANK AND TERMINATE)
+
+2. Are you between 18 and 34 years of age, or 35 and 54 years of age?
+18 - 34………. ( ) ->1
+35 - 54………. ( ) ->2
+
+3. (RECORD, DO NOT ASK:)
+Male…………. ( ) ->1
+Female……… ( ) ->2
+
+4. Do you smoke filter cigarettes?
+Yes… ( ) No…( )
+(THANK AND TERMINATE)
+
+5. Do you usually smoke the regular king-size cigarettes, or the cigarettes that are longer than king-size -- that is, the 100 millimeter or 120 millimeter size?
+Regular/kings……. ( ) ->(THANK AND TERMINATE)
+100’s…………. ( ) →(CONTINUE WITH Q.6)
+120’s………… ( ) ->(THANK Alt.)
+
+6. Do you usually smoke a menthol or a non-menthol cigarette?
+Menthol………. ( ) ->1
+Non-menthol……… ( ) ->2 (CHECK QUOTAS)
+
+7. What is your regular brand of cigarettes, that is, the brand you smoke most often? (HAND RESPONDENT BRAND LIST AND POINT OUT SECTION IN WHICH HIS/HER BRAND IS LISTED. THEN SAY:) Which one of these is the specific type of [BRAND] cigarettes that you smoke most often?
+RECORD THE FULL BRAND NAME AND THE LETTERS WHICH FOLLOW THE BRAND, EXACTLY AS PRINTED ON THE BRAND LIST. IF NO LETTERS APPEAR NEXT TO THE BRAND, THANK AND TERMINATE.
+
+FULL BRAND NAME _______________________ LETTERS _______________
+
+CHECK QUOTAS FOR BENISON & HEDGEs AND COMPETITIVE SMOKERS
+
+
+
+2034098607

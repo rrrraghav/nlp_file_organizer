@@ -1,0 +1,61 @@
+- 2 -
+
+Philip Morris
+
+VDC Projekt "Einfluss des Nitratgehaltes des Tabaks auf die
+Zusammensetzung und biologische Aktivität von Tabakrauch".
+Die Bestimmung von Benzcatechin, Formaldehyd, Acetaldhyd,
+Propionaldehyd und Acrolein sowie von HCN im Hauptstromrauch der
+Versuchszigaretten C11, C12,C13 und C14 sowie der Zigaretten 2R1F
+und 2R1.
+
+Experimentelles
+
+Die Versuchszigaretten wurden mindestens 72 Stunden nach DIN
+10244 konditioniert und auf einer Rauchmaschine Borgwald RM-20
+gemäss DIN 10240 abgeraucht.
+
+Die Bestimmung der einzelnen Komponenten erfolgte wie nachfolgend
+skizziert.
+
+Benzcatechin :
+
+Methode : HPLC (lit. Gerstenberg, B. und M. Speck,
+Beiträge zur Tabelforsch 13, 239, 1986)
+Bestimmung : als Benzcatechin
+Probenahme : Sammeln des Kondensats auf Cambridge-
+Filter
+Zahl Zig./Bestimmung : 30
+
+Formaldehyd, Acetaldhyd Propionaldehyd und Acrolein
+
+Methode : HPLC
+Bestimmung : als 2,4-DNPH Derivat
+Probenahme : Aufgenommen des Hauptstromrauches in
+2,4-DNPH/Phosphorsäure/Acetonitril-
+Lösung
+Zahl Zig./Bestimmung : 5
+
+HCN
+
+Methode : Headspace Gas Chromatographie
+Bestimmung : als HCN
+Probenahme : Aufgenommen des Hauptstromrauches in 0.5N
+KOH
+
+Zahl Zig./Bestimmung : 5
+
+Ergebnisse
+
+Die angegebenen Werte (ug/g.) sind Mittelwerte von zwei
+Bestimmungen.
+
+Zig. Benzcat. Formald. Acetald. Propionald. Acrolein HCN
+
+2R1 185,6 50,2 1132 107 164 337
+2R1F 185,5 70,7 879 98 122 264
+C11 172,4 73,3 904 94 164 264
+C12 144,4 72,1 959 101 142 264
+C13 167,2 74,9 961 90 142 265
+
+20230108

@@ -1,0 +1,163 @@
+Free Radical Biology & Medicine, Vol. 6, pp. 271-284, 1989
+Printed in the U.S.A. All rights reserved.
+
+0887-5907/89 $3.00 + 0.00
+© 1989 Pergamon Press pic
+
+Original Contribution
+
+INTERMEDIATES IN THE AEROBIC AUTOXIDATION OF
+6-HYDROXYDOPAMINE: RELATIVE IMPORTANCE UNDER DIFFERENT
+REACTION CONDITIONS
+
+PAULINE GEIS* and ALLAN J. DAVISON†
+
+Biogenenerics Research Lab, School of Kinesiology, Simon Fraser University, Burnaby, B.C., Canada V5A 1S6 and BC
+Cancer Research Centre, 601 West 10th Ave., Vancouver, B.C., Canada V5Z 1L3
+
+[Received 1 May 1989; Revised 16 October 1989; Re-revised 12 May 1989; Accepted 3 June 1989]
+
+Abstract—Autoxidation of 6-hydroxydopamine (6-OHDA) proceeds through a balanced network of transition
+metal ions, superoxide, hydrogen peroxide, hydroxyl radicals, and other species. The contribution of each to the
+reaction mechanism varies dramatically depending upon which scavengers are present. The contribution of each
+species is diminished when metal ions or hydroperoxides are removed. Thus, superoxide (which is
+relatively unimportant when metals ion participate) dominates reactions when transition metal ions are
+bound (typically at higher pH), and it becomes essential in the simulantous presence of catalase plus citrates.
+Transition metal ions participate more if hydroperoxides are excluded; hydrogen peroxide becomes important if
+both O2• and metal ions are excluded, and hydroxyl radicals contribute more to the reaction mechanism if both
+H2O2 and O2• are excluded. Superoxide dismutase inhibited most of the reaction mechanisms: a high affinity
+mechanism (13% inhibition at catalytically effective concentrations), and a low affinity mechanism (almost
+complete inhibition at the highest concentrations) which depends upon both metal binding and catalytic activity.
+In the presence of DETAPAC, superoxide dismutase inhibits more effectively than catalase or EDTA. Catalase
+metal chelating agents inhibited strongly in the presence of superoxide dismutase. When present alone they
+inhibited slightly but cumulatively (15%) when added alone; had little effect (like DETAPAC). Catalase which
+elimmed slight but consistently (>5%) when added alone. Inhibitors 100% in the presence of superoxide
+dismutase + DETAPAC. However, in the absence of metal ions, catalase decreased inhibition by superoxide
+dismutase and EDTA. In the presence of hydroperoxides, inhibitors increased inhibition by superoxide
+produced little or no (<1%) inhibition, but inhibited 30% in the presence of superoxide dismutase + DETAPAC.
+The relative importance of each species is determined by a combination of several parameters: enzyme
+availability, pH, metal ion concentrations, and inhibitor concentrations.
+
+Key Words: Autoxidation, 6-hydroxydopamine, Superoxide dismutase, Hydroxyl radical, Catalase, EDTA,
+Transition metals.
+
+INTRODUCTION
+
+6-Hydroxydopamine (6-OHDA) is a neurotoxic
+compound that has been widely used to model
+Parkinson’s disease in experimental animals (1–4).
+The toxicity of 6-OHDA is believed to result from its
+autoxidation, which generates reactive oxygen species
+(ROS) that damage neuronal tissue (5–8). The autoxi-
+dation of 6-OHDA has been studied extensively (9–13),
+and it is now recognized that the reaction proceeds
+through a complex network of transition metal ions,
+superoxide, hydrogen peroxide, hydroxyl radicals, and
+other species.
+
+The relative importance of each of these species in
+the overall autoxidation mechanism depends upon the
+reaction conditions. For example, the presence of tran-
+sition metal ions can catalyze the reaction, while super-
+oxide dismutase (SOD) can inhibit it by converting
+superoxide to hydrogen peroxide. Hydroperoxides can
+react with transition metals to generate hydroxyl radi-
+cals, which are highly reactive and damaging species.
+
+In this study, we have investigated the relative impor-
+tance of each of these species in the autoxidation of
+6-OHDA under different reaction conditions. We have
+used a combination of chemical inhibitors and enzyme
+assays to determine the contribution of each species to
+the overall reaction mechanism. The results show that
+the relative importance of each species is determined by
+a complex interplay of several factors, including en-
+zyme availability, pH, metal ion concentrations, and
+inhibitor concentrations.
+
+MATERIALS AND METHODS
+
+6-Hydroxydopamine hydrochloride was obtained from
+Sigma Chemical Co. (St. Louis, MO). All other chemi-
+cals were purchased from commercial sources and used
+without further purification.
+
+Autoxidation reactions were carried out in phosphate
+buffer (pH 7.4) at 25°C. The reaction mixture con-
+tained 10 μM 6-OHDA, and various concentrations of
+inhibitors or enzymes. The following inhibitors were
+used: superoxide dismutase (SOD), catalase, ethylenedi-
+aminetetraacetic acid (EDTA), N,N,N′,N′-tetrakis(2-hydroxypropyl)ethylenediamine (DETAPAC).
+
+The progress of the autoxidation reaction was moni-
+tored by measuring the absorbance at 310 nm over time.
+The rate of autoxidation was calculated from the initial
+slope of the absorbance versus time curve. The percent
+inhibition of autoxidation was calculated as follows:
+
+% Inhibition = [(Rate – RateControl) / RateControl] × 100
+
+where Rate is the rate of autoxidation in the presence
+of an inhibitor or enzyme, and RateControl is the rate
+of autoxidation in the absence of any inhibitors or en-
+zymes.
+
+RESULTS
+
+The autoxidation of 6-OHDA proceeds through a com-
+plex network of transition metal ions, superoxide, hy-
+drogen peroxide, hydroxyl radicals, and other species
+(Figure 1). The contribution of each to the reaction
+mechanism varies dramatically depending upon which
+scavengers are present.
+
+When metal ions or hydroperoxides are removed,
+superoxide dominates reactions (Figure 2). Transition
+metal ions participate more if hydroperoxides are ex-
+cluded; hydrogen peroxide becomes important if both O2•
+and metal ions are excluded, and hydroxyl radicals con-
+tribute more to the reaction mechanism if both H2O2
+and O2• are excluded.
+
+Superoxide dismutase inhibited most of the reaction
+mechanisms: a high affinity mechanism (13% inhibition
+at catalytically effective concentrations), and a low affin-
+ity mechanism (almost complete inhibition at the highest
+concentrations) which depends upon both metal binding
+and catalytic activity. In the presence of DETAPAC, su-
+peroxide dismutase inhibits more effectively than cata-
+lase or EDTA. Catalase metal chelating agents inhi-
+bited strongly in the presence of superoxide dismutase.
+
+When present alone they inhibited slightly but cumu-
+latively (15%) when added alone; had little effect (like
+DETAPAC). Catalase which elimmed slight but consis-
+tently (>5%) when added alone. Inhibitors 100% in the
+presence of superoxide dismutase + DETAPAC. Howev-
+er, in the absence of metal ions, catalase decreased inhi-
+bition by superoxide dismutase and EDTA. In the pres-
+ence of hydroperoxides, inhibitors increased inhibition
+by superoxide produced little or no (<1%) inhibition, but
+inhibited 30% in the presence of superoxide dismutase +
+DETAPAC.
+
+The relative importance of each species is determined
+by a combination of several parameters: enzyme availa-
+bility, pH, metal ion concentrations, and inhibitor con-
+centrations.
+
+FIGURE 1
+
+[Image of Figure 1 not included]
+
+FIGURE 2
+
+[Image of Figure 2 not included]
+
+ACKNOWLEDGMENTS
+
+We thank [Names not included].
+
+REFERENCES
+
+1.  [References 1-13 not included]

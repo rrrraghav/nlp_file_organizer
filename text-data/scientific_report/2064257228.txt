@@ -1,0 +1,44 @@
+Appendix to 21-d Status Report 81033 / P 050/3204
+
+Dose Ratios between Equal Biological
+Effects of URSUS-35 and 1R4F MS
+
+Effect Dose Parameter
+
+TPM Nicotine Smoke
+
+body weight 1.9 0.8 0.32
+gain reduction
+
+organ weight
+liver 2.0 0.8 0.33
+abs.
+rel. to 1.8 0.8 0.31
+body weight
+
+nose
+level 1 2.1 0.9 0.36
+reserve cell
+hyperplasia
+squamous metaplasia 2.7 1.1 0.46
+level 2
+atrophy (5.8 2.4 0.99)
+
+larynx
+base of epiglottis
+squamous metaplasia 2.2 0.9 0.38
+hyperplasia 2.4 1.0 0.41
+arytenoid projections
+floor of the larynx
+squamous metaplasia 1.9 0.8 0.33
+vocal cords
+lower medial region
+hyperplasia 2.0 0.8 0.34
+
+larynx morphometry
+central depression 2.0 0.7 0.34
+floor of the larynx (1.9 0.8 0.33)
+vocal cords
+
+mean 2.1 0.9 0.36
+RSD (%) 13 12 13

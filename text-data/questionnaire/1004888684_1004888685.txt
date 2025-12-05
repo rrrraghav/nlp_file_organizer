@@ -1,0 +1,50 @@
+O’BRIEN-SHERWOOD ASSOCIATES INC.
+57-16 WOODSIDE AVENUE
+WOODSIDE, NEW YORK 11377
+
+SMOKING SURVEY
+BA-5
+
+Hello, I'm ____ of O’Brien-Sherwood Research Co. We are doing a survey on smoking. Do you smoke cigarettes? (If “NO”, TERMINATE)
+
+1. What is your regular brand of cigarettes, the brand you smoke most often?
+
+2. Is that the king size ( ), 100's ( ), 120’s ( ) or the very short ones ( ) ?
+(REGULAR - NOT AN ACCEPTABLE ANSWER)
+
+3. Is that menthol ( ) or non-menthol ( ) ?
+
+4. Is there another brand that you smoke occasionally? Yes ( ) No ( )
+If “YES” What brand is that? ____________________ King ( ), 100's ( ), 120’s ( ), or the very short ones ( ) . Menthol ( ) Non-Menthol ( )
+
+5. On the average, how many packs or cartons do you smoke each week?
+packs cartons
+
+6. In addition to (BRANDS IN Q. 1 AND Q. 4.), what other brands have you bought in order to try them out in the past three months?
+
+
+
+King ( ), 100’s ( ), 120’s ( ) King ( ), 100's ( ), 120’s ( ) King ( ), 100’s ( ), 120’s ( )
+Menthol ( ) Non-Menthol ( ) Menthol ( ) Non-Menthol ( ) Menthol ( ) Non-Menthol ( )
+
+7. What other brands are you thinking of trying? None
+
+8. What four brands of menthol cigarettes have you heard off? (RECORD BELOW)
+
+9. Which of these come in the 100 millimeter size? (RECORD BELOW)
+
+10. For which of these have you seen any advertising lately? (RECORD BELOW)
+
+11. (For each “seen” lately”) What did the advertising say or show? (RECORD BELOW)
+Q. 8 Aware Q. 9 Ads. Q.10 Advtg.
+Yes No Sure Yes No Sure ‘11 Say or Show
+
+--------------------------------------------------
+1004865664
+
+(UNLESS B & H IS REGULAR BRAND IN Q. 1, OR OCCASIONAL IN Q. 4, ASK:)
+12. Have you ever tried Benson & Hedges 100’s? No ____ Yes that the Menthol ( ) Filter ( ) or both ( ) ?
+
+IF YES: What do you think of the brand? ____________________
+
+IF NO: Do you have any interest in trying it? Yes ____ No ____

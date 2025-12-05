@@ -1,0 +1,66 @@
+U.S. MARKET MONITOR: ST. LOUIS TEST
+December, 1994
+
+FOR OFFICE USE ONLY
+
+Interviewer #
+Day/Month/Year _ / _ / '94
+Resp. #
+Resp. Name
+Resp. Phone #
+
+Household
+Smoking Rep -2
+Smoking QQ -2
+Non-Smoking Req -2
+Smoking QQ Non-Qualified -2
+Non-Smoking QQ -2
+
+Census Region Trade Region
+NE -1 Sales Area 1 -1
+NA -2 Sales Area 2 -2
+SA -3 Sales Area 3 -3
+EW -4 Sales Area 4 -4
+ENC -5 Sales Area 5 -5
+SC -6
+WAC -7
+PAC -8
+WC -9
+
+SCREENER
+
+HELLO, I’M FROM BURKE MARKETING RESEARCH IN CINCINNATI, OHIO. THIS EVENING WE ARE CONDUCTING A STUDY ABOUT CONSUMER PRODUCTS AND WE WOULD REALLY APPRECIATE YOUR OPINIONS FOR THIS STUDY.
+
+QA SO THAT WE CAN ACCURATELY REPRESENT PEOPLE OF ALL AGE GROUPS, COULD YOU PLEASE TELL ME THE AGES OF ALL THE ADULTS 21 YEARS OF AGE OR OLDER WHO ARE CURRENTLY LIVING IN YOUR HOUSEHOLD?  PLEASE START WITH THEIR OLDEST BEGINNING WITH THE OLDEST AND ENDING WITH THE YOUNGEST. [Record answer on grid.] If no one over 21 resides in household, terminate.
+
+[Q# OQ-E2 for the oldest member of the household. Then ask Q# E2 for each additional household member. Ask all five questions about one member before going to the next member.]
+
+Q8 IS THE [lead age] YEAR OLD A MALE OR FEMALE? [Record on grid. If there are two people of the same age, record male first.]
+
+QC SO THAT WE CAN ACCURATELY REPRESENT PEOPLE OF ALL CHRONIC, PLEASE TELL ME... ARE YOU BLACK/AFRICAN AMERICAN, WHITE, HISPANIC, OR SOME OTHER RACE? [Record on grid.]
+
+QD DOES THE [lead age] LIKE SMOKE CIGARETTES? [Record on grid. 01.]
+
+QO-OB WHICH DRUGS THE [lead age] USUALLY SMOKE, NON-METHYL OL' -
+DOGS?
+
+(If "No" at Q# ask:)
+QD-1 DID THE [lead age] EVER SMOKE CIGARETTES, OR NOT?
+
+(If “Yes” at Q# QD, asked:)
+QD-2 HOW MANY CIGARETTES DOES THE [lead age] SMOKE PER DAY?
+
+LESS THAN A MONTHLY 6-12
+A MONTHLY 13-25
+A MONTHLY 26-49
+A MONTHLY 50-79
+A MONTHLY 80+ 6
+
+PROCESSED BY
+[ ] 6/94
+DATE ENTERED [ ]
+OPERATOR [ ]
+
+
+
+© 1994 BURKE MARKETING RESEARCH, LTD.

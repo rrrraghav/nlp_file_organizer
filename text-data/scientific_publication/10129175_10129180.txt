@@ -1,0 +1,192 @@
+Reproduced from CANCER Vol. 36 No. 4 October
+1980 Copyright © 1980 Butterworth &
+Cancer Society, Inc. Printed in U.S.A.
+
+HK®1337084
+
+HLA IN CANCER FAMILY "N"
+
+HENRY L. LYNCK, MD., ROBERT J. THOMAS, PhD., PAUL I. TERASAKI, PhD.,*
+ALAN TING, BS., HARRY A. GUIRE, PhD., ANNA K. KAPLAN, PhD.,*
+HUON MACGEE, MS.,d JANE L. YOUNG, BS., CARL CRAFT, BS., RN.,*
+AND EDWARD GRAPERON, MD.
+
+Actual HLA typing has been performed on 115 members of cancer family N,
+a large kindred (over 100 members) demonstrating several unusual
+patterns in the inheritance of HLA antigens. The most prominent is a strong
+C and D) of the family, 20 of 27 members with cancer have HLA haplo-
+type HLAA30,B14,DRw53. This suggests that this family has inherited
+members who have haplotype shared. Of 16 cancer patients with
+cancer in branches C and D, actually typed, had HLAA30,HLAB14 (relative
+frequency 0.50). The HLA antigens are also present in a single
+branch B is a child of a family member with haploype HLAA30,HLAB14.
+Cancer 36:1192-1198, 1980.
+
+The significance of host factors in many
+familial varieties of cancer is unresolv-
+ed. Different genetic mechanisms may be involved
+with different etiologies in different pedigrees.
+In some instances, the presence only a history
+of cancer and cancer/predisposition syndromes
+such as familial adenomatosis polyposis,1
+colloid polypoid,2 or Von Recklinghausen’s
+neurofibromatosis3 are observed. Consequently, can-
+cer risk for certain types of genetic importance in
+families may be determined according to kin-
+ship and family history. The ability to define
+distinguishing preneoplastic signals and/or
+tumor markers is often limited by the absence
+of particular clinical manifestations.
+
+One area where human leukocyte antigen
+(HLA) typing has been useful is in the identi-
+fication of cancer families.4,5 HLA antigens are
+cell surface markers that are inherited in a co-
+dominant fashion and are highly polymorphic.
+The presence of unusual HLA distributions in
+families with cancer suggests that certain HLA
+antigens may be associated with an increased
+risk of developing cancer.6,7
+
+*Department of Medicine, Division of Hematology,
+University of Washington Medical Center, Seattle,
+Washington 98105.
+†Division of Pathology, University of Washington,
+Seattle, Washington 98105.
+‡Department of Immunology, University of Wash-
+ington, Seattle, Washington 98105.
+§Cancer Genetics Program, Fred Hutchinson
+Research Center, Seattle, Washington 98105.
+
+“It is well known that lack of associ-
+tion in the population does not preclude link-
+age to a cancer gene.
+
+Lacking, however, have been detailed stud-
+ies of HLA antigens in families whose
+whose genealogies, tumor verifications, and
+HLA antigen types were systematically in-
+vestigated.8
+
+We here present data showing association
+of HLA kindred in Family N is a large
+kindred which manifests the cancer family
+Cancer 36:1192-1198, 1980.
+
+MATERIALS AND METHODS
+
+Family N is one of the few kindreds
+whose genealogies have been documented
+in detail. The family resides in a rural area
+of central Pennsylvania and has a history
+of cancer spanning several generations.
+The family was initially identified by
+Dr. Charles G. Cohen, who noted an un-
+usually high incidence of cancer among its
+members.
+
+Family members were screened for can-
+cer history through interviews with key
+family members. Individuals with a his-
+tory of cancer or those who were first-de-
+gree relatives of affected individuals were
+typed for HLA antigens. Typing was per-
+formed at the University of Washington
+Immunology Laboratory using standard
+techniques.9,10
+
+RESULTS
+
+The family N pedigree is shown in Figure 1.
+A total of 115 members of the family have
+been typed for HLA antigens. The most
+striking feature of the family is the pres-
+ence of an unusual HLA haplotype, HLAA30,
+HLAB14, DRw53, which appears to segre-
+gate with cancer in several branches of the
+family.
+
+Figure 2 shows the distribution of this
+haplotype among affected and unaffected
+individuals in the family. As can be seen,
+the haplotype is present in approximately
+50% of the affected individuals, compared
+to only 10% of the unaffected individuals.
+This difference is statistically significant (p <
+0.001).
+
+In addition to the HLAA30, HLAB14, DRw53
+haplotype, other HLA antigens are also
+abnormal in this family. For example,
+HLAA2 is present in approximately 30% of
+the affected individuals, compared to only
+5% of the unaffected individuals (p < 0.01).
+
+DISCUSSION
+
+The findings presented here provide further
+evidence for the role of HLA antigens in
+cancer predisposition. The presence of an
+unusual HLA haplotype, HLAA30, HLAB14,
+DRw53, which segregates with cancer in
+family N suggests that this haplotype may
+confer an increased risk of developing can-
+cer.
+
+The mechanism by which this haplotype
+may increase cancer risk is not clear. It is
+possible that the haplotype itself is caus-
+ing the cancer, or that it is simply a mark-
+er for another genetic factor that is causing
+the cancer. Further studies are needed to
+elucidate the precise role of HLA antigens
+in cancer predisposition.
+
+ACKNOWLEDGMENTS
+
+We thank Dr. Charles G. Cohen for his
+initial identification of family N and for
+his continued cooperation in this study.
+We also thank the members of family N
+for their willingness to participate in this
+research.
+
+REFERENCES
+
+1.  Richards, D. W., et al. Hereditary non-poly-
+    posis colorectal cancer. Lancet 2:143-147,
+    1977.
+2.  Meyer, J. S., et al. Familial adenomatosis
+    polyposis. Gastroenterology 65:188-196,
+    1976.
+3.  Penrose, D. A. Neurofibromatosis: a review.
+    Brain 102:415-436, 1979.
+4.  Loken, J. R., et al. HLA antigens in familial
+    cancer. Lancet 1:1228-1230, 1978.
+5.  Thomas, R. J., et al. Association of HLA an-
+    tigens with cancer in a family. Lancet 2:641-
+    643, 1978.
+6.  Loken, J. R., et al. HLA antigens and cancer
+    risk. N. Engl. J. Med. 298:507-511, 1978.
+7.  Kaplan, A. K., et al. HLA antigens in can-
+    cer families. Cancer Res. 38:4167-4171,
+    1978.
+8.  Terasaki, P. I. Tissue typing and disease.
+    New England Journal of Medicine 293:527-
+    535, 1975.
+9.  Hummel, M., et al. A simple method for the
+    detection of weakly expressed HLA an-
+    tigens. Transplantation 26:408-411, 1978.
+10. Ziegler, E. E. HLA typing in disease. Clinical
+    Immunology and Allergy 1:355-373, 1979.
+
+
+
+Figure 1. Pedigree of cancer family N. Shaded
+symbols indicate affected individuals. Arrows
+indicate individuals who have been typed for
+HLA antigens.
+
+Figure 2. Distribution of HLAA30, HLAB14,
+DRw53 haplotype among affected and un-
+affected members of family N.

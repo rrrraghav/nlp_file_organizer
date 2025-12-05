@@ -1,0 +1,48 @@
+USA                                     00018658     MSDS NO.:  018658
+                                                                 EFF. DATE: 9/12/95
+                                                                  SHEET
+
+PHILIP MORRIS USA
+ENVIRONMENTAL HEALTH AND SAFETY
+P.O. BOX 26603
+RICHMOND, VA. 23261
+(804) 274-2342
+
+EMERGENCY CONTACTS:
+CHEMTREC IN U.S.A. (800)-424-9300
+OUTSIDE U.S.A.   011-(202)-483-7616
+OR WITHIN PHILIP MORRIS (804)-274-2416
+
+
+
+I. SUBSTANCE IDENTIFICATION
+
+Substance:                                 ** 72-190 **
+
+Trade Name/Synonyms:                   SFC-5G2
+
+Chemical Family:                         P.M. BLENDED FLAVOR
+
+Molecular Formula:                       TRADE SECRET    Mol. Wt.: UNKNOWN
+
+NFPA Ratings:   Health = 1     Fire = 1      Reactivity = 0
+
+NFPA Scale (0-4):  0 = No Hazard, 4 = Highest Hazard
+
+
+
+II. COMPONENTS
+
+Component Name             Percent       TLV/PEL        CAS No.
+PROPYLENE GLYCOL            > 1%           NONE          57-55-6
+PROPRIETARY COMPONENT(S)   > 1%           NONE           N/A
+
+Certain specific chemical identities of flavor ingredients are being
+withheld as trade secrets. Disclosure will be made in emergencies
+and in non-emergencies if the need to know is justified in a written
+request to Philip Morris USA. See manufacturer information for the
+correct address.
+
+
+
+205473936

@@ -1,0 +1,54 @@
+RES-81054.006.XLS Reves3031-59
+
+tne
+
+Page 1 of 1
+
+S8 Strain Cigarette Mutagenicity	Specific Mutagenicity, Basis
+
+
+
+	Day1	Sign. Max. Increase	Day2	Sign. Max. Increase	Dry	Sign.	Covar.	Tar	Cig.
+	Sign. Lin. Day1	Day2	Covar.	Day1	Day2
+
+no TA8 99 BB 158	23 +++		38 +++	N	L	
+	99 BB 159	26 +++		37 +++	L	L	
+	99 BB 160	27 +++		35 +++	L	L	
+	99 GLU 161	29 +++		36 +++	L	L	
+	TRAF	32 +++		38 +++	L	L	
+
+	)	2N/10
+
+
+
+TA100 99 BB 158	12 ++		13 ++	L	
+	99 BB 159	13 +		13 +	L	
+	99 BB 160	11 +		12 +	L	
+	99 GLU 161	11 +		12 +	L	
+	TRAF	12 ++		12 ++	L	
+
+TA102 99 BB 158	12 ++		L	
+	99 BB 159	12 +		10 +	L	
+	99 BB 160	12 +		10 +	L	
+	99 GLU 161	11 +		10 +	L	
+	TRAF	12 ++		12 ++	L	
+
+TA1535 99 BB 158	25 +++		19 +++	N	L	
+	99 BB 159	23 +++		17 +++	L	L	
+	99 BB 160	24 ++		18 ++	L	L	
+	99 GLU 161	2 +		13 +	L	L	
+	TRAF	2 +		12 +	L	L	
+
+	)	2N/10
+
+
+
+TA1537 99 BB 158	82 +++		68 +++	N	L	
+	99 BB 159	73 +++		68 +++	L	L	
+	99 BB 160	71 +++		68 +++	L	L	
+	99 GLU 161	72 +++		68 +++	L	L	
+	TRAF	62 +++		68 +++	L	L	
+
+
+
+printed OT- OF- 350 10.26

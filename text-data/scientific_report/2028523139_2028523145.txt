@@ -1,0 +1,26 @@
+Roger D. Kamm
+
+ADDENDUM TO PRESSURE MEASURING TESTS
+
+MEASUREMENTS OF VENTILATION IN A BARCLAY 85 CIGARETTE
+
+SUBJECTED TO VARYING LIP PRESSURES
+
+Introduction
+
+Tests were conducted using a set of simulated lips to
+determine the effect of lip pressure on ventilation in a Barclay
+85 cigarette. Pressures applied to the cigarette by the “lips”
+were measured using the same sensing bulb method employed in the
+determination of human lip pressure. We found that the decrement
+in ventilation was less than 2% at a lip pressure of 100 torr
+(about three times the average human lip pressure). We further
+determined that the ventilation decrement was only mildly
+dependent upon the position of the cigarette in the “lips”.
+
+Apparatus and Methods
+
+The simulated lips were designed and constructed by H. S.
+Porenski of Brown and Williamson, to mimic the action of human
+lips as closely as possible. The lips consist of inflatable thin
+wall tubing and are constrained to fit around the cigarette by a

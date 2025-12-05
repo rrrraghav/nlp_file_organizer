@@ -1,0 +1,43 @@
+CONFIDENTIA DO NOT DUPLICATE
+
+Cigarette Analyticals and Associated Charts
+
+Parameters Source Page Parameters Source Page
+Smoke: PTL Chemical (Dry Weight Basis): ARD
+Tar “ 1 Alkaloids “ 29
+TPM “ 2 Nicotine “ 30
+Nicotine “ 3 Glycerizic Acid “ 31
+Water “ 4 Fructose “ 32
+Puff Count “ 5 Glucose “ 33
+Tar per Puff “ 6 Sucrose “ 34
+Cigarette: Total Sugars “ 35
+Total RTD “ 7 OV, ground samples “ 36
+Static Burn “ 8 Phosphorous “ 37
+Length “ 9 Soluble Ammonia “ 38
+Circumference “ 10 Theobromine “ 39
+Loose Ends “ 11 Vanillin “ 40
+Paper: B-Methylvaleric Acid “ 41
+Permeability “ 12
+Filter:
+RTD “ 13
+Length “ 14
+Ventilation “ 15
+Filler:
+Total Alkaloids “ 16
+TRS “ 17
+Tob. Weight @ 12.5% “ 18
+OV “
+Rod Density 19
+Rod Length “ 20
+Equilibriated OV “ 21
+Cigarette CV “ 22
+OV after CV “ 23
+Humectants:
+Glycerin “ 24
+Propylene Glycol “ 25
+Pack:
+Firmness “ 26
+Tobacco Weight “ 27
+OV “ 28
+
+2057322796

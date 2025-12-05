@@ -1,0 +1,75 @@
+Material Safety Data Sheet PM MS#02951
+May be used to comply with
+OSHA Hazard Communication Standard,
+29 CFR 1910.1200. U.S. Department of Labor
+IDENTITY (As Used on Label and List) Occupational Safety and Health Administration
+Form Approved OMB No. 1218-0737
+Note: Blank spaces are not permitted. If any item is
+applicable, or no information is available, the space
+01-0506 (OIL OF CEDARWOOD) must be marked to indicate that.
+
+Manufacturer's Name SECTION II – Hazardous Ingredients/Identity Information
+Philip Morris USA Other Limits
+Address (Number, Street, City, State, and ZIP Code) Emergency Telephone Number
+P. O. Box 26603 800/225-7491
+Telephone Number for Information
+Richmond, Virginia 23261 800/225/2362
+Date Prepared
+Attn: Employee & Environmental Protection Department November 1, 1995
+Signature of Preparer (optional)
+
+Hazardous Components (Specific Identity; Common Name(s)) OSHA PEL ACGIH TLV Recommended % (optional)
+
+The specific chemical identities of Flavor Ingredients are considered to be Trade Secrets by Philip Morris USA and are withheld
+in accordance with the provisions of Title 29 of the Code of Federal Regulations. Disclosure will be made in
+emergencies and non-emergencies if the need to know is justified in a written request to Philip Morris USA.
+
+SECTION III – Physical/Chemical Characteristics
+Boiling Point (deg F) Specific Gravity (H₂O = 1)
+N/A 2 N/A
+Vapor Pressure (mm Hg.) Melting Point (deg F)
+N/A N/A
+Vapor Density (AIR = 1) Evaporation Rate
+(Butyl Acetate = 1)
+Solubility in Water: Insoluble. N/A
+Appearance and Odor: Yellowish to amber liquid with cedar odor.
+
+SECTION IV – Fire and Explosion Hazard Data
+Flash Point (Method Used) Flammable Limits UEL LEL
+Closed Cup: 165°F F TWA
+Special Fire Fighting Procedures:
+Extinguishing Media: CO2, Dry Chemical, Alcohol Foam
+Self-contained breathing apparatus and full protective clothing should be worn when fighting fires involving chemicals.
+
+SECTION V – Reactivity Data
+Unusual Hazards & Explosion Hazards:
+Avoid contact with strong oxidizing agents.
+Hazardous Polymerization: Will not occur.
+Conditions to Avoid: Excessive heat, sparks, open flame.
+
+SECTION VI – Health Hazard Data
+Route(s) of Entry: Inhalation, Skin Contact, Eye Contact, Ingestion
+Eye Contact: Causes severe irritation.
+Skin Contact: May cause mild irritation. Prolonged or repeated contact may cause dermatitis.
+Inhalation: Irritating to respiratory tract.
+Ingestion: May be harmful if swallowed.
+
+SECTION VII – Precautions for Safe Handling and Use
+Ventilation: Adequate ventilation should be maintained.
+Eye Protection: Safety glasses with side shields are recommended.
+Skin Protection: Wear appropriate gloves.
+Respiratory Protection: Not normally required.
+Other Protective Equipment: Eye wash stations and safety showers should be available in the work area.
+
+SECTION VIII – First Aid Measures
+Eye Contact: Flush immediately with large amounts of water for at least 15 minutes, and seek medical attention.
+Skin Contact: Wash affected area with soap and water.
+Inhalation: Remove to fresh air. If breathing is difficult, administer oxygen and seek medical attention.
+Ingestion: Do not induce vomiting. Seek medical attention immediately.
+
+SECTION IX – Storage and Handling
+Store in tightly closed containers in a cool, dry, well-ventilated place away from incompatible materials. Keep away from heat, sparks, open flame.
+
+SECTION X – Other Information
+This information is furnished without warranty, nor any representation that it is complete or accurate. It is intended as a guide only, and Philip Morris USA assumes no liability whatsoever for the use of this information. 2050519953
+Revision Date: November 1, 1995

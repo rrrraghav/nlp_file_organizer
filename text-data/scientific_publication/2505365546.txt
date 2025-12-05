@@ -1,0 +1,73 @@
+Environmental and Molecular Mutagenesis 17:243-252 (1991)
+
+Correlations Between Urinary Nicotine or Cotinine and Urinary Mutagenicity in Smokers on Controlled Diets
+
+Carolyn Annse Rahn, George Howard, Ed Riccio, and David J. Doolittle
+Cellular and Molecular Biology, RJ Reynolds Tobacco Company, Winston-Salem,
+North Carolina (C.A.R., G.H., E.R.); Department of Medicine, Wake Forest
+University, Winston-Salem, North Carolina (G.H.); SRI International, Menlo Park,
+California (D.J.D.)
+
+This article smokers have been reported to vary considerably in their urinary nicotine and Solmonella/microsome assay, the urine yielded from these individuals was analyzed for mutagenicity. Few studies have attempted to correlate profiles of tobacco smoke exposure with urinary nicotine, cotinine, and urinary mutagenicity, with conflicting results. The purpose of this study was to carefully control diet which is known to influence mutagenicity markedly. Our objective was to conduct a controlled dietary study to determine whether there is a correlation between urinary nicotine, cotinine, or nicotine + cotinine and urinary mutagenicity. To determine the role of nicotine in the urine from smokers on controlled diets. The number of smokers (n = 31) were those who smoked both tobacco-heeding cigarettes and a non-tobacco-heeding cigarette.
+
+Keywords: cigarette, tobacco, tar intake, urinary nicotine, urinary cotinine
+
+INTRODUCTION
+
+The widespread use of tobacco products poses significant health risks [1]. Cigarette smoke contains thousands of chemical compounds, many of which are known carcinogens or mutagens [2, 3]. Nicotine is the primary psychoactive ingredient in tobacco and is rapidly metabolized to cotinine, a more stable marker of exposure [4]. Urinary nicotine and cotinine concentrations reflect recent tobacco use and have been used as indices of smoking intensity [5, 6].
+
+The Salmonella/microsome assay is a widely used test for detecting mutagenic compounds in complex mixtures [7]. The assay measures the ability of chemicals to induce reverse mutations in strains of Salmonella typhimurium. Urinary mutagenicity, as measured by the Salmonella/microsome assay, has been shown to be elevated in smokers compared to nonsmokers [8, 9].
+
+Previous studies have attempted to correlate urinary nicotine and cotinine concentrations with urinary mutagenicity, but results have been inconsistent [10, 11]. This inconsistency may be due to uncontrolled dietary factors. Diet can significantly influence the Salmonella/microsome assay [12], and smokers’ diets are often poorly characterized in studies of urinary mutagenicity.
+
+To address this limitation, we conducted a study in which cigarette smokers were placed on controlled diets for several weeks. Urine samples were collected during this period and analyzed for nicotine, cotinine, and urinary mutagenicity using the Salmonella/microsome assay. Participants were carefully prepared and served identical diets to all sub-jects. Urinary nicotine and cotinine concentrations were determined in small aliquots from urine samples collected at regular intervals. The remaining urine sample was extracted and concentrated on solid phase extraction cartridges for analysis by the Salmonella/microsome test. Nicotine, cotinine, and urinary mutagenicity of urine from smokers as a function of time. No correlation between nicotine, cotinine, or nicotine + cotinine and urinary mutagenicity in smokers of the tobacco-heeding cigarettes. There was no correlation between nicotine, cotinine, or nicotine + cotinine and urinary mutagenicity in smokers of the tobacco-heeding cigarettes. Thus, although urinary nicotine and cotinine concentrations correlate with urinary mutageneity in smokers of tobacco-heeding cigarettes, these metabolites are not responsible for the mutage-nicity of smoke [13].
+
+MATERIALS AND METHODS
+
+Subjects
+
+Thirty-one cigarette smokers (24 males, 7 females) between the ages of 21 and 58 years (mean = 39.6 ± 10.3 years) participated in this study. All subjects were healthy volunteers recruited from the Winston-Salem area. Subjects were excluded if they had a history of cancer, cardiovascular disease, or renal disease. They also were excluded if they were taking medications that could affect mutagenicity or urinary excretion of nicotine and cotinine. Informed consent was obtained from all participants prior to enrollment.
+
+Dietary Control
+
+All subjects were hospitalized and placed on a controlled diet for 14 days. The diet consisted of pre-prepared meals served at fixed times each day. Meals were designed to be low in mutagenic compounds, based on published data [14]. Dietary intake was monitored by trained personnel. Urine samples were collected every 2 hours during the first 24 hours and then every 4 hours for the remainder of the study period.
+
+Urinary Analysis
+
+Urinary nicotine and cotinine concentrations were determined using gas chromatography-mass spectrometry (GC-MS) [15]. The Salmonella/microsome assay was performed as described previously [16]. Mutagenic activity was expressed as the number of revertant colonies per plate.
+
+Statistical Analysis
+
+Pearson correlation coefficients were calculated to assess the relationships between urinary nicotine, cotinine, and mutagenicity. Statistical significance was determined using a two-tailed t test.
+
+RESULTS
+
+The mean urinary nicotine concentration was 269 ± 183 ng/mL, and the mean urinary cotinine concentration was 457 ± 308 ng/mL. There was a significant positive correlation between urinary nicotine and cotinine concentrations (r = 0.78, p < 0.001).
+
+No significant correlations were observed between urinary nicotine and mutagenicity (r = 0.29, p = 0.34), urinary cotinine and mutagenicity (r = 0.15, p = 0.62), or the sum of urinary nicotine and cotinine and mutagenicity (r = 0.18, p = 0.57).
+
+DISCUSSION
+
+Our findings indicate that urinary nicotine and cotinine concentrations correlate with urinary mutagenicity in smokers on controlled diets. However, these metabolites are not responsible for the mutagenicity of smoke. This suggests that other compounds in cigarette smoke may be responsible for the observed increase in urinary mutagenicity among smokers.
+
+Several factors could explain why we did not observe a correlation between urinary nicotine, cotinine, and mutagenicity. First, it is possible that the Salmonella/microsome assay is not sensitive enough to detect the effects of nicotine and cotinine on mutagenicity. Second, it is possible that other compounds in cigarette smoke are more important contributors to mutagenicity than nicotine and cotinine. Third, it is possible that the relationship between urinary nicotine, cotinine, and mutagenicity is complex and depends on factors such as individual susceptibility or dietary interactions.
+
+Further research is needed to identify the specific compounds in cigarette smoke that contribute to mutagenicity and to elucidate the mechanisms by which these compounds exert their effects.
+
+ACKNOWLEDGMENTS
+
+We thank the staff of the Wake Forest University Clinical Research Unit for their assistance with this study.
+
+This work was supported by grants from RJ Reynolds Tobacco Company.
+
+LITERATURE CITED
+
+[1] Wynder, E. L., and I. Graham. 1980. Cigarette smoking: an important risk factor for human cancer. N. Engl. J. Med. 302: 405-410.
+[2] Hoffmann, D. C. 1976. Chemical constituents of tobacco and their toxicity. Boca Raton, FL: CRC Press.
+[3] Barnes, P. J., and A. B. Duffield-Thomas. 1982. Carcinogens in cigarette smoke: a review. Food Chem. Toxicol. 20: 755-764.
+[4] Seguchi, Y., T. Yamazaki, and H. Nakahata. 1973. Nicotine metabolites in human urine. Xenobiotica 3: 189-194.
+[5] Borkman, J. A., R. C. Counts, D. L. McCurdy, and E. G. Pommer. 1983. Urinary cotinine as a measure of cigarette smoking exposure. Clin. Chem. 29: 1670-1674.
+[6] England, L. J., W. H. Griffiths, D. A. McInnes, and R. G. Anderson. 1983. Urinary cotinine concentrations in smokers and nonsmokers. Am. J. Public Health 73: 1052-1054.
+[7] Ames, B. P., D. S. Profs, F. McCann, L. Yamasaki, and T. C. Lawford. 1975. Salmonella mutagenicity assay: II. An informative technique for detecting carcinogens. Proc. Natl. Acad. Sci. USA 72: 228-232.
+[8] Bartsch, H., D. Gruenwald, and W. Wegner. 1980. Mutagenic activity in the urine of smokers. Mutation Res. 74: 255-260.
+[9] Watanabe, T., S. Takayama, K. Iida, M. Naganuma, and H. Yoshikawa. 1983. Urinary mutagenicity in smokers and nonsmokers. Cancer Res. 43: 

@@ -1,0 +1,29 @@
+Br. J. Pharmacol. (1994), 112, 386–394 © Macmillan Press Ltd., 1994
+
+The effect of leukocyte depletion on pulmonary M2 muscarinic receptor function in parainfluenza virus-infected guinea-pigs
+
+Allison D. Fryer, Kathryn A. Yorko & David B. Jacoboby
+
+Department of Environmental Health Sciences, School of Hygiene and Public Health, and 'Division of Pulmonary and Critical Care Medicine, Johns Hopkins Asthma and Allergy Center, Johns Hopkins University, Baltimore, Maryland 21224, U.S.A.
+
+1. Pulmonary infections of the airways cause dysregulation of inhibitor M2 muscarinic receptors on parasympathetic nerves. We distinguish the effect of virus from the effects of leukocytes on pulmonary M2 receptor function in guinea-pigs by depleting leukocytes by pretresting with cyclophosphamide (30 mg kg−1, i.v.) daily for 7 days after which they were infected with parainfluenza virus type 2 (PIV-2) (Sneath virus).
+
+2. Guinea-pigs were anaesthetized, tracheotomized, and ventilated. The vagus nerves were isolated and superfused with Krebs solution. Muscarinic receptor function was measured as the response to cumulative doses of carbachol (10−9 to 10−5 M). Leukocyte depletion was achieved by pretresting with cyclophosphamide (30 mg kg−1, i.v.) inhibited and pelltamine (0.1–1 mg kg−1, i.v.) potentiated vagally mediated responses to carbachol. The effects of cyclophosphamide and pelltamine were almost completely lost in virus-infected animals, demonstrating leukocyte involvement.
+
+3. Cyclophosphamide depleted peripheral blood leukocytes and inhibited the virus-induced influx of inflammatory cells into the lung. Depletion of leukocytes protected M2 receptor function from viral infection in some but not all lungs.
+
+4. Among infected animals that had been depleted of leukocytes, the virat content (expressed as the log10 copies per lung) was significantly higher than in control animals (P < 0.001). The mean M2 receptor function was 4.62 ± 0.86 form s.e., while the viral content of those that had M2 receptor function was 5.39 ± 0.78 form s.e. In lungs in which M2 receptor function was lost, the mean virat content was 1.6 times greater than that of the lungs in which M2 receptor function was present (P < 0.001).
+
+5. Bronchoconstriction-afferent stimulation due to muscarinic receptor activation is restricted when positively charged leukocytes are depleted (P < 0.001). The mean M2 receptor function was 0.48 ± 0.09 form s.e.
+
+6. In animals challenged with the maximum dose of pelltamine (10 mg kg−1, i.v.), there was a significant reduction in the virat content and M2 receptor function (P < 0.001). The mean M2 receptor function was 0.38 ± 0.06 form s.e.
+
+7. Leukocyte depletion attenuated the virus-induced increase in pulmonary resistance, as well as the decrease in airway hyperreactivity (AHR) to methacholine (P < 0.001). The mean AHR was 0.32 ± 0.05 form s.e.
+
+8. These results suggest that leukocytes contribute to virus-induced dysregulation of M2 receptor function and AHR in guinea-pigs. Leukocyte depletion attenuated the effects of viral infection on pulmonary M2 receptor function and AHR.
+
+9. The role of leukocytes in airway inflammation is complex, and their contribution to the pathogenesis of asthma remains unclear. Further studies are needed to determine the precise mechanisms by which leukocytes contribute to virus-induced dysregulation of M2 receptor function and AHR.
+
+Received 17 February 1994
+Reprint requests to: Dr. David B. Jacoby, Division of Pulmonary and Critical Care Medicine, Johns Hopkins Asthma and Allergy Center, Ross Building, Room 503, 501 N. Broadway, Baltimore, MD 21205, U.S.A.
+

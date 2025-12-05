@@ -1,0 +1,178 @@
+INTRODUCTION TO COGNITIVE ECONOMICS
+
+Figure 1. A Simple Supply and Demand Diagram for a Unique Good (Say,
+a Work of Art) in a World Without Transaction Costs or Information
+Asymmetry.
+
+(a) The supply curve slopes upward because as the price rises, artists are
+willing to produce more. (b) The demand curve slopes downward because
+as the price rises, consumers want less. (c) The intersection of the
+supply and demand curves determines the equilibrium price and quantity.
+
+Figure 2. A More Realistic Supply and Demand Diagram for a Unique Good.
+Here, we assume that there are transaction costs and information asymmetry.
+The supply curve is steeper because suppliers have to spend more time and
+money marketing their goods. The demand curve is flatter because consumers
+are less aware of the prices charged by different suppliers.
+
+Figure 3. A Simple Production Possibilities Frontier (PPF). Any point
+on the PPF represents a combination of goods that can be produced if all
+resources are used efficiently. Points inside the PPF represent inefficient
+production, and points outside the PPF represent unattainable production.
+
+Figure 4. A Cost-Benefit Analysis of Attending College. The vertical axis
+represents the benefits of attending college (e.g., higher lifetime earnings,
+a more fulfilling career, a broader social network). The horizontal axis
+represents the costs of attending college (e.g., tuition, fees, forgone
+wages). A rational person will attend college if and only if the benefits
+exceed the costs.
+
+Figure 5. An Example of Moral Hazard. Suppose that people are more likely
+to engage in risky behavior when they are not fully responsible for the
+consequences of their actions. For example, a person with health insurance
+may be less careful about their health than a person without health insurance.
+
+Figure 6. An Example of Adverse Selection. Suppose that people with high
+medical expenses are more likely to purchase health insurance than people
+with low medical expenses. This can lead to an increase in the price of
+health insurance and a decrease in the number of people who purchase it.
+
+Figure 7. A Simple Game Theory Matrix. The matrix shows the payoffs for
+each player, depending on the actions that they take. A Nash equilibrium
+is a set of strategies such that no player can improve their payoff by
+unilaterally changing their strategy.
+
+Figure 8. An Example of the Tragedy of the Commons. Suppose that there
+is a common pasture where several farmers graze their cattle. Each farmer
+has an incentive to add more cattle to the pasture, even though this will
+deplete the pasture and harm all of the farmers.
+
+Figure 9. A Simple Model of Behavioral Economics. The model shows how
+people make decisions when they are not perfectly rational. People may be
+influenced by emotions, biases, and heuristics.
+
+Figure 10. An Example of Nudging. Suppose that a government wants to
+encourage people to save more for retirement. It could automatically enroll
+employees in a retirement savings plan, with the option to opt out. This
+is an example of a nudge because it makes it easier for people to do what
+the government wants them to do.
+
+Figure 11. A Simple Model of Cognitive Biases. The model shows how people
+make systematic errors in judgment. People may be overconfident, prone
+to confirmation bias, or susceptible to framing effects.
+
+Figure 12. An Example of Loss Aversion. Suppose that a person is offered
+a choice between gaining $100 and losing $100. Most people will feel
+the pain of losing $100 more strongly than the pleasure of gaining $100.
+
+Figure 13. A Simple Model of Prospect Theory. The model shows how people
+evaluate gains and losses relative to a reference point. People are more
+sensitive to losses than to gains.
+
+Figure 14. An Example of Mental Accounting. Suppose that a person has
+$100 in their checking account and $100 in their savings account. They
+might be willing to spend the $100 from their checking account on a luxury
+item, but they would not be willing to spend the $100 from their savings
+account on the same item.
+
+Figure 15. A Simple Model of Social Norms. The model shows how people
+are influenced by the behavior of others. People may conform to social
+norms even when it is not in their best interest.
+
+Figure 16. An Example of Reputation Effects. Suppose that a person has
+a reputation for being honest and reliable. This can make it easier for
+them to do business with others.
+
+Figure 17. A Simple Model of Trust. The model shows how trust affects
+economic outcomes. People are more likely to engage in transactions when
+they trust each other.
+
+Figure 18. An Example of Bounded Rationality. Suppose that a person has
+limited time and cognitive resources. They may not be able to make perfectly
+rational decisions.
+
+Figure 19. A Simple Model of Heuristics. The model shows how people use
+mental shortcuts to make decisions. People may rely on heuristics even when
+they are inaccurate.
+
+Figure 20. An Example of the Availability Heuristic. Suppose that a person
+is asked to estimate the number of deaths caused by terrorism in the United
+States. They might overestimate the number because terrorist attacks are
+more memorable than other causes of death.
+
+Figure 21. A Simple Model of Framing Effects. The model shows how the way
+information is presented can affect people’s decisions. People may make
+different choices depending on whether a choice is framed as a gain or a
+loss.
+
+Figure 22. An Example of Anchoring Bias. Suppose that a person is asked
+to estimate the value of a house. They might be influenced by the initial
+price that they are told, even if that price is irrelevant.
+
+Figure 23. A Simple Model of Confirmation Bias. The model shows how people
+tend to seek out information that confirms their existing beliefs. People
+may ignore or downplay information that contradicts their beliefs.
+
+Figure 24. An Example of Overconfidence Bias. Suppose that a person is
+asked to estimate how long it will take them to complete a task. They
+might underestimate the time required because they are overconfident in their
+abilities.
+
+Figure 25. A Simple Model of Status Quo Bias. The model shows how people
+tend to stick with the current state of affairs, even when there may be
+better alternatives available. People may be reluctant to change because
+of inertia or fear of regret.
+
+Figure 26. An Example of Present Bias. Suppose that a person is offered
+a choice between receiving $100 today and receiving $110 tomorrow. They
+might choose the $100 today, even though they would prefer the $110
+tomorrow if they were thinking about the future.
+
+Figure 27. A Simple Model of Self-Control Problems. The model shows how
+people may make decisions that are not in their best interest because
+they lack self-control. People may procrastinate, overeat, or spend too
+much money.
+
+Figure 28. An Example of Time Inconsistency. Suppose that a person plans
+to go to the gym tomorrow morning. However, when tomorrow arrives, they
+might decide to sleep in instead. This is an example of time inconsistency
+because their preferences change over time.
+
+Figure 29. A Simple Model of Social Preferences. The model shows how
+people are motivated by factors other than self-interest. People may care
+about fairness, reciprocity, and altruism.
+
+Figure 30. An Example of Fairness Concerns. Suppose that two people are
+splitting a pie. If one person gets a much larger piece than the other,
+the second person might feel resentful and try to take back some of the
+pie.
+
+Figure 31. A Simple Model of Reciprocity. The model shows how people tend
+to respond to kindness with kindness and to unkindness with unkindness.
+People may be willing to cooperate even when it is not in their best
+interest, if they believe that others will reciprocate.
+
+Figure 32. An Example of Altruism. Suppose that a person donates money
+to charity. This is an example of altruism because the person is acting
+out of concern for others.
+
+Figure 33. A Simple Model of Group Identity. The model shows how people
+tend to favor members of their own group over members of other groups.
+People may be willing to cooperate with members of their own group even
+when it is not in their best interest.
+
+Figure 34. An Example of In-Group Bias. Suppose that a person is more
+likely to hire someone from their alma mater than someone from another
+school, even if the other candidate is more qualified.
+
+Figure 35. A Simple Model of Cultural Norms. The model shows how cultural
+norms can influence economic behavior. People may conform to cultural norms
+even when it is not in their best interest.
+
+Figure 36. An Example of a Cultural Tradition. Suppose that people in
+a certain culture have a tradition of giving gifts on Christmas. People
+may feel obligated to give gifts even if they cannot afford them.
+
+Figure 37. A Simple Model of Institutions. The model shows how institutions
+can shape economic outcomes. Institutions can provide incentives for
+people to behave in certain ways.

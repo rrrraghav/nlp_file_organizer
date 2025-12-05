@@ -1,0 +1,20 @@
+INBIFO Institut für biologische Forschung - Köln
+
+REPORT P 0268/2174 890321 PAGE 12
+
+1 SUMMARY
+======
+
+1.1 Objective
+
+This study was designed to investigate the mutagenicity of the MAINSTREAM and SIDESTREAM WHOLE SMOKE CONDENSATES of 4 research cigarettes of the FTR project PLEIADE. The mutagenicity determination was carried out in the Salmonella typhimurium reverse mutation assay with metabolic promutagen activation. Salmonella typhimurium strains TA98 and TA100 were used to detect mutagens causing frameshift mutation and base-pair substitution respectively.
+
+1.2 Cigarettes
+
+The research cigarettes coded PLEIADE-5, -6, -7, and -8 were filter cigarettes. Cigarette PLEIADE-5 was the reference cigarette.
+
+1.3 Experimental Conduct
+
+The mainstream and sidestream whole smoke of each research cigarette was simultaneously generated using automatic INBIFO smoking machines. The crude mainstream and sidestream whole smoke condensates were collected with glass impaction traps (MSWC-I, SWSC-I). 4 individual batches of each type of condensate per research cigarette were prepared. The condensates were assayed at the doses 0.05, 0.10, 0.15 milligrams dry condensate per plate.
+
+2601743261

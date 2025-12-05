@@ -1,0 +1,24 @@
+12/3/97 HJH
+
+Parameter Unit of Measure INRIFOCRC HO12 (a) Witschi et al. (1987) Ratio
+Witschi:HO12 actual normalized
+to 12.1 ug/PMI
+
+TPM ug/m3 2.25 78.5 12.1 6 1.0
+CQ ppm 12.1 2.1 32.5 5 0.9
+nicotine ug/g 42 13.4 2.1 5 0.8
+
+hydroquinone ng/l 71 263 41 4 0.6
+fluoranthene ng/l 475 3580 869 12 1.8
+pyrene " 400 3700 570 9 1.4
+benzo(a)anthracene " 535 4100 632 15 2.6
+chrysene " 595 8700 1262 17 2.2
+benzo(a)pyrene " 117 1700 262 20 2.0
+N-nitrosonornicotine ng/l 0.23 3 0.5 13 2.3
+NNK ug/g 2.25 3.9 0.6 2
+
+(a) Haussmann et al., manuscript in preparation (46569)
+(b) Witschi et al., Carcinogenesis 18: 2035-2042 (1997)
+
+656Outis.xls
+207665/196 Page 1

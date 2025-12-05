@@ -1,0 +1,25 @@
+Southwest Bell Technology Center
+16 Oct 88
+SBTC
+k. Kile
+
+P - /5153
+
+DEVELOPMENT OF A MICROASSAY FOR THE DETERMINATION OF PROTEIN BY
+
+THE METHOD OF LOWRY
+
+-------------------------------------
+
+main objectives:
+
+(1) miniaturization of the established protein determination in
+order to perform the assay on a microtiterplate, absorbance
+measurements with a microtiterplate reader
+
+(2) adaption of the assay performance in order to use the Tecan
+Sampler-XTT 505 for liquid handling
+
+
+
+2501667949

@@ -1,0 +1,54 @@
+FACTORY TEST - BLEND SPECIFICATIONS
+
+4-071
+Date:
+Factory Test No.: Project Leader: Harvey J. Young Project No.: 7714
+Brand: CAMEL Lights 85
+Approved:
+Purpose of Test: Evaluate shorts at 0% and 8%
+
+A B
+1. BLEND FORMULATION:
+G4 1.00 G4 1.00
+K23 6.75 K23 6.75
+C30 34.50 C30 34.50
+G-13-14 15.00 G-13-14 15.00
+TB 15.00 TB 15.00
+GYA 27.75 GYA 27.75
+100.00 100.00
+
+2. CASING FOR DRYING:
+B-4 I III B-4 I III
+B-2 56 18 B-2 56 18
+C-1 28 27 C-1 28 27
+E-3 56 0 E-3 56 0
+W-1 100 0 W-1 100 0
+
+3. TOP DRESSING FOR CASING & DRYING
+Type Part I Part II
+Application Rate Part I
+(gals/1000) Part II
+4. CASING FOR CUTTING:
+Type Part I N/A Part II N/A
+B-3 B-3
+Application Rate Part I N/A Part II N/A
+(gals/1000)
+5. TOP DRESSING FOR G-13
+Type S-5
+Application Rate 4.4#/1000#
+6. AGING
+Strip 8 hrs. 8 hrs.
+Cut 8 hrs. 8 hrs.
+Oil Filler
+7. STEAM FLOATION TEMP. (°F)
+8. SHORTS
+Gr. (2) (3)
+9. FINAL TOP DRESSING FOR CASING & CUTTING
+Type NONE
+10. TAGENT RATE
+4.4#/1000# 4.4#/1000#
+11. PARTICLE MOISTURE (%) 2.5 2.5
+12. SPECIAL PROCEDURE
+13. FILTER ROLLS REQUIRED
+
+(Initials of supervised by J.R. Young 7/11/85)

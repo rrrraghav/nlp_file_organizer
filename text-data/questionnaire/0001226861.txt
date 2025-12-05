@@ -1,0 +1,55 @@
+FOT03 T CITY VALIDATION PLACEMENT DOCUMENT # P
+INTERVIEWER DATE
+S F Q R UP DF
+
+I'm from We’re doing a
+survey in the area and I would like to ask you a few questions.
+
+1. CIRCLE CITY:
+DETROIT.......................... 1
+MIAMI........................... 2
+NEW ORLEANS...................3 PHILADELPHIA...............4
+PITTSBURGH.................5
+
+2. Male.... 1 Female.... 2
+
+3. Do you smoke cigarettes? Yes.... 1 No.... 2—TERMINATE
+
+4. Is the brand you usually smoke as (READ)
+Non-filter..... 1—ASK Q.4a
+Menthol filter... 2—SKIP TO 0.5
+Non-filter..... 3—ASK 0.4a
+
+4a. Have you smoked at least one pack of menthol cigarettes in
+the last month?
+Male.... 1 No.... 2—TERMINATE
+
+5. What brand is that? (DO NOT READ OPTIONS) HIGH FILTRATION
+FULL TASTE Benson & Hedges Lights... 1
+Alpine.......................... 1 Carlton....................... 2
+Belair......................... 2 Decade........................3
+Benson & Hedges............... 2 Doral......................... 4
+Eve........................... 4 Flair..........................5
+Kool.......................... 4 Kent..........................6
+L&M........................... 5 Kent Golden Lights... 8
+Marlboro....................... 7 Kool Milds..................9
+Max........................... 8 Kool Super Lights... 0
+More.......................... 9 L&M Lights.................2
+Newport........................ 0 Marlboro Lights.............3
+Pall Mall...................... 1 Merit.........................4
+Saratoga....................... 2 More..........................5
+Salem.......................... 3 Multi Filter...............6
+Virginia Slims................ 4 Now...........................7
+Winston........................ 5 Pall. ........................8
+Real...........................9
+INTERVIEWER INT. NO. RESP. # Salem Thin... 8
+Spring.... 6
+True............................7
+Turquoise......................8
+Winston Lights...............9
+
+MAGAZINE CODE: 1 2 3 (PLEASE TURN PAGE)
+
+
+
+7 7 6 1 9 6 3 7 9

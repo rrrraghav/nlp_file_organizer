@@ -1,0 +1,55 @@
+LIMITED
+
+BROWN & WILLIAMSON TOBACCO CORPORATION
+
+RESEARCH, DEVELOPMENT & ENGINEERING
+
+INTERNAL CORRESPONDENCE
+
+TO: Mr. L. K. Templeton
+
+CC: Mr. R. T. Lewis
+Mr. M. L. Reynolds
+Dr. J. M. Howell
+Mr. A. M. Stone
+Mr. J. F. Hall
+Mr. D. V. Cantrell
+
+FROM: Mr. L. L. Shockley
+
+DATE: July 2, 1984
+
+SUBJECT: INSTRUMENTATION FOR VISA/278
+
+We already have the capability in Technical Services to measure Tar/Nic/CO, circumference, open/sealed pressure drop, ends stability,
+and ventilation of the VISA cigarettes. However, additional and/or
+modified equipment will be needed for the Development Center and
+Factories. Also, our firmness and coal retention units are not
+applicable to this product.
+
+Therefore, the future needs in instrumentation are as follows:
+
+*   AWM/WD instrument modified for the Development Center and
+    Factories.
+
+*   Automatic Tape Gauge (ATG) modified for the Development
+    Center and Factories.
+
+If firmness and coal retention are needed, some comparative
+methods would have to be developed by the Analytical Division.
+
+If you have any question, please contact the writer.
+
+
+
+L. L. Shockley
+ILS/mmr
+01653
+
+PRIVATE & CONFIDENTIAL
+
+BHW V P.M.
+CAN 89-470-L-B
+
+BWH11-172
+681627700

@@ -1,0 +1,44 @@
+VERDICT FORM
+
+We the jury, present the following answers to the Questions
+submitted by the Court:
+
+1. Do you find any of the parties to be at fault?
+(Answer "Yes" or "No") Yes
+
+[Answers Question 2 only if you have found any party to be at
+fault. If you have not found any fault at all, proceed to
+Question 3.]
+
+2. Considering all of the fault to be one hundred percent, what
+percentage of the total fault is attributable to each of the
+following persons?
+
+AC and S, Inc. (0% to 100%)
+A.I. Green (0% to 100%)
+A.W. Chesterton (0% to 100%)
+Anchor Packing (0% to 100%)
+Armstrong Company (0% to 100%)
+Central Mechanical Constr. Co. (0% to 100%)
+Combustion Engineering, Inc. (0% to 100%)
+Dana Corporation (0% to 100%)
+Dept. of Defense/U.S. Army (0% to 100%)
+Flexaboard Corp (0% to 100%)
+Flexitallic (0% to 100%)
+GAP Ruberoid (0% to 100%)
+Garlock, Inc. (0% to 100%)
+Hollingsworth & Vose Company (0% to 100%)
+John Crane, Inc. (0% to 100%)
+Jones-Manville (0% to 100%)
+Lorillard (0% to 100%) 1%
+Owens-Corning Fiberglas Corp. (0% to 100%) 7%
+Owens-Illinois, Inc. (0% to 100%)
+Pittsburgh Corning Corp. (0% to 100%) 16%
+Powell Brothers, Inc. (0% to 100%)
+Portland Fire Clay Company (0% to 100%)
+Ténplic (0% to 100%)
+United States Gypsum Company (0% to 100%)
+
+TOTAL FAULT 100%
+
+8357776

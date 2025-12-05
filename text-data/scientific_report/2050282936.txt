@@ -1,0 +1,48 @@
+Purpose: Flavor Run - All Linana Blend (No BL & RL) Run Number : 054
+High AB Target (4 AB/(DUB-TOB)) Date of Run: 11-9-87
+Page 1 of 2
+
+SAMPLE TYPE OU, % PH % Nicotin (DWB)
+
+Feed Filler 13.19 5.7 3.02
+14.21 3.06
+Avg= 13.75 3.06
+
+Ordered Filler 28.66 6.9
+28.52
+29.84
+Avg= 28.61
+
+Extracted Filler (Wet \Bot) 30.14 0.12  <---Top
+25.93 0.11 <---Bot
+Avg... (Bot Sect.)= 28.02 0.12
+
+Extracted Filler (Dry) 12.79 0.09
+11.14 0.09
+12.24 0.10
+12.56 0.10
+Avg= 12.25 0.10
+
+***********************
+** Nicotine Reduction % **
+***********************
+
+Feed Stem 34.90 0.55
+34.46 0.57
+Avg= 34.68 0.56
+
+Spent Stem (#ds #2)(Top Bkt) 33.06 1.82 <---Top (3rd position
+33.69 1.48 <---Top (4th position
+Avg... (Top Bkt Sect.)= 33.35 1.65
+
+M/M = 200
+All Laminia Strip w/o AC ; UBFSS Stem Type
+Filler / Ads #2 = 9/8
+AB=15.4% : Calculated AB/(DUB-TOB)=1.5 : Analytical AB/(DUB-TOB) = 4.20
+Filler in bottom Basket inside Extractor & Stem in Top Basket
+Filler after Extraction: Slightly Dry Ice on Filler
+Hot Recovery : Power Outage prior to Run caused some software problems
+
+CO2 Velocity maintained 0.7 fr/min Down Flow
+
+205082936

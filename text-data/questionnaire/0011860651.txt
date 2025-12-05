@@ -1,0 +1,48 @@
+TIME BEGAN:
+
+I.D. # 148524
+
+
+
+PROJECT INTRODUCTION/SCREENER
+
+Hello, my name is with Southern Research Corporation. We are conducting a study about products used in the home.
+
+A. I need to speak with someone in your household who is 21 years of age or older. Would that be you?
+     Yes  1
+     No  2
+ASK TO SPEAK WITH SOMEONE 21 YEARS OR OLDER
+IF NO ONE AVAILABLE - MAKE CALLBACK APPOINTMENT 3
+
+B. Do you, yourself... (READ LIST)?
+    Yes   No
+Eat cold cereal?      1       2
+Drink diet beverages?   1       2
+Smoke cigarettes?        1       2
+Eat Mexican food?         1       2
+(IF "YES" TO SMOKE CIGARETTES, ASK Q. 5 IF “NO” TO SMOKE CIGARETTES, SKIP TO Q.D.)
+
+C. Is there anyone in your household 21 years of age or older who smokes cigarettes?
+SCREEN WITH Q. D. - Yes, Available  1
+     No  2
+ASK G.G. AND SCORE CALLBACK APPOINTMENT
+
+D. Do you, or does any member of your immediate household work for a marketing research firm, an advertising agency, a publishing company or a cigarette manufacturer?
+   SCREEN WITH 
+   CONTINUE  Yes  1
+                No  2
+
+E. About how many cigarettes do you smoke in average day? Do not read list. If
+necessary, ASK: "Would that be sure of less than 1/2 pack?"
+     RE-ASK Q.
+Less than 1/2 pack a day   5
+1/2 - 1 pack  1
+Over 1-2 packs  2
+Over 2-3 packs  3
+Over 3-4 packs  4
+Over 4-5 packs  5
+More than 5 packs  6
+DON'T KNOW, but more than 1/2 pack   7
+
+468883524
+(1)

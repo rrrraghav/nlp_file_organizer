@@ -1,0 +1,30 @@
+PROJECT NUMBER: 2520
+PROJECT TITLE: Flavor Research
+PROJECT LEADER: Y. Houminer
+PERIOD COVERED: March, 1990
+
+I. COMMERCIALIZATION OF GMC AND POLYMIC
+
+A. Objective: To find chemical manufacturers who are capable of producing large quantities of GMC and polyMIC.
+
+B. Results: The production of batch 004 of GMC (250 lbs.) at Lee Laboratories has been reviewed and has been rescheduled for the first week in May. We have started a careful analysis of the process currently used in the production of GMC. This will enable us to obtain a better estimate of the cost of production of quantities up to 25,000 lbs. per year. Additional samples of GMC have been supplied to W. Nichols and G. Yatrakis for new application trials. The development of an application technique to filler is essential to the success of this project.
+
+Dr. W. B. Edwards attended the SOCMA meeting in San Francisco in which he visited the exhibitions of 65 small manufacturers and made important connections with a few of them.
+
+II. FLAVOR RELEASE TECHNOLOGY
+
+A. Objective: To investigate the synthesis and pyrolysis of various flavor release systems for use in new or improved products.
+
+B. Results: Ethyl 3-hydroxy-3-(4'-butoxycarbonyl-oxy-3'-methoxy-phenyl)-2-phenylpropionate (CR-2911, mixture of diastereomers) was prepared by reacting the lithium enolate of ethyl phenlyacetate with t-butoxycarbonyl-3'-methoxybenzaldehyde (CR-2910) in cyclohexene/THF. The yield and the diastereomeric ratio were comparable to those of CR-2898. CR-2911 was also prepared in near quantitative yield by reacting N-2648 with di-t-butyl dicarbonate and sodium hydride in ethyl acetate. CR-2908 and CR-2909, the diastereomers that made up CR-2911, were prepared by this second route from CR-2852 and CR-2857 respectively. A 25 g sample of CR-2911 was submitted to Flavor Development for paper coating evaluation, and additional sample of 69 g for paper coating. Another 35 g of CR-2898 was also delivered to Flavor Development.
+
+C. Results: Utilization of synthesis/pyrolysis data and wax found to be roll stability in thin films as determined cleanly at room temperature. Further work on polymers continues primarily at Lee Laboratories, and a small amount of work is being done externally at Wijsman B.V.
+
+D. Plans: To continue the synthesis of flavor release systems and their pyrolysis studies.
+
+III. ODOUR GENERATION
+
+A. Objective: To investigate the generation of odours from various polymeric materials.
+
+B. Results: A 25 g sample of CR-2911 was delivered to Wijsman B.V. for evaluation.
+
+C. Plans: To continue evaluation of flavor release systems with Wijsman B.V.

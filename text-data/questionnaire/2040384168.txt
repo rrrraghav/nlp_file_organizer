@@ -1,0 +1,22 @@
+CAMEL C-NOTES MODULE
+
+1. As you may know, some brands of cigarettes offer special deals, promotions or free gifts to get consumers interested in buying their brand. What brand or brands of cigarettes come to mind as you think about this? (RECORD ALL THAT APPLY - FAMILY NAME ONLY)
+
+Bucks . . . . . . . . . . . . . . . . . 1
+Camel . . . . . . . . . . . . . . . . . . . 2
+Doral . . . . . . . . . . . . . . . . . . . 3
+Kool . . . . . . . . . . . . . . . . . . . . 4
+Marlboro . . . . . . . . . . . . . . . . . 5
+Salem . . . . . . . . . . . . . . . . . . . 6
+Winston . . . . . . . . . . . . . . . . . . 7
+Virginia Slims . . . . . . . . . . . . . . . 8
+Other (SPECIFY) . . . . . . . . . . . . . . . 9
+Don’t know . . . . . . . . . . . . . . . . . . 0
+
+2. (IF CAMEL MENTIONED IN Q.1, ASK:) What special deals or promotions for Camel can you think of? Any others? (PROBE AND CLARIFY)
+
+Camel Cash/C-notes/Money . . . . . . . . . 1 → SKIP TO Q.4
+
+Z040384168
+
+10/29/91/cz/2

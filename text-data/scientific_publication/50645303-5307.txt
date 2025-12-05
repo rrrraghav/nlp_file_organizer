@@ -1,0 +1,171 @@
+Proc. Natl. Acad. Sci. USA
+Vol. 90, pp. 3705-3709, April 1993
+Immunology
+
+Replacement of germ-line + promoter by gene targeting alters
+control of immunoglobulin heavy chain class switching
+
+(IgH/interleukin-4) / homologous recombination)
+
+LING XU, BEVERLY GORHAM, SUZANNE C. LI, ANDREA BOTTAro, FREDERICK W. ALT*,
+AND PAUL ROTHMAN*
+
+Departments of Microbiology and Medicine, and Department of Biochemistry and Howard Hughes Medical Institute, Columbia University College of
+Physicians and Surgeons, New York, NY 10032
+
+Communicated by Harold S. Ginsberg, January 4, 1993
+
+ABSTRACT Recent work has shown that the ability of
+cytokines to direct immunoglobulin heavy chain class-switch
+recombination to particular heavy chain constant (C) region
+(Cμ) genes correlates with the induction of specific germ-line
+Cμ transcripts. To test the role of germ-line Cμ transcripts in class
+switching, we have used homologous recombination to mate
+the immunoglobulin heavy chain locus into a murine pre-B cell line.
+In the parental cell line, the combination
+of interleukin-4 (IL-4) and lipopolysaccharide (LPS) induces
+germ-line Cμ transcription prior to class switching to γ+.
+The heavy chains locus of the mutated cell line contains the
+immunoglobulin heavy chain enhancer and variable region gene
+promoter in place of the LPS/IL-4-responsive germ-line
++ promoter. The mutant cell line constitutively transcribes the
+Cμ gene in the absence of IL-4, but switches to γ+ only when it
+also switches to μ at least in the presence of IL-4. This result dem-
+onstrates that, as in the 18.8A10 cell line, germ-line Cμ
+transcription plays a critical role in directing class switching
+by altering transcriptional activity patterns that regulation
+of addition-substitution to change the character of trans-switch
+genes.
+
+To date, the ability of interleukin-4 (IL-4) to direct
+immunoglobulin heavy chain class switching to γ has been
+demonstrated in several B cell lines and primary B cells (1-5).
+The mechanism by which IL-4 directs class switching is not
+fully understood, but it appears to involve the induction of
+germ-line Cμ transcripts (6). These transcripts are thought to
+be necessary for class switching because they provide a template
+for the switch regions that mediate recombination between Cμ and
+the target C region gene. In addition, germ-line Cμ
+transcripts may be required to recruit or activate factors that
+mediate class switching (7).
+
+The induction of germ-line Cμ transcripts is thought to
+depend on both LPS and IL-4 (6). LPS induces the expression
+of transcripts + that initiate upstream of the switch recombina-
+tion sequences of the involved Cμ gene (reviewed in ref. 6).
+For example, concurrent treatment of murine splenic B
+lymphocytes or certain B cell lines with LPS and IL-4
+induces expression of germ-line transcripts at the transcrip-
+tional level before the production of IgH (7, 9). Germ-line
+transcripts are also found in human Cμ genes and are structurally conserved. Further
+evidence for the important role of germ-line transcription
+has been provided by the identification of cytokine
+responsive cis elements around the initiation regions of
+Cμ transcripts (10, 11).
+
+The correlation between germ-line Cμ transcription and
+subsequent recombination implicates explain through
+specific signals as a targeting mechanism for class switch-
+ing. There are several models that explain the mech-
+anism by which germ-line transcription is directed there is
+a non-specific switch recombination machinery is that there is
+to specific regions with transcription, perhaps by altering
+the chromatin structure (refs. 2 and 12). Another model
+is that germ-line transcripts recruit or activate factors
+that mediate class switching (7).
+
+To test the role of germ-line Cμ transcripts in class
+switching, we have used homologous recombination to mate
+the immunoglobulin heavy chain locus into a murine pre-B cell
+line. The parental 18.8A10 cell line exhibits normal IgH
+gene rearrangement and class switching (13). In this cell line,
+IL-4 induces germ-line Cμ transcription prior to class switch-
+ing to γ+ (6). We have replaced the LPS/IL-4-responsive
+germ-line + promoter in the 18.8A10 cell line with a
+constitutively active SV40 early promoter. The resulting
+mutant cell line, termed 18.8A10-Cμ, exhibits several
+interesting phenotypic alterations.
+
+In the parental 18.8A10 cell line, IL-4 induces germ-line
+Cμ transcription and class switching to γ+ (6). In contrast,
+the 18.8A10-Cμ cell line transcribes the Cμ gene constitutively
+in the absence of IL-4. However, this cell line switches to γ+
+only when it also switches to μ at least in the presence of IL-4.
+These results demonstrate that germ-line Cμ transcription plays
+a critical role in directing class switching by altering
+transcriptional activity patterns.
+
+MATERIALS AND METHODS
+
+Cell Culture and Transfection
+The 18.8A10 murine pre-B cell line was obtained from
+Dr. Leonard Chess (Johns Hopkins University). Cells were
+maintained in Dulbecco's modified Eagle medium (DMEM)
+supplemented with 10% fetal bovine serum (FBS), 5 x 10^-4
+M β-mercaptoethanol, and 2 mM L-glutamine.
+
+Construction of Targeting Vector
+The targeting vector was constructed as described in ref. 13.
+Briefly, a DNA fragment containing the SV40 early promoter
+was cloned into the EcoRI site of the pUC19 plasmid. The
+resulting plasmid was digested with BamHI and XbaI, and the
+SV40 early promoter fragment was ligated into the corresponding
+sites in the targeting vector.
+
+Homologous Recombination
+The targeting vector was introduced into 18.8A10 cells by
+electroporation. Transfectants were selected for resistance to
+G418 (200 μg/ml). G418-resistant colonies were screened for
+homologous recombination by Southern blotting using probes
+external to the targeting construct.
+
+Southern Blot Analysis
+High molecular weight DNA was isolated from 18.8A10 and
+18.8A10-Cμ cells, digested with appropriate restriction enzymes,
+and subjected to agarose gel electrophoresis. DNA was transferred
+to nylon membranes by capillary transfer. Membranes were
+hybridized with labeled probes as described (14).
+
+RT-PCR Analysis
+Total RNA was isolated from 18.8A10 and 18.8A10-Cμ
+cells using the acid guanidinium phenol method (15). RT-PCR
+was performed using primers specific for germ-line Cμ and Cγ
+transcripts.
+
+RESULTS
+
+Replacement of Germ-Line + Promoter Alters Class Switching
+To test the role of germ-line Cμ transcripts in class
+switching, we replaced the LPS/IL-4-responsive germ-line
++ promoter in the 18.8A10 cell line with a constitutively
+active SV40 early promoter by homologous recombination (Fig.
+1). The resulting mutant cell line, termed 18.8A10-Cμ,
+exhibits several interesting phenotypic alterations.
+
+In the parental 18.8A10 cell line, IL-4 induces germ-line
+Cμ transcription and class switching to γ+ (6). In contrast,
+the 18.8A10-Cμ cell line transcribes the Cμ gene constitutively
+in the absence of IL-4 (Fig. 2). However, this cell line switches
+to γ+ only when it also switches to μ at least in the presence
+of IL-4. These results demonstrate that germ-line Cμ
+transcription plays a critical role in directing class switching
+by altering transcriptional activity patterns.
+
+DISCUSSION
+
+Our results provide strong evidence that germ-line Cμ
+transcripts are required for class switching to γ+ in the
+18.8A10 cell line. The parental 18.8A10 cell line exhibits
+normal IgH gene rearrangement and class switching (13). In
+this cell line, IL-4 induces germ-line Cμ transcription prior
+to class switching to γ+ (6).
+
+The 18.8A10-Cμ cell line transcribes the Cμ gene constitutively
+in the absence of IL-4. However, this cell line switches to γ+
+only when it also switches to μ at least in the presence
+of IL-4. These results demonstrate that germ-line Cμ
+transcription plays a critical role in directing class switching
+by altering transcriptional activity patterns.
+
+The mechanism by which germ-line Cμ transcripts direct
+class switching is not fully understood.

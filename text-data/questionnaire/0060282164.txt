@@ -1,0 +1,148 @@
+1. Which of the following forms of tobacco have you ever used—aside from just trying it a few times? CIRCLE ONE CODE FOR EACH.
+
+Yes No
+Pipe ............ 1 2 11/y
+Cigars ........... 5 6 12/y
+Cigarettes ........ 3 4 13/y
+Use no form of tobacco... 5 6 14/y
+
+IF “YES” TO CIGARETTES, ANSWERS A AND ALL SUB-
+SEQUENT QUESTIONS ARE REQUIRED.
+IF "NO" TO CIGARETTES, BUT “YES” TO CIGARS AND/OR
+PIPE, SKIP TO Q. 14.
+IF “NO” TO TOBACCO, CIGARS, AND CIGARETTES, SKIP TO
+Q. 15.
+
+IF YOU HAVE NEVER SMOKED CIGARETTES:
+2. Do you smoke cigarettes at the present time? CIRCLE ONE CODE.
+
+Yes ............ (ANSWER Q’s 3-8). 1 15/y
+No ............ (SKIP TO Q. 9) 2
+
+3. Are you a regular or an occasional cigarette smoker? CIRCLE ONE CODE.
+
+Regular ... 1 2 16/y
+Occasional ........... 3
+
+4. Over how long a period in your life have you smoked cigarettes? CIRCLE ONE CODE.
+
+Less than 1 year ............ 1 17/y
+1-4 years .......... 2
+5-9 years .......... 3
+10-14 years ......... 4
+15-19 years ......... 5
+20-24 years ......... 6
+25-29 years ......... 7
+30-34 years ......... 8
+35-39 years ......... 9
+40-44 years ......... 10
+45-49 years ......... 11
+50 or more years ............ 12
+
+5. About how many cigarettes a day do you smoke? CIRCLE ONE CODE.
+
+Less than 5 ........... 1 18/y
+5 to 9 .......... 2
+10 to 14 .......... 3
+15 to 19 .......... 4
+20 to 24 .......... 5
+25 to 29 .......... 6
+30 or more .......... 7
+
+6. On how many days in the past week did you smoke cigarettes? CIRCLE ONE CODE.
+
+No days ............ 1 19/y
+1 to 3 days .......... 2
+4 to 6 days .......... 3
+Every day .......... 4
+
+7. (Continued)
+IF YOU HAVE TRIED TO STOP:
+A. About how many times have you made a serious attempt? CIRCLE ONE CODE.
+
+1 time ............ 1 22/y
+2 times ........... 2
+3-5 times ......... 3
+6 or more .......... 4
+
+8. How long ago was the most recent time you tried to stop smoking cigarettes? CIRCLE ONE CODE.
+
+Less than a year ............ 1 23/y
+1 yr., but less than 3 yrs... 2
+3 yrs., but less than 5 yrs... 3
+4 yrs., but less than 5 yrs... 4
+5 yrs., but less than 10 yrs.. 5
+10 yrs., but less than 15 yrs.. 6
+15 years or more ............ 7
+
+9. How long did you stop smoking cigarettes the last time you tried to stop smoking cigarettes? CIRCLE ONE CODE.
+
+Less than 1 week ............ 1 24/y
+1 through 4 weeks .......... 2
+1 month through 3 months... 3
+4 through 11 months ........ 4
+12 through 23 months ....... 5
+30 months or more .......... 6
+
+10. Next year at this time would you like to change the number of cigarettes you smoke? CIRCLE ONE CODE.
+
+Yes, I would like to smoke less ............ 1
+No, I would not like to smoke less ........... 2
+I don’t plan to smoke any cigarettes .......... 3
+I never cigarette now ............ 4
+I expect I will go back to smoking ............ 5
+I don't know ................... 6
+
+11. If you do not currently smoke, what is the main reason? CIRCLE ONE CODE.
+
+Never started ............ 1 25/y
+Tried to quit and succeeded .......... 2
+Trying to cut down now ......... 3
+Don’t like cigarettes anymore ........ 4
+Too expensive ................... 5
+Health reasons .................... 6
+Other reason ..................... 7 (Please specify)
+
+12. Do you think that smoking cigarettes is harmful to your health? CIRCLE ONE CODE.
+
+Yes ............ 1 26/y
+No ........... 2
+Don’t know .......... 3
+
+13. Have you ever been a patient in a hospital or seen by a doctor because of smoking cigarettes? CIRCLE ONE CODE.
+
+Yes ............ 1 27/y
+No ........... 2
+
+IF YOU HAVE EVER SMOKED CIGARETTES:
+14. Over how long a period in your life have you smoked cigarettes? CIRCLE ONE CODE.
+
+Less than 1 year ............ 1 17/y
+1-4 years .......... 2
+5-9 years .......... 3
+10-14 years ......... 4
+15-19 years ......... 5
+20-24 years ......... 6
+25-29 years ......... 7
+30-34 years ......... 8
+35-39 years ......... 9
+40-44 years ......... 10
+45-49 years ......... 11
+50 or more years ............ 12
+
+15. About how many cigarettes a day do you smoke? CIRCLE ONE CODE.
+
+Less than 5 ........... 1 18/y
+5 to 9 .......... 2
+10 to 14 .......... 3
+15 to 19 .......... 4
+20 to 24 .......... 5
+25 to 29 .......... 6
+30 or more .......... 7
+
+16. On how many days in the past week did you smoke cigarettes? CIRCLE ONE CODE.
+
+No days ............ 1 19/y
+1 to 3 days .......... 2
+4 to 6 days .......... 3
+Every day .......... 4

@@ -1,0 +1,187 @@
+J. M. FULTON, D. A. HAYES, AND R. L. PIMMEL
+Department of Medicine, University of North Carolina at Chapel Hill, Chapel Hill,
+North Carolina 27514; and Department of Electrical Engineering, University of Missouri
+at Columbia, Columbia, Missouri 65211
+
+FULTON, J. M., HAYES, D. A., AND PIMMEL, R. L. Pulmonary
+impedance in dogs measured by forced random motion with a
+retragrade catheter. J. Appl. Physiol. Respir. Environ. Ex-
+erciae (Physiol.) 52(3): 725-731, 1982.—Pulmonary impedance
+and distributed resistance techniques were combined to study the
+effect of aerosolized saline on compliance in dogs following the
+initiation of deep breathing. Control values: FRC, 0.64 ± 0.07 liters;
+mean peak-line peripheral resistance was 0.987 cmH2O ·
+liter/cmH2O; and mean central airway resistance was 0.140
+cmH2O · liter/cmH2O. The compliance of the endo-
+tracheal tube, the mean central airway resistance was 0.140
+cmH2O · liter/cmH2O. The observed increase in endo-
+tracheal tube resistance was small (less than 0.1 cmH2O ·
+liter/cmH2O), and it was accompanied by a substantial
+increase in peripheral resistance, a relatively small
+change in central compliance, and a slight decrease in total
+and peripheral compliance. After the high inhalation phase,
+the change in total resistance and the change in compli-
+ance were similar to those obtained with saline alone. The
+difference existed because much larger than 0.140 liter
+of air was inhaled during the forced random motion com-
+pared to the normal breathing.
+
+The values of airway compliance (H/V) at FRC and at zero
+cmH2O pressure were 0.38 ± 0.07 and 0.53 ± 0.11 ml/
+cmH2O, respectively (mean ± SE).
+
+KEY WORDS: pulmonary impedance—distributed resistance—
+compliance—forced random motion—retragrade catheter
+
+The measurement of respiratory mechanics in vivo is often
+complicated by the interaction between the measuring sys-
+tem and the lung. This problem is particularly acute when
+measuring airway resistance, because even small changes in
+airway diameter can significantly alter the measured re-
+sistance (14). To minimize this effect, we have developed a
+technique for measuring pulmonary impedance in dogs using
+a retragrade catheter that allows us to measure pressure and
+flow at multiple sites within the respiratory system. This
+technique combines measurements of distributed resistance
+and compliance to provide a more complete picture of pul-
+monary mechanics than can be obtained with traditional
+methods (15).
+
+METHODS
+
+Anesthesia and Preparation
+
+Six adult mongrel dogs were anesthetized with methoxethyl
+sodium (0 mg/kg), ketamine (80 mg/kg), intubated
+with an 8.5-mm cuffed endotracheal tube (Mallinckrodt)
+and ventilated mechanically with a Harvard Apparatus
+model 650 respirator. Supplemental oxygen was given
+to maintain an arterial Pao2 above 70 torr. Chloral hy-
+drate was administered as required to maintain
+anesthesia. Chloroase and urethan were used as the
+initial anesthetic agents because they may inhibit
+reflex bronchoconstriction in dogs (14). An intravenous
+catheter was placed in a cephalic vein for drug administration
+and an arterial line was placed to monitor blood pressure
+and to obtain periodic samples of arterial blood for de-
+termination of arterial blood gases. A rectal probe (Yellow
+Springs Instrument) was used to monitor body tempera-
+ture, and a heating pad was applied to maintain body
+temperature.
+
+Force and volume measurements of total respira-
+tory impedance including the impedance of the endo-
+tracheal tube (pressure signal, bar chart shown in Fig.
+1) were made using the apparatus described approxi-
+mately (15). The pressure signal was obtained by differ-
+entiating the flow signal with a linear differentiator cir-
+cuit. The catheter had 12 holes, each 0.5 mm in diame-
+ter, spaced 1 cm apart, beginning 5 cm from the distal
+end of the catheter. The catheter was advanced into the
+larynx until the most proximal hole was positioned at the
+level of the carina. The position of the catheter was ver-
+ified by auscultation and by observing the pressure trac-
+ings obtained from the various holes.
+
+The respiratory system was challenged with aerosol-
+ized 0.9% saline (3 minutes). Before, during, and after
+the saline challenge, the dogs were subjected to forced
+random motion breathing at a frequency of 1 Hz and an
+inspiratory flow rate of 2 liters/sec. The inspiratory flow
+rate was chosen to be high enough to produce a signifi-
+cant change in airway resistance but low enough to avoid
+barotrauma.
+
+Calculations
+
+The impedance (Z) at each hole was calculated from the
+pressure (P) and flow (V) measurements using the formula
+Z = P/V. The phase shift between pressure and flow was
+also determined, allowing calculation of the resistance (R)
+and reactance (X) as follows: R = Re(Z) and X = Im(Z).
+The distributed resistance (Rd) was calculated by sub-
+tracting the central airway resistance (Rc) from the total
+airway resistance (Rt): Rd = Rt - Rc. The compliance (C)
+was calculated from the pressure-volume relationship at
+functional residual capacity (FRC) and at zero cmH2O
+pressure.
+
+Statistical Analysis
+
+All values are presented as mean ± SE. Statistical
+significance was determined by paired t tests. A p value
+less than 0.05 was considered significant.
+
+RESULTS
+
+Control Values
+
+The control values for pulmonary mechanics are shown in
+Table 1. The FRC was 0.64 ± 0.07 liters. The mean peak-
+line peripheral resistance was 0.987 cmH2O · liter/cmH2O,
+and the mean central airway resistance was 0.140 cmH2O ·
+liter/cmH2O. The compliance of the total respiratory sys-
+tem was 0.53 ± 0.06 ml/cmH2O.
+
+Effects of Aerosolized Saline
+
+The administration of aerosolized saline resulted in a
+significant increase in total airway resistance (Fig. 2). The
+increase in Rt was accompanied by a significant decrease in
+total compliance (Fig. 3). The distributed resistance also
+increased significantly, although the change in central com-
+pliance was relatively small.
+
+The changes in pulmonary mechanics during the saline
+challenge are shown in Table 2. The increase in total re-
+sistance and the change in compliance were similar to those
+obtained with saline alone.
+
+DISCUSSION
+
+The technique described in this paper allows for a more
+complete assessment of pulmonary mechanics than can be
+obtained with traditional methods. The retragrade catheter
+allows us to measure pressure and flow at multiple sites
+within the respiratory system, providing information about
+the distribution of resistance and compliance. This infor-
+mation is particularly useful in understanding the effects of
+airway challenges, such as aerosolized saline.
+
+The increase in total airway resistance observed during
+the saline challenge was likely due to a combination of
+increased mucus production and bronchoconstriction. The
+relatively small change in central compliance suggests that
+the large airways were not significantly affected by the
+saline challenge. However, the decrease in total compli-
+ance indicates that the peripheral airways were affected.
+
+The distributed resistance technique allows us to dis-
+tinguish between the effects of changes in central airway
+resistance and changes in peripheral airway resistance. In
+this study, we found that the increase in distributed re-
+sistance was primarily due to an increase in peripheral
+airway resistance. This suggests that the saline challenge
+had a greater effect on the peripheral airways than on the
+central airways.
+
+The technique described in this paper has several ad-
+vantages over traditional methods for measuring pulmo-
+nary mechanics. First, it allows us to measure pressure
+and flow at multiple sites within the respiratory system.
+Second, it combines measurements of distributed resist-
+ance and compliance to provide a more complete picture
+of pulmonary mechanics. Third, it is relatively noninva-
+sive.
+
+This technique has several potential applications in clin-
+ical medicine. It could be used to assess the effects of
+airway challenges, such as allergen exposure or drug ad-
+ministration. It could also be used to monitor the prog-
+ression of lung disease, such as asthma or chronic ob-
+structive pulmonary disease.
+
+(Figs. 1-4 and Tables 1-2 would follow here)
+
+
+

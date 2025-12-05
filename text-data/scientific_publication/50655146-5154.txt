@@ -1,0 +1,39 @@
+VIROLOGY 171, 579-587 (1989)
+
+Mapping and Insertional Mutagenesis of a Vaccinia Virus Gene
+Encoding a 13,800-Da Secreted Protein
+
+GIRISH I. KOTWAL, AMBROS W. HÜGIN, and BERNARD MOSS'
+
+Laboratory of Viral Diseases, National Institute of Allergy and Infectious Diseases, National Institutes of Health, Bethesda, Maryland 20892
+
+Received March 17, 1989; accepted April 24, 1989
+
+The objective of this study was to identify and characterize the gene encoding a protein of approximately 12 kDa that is secreted from cells infected with vaccinia virus. A spontaneous deletion mutant (6/2) suggested that the corresponding gene (HV1) was located within a 12,800-bp region near the left end of the genome (G. I. Kotwal and B. Moss. Nature [London] 335, 176–178, 1988). Antibody to the 12-kDa protein immunoprecipitated an approximately 14-kDa polypeptide product of mRNA that hybridized to a DNA segment containing an ORF (NIL) that thus could encode a 13.8-kDa polypeptide. The similarity in the size of the secreted protein and the polypeptide suggested that the NIL gene was involved in secretion. Sequence analysis revealed minor and major early RNA transcripts were produced from the NIL locus as well as a late point with the Escherichia coli β-galactosidase gene. When two-dimensional polyacrylamide gel electrophoresis patterns of [35S]-labeled, secreted proteins secreted from cells infected with parental and recombinant viruses were compared, a spot corresponding to the 14-kDa protein was observed. The location of this NIL gene was determined by insertional mutagenesis. The later analysis revealed the presence of other secreted proteins of similar molecular weight but different isoleucine content. These proteins may be products of alternative reading frames within the NIL region. The recombinant virus was attenuated as judged by the increased intracelular LD50 for mice but never exhibited induced antibody and cytotoxic responses after intramuscular and intraperitoneal injections. Relative to the parental virus, the recombinant was also more attenuated in newborn mice, based on their survival time after infection.
+© 1989 by The Williams & Wilkins Co.
+
+INTRODUCTION
+
+The vaccinia virus contains a large number of genes, many of which are required for replication and infectious virus production (Fenwick et al., 1976; Coffey et al., 1982; McPeak et al., 1983; Rose et al., 1985; Smith et al., 1986). A secreted protein of approximately 12 kDa has been identified in vaccinia virus-infected cells (Kotwal and Moss, 1988). The gene encoding this protein was localized to a region near the left end of the genome.
+
+Here, we report on the characterization of a spontaneous deletion mutant (6/2) of vaccinia virus, which may contain a 1.5-kb region deleted from the end of the required (12.8 kb) region. We present evidence for the gene (HV1) that encodes this protein, as well as its function. Materials and Methods
+
+Viruses—Vaccinia virus WR1976 (Moss, 1976) and recombinant viruses were propagated in BSC-46 cells.
+
+Plasmids—The plasmid pM82, which contains a 10.8-kb BamHI fragment from the left end of the vaccinia virus genome (Rose et al., 1985), was used to clone the HV1 gene.
+
+RESULTS
+
+Identification of Deletion Mutant 6/2
+
+Deletion mutant 6/2 was isolated after screening for revertants of a temperature-sensitive virus ts477 (Rose et al., 1985). The genome of 6/2 was approximately 1% smaller than that of wild-type WR1976. Recombination analysis indicated that the deletion occurred between BamHI B fragment and BamHI C fragment, resulting in a 1.5-kb deletion (Fig. 1).
+
+Cloning and Sequencing of HV1 Gene
+
+The HV1 gene was cloned from plasmid pM82 by using the polymerase chain reaction (PCR) with primers based on the known sequence of vaccinia virus genome (Rose et al., 1985). The PCR product was digested with BamHI and inserted into pUC18, resulting in plasmid pHV1. Sequence analysis of pHV1 revealed an open reading frame (ORF) that could encode a 13,800-Da polypeptide (GenBank accession number X62749).
+
+[Illustration]
+
+DISCUSSION
+
+The HV1 gene encodes a protein of approximately 13,800 Da. The secreted protein is likely to be the product of this gene. The HV1 gene is located within a region near the left end of the vaccinia virus genome.

@@ -1,0 +1,74 @@
+MARKETING INFORMATION SYSTEMS, INC.
+100 Sycamore Avenue
+Englewood Cliffs, New Jersey 07632
+1-800-631-1623/201-541-6700
+
+#33186
+Version 3
+July 1986
+
+EURO NAME TEST
+(Screener)
+CARD [] COL. [ ]
+
+Hello, my name is from . We’re talking
+to people between the ages of 21 and 54 about their opinions on certain products and
+I'd like to ask you a few questions.
+
+1. First of all, are you between the ages of 21 and 54?
+
+Yes... ( ) No... ( )
+(THANK AND TERMINATE)
+
+2. And are you between 21 and 34 years or 35 and 54 years of age?
+
+21 - 34.................. 8[ ]-1
+35 - 54.................. ) -2 (CHECK QUOTAS)
+
+3. Observe and record.
+
+Male................... ( )-3 (CHECK QUOTAS)
+Female.................. ( )-4
+
+4. Observe and record.
+
+White................... ( )-5 (CHECK QUOTAS)
+Black.................... ( ) -6 (MENTHOL ONLY)
+
+5. Do you smoke filter cigarettes?
+
+Yes... ( ) No... ( )
+(THANK AND TERMINATE)
+
+6. Do you usually smoke menthol or non-menthol cigarettes?
+
+Menthol............... 9[ ]-1 (CHECK QUOTAS)
+Non-menthol.......... ) -2
+
+7. Do you usually smoke regular king-size cigarettes or the cigarettes that
+are longer than king-size -- that is, the 100 millimeter or the 120 millimeter
+size?
+
+King-size............. ( )-3
+100’s.................. ( )-4 (CONTINUE WITH Q.8)
+120’s.................. ( )-5
+
+8. What is your regular brand of cigarettes -- that is, the brand you smoke
+most often? (WRITE THE BRAND NAME AND POINT OUT THE SECTION IN WHICH THIS/HER
+BRAND IS LISTED. THEN SAY,) which one of these is the specific type of [BRAND]
+cigarettes that you smoke most often?
+
+(RECORD THE FULL BRAND NAME AND THE LETTERS WHICH FOLLOW THE BRAND, EXACTLY AS
+PRINTED ON THE BRAND LIST. IF NO LETTERS APPEAR NEXT TO THE BRAND INDICATED BY
+THE RESPONDENT, THANK AND TERMINATE.)
+
+FULL BRAND NAME: 10/11/12 LETTER: 13
+9. Do you usually buy your regular brand in a soft paper package?
+
+Yes................... ( )-3
+No..................... ( )-4 (CONTINUE WITH Q.10)
+(SKIP TO Q.10)
+
+
+
+204180292

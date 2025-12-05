@@ -1,0 +1,52 @@
+14
+
+TEXTILE RESEARCH INSTITUTE
+
+PRINCETON-NEW-JERSEY.
+
+March 8, 1963
+
+Dr. Helmut R. R. Wakeham
+Vice President and Director
+of Research and Development
+Philip Morris Incorporated
+Research Center
+P. O. Box 3 D
+Richmond 6, Virginia
+
+Subject: Letter Report for the Period February 1 to
+March 1, 1963 on "Thermoanalytical Studies of
+Tobaccos."
+
+During this period the DTA characterization of both the
+GHD and NCV-CWT tobacco samples, involving duplicate runs for
+each sample in air and triplicate runs in nitrogen atmosphere
+at 10°C/min, was completed on the Stone apparatus. Preliminary
+work on TGA operation and techniques was also carried out.
+
+Since previous work has shown the necessity of large
+samples without diluent to get curve detail for runs in
+nitrogen the same sample size was used for the GHD samples in
+air. The exothermic reactions observed were so large that it
+was necessary to greatly reduce the signal amplification in
+order to keep the curve on the chart. Thus, instead of running
+at 20 to 40 microvolts full scale it was necessary to run at
+2000 microvolts full scale. The air curves of the GHD samples
+showed endothermic peaks around 72° and 160°C followed by three
+well defined exothermic peaks at about 280° to 285°, 405°C, and
+430° to 440°C. The DTA peak data for the GHD series from runs
+in air and nitrogen are summarized in Table I.
+
+In general the reproducibility of peak temperatures is
+of the order of ± 2°C which is about equivalent to the accuracy
+with which chart temperatures can be read, as the system is
+presently set-up, so that in all but one case, exothermic peak
+3 (exo-3 in Table I) for the air curves, the differences in
+peak temperature may not be statistically significant. The
+reproducibility in peak height was uniformly good in the case
+of the runs in nitrogen and for the runs in air except for
+exo peaks 2 and 3.
+
+
+
+10014705

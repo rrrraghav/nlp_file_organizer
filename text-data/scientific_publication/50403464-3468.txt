@@ -1,0 +1,84 @@
+THE JOURNAL OF BIOLOGICAL CHEMISTRY
+
+Vol. 271, No. 41, Issue of November 9, pp. 28176–28180, 1996
+© 1996 by The American Society for Biochemistry and Molecular Biology, Inc. Printed in U.S.A.
+
+Genomic Cloning and Protein Expression of a Novel Rat Brain
+Cytochrome P-450 CYP2D18* Catalyzing Imipramine
+N-Demethylation*
+
+(Received for publication, February 7, 1996, and in revised form, August 21, 1996)
+
+Hideomi Kawashima, David J. Seguirel, David R. Nelson, and Henry W. Strobel†
+
+From the Department of Biochemistry and Molecular Biology, The University of Texas School of Houston,
+Houston, Texas 77204 and the Department of Biochemistry, University of Tennessee at Memphis,
+Memphis, Tennessee 38105
+
+We have previously reported the isolation of two
+cDNAs, designated 24-and 26-24, which have
+identical open reading frames and code for a novel brain
+cytochrome P-450 (P-450) belonging to the CYP2D subfamily.
+This cDNA clone was isolated from rat brain,
+though the expressed amino acid sequences of these clones
+differed from those of known human CYP2Ds by only 3 amino
+acids distributed in the C-terminal region, this new
+P-450 cDNA contained a unique 5'-extension, and
+we posit in this report by analysis of genomic clone
+that this 5'-untranslated sequence is derived from a
+pseudogene. The genomic DNA, this novel gene
+named CYP2D P450 2D18 according to recom-
+mended nomenclature (2), the accessibility of this
+cDNA was confirmed by translocation using
+t-poly(A)s extending, and expressed expression was per-
+formed using COS-7 cells. The mRNA abundance is
+shown with cross-reacting antibodies, which size
+range a spot-like 508 amino acid predicted size shown
+with anti-P450 fraction. Furthermore, we analyzed
+the substrate specificity of the recombinant CYP2D18
+protein by in vitro assays using several drugs and xenobiotics
+known to be metabolized by human CYP2Ds. The results
+demonstrate that rat CYP2D18 exhibits a high catalytic
+activity toward imipramine, comparable to that observed
+for human CYP2D6. In addition, CYP2D18 also metabolizes
+desipramine, amitriptyline, and doxepin, although with
+lower efficiency. These findings suggest that CYP2D18
+may play an important role in the metabolism of tricyclic
+antidepressants in rat brain, similar to the function of
+human CYP2D6 in humans. The involvement of CYP2Ds
+in the central nervous system have been suggested (5, 6). For in-
+stance, it has been shown that the polymorphism in the poly-
+morphisic CYP2D6 gene is associated with susceptability to Parkinson’s disease (5) and that
+4-hydroxylation of 1,2,3,4-tetrahydroisoquinoline, a possible
+biomarker for Parkinson’s disease, is catalyzed by human
+CYP2D6 in rat liver (7). It was also demonstrated that
+the human isoform CYP2D6 participates in the metabolism of
+some tricyclic antidepressants (8)
+
+However, the vast majority of these studies were performed
+using liver microsomes or hepatocytes. Thus,
+whether substantially 2D P-450 catalyzes these metabolisms
+in brain is not clear. In our laboratory, we have been interested in
+the role of P-450s in brain function and our studies have
+revealed a structure for the existence and functionality of 2D-
+P-450s in brain. Thus, we seek to investigate whether imi-
+pramine N-demethylation occurs in rat brain tissue in situ or
+liver and shown difference in the effects of the inducer, ver-
+milion on brain imipramine metabolism (10). Therefore, we
+have focused our attention on identifying P-450s that are ex-
+pressed in rat brain. In this paper, we report the cloning
+and characterization of a novel rat brain CYP2D cDNA, desig-
+nated CYP2D18, which exhibits high catalytic activity to-
+ward imipramine N-demethylation. We also describe the gen-
+omic organization of this gene and its expression in COS-7
+cells. The results suggest that CYP2D18 may play an impor-
+tant role in the metabolism of tricyclic antidepressants in rat
+brain, similar to the function of human CYP2D6 in humans.
+
+EXPERIMENTAL PROCEDURES
+
+Cloning of Rat Brain cDNAs
+
+Genomic Cloning and Protein Expression of a Novel Rat Brain
+Cytochrome P-450 CYP2D18* Catalyzing Imipramine
+N-Demethylation*

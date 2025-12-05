@@ -1,0 +1,38 @@
+Technical Papers
+
+Cigarette Smoke and the Incidence of
+Primary Neoplasm of the Lung in the
+Albino Mouse
+
+J. M. Essenberg
+Department of Anatomy, The Chicago Medical School,
+Chicago, Illinois
+
+Animal experimentation may be of service in resolving the controversy as to whether tobacco smoke is carcinogenic for the lungs. It is difficult—if not impossible—to set up adequate controls of human beings, whereas it can be done with ease in animals. With this limitation, preparations were made to test the effect of cigarette smoke on the lungs of more than one species of laboratory animals.
+
+The literature in this field is conspicuous for its sparsity. The only experiment known to me was reported by Lorenz et al. (1) and discussed at the 35th annual meeting of the American Association of Cancer Research. Lorenz and his associates exposed “Swiss” mice to tobacco smoke for 20-260 days in an experimentally designed smoking machine. The maximum exposure was 490 hr. They reported that “no lung tumors or preneoplastic areas were found in the average number of tumors among the same for the experimental animals.”
+
+It appeared to me that the exposure of his mice was too short for any definite conclusion, since it is known that some tumors may take 2 years or more to develop. To investigate this further, we made an experiment on a strain of mice used by Hayden (2) at Roswell Park Memorial Institute. These were albino mice, and they were exposed to cigarette smoke in a closed chamber for varying periods of time.
+
+The experimental setup consisted of a large metal chamber 14 × 24 × 18 inches inside dimensions. A No. 6 Burleigh machine was connected to a program clock which lighted a cigarette every hour for 12 hr/day, and a vacuum pump created suction just sufficient to burn the cigarette and circulate fresh air through the chamber containing the experimental and the control mice. The burning of the cigarette required 3-4 min. The chamber was well ventilated and soon after the cigarette was lighted, it remained filled for 6-7 min. It was almost clear at 9 min, and the mice began to feed 10 min after the cigarette was lighted.
+
+The strain “A” mice used had a hereditary tendency to lung tumors and were obtained from the Roswell Park Memorial Laboratory. As there was a scarcity of these animals at the time, only 33 females and 33 males were obtained. It was possible to subject all animals to cigarette smoke in a preliminary experiment.
+
+TABLE I
+SUMMARY OF RESULTS
+
+Positive Negative
+
+Num- Num- Percent- Num- Percent-
+ber ber age ber age
+
+Experimental 33 21 91.3 12 36.4
+Control 33 18 54.4 15 40.6
+
+The experimental mice were housed in two wire cages, one containing 16 females and one containing 17 males. The control mice were similarly housed. The animals were weighed weekly and observed daily for any signs of disease. At the end of 9 months, all the animals were killed and their lungs examined for tumors. The lungs were fixed in formol, embedded in paraffin, sectioned, and stained with hematoxylin and eosin.
+
+The results are shown in Table I. Of the 33 experimental mice, 21 had lung tumors, whereas only 18 of the 33 control mice had lung tumors. This difference is statistically significant (p < 0.01).
+
+
+
+[Image continues with further text]

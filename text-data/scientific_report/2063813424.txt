@@ -1,0 +1,23 @@
+TOBACCO SMOKE-INDUCED ALTERATIONS OF CYTOKATERIN EXPRESSION IN THE RAT NASAL CAVITY FOLLOWING CHRONIC INHALATION OF ROOM-AGED SIDESTREAM SMOKE
+
+Schlage, W.K.¹, Bülles, H.¹, Friedrichs, D.¹, Kuhn, N.L.¹, Trudsoe, A.¹, Terpe, P.²
+¹INBIO Institut für biologische Forschung GmbH, Fuggertstr. 2, Köln, Germany;
+²CRC Contract Research Center, Zaventem, Belgium Supported by Philip Morris USA
+
+Environmental tobacco smoke (ETS) is a highly diluted mixture of sidestream smoke and exhaled mainstream smoke. It undergoes chemical and physical changes in composition due to aging, e.g., by contact with various surfaces over time [1]. In a chronic (12 month) inhalation study on rats using room-aged sidestream smoke (RASS) as an experimental surrogate for ETS, we investigated differentiation changes, i.e., altered cytokaterin (CK) expression, in the epithelial lining of the respiratory tract, and the correlation of such changes with classical histopathological findings. The dose was 12 µg TPM / l for 6 h / d (upper limits of typical ETS concentrations are up to 100-fold). We recently developed an immunohistochemical method to investigate complex CK expression patterns in routine paraffin sections from rat respiratory tract tissues using a panel of monoclonal antibodies with defined specificity for rat CK [2]. Using this technique, we could detect CK expression changes at various sites of the rat respiratory tract that occurred after 8 days of exposure to the same daily dose of RASS [3].
+
+The histopathological findings seen after 12 months of exposure were similar in quality and severity to those seen after 8 days of exposure, i.e., reserve-cell hyperplasia and squamous metaplasia of the nonciliated respiratory epithelium of maxilloturbinate, lateral wall, and nasoturbinate at nasal cavity level 1 (NL1) [levels acc. to 4]. No findings were observed at level 2 (NL2). Changes in CK expression were observed at the sites where histopathological findings were seen, e.g., enhanced expression of CK14 in basal and nonciliated cells at NL1. Additionally, CK expression changes were seen at sites of NL1 and NL2 where there no histopathological findings, e.g., enhanced expression of CK14 in basal cells of the respiratory epithelium and in the sub mucosal glands and gland ducts at the transition to NL2. In our opinion, detailed results cover only parts of the rat respiratory tract [5].
+
+Supplementary Material: Figure S1, Table S1, We thank for technical support of 1).
+[1] U.S. Environmental Protection Agency, 1987.
+[2] Trudsoe, A., Terpe, P., and Schlage, W.K., 1991.
+[3] Schlage, W.K., Bülles, H., Friedrichs, D., Kuhn, N.L., Trudsoe, A., and Terpe, P., 1991.
+[4] Grewe, S., 1986.
+[5] Zeller, T., 1986; Grewe, S., 1986; Schlage, W.K., 1987; Kuhn, N.L., 1988; Wallwiener, D., 1988.
+
+REFERENCES
+[1] U.S. Environmental Protection Agency, 1987.
+[2] Trudsoe, A., Terpe, P., and Schlage, W.K., 1991.
+[3] Schlage, W.K., Bülles, H., Friedrichs, D., Kuhn, N.L., Trudsoe, A., and Terpe, P., 1991.
+[4] Grewe, S., 1986.
+[5] Zeller, T., 1986; Grewe, S., 1986; Schlage, W.K., 1987; Kuhn, N.L., 1988; Wallwiener, D., 1988.

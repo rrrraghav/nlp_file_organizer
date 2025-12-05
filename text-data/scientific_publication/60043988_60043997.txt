@@ -1,0 +1,41 @@
+6085
+
+The Role of Charged Residues in Determining Transmembrane
+Protein Orientation in Insertion*
+
+The first 79 residues of the yeast Ste2p G protein-
+coupled pheromone receptor, including the negatively
+charged N-terminal domain, the transmembrane
+region, and the following positively charged cytoplas-
+mic loop, has been fused to a Renilla luciferase refrac-
+tory mutant. The resulting fusion construct was analyzed
+by analysis of cell-associated and secreted β-lactamase ac-
+tivity and by immunolabeling for membrane association.
+Membrane association and glycosylation patterns. This
+fusion protein, with an N-terminal transmembrane
+(N….) topology, serving as a model type III membrane
+protein. Orientation is unaffected by removal of all
+three positively charged residues in the cytoplasmic
+loop or by deletion of all but 12 residues from the N-
+terminal domain. The resulting construct apparently provides an signal sufficient to determine
+topology. This observation supports a rule derived
+from the charge difference rule in which the charge difference,
+ΔG(N-C), counted for the 15 immediately flanking resi-
+dues, is the primary determinant of orientation. Mutations
+altering ΔG(N-C) to zero favor N… insertion by 8 to 1,
+whereas increasing positive charges promote inversion of orientation. All results are consistent with
+the charge difference rule; that is, positively charged residues promote cytoplasmic retention, negative
+charges promote translocation.
+
+cell. Biol
+
+Harley, C.A. and Tipper, D.J.
+
+The Journal of Biological Chemistry 271(40):24625-24633, October 4, 1996.
+
+From the Department of Molecular Genetics and Microbiology, University of
+Massachusetts Medical School, Worcester, MA.
+
+PUBLICATIONS
+
+0052148

@@ -1,0 +1,81 @@
+4TH UN (MONTH) ORE
+SCREENER (3rd MONTH)
+BRAND SWITCHING STUDY
+11/17/46 APB: 8/10/01 11/17/01 Card #1
+
+Good morning/afternoon/evening. I’m [Name] calling long distance
+from API in NJ. We are an opinion research company conducting a short
+national study. (GO DIRECTLY INTO Q. A)
+
+A. Does anyone in your household smoke ten or more cigarettes a day?
+
+JAN/FEB/MAR  SKIP TO Q. C   APR/MAY/JUN  PIINK ORE NO
+OTHER MONTHS SKIP TO Q. C
+
+B. Please tell me the ages of all men, from the youngest to oldest,
+living in this household who smoke ten or more cigarettes a day.
+(IF RESPONDENT IS MALE, SAY:) Be sure to include yourself if you
+smoke ten or more cigarettes a day.
+
+C. Now, please tell me the ages of all women, from the youngest to
+oldest, living in this household who smoke ten or more cigarettes
+a day. (IF RESPONDENT IS FEMALE, SAY:) Be sure to include your-
+self if you smoke ten or more cigarettes a day.
+
+BE SURE TO WRITE IN
+THE ACTUAL NUMBER OF
+RESPONDENTS WITHIN
+EACH AGE CATEGORY.
+
+MALE   FEMALE
+15 to 20  9-
+21 to 24  13-
+25 to 29  17-
+30 to 34  14-
+35 to 39  18-
+40 to 49  18-
+50 to 59  20-
+60 +   22-
+
+NOTE: IF ONLY I SMOKER, INTERVIEW HIM/HER, STARTING AT Q. C -- IF
+BOX IS HOME CALL BACK TO INTERVIEW.
+IF NO ONE SMOKES, ASK Q. D
+
+D. For this study, I would like to speak to the [READ LIST IN ORDER],
+
+[IF NO MALE SMOKERS]  YOUNGEST MALE SMOKER
+DO NOT ASK FOR MALES   NEXT YOUNGEST MALE SMOKER
+                            NEXT YOUNGEST FEMALE SMOKER
+
+SPEAK TO THE FIRST AVAILABLE RESPONDENT FROM ADULT LIFE WHO RE-
+SPONDS YOURSELF. PLEASE HAVE THEM ANSWER QUESTIONS 0, C AND D ONLY.
+
+E. About how many cigarettes do you smoke a week? (0 = 2) ASK ONLY IF
+RESPONDENT IS SMOKER.  (IF 2 PACKS OR MORE: GO TO Q. G)
+ASK NO ONE ELSE
+
+F. Do you ever try to quit smoking?
+
+YES   NO   DON'T KNOW
+G. Have you ever been advised by a doctor to stop smoking?
+
+YES   NO   DON’T KNOW
+
+H. About how many packs of cigarettes do you buy each week? (20 pack = 1)
+ASK ONLY IF RESPONDENT IS SMOKER.
+
+I. Do you usually buy your cigarettes at the same place?
+
+j.  Are you now using a cigarette brand other than [BRAND NAME]?
+
+k.  What is your approximate annual income before taxes?
+
+(IF NO, GO TO Q. K)
+(IF YES, GO TO Q. J)
+
+NOTE: IF RESPONDENT REFUSES TO ANSWER ANY QUESTION, THANK THEM AND
+TERMINATE THE INTERVIEW.
+
+
+
+05/28/01

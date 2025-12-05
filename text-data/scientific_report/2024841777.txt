@@ -1,0 +1,43 @@
+MAJOR ACCOMPLISHMENTS---6908----AUGUST, 1988
+
+A. H. Warfield
+
+TSNA Removal: A study was completed on the use of hexane/ethanol mixtures
+to extract burley filler, with removal of TSNA and alkaloids from the
+solvent stream by passage through Amberlyst 15 strong cation exchange resin
+in a recycling, self-contained process. Variables studied were flow rate,
+total solvent volume passed relative to tobacco bed volume, temperature, &
+ethanol/amount of resin. Conditions were optimized to yield the
+following % removal on a dry weight basis: dry weight (93), NNN (98%), NAT
+(98%), NNK (100%), nicotine (99.5%), anatabine (66%), anabasine (64%) and
+norcotinine (68%).
+
+Low Activity Model: Method development for measurement of MS NO levels was
+completed. Several parameters were modified, including use of pH 3.5
+sulfuric acid, Rite-Aid hydrogen peroxide, and a blank. Values are now
+very similar to literature values for the cigarettes measured. Applications
+will start shortly. Spraying of 2% ascorbyl palmitate, squalene, and
+neophytadiene as possible NO scrubbers on filters will be evaluated.
+
+Art Samples: Carbon that is subjected to the ART process during a run
+designed to simulate an abort analysis for TSNA. A sample of this
+carbon was also heated under conditions shown earlier to destroy TSNA. The
+TSNA was all destroyed, with 1.8 ng/g of each TSM/g of carbon which
+distilled into the liquid fraction, representing 95-96% destruction of
+TSNA. No TSNA was detected in the carbon after treatment.
+
+Water samples decreased as a function of time. NNN and NNK levels in
+the water samples decreased as a function of time, but NAT levels increased,
+indicating that there was a difference in partition coefficients leading to
+this behavior.
+
+Samples from an experimental ART program designed to determine suitable
+conditions for SCFE extraction of norcotinine from toner were analyzed for
+minor alkaloids. It was necessary to improve the HPLC analysis procedure
+in order to analyze these samples. Attempts were made to incorporate 13C-
+labeled nicotine in order to measure recoveries. However, this was not
+possible due to interference from a component (presumably chlorophyll) which
+was extracted in the process. Recoveries were shown to be very high by
+other methods, and this step was eliminated.
+
+20245177

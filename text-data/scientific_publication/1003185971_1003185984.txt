@@ -1,0 +1,103 @@
+Journal of Chromatography, 160 (1978) 155–168
+© Elsevier Scientific Publishing Company, Amsterdam – Printed in The Netherlands
+
+CHROM. 11,000
+
+QUANTITATIVE GAS CHROMATOGRAPHIC METHOD FOR THE ANAL-
+YSIS OF ALIPHATIC HYDROCARBONS, TERPENES, FATTY ALCOHOLS,
+FATTY ACIDS AND STEROIDS IN TOBACCO
+
+R. F. SEVERSON*, J. I. ELLINGTON, R. F. ARRENDALE and M. E. SNOOK
+Tobacco Laboratory, Science and Education Administration-Federal Research, U.S. Department
+of Agriculture, P.O. Box 5677, Athens, Ga. 30604 (U.S.A.)
+(Received March 28th, 1978)
+
+SUMMARY
+
+A rapid and reproducible method is described for the analysis of the major
+tobacco lipids, including the C4–C24 paraffinic hydrocarbons, neophytadiene, phytol,
+docosanols, squalene, tocopherols, β-amyrin, cycloartenol, 24-methyleneecleco-
+artanol, palmitic acid, stearic acid, the unsaturate d C26 acids, cholesterol, stigmasterol,
+campesterol, sitosterol and solanosterol. The method is based upon the hexane-column
+silice gel chromatography of saponified lipids from a hexane extract of tobacco.
+The free fatty acids are separated into non-polar, polar and terpenoid fractions and quanti-
+fied by gas chromatography, with the use of internal standards. The applicability
+of the method has been demonstrated by the highly reproducible analyses of a cigarette
+blend, conventional flue-cured tobaccos and two close-grown tobaccos. The method
+should also be applicable to analyses of lipids in other natural products, including
+foodstuffs.
+
+INTRODUCTION
+
+Many of the components in the hexane-soluble fraction of tobacco, the so-
+called tobacco lipids, and their pyrolysis products contribute to the flavor and aroma
+of tobacco smoke¹. Also, pyrolysis studies have shown that the hexane-soluble com-
+ponents in tobacco are major precursors of the tumorigenic polynuclear aromatic
+hydrocarbons in tobacco smoke². Consequently, our laboratory has been involved
+in developing rapid and reproducible methods for the quantitation of the major
+lipid components in tobacco. Chorly et al.³ developed a method utilizing silice gel
+and gas chromatography (GC) for the determination of the paraffinic hydrocarbons
+and neophytadiene in leaf and stem. Ellingon et al.⁴ used ion-exchange chromatog-
+raphy and GC to analyze tocopherols at C13 to C20 chain lengths. Scholten⁵
+noted that “until thin-layer chromatography is applied to the separation of tobacco
+lipids, a complete analysis of tobacco lipids remains elusive”. Therefore, we ex-
+tensively studied a modified silice gel chromatographic system for the separation of
+tobacco lipids.
+
+MATERIALS AND METHODS
+
+Plant Material
+
+Conventional flue-cured and close-grown tobaccos were obtained from the U.S.
+Department of Agriculture Tobacco Research Station, Durham, N.C. A cigarette blend
+was prepared by mixing 70% Burley and 30% Virginia tobacco.
+
+Reagents
+
+Hexane, redistilled; n-hexane: diethyl ether (95:5), v/v; concentrated sulfuric
+acid; potassium hydroxide; ethanol, absolute; methanol, absolute; benzene, spectro-
+photometric grade; cholesterol, tributyrin, β-carotene, stigmasterol, campesterol,
+sitosterol and solanosterol were all obtained from Sigma Chemical Co., St. Louis,
+Mo.
+
+Extraction Procedure
+
+Approximately 50 g of tobacco leaf material was ground to a fine powder with a
+Willye homogenizer. The powdered tobacco was then extracted three times with 200 ml
+of redistilled hexane in a Soxhlet extractor for 16 h. The combined extracts were
+concentrated under reduced pressure at 40°C, and the residue was dissolved in
+hexane to give a final volume of 100 ml.
+
+Saponification
+
+A 2-ml aliquot of the hexane extract was saponified by adding 2 ml of 2 N ethanolic
+potassium hydroxide. The mixture was refluxed for 30 min, cooled, and then
+neutralized with 2 ml of concentrated sulfuric acid. The resulting solution was diluted
+to 25 ml with hexane.
+
+Chromatographic Separation
+
+A portion (10 μl) of the saponified lipid extract was applied to a silica gel column
+(90 cm × 1.6 cm i.d.) packed with 70 g of Linde A-grade silice gel, particle size
+40–63 μm. The column was eluted with hexane for 15 min, followed by a linear
+gradient from n-hexane:diethyl ether (95:5) to n-hexane:diethyl ether (85:15), v/v,
+over 60 min at a flow rate of 2.4 ml/min. Fractions of 3.7 ml were collected.
+
+Gas Chromatography
+
+A portion (1 μl) of each fraction was analyzed by gas chromatography on a packed
+column (2 m × 3 mm i.d.) using a DCQ-01 detector. The column was coated with
+1% OV-1 on 80–100 mesh chromosorb WA. The oven temperature was programmed
+from 170°C to 240°C at 5°C/min, with an initial hold time of 5 min at 170°C.
+Carrier gas flow rate was 60 ml/min and detector flow rates were 120 ml/min for
+nitrogen and 180 ml/min for hydrogen.
+
+Identification and Quantitation
+
+The components in the fractions were identified by comparison of their retention times
+with those of authentic samples. The amounts of each component were determined by
+comparing peak areas with those of internal standards, cholesterol, tributyrin and β-carotene.
+
+
+
+100356971

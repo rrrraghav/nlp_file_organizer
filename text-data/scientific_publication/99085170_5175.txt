@@ -1,0 +1,38 @@
+J. C.R.E. COGGINS
+
+J Clin Epidemiol Vol. 49, No. 9, 951-956, 1996 PHI S0895-4356(96)01632-7
+Copyright © 1996 Elsevier Science Inc.
+
+COMMENTARY
+
+323
+Causal Thinking, Biomarkers, and Mechanisms
+of Carcinogenesis*
+
+CAUSG
+
+Paolo Vineis¹ and Miguel Porta²
+'UNIT OF CANCER EPIDEMIOLOGY, 10126 TORINO, ITALY AND ²INSTITUT MUNICIPAL DE INVESTIGACIÓ MÉDICA,
+UNIVERSITAT AUTÒNOMA DE BARCELONA, BARCELONA, SPAIN E-08007
+
+ABSTRACT. The use of biomarkers is increasing both in acute and chronic disease epidemiology, but the rationale for their introduction is not always clearly established (e.g., when they are scientifically justifiable and cost effective).
+The concept of biomarkers should be considered within the context of causal models in epidemiology, and of the intertwining of causation and pathogenesis. Unlike infectious diseases, for cancer and cardiovascular disease external “necessary” causes have not been identified. Thus, the classification of cancer as a chronic disease cannot be based on unequivocal criteria as is the "etiologic" classification of infectious diseases as to morphology is concerned; "neoplasia" and "metastasis" are attributes of cancer that cannot be defined in terms of causation but derive from tissue biology. From a mechanistic point of view, unless molecular biology can identify specific mechanisms linking exposures to disease, it is unlikely that biomarkers will clarify the relationships we cannot adopt an unequivocal definition of cancer. The potential contribution of biomarkers to epidemiological research depends on their ability to provide measurements aimed at single molecules or cells, and to reflect early biological changes.
+The potential uses of markers in chronic disease epidemiology include (1) exposure assessment in cases in which traditional epidemiologic tools are insufficient (particuly for low doses and low risks); (2) multiple exposures; (3) quantification of the etiologic role of single agents; (4) estimation of the risk of cancer from exposure to chemicals having same metabolic pathways; (5) investigation of pathogenic mechanisms; and (6) study of individual susceptibility (e.g., markers). [Clin Epidemiol 49:951-956, 1996.
+
+KEY WORDS. Biomarkers, carcinogenesis, pathogenic mechanisms.
+
+ELSEVIER
+0895-4356/96/$5.00
+
+ADDRESSES: Paolo Vineis, MD, PhD, Istituto di Medicina Sociale, Università di Torino, Via Sabin 1, 10126 Torino, Italy. Miguel Porta, MD, PhD, Institut Municipal de Investigació Mèdica (IMIM), Parc de Salut de Barcelona, Rosselló 145, 08007 Barcelona, Spain.
+
+*Received for publication July 19, 1996; accepted August 23, 1996.
+Reprint requests to Dr. Vineis at the above address.
+
+The use of biomarkers is increasing both in acute and chronic disease epidemiology, but the rationale for their introduction is not always clearly established (e.g., when they are scientifically justifiable and cost effective). The concept of biomarkers should be considered within the context of causal models in epidemiology, and of the intertwining of causation and pathogenesis. Unlike infectious diseases, for cancer and cardiovascular disease external “necessary” causes have not been identified. Thus, the classification of cancer as a chronic disease cannot be based on unequivocal criteria as is the "etiologic" classification of infectious diseases. The distinction between cancer and other chronic diseases is blurred by the fact that in many cases it is difficult to distinguish between primary and secondary effects. In cancer, as in other chronic diseases, the distinction between cause and effect can be blurred.
+
+The concept of biomarkers should be considered within the context of causal models in epidemiology. Bradford Hill’s criteria for causation are often cited as a guide to assessing causality in epidemiological studies [1]. These criteria include strength of association, consistency, specificity, temporality, biological gradient (dose-response), plausibility, coherence, experimental evidence, and analogy. However, these criteria are not always applicable or easily assessed in the context of chronic diseases such as cancer.
+
+The potential contribution of biomarkers to epidemiological research depends on their ability to provide measurements aimed at single molecules or cells, and to reflect early biological changes. The use of biomarkers can be particularly useful when traditional epidemiologic tools are insufficient, for example, in exposure assessment for low doses and low risks [2]. Biomarkers can also be used to investigate pathogenic mechanisms and individual susceptibility.
+
+The potential uses of markers in chronic disease epidemiology include (1) exposure assessment in cases in which traditional epidemiologic tools are insufficient; (2) multiple exposures; (3) quantification of the etiologic role of single agents; (4) estimation of the risk of cancer from exposure to chemicals having same metabolic pathways; and (5) study of individual susceptibility.

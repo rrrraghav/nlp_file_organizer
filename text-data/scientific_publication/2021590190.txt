@@ -1,0 +1,174 @@
+The type of filter for the supply air and, in some
+cases, the return air should be selected with care
+and humidity controls have to be carefully designed
+to prevent condensation. The effect of ventilation
+must be examined because of the environment
+impact on the occupants’ thermal comfort. A typical
+construction cost must be considered. This paper shows
+ways of achieving this.
+
+LANG CONSTRUCTION AND SYSTEMATIC LABORATO-
+RIES, 218 Commerce Drive, Poughkeepsie, N. Y.,
+Assoc. Mgr., Mech. Disciplines, B. Setty; Member
+ASHRAE. A systematic approach to building design
+is described. The process is applied to a 37,000 sq. ft.
+office building in Poughkeepsie, N. Y. The project
+includes a central heating and cooling plant with
+distribution through the building via fan coil units.
+The paper discusses the selection of equipment,
+cost justification for the use of air filters in 1973,
+and the application of computer methods to design
+the distribution system.
+
+SYMPOSIUM DISCUSSION
+
+J. W. Kincaid, Jr., Pres., Carrier Engineering, Inc.,
+East Hartford, Conn., presented the discussion.
+
+The paper presents a systematic approach to building
+design and is well organized. The cost justification
+for air filters is particularly interesting.
+
+D. E. Conover, Trane Co., La Crosse, Wis., pointed
+out that the systematic approach described in the
+paper could be applied to many different types of
+buildings.
+
+R. P. Baker, Arthur D. Little, Inc., Cambridge, Mass.,
+commented on the importance of considering the
+effect of ventilation on occupants’ thermal comfort.
+
+W. B. Stine, Univ. of Kansas, Lawrence, Kan., noted
+that the paper provides a good example of how to
+apply computer methods to building design.
+
+J. W. Kincaid, Jr., suggested that future papers in
+this series might include more detail on the effect
+of ventilation on occupants’ thermal comfort.
+
+SYMPOSIUM DC-41: HVAC IS FOR PEOPLE
+
+Chair—F. Rolfes, Jr., Member ASHRAE, Prof.
+Emeritus, Univ. of Kansas, Lawrence, Kan.; Rolfes
+and Dir., Environmental Research, Manhattan, Kas.
+
+The final subject is a heating, ventilating and
+air conditioning system as it is incorporated in equip-
+ment for human comfort. The first paper is “Effects
+of Air Velocity on Thermal Comfort” by J. W. Dyk-
+stra and F. P. Nelson. This paper describes an ex-
+periment conducted to determine the effect of air velo-
+city on thermal comfort. A wind tunnel was con-
+structed with a 12 ft x 12 ft floor area, 8 ft high,
+and equipped with adjustable openings in the side walls
+to permit control of air velocity. The temperature
+was maintained at 70°F and relative humidity at 50%.
+Subjects were placed on a rotating platform in the cen-
+ter of the wind tunnel and exposed to various air ve-
+locities. The subjects rated their thermal comfort on
+a seven-point scale. The results showed that there was
+a significant difference in thermal comfort ratings be-
+tween air velocities of 200 fpm and 400 fpm. It
+was concluded that air velocity is an important factor
+in thermal comfort.
+
+The second paper is “Thermal Comfort and Office
+Environment” by R. H. Stine, J. W. Dykstra, and F. P.
+Nelson. This paper describes a study of the effects of
+office environment on thermal comfort. The study in-
+volved two groups of subjects: one group exposed to
+a normal office environment and another group ex-
+posed to an altered office environment. The alter-
+ed office environment included higher air velocities,
+lower temperatures, and more natural light. The sub-
+jects rated their thermal comfort on a seven-point
+scale. The results showed that the subjects in the al-
+tered office environment reported significantly high-
+er levels of thermal comfort than those in the normal
+office environment. It was concluded that the office
+environment can have a significant effect on thermal
+comfort.
+
+The third paper is “Thermal Comfort and Clothing”
+by J. W. Dykstra, R. H. Stine, and F. P. Nelson. This
+paper describes a study of the effects of clothing on
+thermal comfort. The study involved two groups of
+subjects: one group wearing light clothing and an-
+other group wearing heavy clothing. The subjects were
+exposed to various temperatures and air velocities.
+The subjects rated their thermal comfort on a seven-
+point scale. The results showed that the subjects wear-
+ing light clothing reported significantly higher levels
+of thermal comfort than those wearing heavy cloth-
+ing. It was concluded that clothing can have a sig-
+nificant effect on thermal comfort.
+
+temperature of the circulating air was raised, but as
+the temperature increased, the occupants’ ratings de-
+creased. In the second study, the room had sides of
+glass and the subjects were seated in front of a window
+representing four different views with each
+view having a different degree of visual complexity.
+The results showed that it was possible to higher thermal
+comfort by providing more complex views.
+
+The third study designed to study the effects of oc-
+cupants’ clothing on thermal comfort involved 34 male
+subjects exposed to a room at 70°F, 50% relative
+humidity and 200 fpm air velocity. The subjects were
+divided into two groups: one group wearing light
+clothing (two males and two females) The results showed
+that there was a significant difference in thermal com-
+fort ratings between the two groups. It was con-
+cluded that clothing can have a significant effect on
+thermal comfort.
+
+The fourth study designed to study the effects of
+air movement on thermal comfort involved 34 male
+subjects exposed to a room at 70°F, 50% relative
+humidity and 200 fpm air velocity. The subjects were
+divided into two groups: one group exposed to a high-
+er air velocity (400 fpm) and the other group ex-
+posed to a lower air velocity (100 fpm). The results
+showed that there was a significant difference in ther-
+mal comfort ratings between the two groups. It was
+concluded that air movement can have a significant
+effect on thermal comfort.
+
+SYMPOSIUM DISCUSSION
+
+R. P. Baker, Arthur D. Little, Inc., Cambridge, Mass.,
+commented that the papers presented were well done
+and provided valuable information about thermal com-
+fort. He noted that the studies were conducted under
+controlled laboratory conditions and that the results
+may not be generalizable to real-world situations.
+
+J. W. Kincaid, Jr., Pres., Carrier Engineering, Inc.,
+East Hartford, Conn., suggested that future papers in
+this series might include more detail on the effects of
+humidity on thermal comfort.
+
+F. Rolfes, Jr., Univ. of Kansas, Lawrence, Kan.,
+commented that the papers presented were a good start-
+ing point for understanding the complex relationship
+between humans and their environment. He noted that
+there is still much to be learned about thermal com-
+fort.
+
+ASHRAE 93 Total Heating and Cooling Load Calcula-
+tions—A User’s Manual. ASHRAE, 1975.
+
+A. H. Aspenson, Univ. of Illinois, Urbana, Ill.,
+pointed out that the manual provides a comprehensive
+guide to performing total heating and cooling load
+calculations. He noted that the manual is written in
+a clear and concise style and that it includes many
+helpful examples.
+
+J. W. Kincaid, Jr., suggested that future papers in
+this series might include more detail on the effects of
+sound on thermal comfort.
+
+
+

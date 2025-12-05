@@ -1,0 +1,142 @@
+Vol. 264 No. 36 December 28, 1989 pp. 11537-11542
+
+THE JOURNAL OF BIOLOGICAL CHEMISTRY
+© 1989 by The American Society for Biochemistry and Molecular Biology, Inc.
+
+Disulfide Linkage of Biotin Identifies a 106-kDa Ca2+ Release Channel in Sarcoplasmic Reticulum*
+
+(Received for publication November 23, 1988, and in revised form, October 6, 1989)
+
+Nikhat F. Zaidif, Carl F. Lagaun¹, Robert J. Hilkert, Hui Xiongl, Jonathan J. Abramsonł, and Guy Salama**
+
+From Departments of Physiology & Neurobiology, Anatomy, and Cell Science, School of Medicine, University of Pittsburgh,
+Pennsylvania 15261 and the Physics Department, Portland State University, Portland, Oregon 97207
+
+Reactive disulfide reagents (RD$s) with a biotin moiety have been synthesized and found to cause Ca2+ release from sarcoplasmic reticulum (SR) vesicles. The RDSs oxidize SR proteins via mixed disul-
+fide exchange, with the formation of biotinylated and non-biotinylated RDS compounds. Biotinyl-
+ated RDSs identified a 106-kDa protein which was purified by affinity chromatography. Reducing agents did not shift/releaset, reverse the effect of RD$s and thus promoted active reuptake of Ca2+ and dissociated biotin from the labeled protein. The results suggest that this protein is a disulfide bond-containing Ca2+ channel. Several lines of evidence indicate that this protein is not SR Ca2+-ATPase and is not a ryanodine receptor subunit. A 300-kDa complex against the ATPase did not cross-react with the 106-kDa protein, and polyclonal anti-bodies against the 106-kDa do not react with either the SR Ca2+-ATPase or the ryanodine receptor. Linear sucrose gradient centrifugation was used to purify the 106-kDa protein that is associated with SR vesicles. The purified protein shows a molecular weight of 106 kDa by SDS-PAGE. The 106-kDa protein appears to be localized in a Ca2+ release channel complex, and its biotinylation provides a means for studying the structure and function of this channel.
+
+The sarcoplasmic reticulum (SR) is an endo-
+plasmic reticulum found in muscle cells that stores
+and releases Ca2+. The release of Ca2+ from SR
+triggers muscle contraction (Sanders et al., 1980).
+Ca2+ release can occur via two mechanisms: a phos-
+pholipids-induced Ca2+ release (PIC) pathway and
+a voltage-induced Ca2+ release (VICR) pathway
+(Franzini-Armstrong & Stern, 1984; Inesi et al.,
+1985). The PIC pathway involves the binding of
+phospholipids to a receptor on the SR membrane,
+which then triggers Ca2+ release. The VICR path-
+way involves depolarization of the cell membrane,
+which then causes Ca2+ release from the SR.
+
+The molecular mechanisms underlying both Ca2+
+release pathways are not fully understood. Several
+lines of evidence suggest that a receptor/channel
+complex is involved in Ca2+ release (Lai &
+Santucci, 1986; Holmberg et al., 1987). The re-
+ceptor may be linked to a channel through which
+Ca2+ flows from the SR lumen into the cytosol.
+The molecular weight of this receptor/channel com-
+plex is estimated to be in the range of 150,000-
+250,000 (Lai & Santucci, 1986; Holmberg et al.,
+1987).
+
+In a previous article, we have described a class of “reac-
+tive” disulfide (RDS) compounds (i.e. dithiolpyridines) that
+can cause Ca2+ release from sarcoplasmic reticulum (SR) vesicles
+(1). The RDSs react with oxidizing sulfhydryl groups on SR proteins through a thiol-disulfide exchange
+reaction and the formation of mixed disulfides between the
+SR proteins and the RDS compounds. This reaction re-
+opened a Ca2+ channel pathway which was determined
+by ion flux studies. These RDSs were DTT, result-
+ing in active Ca2+ uptake by SR vesicles (1). Among
+the dithiolpyridines that were tested, 3-[(N-succinimidyl
+sulfinyl)methyl]pyridine-2-thione was found to react
+with the thiol residues and production of covalently conju-
+gated for a limited extent to interfere with protein
+function. The RDS compounds were synthesized and purified
+via mixed diffusion in dimethylformamide, facilitating results-
+tion opened a mixed channel pathway which was determined
+by ion flux studies. Two methods were used to synthesize
+the reactive disulfide: two pyridine-2-thione rings are con-
+nected by a succinimidyl group. The RDSs react with thiol
+groups on SR proteins through a thiol-disulfide exchange
+reaction and the formation of mixed disulfides between the
+SR proteins and the RDS compounds. This reaction re-
+opened a Ca2+ channel pathway which was determined
+by ion flux studies.
+
+We have used this strategy to identify a 106-kDa protein
+associated with the SR membrane. The RDSs react with thiol
+groups on SR proteins via mixed disulfide exchange, and
+the biotinylated protein can then be purified by affinity
+chromatography using streptavidin-agarose beads (1).
+
+EXPERIMENTAL PROCEDURES
+
+Materials
+
+N-hydroxysuccinimide, 3-[(N-succinimidyl sulfinyl)methyl]pyri-
+dine-2-thione, pyridine-2-thione, dicyclohexylcarbodiimide
+(DCC), and streptavidin-agarose were purchased from Sigma.
+SR vesicles were prepared from rabbit skeletal muscle as de-
+scribed previously (Fabiato & Fabiato, 1978).
+
+Synthesis of Biotinylated RDS Compounds
+
+Biotinylated RDS compounds were synthesized as described pre-
+viously (1). Briefly, N-hydroxysuccinimide was reacted with
+3-[(N-succinimidyl sulfinyl)methyl]pyridine-2-thione and bi-
+otin in the presence of DCC. The biotinylated RDS compound
+was purified by gel filtration chromatography on Sephadex G-50.
+
+Affinity Chromatography
+
+SR vesicles (1 mg protein) were incubated with 10 µM biotin-
+ylated RDS compounds for 30 min at room temperature. The
+vesicles were then lysed by sonication in buffer A (20 mM Tris-
+HCl, pH 7.4, 1 mM EDTA). The lysate was centrifuged at
+100,000 x g for 30 min, and the pellet was resuspended in
+buffer A. The protein was applied to a streptavidin-agarose col-
+umn (2 cm diameter) that had been equilibrated with buffer A.
+The column was washed extensively with buffer A until no pro-
+tein eluted. Bound proteins were then eluted with 20 mM Tris-
+HCl, pH 7.4, 1 mM EDTA, 0.2% Triton X-100. Fractions
+were collected and analyzed by SDS-PAGE.
+
+Results
+
+Identification of a 106-kDa Protein
+
+Treatment of SR vesicles with biotinylated RDS compounds
+resulted in the formation of a mixed disulfide between the
+RDS compound and an SR protein (1). The biotinylated pro-
+tein could then be purified by affinity chromatography using
+streptavidin-agarose beads. As shown in Fig. 1A, a band at
+approximately 106 kDa was detected on SDS-PAGE after af-
+finity purification of the RDS-reacted SR vesicles. This
+band was not observed when control samples (SR vesicles
+incubated with unreacted RDS compounds) were subjected to
+the same procedure (Fig. 1B).
+
+To confirm that the 106-kDa protein was covalently linked
+to biotin, the purified protein was treated with neuraminidase
+and then analyzed by SDS-PAGE. The molecular weight of
+the protein decreased from 106 kDa to approximately 98 kDa
+(data not shown), indicating that a glycosylation had been re-
+moved.
+
+The effect of reducing agents on the biotinylated RDS com-
+plex was examined. Treatment of the purified protein with DTT
+resulted in dissociation of biotin from the labeled protein (Fig.
+2A). The molecular weight of the protein increased from 106 kDa
+to approximately 114 kDa after treatment with DTT, indicating
+that a disulfide bond had been reduced.
+
+To determine whether the 106-kDa protein was an ATPase
+or a ryanodine receptor subunit, Western blot analysis was per-
+formed using antibodies against these proteins. The anti-ATPase
+antibody did not react with the 106-kDa protein (Fig. 2B),
+whereas the anti-ryanodine receptor antibody also did not re-
+act with the 106-kDa protein (Fig

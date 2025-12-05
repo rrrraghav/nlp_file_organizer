@@ -1,0 +1,56 @@
+FREEZE-ETCH STUDY OF COLLAGEN
+
+I. NATIVE COLLAGEN FROM TENDON AND LUNG OF RATS
+
+JOHN C BELTON, DOV MICHALLI, and H. HUGH FUDENBERG
+
+The freeze-fracture technique was used to study the fine structure of native collagen from rat tendon and lung. The collagen fibers were organized into a spiraled bundle with lamellae within each fibril. Small particles representing the broken ends of the collagen molecules were frequently seen on cross rows where the lamellae were broken transversely. Fila-
+ments connected these particles which span the interfibrillar matrix and unlie at the limits of a reticular network. The fibrils were coated with a coating substance than from others, resulting in a banding pattern with a 60 Å repeat distance.
+
+Collagen is a fibrous protein made up of tropo-
+collagen molecules, approximately 5000 Å long. The tropocollagen unit is composed of three polypeptide chains each having a molecular weight of about 95,000. In the tropocollagen molecule each chain are
+wound in a polyproline helix and arranged to form
+about a common axis in a superhelix. Tropo-
+collagen units are oriented parallel to the collagen fibril and are spaced approximately 42 Å as re-
+ported model. The quarter stagger suggests a
+stagger of about 180 Å with a period of 60 Å, so
+a tropocollagen unit extends 4.1 periods,
+or a gap of 0.6 d before the next tropocollagen
+unit starts (1-5).
+
+Beyond the noncovalent interactions that hold the tropocollagen molecules together, there are cross-
+linkings molecule bond develop between the chains
+during maturation and render the fibril stable. This process is progressive and thus is considered to be
+leaving a time mark (6).
+
+From the Departments of Medicine, Biochemistry, and
+Surgery, University of California School of Medicine,
+San Francisco, Calif. Supported by grants from the
+United States Public Health Service (2 R19 HL 18030),
+the California Heart Association (45-70), and the
+Smith Foundation. We are grateful to Miss Mary Jo
+Sauer for her assistance in this study. This research was
+carried out at the Medical Research Council Tissue
+Culture Unit, Austin Heath, Cambridge, England. The
+technical assistance of Mr. John W.H. Carter should be re-
+corded and we thank Dr. Peter J. Randle for his help-
+ful discussions on aging (7).
+
+Received for publication, April 19, 1973.
+
+Now at: California; Dr. Michels is presently at Bio-
+Research Laboratories, Inc., Mountain View, Calif.
+Dr. Fudenberg is presently at the Department of Medi-
+cine, University of Pittsburgh School of Medicine, Pitts-
+burgh, Pa. This article is based on a presentation to
+the American Society for Experimental Biology, April
+1972.
+
+(1327)
+
+The freeze-fracture technique (1) provides an excellent means for studying the fine structure of biological macromolecules. In this method, a specimen is rapidly frozen by rapid cooling and then split at low temperature. The surfaces exposed after splitting are coated with a thin film of metal, usually platinum or gold, which reveals details of the underlying structure.
+
+The collagen fibrils in rat tendon and lung were studied by freeze-fracture. The specimens were prepared as follows: Freshly killed rats were skinned and the tendons removed. Tendons were fixed in 2.5% glutaraldehyde in phosphate buffer at pH 7.4 for 24 hours at room temperature. Lungs were similarly fixed, but after removal of excess tissue, they were sliced into small pieces (approximately 1 mm3) before fixation. After washing with phosphate buffer, the specimens were postfixed in 1% osmium tetroxide in vermiculin-buffered sucrose for 1 hour at room temperature. The samples were then dehydrated through a graded series of ethanol solutions and embedded in Araldite resin. Sections (80 nm) were cut on an ultramicrotome, mounted on copper grids, stained with uranyl acetate and lead citrate, and examined in a Philips EM 260 electron microscope. For freeze-fracture studies, the specimens were rapidly frozen by immersion in liquid propane cooled by liquid nitrogen. The frozen samples were then fractured by striking the block against a metal surface cooled to liquid nitrogen temperature. The surfaces were coated with platinum at an angle of 15 degrees and examined in a Philips EM 260 electron microscope.
+
+
+

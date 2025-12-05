@@ -1,0 +1,70 @@
+RESEARCH AND DEVELOPMENT PROJECT STATUS REPORT
+
+DATE: AUG98
+PROJECT NO.: B-642
+PROJECT NAME: SMOKE 98
+
+PROJECT DESCRIPTION:
+
+This project will develop an inline method for determining the pH of mainstream smoke. A pH probe will be placed inline between the cigarette and a Cambridge pad using a glass tube interface for pH determinations on total mainstream smoke.
+
+I. COSTS
+
+MONTH HOURS WAGES/OVERHEAD OTHER TOTAL CUMULATIVE
+BUDGET ACTUAL BUDGET ACTUAL BUDGET ACTUAL BUDGET ACTUAL
+
+JAN 98 27 63 2,820 5,580 0 0 2,820 5,580 2,820 5,580
+FEB 98 27 143 3,243 11,416 0 0 3,243 11,416 6,063 16,996
+MAR 98 27 105 3,161 5,830 0 0 3,161 5,830 9,224 22,826
+APR 98 37 186 3,381 8,796 0 0 3,381 8,796 12,605 31,622
+MAY 98 37 272 3,744 16,160 0 0 3,744 16,160 16,349 47,782
+JUN 98 37 125 3,718 5,441 0 0 3,718 5,441 20,067 53,223
+JUL 98 37 87 3,594 5,441 0 0 3,594 5,441 23,661 58,664
+AUG 98 37 176 3,646 8,554 0 0 3,646 8,554 27,307 67,218
+SEP 98 37 10 3,814 0 0 0 3,814 0 31,121 67,218
+OCT 98 37 10 3,814 0 0 0 3,814 0 35,000 67,218
+NOV 98 37 0 3,814 0 0 0 3,814 0 38,814 67,218
+DEC 98 37 0 0 0 0 0 0 0 38,814 67,218
+TOTAL 335 800 35,937 59,675 0 0 35,937 59,675 35,937 59,675
+
+II. TECHNICAL APPROACH
+
+COMPONENT ESTIMATED  ESTIMATED COMPLETED
+HOURS BUDGET HOURS %
+1. Description of Approach and Methods 20 3,814 0 0
+2. Analysis Plan/Criteria 10 1,907 0 0
+3. Analytical Instrument Development 50 9,535 0 0
+4. Computer Software/Data Reduction 20 3,814 0 0
+
+III. SCHEDULE
+
+TASK DESCRIPTION START DATE END DATE ACTUAL COMPLETION DATE % COMPLETE
+A. System Design 08/01/98 08/31/98 08/27/98 100
+B. Prototype Fabrication 09/01/98 09/30/98 09/25/98 100
+C. Preliminary Testing 10/01/98 10/31/98 10/27/98 100
+D. Final System Integration and Testing 11/01/98 11/30/98 11/25/98 100
+
+IV. PROBLEMS ENCOUNTERED AND ACTIONS TAKEN
+
+None
+
+V. CHANGES REQUESTED
+
+None
+
+VI. EXPENDITURES: (See attached detailed expenditure report)
+
+VII. NEXT STEPS
+
+Complete final system integration and testing.
+
+
+
+APPROVED:
+_________________________
+Dr. Kenneth L. Roe, Jr.
+Director, Tobacco Research 
+
+
+
+DATE: 08/27/98

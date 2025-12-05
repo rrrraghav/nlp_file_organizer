@@ -1,0 +1,67 @@
+TA98 126 7/150 McCear J. Green 14:31 2891
+
+N.B./Page or page/Date 8/22/15 - 28°C, .1 ml of 59/ml of mix 22 Nutrient Agar Plate Machine Setting L
+Stability Checks:
+Overlay + Sal "soft agar" Vogel-Bonner's Plate Area Sens.
+Overlay + 0.5% NaCl (0.5ml)
+Overlay + 0.9% NaCl (0.5ml)
+Overlay + 1% Trition (0.5ml)
+Overlay + 1% Fractionated (0.5ml)
+Overlay + TA100 cells (0.5ml)
+Overlay + TA98 cells (0.5ml)
+Overlay + Sal-Mop (0.5ml)
+
+Klett Used:
+TA98
+TA100
+Duration of Exp.
+Salmonella Strain
+and Control Data
+Mix No. Corr. Avg. Corr. Avg.
+1 2 3 4 5 6 7 8
+Overlay - Cells (-50)
+D180 +
+D180 +
+D180 + (60°) / 100%
+A-1
+A-2
+A-3
+D180 + (plate/100%)
+D180 + (rate/1000)
+TA98 Stock
+Titers:
+75 73 77 72 92
+Response to:
+Crystal Violet: 1.5
+Ampicillin: N/A
+ZAL CBS: 46 rev/sq
+Klett Readings:
+1.  1 / 7
+
+Overlay + Cells (-50)
+TA100 Stock
+Titers:
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+D180 +
+D180 +
+D180 + (60°) / 100%
+A-1
+A-2
+A-3
+D180 + (plate/100%)
+D180 + (rate/1000)
+ZAL CBS
+21g Classical
+Klett Readings:
+NA
+
+
+
+2056134638

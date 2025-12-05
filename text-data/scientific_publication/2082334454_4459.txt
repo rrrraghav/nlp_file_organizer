@@ -1,0 +1,62 @@
+U20759
+
+Panic Disorder Subtypes:
+Differential Responses to CO₂ Challenge
+
+Bengi Biber, M.D., and Tung Alkın, M.D.
+
+Objective: The purpose of this study was to investigate the possibility of a differential sensitivity to CO₂ in patients diagnosed with panic disorder subtypes. Methods: The used a 35% CO₂ enriched air challenge. Subjects included 49 respiratory and nonrespiratory (n=29) subtypes, who were divided into respiratory (n=29) and nonrespiratory (n=23) subtypes by their symptom profiles. These subjects underwent a CO₂ challenge procedure. Results: The respiratory group were compared with two to physiological and psychological measures. Results: The patients in the respiratory group were significantly more sensitive to CO₂ than those in the nonrespiratory group. The respiratory group also had higher scores on the Panic and Agoraphobia Scale and a longer duration of illness, as well as greater severity of panic attacks. In addition, the respiratory group’s higher cigarette consumption (mean ±2.46 cigarettes/day) was significantly different from that of the nonrespiratory group (0.93 ±1.58). Conclusions: The CO₂ challenge proves but also for the pathophysiology of panic disorder. Conclusions: The CO₂ challenge procedure appears to be a useful tool in the understanding of different subtypes of panic disorder, and may be associated with prominent respiratory symptom subtype and CO₂ hypersensitivity.
+(Am J Psychiatry 1998; 155:739–744)
+
+Currently, there is substantial research interest in hyperventilation, respiratory dysfunctions, and pulmonary physiology among patients with panic disorder. It is reported by Corsman et al. (1), which demonstrated that a significant number of patients in a laboratory setting, moreover studies using different concentrations of CO₂ (7%, 9%, and 13%) suggest that such pattern may be related to respiratory dysfunction. Some have attributed this phenomenon to an abnormality in the chemoreflex pathway, while others believe it is a manifestation of anxiety mimic-ing physiological responses.
+
+Chemoreceptors. Such a dysfunction would make a patient vulnerable to “false suffocation” alarms, namely panic attacks. According to this hypothesis, CO₂ physiology is directly involved in the pathophysiology of panic disorder.
+
+The range of physical and cognitive symptoms associated with panic disorder varies considerably among patients. Some patients report that their panic attacks are triggered by specific situations or stimuli (e.g., crowds, elevators, enclosed spaces). On the basis of these observations, Spitzer et al. (2) have proposed a classification system for panic disorder based on whether or not patients experience situational predisposers. Patients with situational predisposers were classified as Type A, while those without such triggers were classified as Type B.
+
+In this study, we sought to determine if there are subgroups of patients with panic disorder who exhibit differential physiological responses to CO₂ challenge. We hypothesized that patients whose panic attacks are associated with respiratory symptoms (e.g., hyperventilation, chest pain) would be more sensitive to CO₂ than those whose panic attacks are not associated with such symptoms.
+
+Subjects and Methods
+
+Subjects: Forty-nine consecutive patients diagnosed with panic disorder according to DSM-III-R criteria were recruited from the outpatient clinic of Cerrahpaşa Medical Faculty Psychiatry Department between January 1995 and December 1996. Inclusion criteria included a diagnosis of panic disorder, age 18–60 years, and ability to understand and sign an informed consent form. Exclusion criteria included current major depressive episode, bipolar disorder, schizophrenia, substance abuse or dependence, neurological disorders, cardiovascular disease, chronic respiratory illness, and pregnancy.
+
+Assessment: All patients underwent a semistructured diagnostic interview using the Structured Clinical Interview for DSM-III-R (SCID) (3). Patients were classified into subtypes based on their symptom profiles. Patients who reported prominent respiratory symptoms (e.g., hyperventilation, chest pain, shortness of breath) during panic attacks were classified as having the respiratory subtype, while those who did not report such symptoms were classified as having the nonrespiratory subtype.
+
+CO₂ Challenge: After obtaining written informed consent, patients underwent a CO₂ challenge procedure. The procedure was performed in a quiet room with controlled temperature and lighting. Patients were seated comfortably in a chair and instructed to breathe normally through a face mask connected to a gas mixture delivery system. Baseline respiratory rate, heart rate, and blood pressure were recorded. A 35% CO₂ enriched air mixture was then delivered at a flow rate of 6 liters/min for 5 minutes. Respiratory rate, heart rate, and blood pressure were recorded every minute during the challenge. After the challenge, patients were monitored until their vital signs returned to baseline levels.
+
+Statistical Analysis: Statistical analysis was performed using SPSS version 6.1 (4). Independent t tests were used to compare the respiratory and nonrespiratory subtypes on demographic variables, physiological measures, and scores on the Panic and Agoraphobia Scale (PAS) (5). A p value of less than .05 was considered statistically significant.
+
+Results
+
+Demographics: The demographic characteristics of the patients in the two subtypes are shown in Table 1. There were no significant differences between the respiratory and nonrespiratory subtypes with respect to age, sex, education level, or marital status. However, the respiratory group had a significantly longer duration of illness than the nonrespiratory group (t = 2.64, df = 47, p < .01).
+
+Physiological Responses: The respiratory group was significantly more sensitive to CO₂ than the nonrespiratory group. Specifically, the respiratory group exhibited a greater increase in respiratory rate during the challenge (Figure 1) (t = 3.28, df = 47, p < .01). In addition, the respiratory group had higher scores on the PAS (t = 2.95, df = 47, p < .01) and a greater severity of panic attacks (t = 2.46, df = 47, p < .05). The respiratory group’s higher cigarette consumption was significantly different from that of the nonrespiratory group (mean ±2.46 cigarettes/day vs. 0.93 ±1.58, t = 2.87, df = 47, p < .01).
+
+Discussion
+
+Our findings support the hypothesis that patients with panic disorder whose attacks are associated with respiratory symptoms are more sensitive to CO₂ than those whose attacks are not associated with such symptoms. This suggests that respiratory dysfunction may play a role in the pathophysiology of panic disorder in some patients.
+
+The greater increase in respiratory rate observed in the respiratory group during the CO₂ challenge is consistent with previous findings (6, 7). It is possible that these patients have an abnormal chemoreflex pathway, which makes them more susceptible to hyperventilation and other respiratory symptoms during periods of stress or anxiety.
+
+The higher scores on the PAS and greater severity of panic attacks observed in the respiratory group suggest that this subtype may represent a more severe form of panic disorder. The longer duration of illness observed in this group also suggests that they may have had the disorder for a longer period of time.
+
+The higher cigarette consumption observed in the respiratory group is consistent with previous findings (8). It is possible that these patients use cigarettes to self-medicate their anxiety symptoms.
+
+Limitations
+
+This study has several limitations. First, the sample size was relatively small. Second, the diagnostic criteria used were based on DSM-III-R, which may not be entirely accurate. Third, the CO₂ challenge procedure was performed in a controlled laboratory setting, which may not accurately reflect real-world conditions. Finally, we did not assess other potential confounding variables, such as family history of panic disorder or comorbid psychiatric disorders.
+
+Despite these limitations, our findings provide further support for the role of respiratory dysfunction in the pathophysiology of panic disorder. Future research should focus on identifying the specific mechanisms underlying this relationship and developing targeted treatments for patients with prominent respiratory symptoms during panic attacks.
+
+
+
+References
+
+1. Corsman, E., et al. Hyperventilation in patients with panic disorder. Am J Psychiatry 1983; 140:1276–1280.
+2. Spitzer, R.L., et al. Diagnostic criteria for panic disorder. Arch Gen Psychiatry 1987; 44:757–763.
+3. First, M.B., et al. Structured Clinical Interview for DSM-III-R (SCID). New York: Biometrics Research Department, New York State Psychiatric Institute, 1990.
+4. SPSS Inc. Statistical Package for the Social Sciences. Chicago: SPSS Inc., 1993.
+5. Payne, W.L., et al. The panic and agoraphobia scale: development, reliability, and validity. Psychol Assess 1985; 7:264–272.
+6. Klein, B.C. Hyperventilation and panic attacks. Am J Psychiatry 1983; 140:1281–1284.
+7. Noyes, J., et al. Respiratory variables during experimentally induced panic attacks. Arch Gen Psychiatry 1985; 42:695–700.
+8. Fergusson, D., et al. Smoking and psychiatric disorders among adolescents. Br J Psychiatry 1993; 162:537–

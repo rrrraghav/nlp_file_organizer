@@ -1,0 +1,25 @@
+TAR/NICOTINE Ranges
+
+FF Hi Lo
+
+High Camel TAR 21 NIC 1.4
+Low Camel FXSP 14 1.0
+
+FF/LTS
+
+High DL100 11.0 0.9
+Low Vantage 8.0 0.6
+
+ULIGHTS
+
+High CUL 100 6.0 0.5
+Low WUL 100 4.0 0.4
+
+ULTRa las Tar
+
+High MIN 100’s 2.0 0.2
+Las Now Box .5 .05
+
+
+
+51325.665

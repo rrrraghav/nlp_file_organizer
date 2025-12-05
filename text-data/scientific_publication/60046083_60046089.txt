@@ -1,0 +1,20 @@
+6117
+
+The association of focal adhesion kinase with a 200-kDa protein
+that is tyrosine phosphorylated in response to platelet-derived growth factors
+
+Focal adhesion kinase (FAK) is a cytoplasmic tyrosine kinase implicated in the signal transduction pathways initiated by integrins. However, we have previously found that platelet-derived growth factor (PDGF) stimulates the association of FAK with phosphotyrosine-labeled proteins in NIH 3T3 cells [Chen, H.-C. & Guan, J.-L. (1994) J. Biol. Chem. 269, 31229-31233], suggesting that FAK might participate in some of the cellular effects of the growth factors in modulating cell morphology and migration. In this report, we describe the association of FAK with a 200-kDa protein (pp200) that is tyrosine phosphorylated in response to PDGF stimulation in NIH 3T3 cells. Although the identity of pp200 is unknown at present, we have excluded the possibilities that it is the PDGF receptor β-subunit, talin, myosin or the phosphoinositide-activating proteins associated p150 protein. Furthermore, we found that the tyrosine phosphorylation of FAK-associated pp200 upon PDGF stimulation is largely independent of cell adhesion or the integrity of the cytoskeleton. Therefore, pp200 and its interactions with FAK may also be involved in growth-factor-induced cellular effects such as the modulation of cell adhesion or cell migration via cytoskeletal reorganization or disruption of focal adhesions.
+
+Chen, H.-C. and Guan, J.-L.,
+
+European Journal of Biochemistry 235:495-500, 1996.
+
+Other support: National Institutes of Health.
+
+From the Department of Pathology, Cancer Biology Laboratories, College of Veterinary Medicine, Cornell University, Ithaca, NY.
+
+PUBLICATIONS
+
+
+
+0054244

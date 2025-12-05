@@ -1,0 +1,89 @@
+-1-
+
+MALL-INTERCEPT SCREENER
+
+Field Service
+
+Validated by Edited by
+
+Portfolio #
+
+CIRCLE QUOTA GROUP(S)
+
+Q.A 1 Male
+2 Female
+
+Q.B 1 25 - 34
+2 35 - 49
+3 50+
+
+Q.F 1 Doral
+2 Savings brand
+3 Full-price brand
+
+CIRCLE YOUR CITY:
+
+1 Appleton, (F1)
+2 Atlanta (CN14)
+3 Augusta (AC1)
+4 Baton Rouge (GLF)
+5 Boston (BP7)
+6 Charlotte (CHS)
+7 Chicago (BRZ)
+8 Chicago (CN16)
+9 Dallas (RC2)
+10 Dallas (PR4)
+11 Denver (F11)
+12 Detroit (F19)
+13 Duluth (BRY7)
+14 Evansville (GR2)
+15 Freeport (CN6)
+16 Grand Rapids (BRI1)
+17 Houston (CN20)
+18 Huntington (RC1)
+19 Indianapolis (JOL)
+20 Jacksonvilie (F21)
+21 Jacksonville (CN19)
+22 Las Vegas (LVS)
+23 Los Angeles (F7)
+24 Los Angeles (CN1)
+
+26 Los Angeles (QT38)
+27 Memphis (F34)
+28 Miami (ALL)
+29 Miami (CN12)
+30 Nashville (BP1)
+31 New Orleans (CLE2)
+32 Newark (CN5)
+33 Oklahoma City (JOL1)
+34 Philadelphia (F31)
+35 Phoenix (F13)
+36 Phoenix (CN8)
+37 Pine Bluff (F4)
+38 Pittsburgh (NOB1)
+39 Portland (CT1)
+40 Raleigh (CN15)
+41 Richmond (PAP1)
+42 San Antonio (CCR3)
+43 Springfield, Mo (F28)
+44 Springfield, Ma (CN9)
+45 St. Louis (F29)
+46 Tallahassee (CN11)
+47 Tampa (CN9)
+48 Tulsa (CN3)
+49 Washington, D.C. (SHU3)
+50 Washington (CN1)
+
+Hello firm. My name is _____________________, from Diagnostic Research, a consumer research company. We are conducting a survey today and we would like you to get your viewpoint in it.
+
+(TYLLY REFUSALS)
+
+A. DENVER SEX:
+
+1 Male )-> CHECK (04)
+2 Female )-> CHECK (05)
+
+(11/08/94)
+
+(MALL-INTERCEPT)
+B1397 6082

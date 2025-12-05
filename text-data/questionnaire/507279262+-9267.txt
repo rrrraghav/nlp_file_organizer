@@ -1,0 +1,48 @@
+ENTREVISTADORAS: FAVOR DE NO
+MENCIONAR QUE ES LO QUE
+NECESITAMOS PARA CALIFICAR
+LOS GRUPOS.
+
+INTERVIEWERS: PLEASE DO
+NOT DISCLOSE WHAT IS
+NEEDED TO QUALIFY THESE
+GROUPS.
+
+Hispanic Cigarette Screener
+
+( GREETING IN SPANISH)
+Buenas, me llamo con una
+compañia que estudia el mercado. Hoy estamos haciendo un survey
+en su area y quisiera hacerle algunas preguntas.
+
+Hello, my name is with
+market research company. Today we are conducting a study in
+your area and I would like to ask you a few questions.
+
+1. Nosotros necesitamos hablar con HOMBRES de 18 años y mayor.
+¿Puedo hablar con alguna persona viviendo en este hogar y
+que tenga 18 años o más?
+We need to speak to MEN
+of age 18 years of age and older.
+May I speak to someone residing in this household who
+is 18 years of age or older?
+
+IF NO ONE LIVING AT HOME OVER THE AGE OF 18,
+THANK & TERMINATE 1 2 3 4 5 6 7 8 9
+
+2. IF SPEAKING TO SOMEONE 18 OR OVER, ASK:
+¿Me pudiera parar cuando llegue a la categoria que contiene
+su edad? (READ LIST BELOW)
+Could you please stop me when I get to the category
+which contains your age? (READ LIST BELOW)
+
+Menos de 18 ..................... TERMINATE 1 2 3 4 5 6 7
+Under 18
+18-20 .............................( CONTINUE MEN ONLY
+21-24 .............................( TERMINATE Continue MEN only
+25-34 .............................( TERMINATE 1 2 3 4 5 6 7
+35-49 .............................( TERMINATE
+50-59 ............................. TERMINATE 1 2 3 4 5 6 7
+Over 69 ............................
+
+50127.5/22

@@ -1,0 +1,155 @@
+c302
+
+Two tandem and independent sub-activation domains in the amino terminus
+of p53 require the adaptor complex for activity
+
+Reyes Candau, Daniel M Scolnick, Paula Darimpo, Carol Y Ying, Thanos D Halazonetis and
+Shelley L Berger
+
+The Ubiquitous Protein. Philadelphia: 1994. C.54
+
+The ability of p53 to function as a tumor suppressor is
+linked to its function as a transcriptional activator. Cells
+respond to stress signals by inducing the expression of
+tumor suppressor genes. Previous studies identified an
+activation domain in the N-terminal region of p53, 1-60
+the proteins to trigger this rapid and several protein
+transcription factors, including p300/CBP (Creutz et al.,
+example, mdm-2, a cellular oncoprotein. binds to this
+domain and represses p53 activity. We describe here two
+region of p53 that map between amino acids 1-60. These
+describe one activation domain which lies in the amino
+terminal region (1-40) and another at codons 40-60.
+We show in yeast how these two activation subdomains,
+when expressed individually, can activate transcription.
+These split activation subdomains 1-40 and 40-60
+require the adaptor complex ADA/ADA3/BCS for activity
+for transcriptional complexes. We also show that both
+subdomains are necessary to induce apoptosis in human
+fibroblast cells may regulate gene expression by
+inducing chromatin modification.
+
+Introduction
+p53 is a transcription factor that is activated in response
+to various stress signals, including DNA damage, hypoxia,
+and oncogenic transformation (Finlay et al., 1994). The
+activation of p53 leads to the induction of genes involved
+in cell cycle arrest, apoptosis, and senescence. Mutations
+in p53 are found in approximately 50% of human tumors
+(Levine et al., 1994), making it the most frequently mutated
+gene in cancer.
+
+p53 functions as a transcriptional repressor as well as
+an activator (el-Deiry et al., 1994; Nakano et al., 1994).
+As a transcriptional activator, p53 recruits coactivators
+such as p300/CBP to gene promoters (Ogryzek et al., 1994;
+Washbrook et al., 1994). p300/CBP is a histone acetyl-
+transferase that stimulates transcription by relaxing
+chromatin structure.
+
+The N-terminal domain of p53 (amino acids 1-60) has been
+shown to contain an activation domain (Didier et al., 1994;
+el-Deiry et al., 1994). This activation domain interacts with
+coactivators and is required for p53-mediated transcrip-
+tional activation. The N-terminal domain of p53 also
+interacts with other proteins, such as HDM2, which represses
+p53 activity (Cook et al., 1994).
+
+To further investigate the mechanism of p53 transcriptional
+activation, we have examined the functional properties of
+the N-terminal region of p53 in yeast. We have found that
+the N-terminal region of p53 can be divided into two distinct
+activation subdomains: one located between amino acids 1-40
+and another located between amino acids 40-60. These two
+subdomains are functionally independent and require the
+adaptor complex ADA/ADA3/BCS for activity.
+
+Materials and Methods
+Yeast Strains and Plasmid Construction
+The yeast strains used in this study are listed in Table I.
+p53 activation domain 1-40 was cloned into the pYES2 vector
+(Invitrogen, Carlsbad, CA) under the control of the GAL1
+promoter. p53 activation domain 40-60 was cloned into the
+pYES2 vector under the control of the GAL1 promoter. The
+ADA/ADA3/BCS genes were cloned into the pYES2 vector
+under the control of the GAL1 promoter.
+
+Yeast Transformations and Assays
+Yeast cells were transformed with plasmids using the lithium
+acetate method (Guthrie & Schiegel, 1990). Transformed
+cells were grown in synthetic complete medium lacking uracil
+and galactose. Cells were induced to express p53 activation
+domains and ADA/ADA3/BCS by adding 2% galactose to
+the medium.
+
+Results
+Identification of Two Activation Subdomains in the N-Terminal
+Region of p53
+To identify the functional domains within the N-terminal region
+of p53, we expressed truncated p53 proteins in yeast and
+assessed their ability to activate transcription. We found that
+amino acids 1-40 and 40-60 each contain an activation
+domain (Fig. 1A).
+
+1984 Waterman et al., 1982) has been found in the center
+of p53 sequences (el-Deiry et al., 1994).
+In addition, p53 can act as a transcriptional
+repressor by downregulating the expression of certain
+genes. For example, p53 represses the expression of
+Sdn (Santhanam et al., 1991; Nobler et al., 1992). This
+repression requires the transactivation domain of p53. Also
+required for its inhibitory functions on transcription (Sang
+et al., 1994; el-Deiry et al., 1994).
+
+Tumor suppression and transcriptional activation
+are often linked, but it is unclear how these two activities
+coordinate. Fields and Jang, 1990; Funk et al., 1993)
+suggest that p53 may function as a central coordinator
+coordinates abolish transactivation and tumor sup-
+pression. The ability of p53 to act as both a transcriptional
+activator or repressor depends on wild type p53 responses
+to stress signals (el-Deiry et al., 1994). In addition,
+the cellular context is important for determining whether
+which is overexpressed in 30-40% of human sarcomas
+(Yokoyama et al., 1994) and lung carcinomas (el-Deiry
+et al., 1994). MDM2 binds to the N-terminal region of p53
+and represses its transcriptional activity (Cook et al., 1994;
+Jones et al., 1994).
+
+To further understand the mechanism by which p53 regulates
+transcription, we have examined the functional properties
+of the N-terminal domain of p53 in yeast. We have found
+that the N-terminal region of p53 can be divided into two
+distinct activation subdomains: one located between amino
+acids 1-40 and another located between amino acids 40-60.
+These two subdomains are functionally independent and
+require the adaptor complex ADA/ADA3/BCS for activity.
+
+Materials and Methods
+Yeast Strains and Plasmid Construction
+The yeast strains used in this study are listed in Table I.
+p53 activation domain 1-40 was cloned into the pYES2 vector
+(Invitrogen, Carlsbad, CA) under the control of the GAL1
+promoter. p53 activation domain 40-60 was cloned into the
+pYES2 vector under the control of the GAL1 promoter. The
+ADA/ADA3/BCS genes were cloned into the pYES2 vector
+under the control of the GAL1 promoter.
+
+Yeast Transformations and Assays
+Yeast cells were transformed with plasmids using the lithium
+acetate method (Guthrie & Schiegel, 1990). Transformed
+cells were grown in synthetic complete medium lacking uracil
+and galactose. Cells were induced to express p53 activation
+domains and ADA/ADA3/BCS by adding 2% galactose to
+the medium.
+
+Results
+Identification of Two Activation Subdomains in the N-Terminal
+Region of p53
+To identify the functional domains within the N-terminal region
+of p53, we expressed truncated p53 proteins in yeast and
+assessed their ability to activate transcription. We found that
+amino acids 1-40 and 40-60 each contain an activation
+domain (Fig. 1A).
+
+[Image of text continues]

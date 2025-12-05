@@ -1,0 +1,36 @@
+6 May '84
+
+RAW\box [C:\WWDATASYNCOM2.DOC]
+
+PAGE 1
+
+Program: Synthetic Compounds
+
+Objective:
+
+Determine the biological activity of nicotine analogues in several models suitable to quantify their peripheral pharmacological effects and systemic toxicity.
+
+Start: Apr. 1976
+Termination: Nov. 1984
+
+Description of projects:
+
+INBI/FO was requested to perform selected quantitative screening assays on 92 nicotine analogs provided by PMR. The results were reported on a regular basis to be incorporated by PMR in the overall program data base. S-(-)-Nicotine or S,R-(+)-nicotine [?] as bilatrale or free base was used as a reference substance or internal standard.
+
+Altogether 14 assays were used for testing nicotine analogs. Some of the assays were standard pharmacological assays (e.g. guinea pig ileum), which were already fully established at INBI/FO at the beginning of the program, others had to be established or refined during its course (e.g. rat vas deferens), and others proved to be unsuitable (e.g. frog posture) during the course of the program. Therefore most compounds were investigated in some but not all assays. Another restriction in the application of the assay battery was the limited amount of test substance available.
+
+Isolated investigations with nicotine as a reference substance (e.g. LD50/ED50 determinations after administration by other routes than intravenously or in other mouse strains) were performed to establish, optimize or better understand assays and their results. For the same reason a series of other reference substances were investigated in some of the screening assays.
+
+During the course of the 9 years of testing at INBI/FO, mainly 5 study directors were responsible for the assays (Table f):
+
+1. Dr. U. Hackenberg Apr.76 to Dec.77 P1216, P1416, P3077
+2. Dr. Erpler Aug.76 to Dec.77 P1416, P3017
+3. Dr. Biehmleier Jan.78 to Dec.79 P1216, P3006, P1416, P30047
+4. Dr. Dumoulin Nov.80 to Dec.82 P3050
+5. Dr. Walk Jan.83 to Nov.84 P3077
+
+To ensure consistent reporting of results across changing project numbering, for each assay type a constant portfolio was added after the project number.
+
+
+
+202593640

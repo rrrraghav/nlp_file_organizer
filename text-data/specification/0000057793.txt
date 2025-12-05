@@ -1,0 +1,157 @@
+SAMPLE SPECIFICATIONS/PILOT PLANT WORK REQUEST
+
+ME 4283 (10/11)
+Date Rec’d. 11/17/23
+Approved by: P.C. Blevins A. Diven
+[LEVEL 1]
+Requesting Dept. Proj. No. 1982-140 KP (Level 1) Pilot Plant Req. No. CA 2221 Date Mfg. 11/17/23
+Requested by: L.L. Scott
+Subject/Purpose:  LL SCOTT, K.S. Cady Designed by:
+
+Weight (to)
+[172]
+Quantity Requested
+Cane Brand (Specify) 1775-3 37678
+[173]
+Tons - Cane Code CL
+Analysis Code
+[174]
+306936
+Tech. Devit. L
+Mask wt Analysis Code
+Marketing Research
+[175]
+Tobacco Code
+[176]
+312 312-1 31200
+Other Dept.
+[177]
+Stock No.
+[178]
+394 M 394M
+Top/Filter Level:
+[179]
+Bind (Factory No.)
+[180]
+14 74-75 14 74-75 2 65198
+Supplier - Color
+[181]
+Neef. Type/Dist. M.E.(mm)
+[LEVEL 2]
+Burley (Fladied Yes/No) C/107
+[182]
+Permeability (Coresta)
+[183]
+Basis Wt. (g/m²)
+Flue Cured
+[184]
+Top Dressing
+[185]
+Favor
+[186]
+Operation No. HHD(3) 02333 023331 5-38
+Date Cased
+[187]
+Trace (Specify)
+[188]
+Moisture (%)
+[189]
+Blend (tl)
+[190]
+Length (mm)
+[191]
+Plug (Dry)
+[192]
+Casing (Dry)
+[193]
+Aroma (Specify)
+[194]
+Cut (mm)
+[195]
+Shape
+[196]
+Body
+[197]
+Texture
+[198]
+Color
+[199]
+Flavor
+[200]
+Smoke
+[201]
+Burn Rate (mm/sec)
+[202]
+Damping
+[203]
+Filter Length (mm)
+[204]
+Filter Type
+[205]
+Filter Tow
+[206]
+Filter wt. (mg)
+[207]
+Filter Core
+[208]
+Filter Cellulose
+[209]
+Filter Acetate
+[210]
+Filter Paper
+[211]
+Filter Glue
+[212]
+Filter Coating
+[213]
+Filter Position
+[214]
+Filter Vent
+[215]
+Notes:
+[216]
+Other (Specify)
+[217]
+Filler (Ext.)
+[218]
+Mesh Width (mm)
+[219]
+Mask Width (mm)
+[220]
+Concenter(mg)
+[221]
+LA Length (mm)
+[222]
+LA/Filter (mm)
+[223]
+Tobacco Section
+[224]
+Stem Section
+[225]
+Tip Section
+[226]
+Wrapper
+[227]
+Binder
+[228]
+Plug
+[229]
+Casing
+[230]
+Filter
+[231]
+Other (Specify)
+[232]
+Pressure Drop (ind)
+[233]
+Viscosity (Est.)
+[234]
+Glue Pattern
+[235]
+Tip Area (12.7 x 16)
+[236]
+Reconstitution (Est.)
+[237]
+Mark Width (mm)
+
+CA 05221

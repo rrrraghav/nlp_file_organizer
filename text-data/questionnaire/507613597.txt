@@ -1,0 +1,70 @@
+10/12/90 12:57 ☎️512 476 3866 AKIN GUMP AUSTIN ⌨️004
+
+First, are you registered to vote at this address in Texas?
+
+SURVEY CROSS-TABULATION
+Texas State Poll
+Proj: 24053 Date: 10/09/90
+Var: 1 Que: 01 Pg: 1
+
+REGISTERED TO VOTE Yes SAMPLE NUMBER
+RESPONDENTS
+
+ALL RESPONDENTS 100.0 100.0 822
+
+LIKELIHOOD TO VOTE
+Definite Vote 100.0 79.3 653
+Probably Vote 100.0 20.7 169
+
+REGION
+East 100.0 10.8 89
+Houston 100.0 19.9 164
+Central 100.0 9.3 77
+San Antonio 100.0 12.3 102
+Valley 100.0 5.2 42
+Dallas Urban 100.0 1.8 15
+Dallas Suburban 100.0 1.6 13
+NW/Panhandle 100.0 9.6 79
+West 100.0 4.5 37
+
+METRO AREA
+Houston 100.0 17.7 146
+Dallas 100.0 19.9 164
+San Antonio 100.0 10.1 83
+
+GENDER
+Male 100.0 49.2 405
+Female 100.0 50.7 417
+
+ETHNICITY
+White 100.0 89.7 664
+Hispx/Mex-Amer 100.0 9.6 81
+Black/Afr.-Amer 100.0 7.0 58
+
+AGE
+Under 25 100.0 16.4 135
+25-34 100.0 24.3 201
+35-44 100.0 19.1 157
+45-54 100.0 16.8 138
+55 and Over 100.0 22.6 185
+
+VOTE IN PRIMARY
+Democrat 100.0 27.1 221
+Republican 100.0 39.5 323
+Independent 100.0 33.4 275
+
+IDEOLOGY
+Very Conservative 100.0 6.8 56
+Conservative 100.0 16.4 135
+Moderate 100.0 29.1 239
+Liberal 100.0 15.7 128
+Very Liberal 100.0 8.1 66
+
+INCOME
+Under $10,000 100.0 33.3 273
+$10,000-$19,999 100.0 25.8 212
+$20,000-$34,999 100.0 18.6 153
+$35,000-$49,999 100.0 12.1 99
+$50,000+ 100.0 10.1 83
+
+50761 3597

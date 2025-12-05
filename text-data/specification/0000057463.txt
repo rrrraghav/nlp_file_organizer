@@ -1,0 +1,274 @@
+(Rev. 10-81) SAMPLE SPECIFICATIONS/PILOT WORK REQUEST
+
+Rec’d. 5-10-83 PLT. No.
+Approved by
+[LEVEL 1]
+Requesting Dept. Proj. No. 22-290 Pilot Plant Proj. No. MMNERIE
+Requested by Lamarre “C” vs Lamarre “Atron” C. Date Mfg.
+Subject/Purpose
+Merlin No.
+Current Brand (Specify) ACTION-L132 Quantity Requested
+Cigarette Code
+Analysis Code
+Marketing Research
+Marketing Dept.
+Tobacco Analysis Code
+Tobacco Code
+[LEVEL 3]
+Tobacco Filing
+CORE 14 CORE
+Blend if Factory Made [ ]
+Type/Dist. (mm) ED 20 ED
+Casing ALF-550 vs XF-638
+Length (mm)
+[LEVEL 3]
+XF-638 vs XF-638
+Permeability (Core)
+Burley (Redried %)
+Filter Length (mm)
+Flavor
+Operation No. (HHD)
+Date Made
+Trace Blend(s)
+Moisture (%)
+Filter Rod
+Material
+Construction
+[LEVEL 3]
+Casing Strength (HHD)
+[LEVEL 3]
+Tobacco Code
+[LEVEL 3]
+Blend if Factory Made [ ]
+Casing ALF-550 vs XF-638
+Burley (Redried %)
+Flavor
+Operation No. (HHD)
+Date Made
+Trace Blend(s)
+Moisture (%)
+Filter Rod
+Material
+Construction
+[LEVEL 3]
+Casing Strength (HHD)
+Tobacco Code
+Blend if Factory Made [ ]
+Casing ALF-550 vs XF-638
+Burley (Redried %)
+Flavor
+Operation No. (HHD)
+Date Made
+Trace Blend(s)
+Moisture (%)
+Filter Rod
+Material
+Construction
+[LEVEL 3]
+Casing Strength (HHD)
+Tobacco Code
+Blend if Factory Made [ ]
+Casing ALF-550 vs XF-638
+Burley (Redried %)
+Flavor
+Operation No. (HHD)
+Date Made
+Trace Blend(s)
+Moisture (%)
+Filter Rod
+Material
+Construction
+[LEVEL 3]
+Casing Strength (HHD)
+Tobacco Code
+Blend if Factory Made [ ]
+Casing ALF-550 vs XF-638
+Burley (Redried %)
+Flavor
+Operation No. (HHD)
+Date Made
+Trace Blend(s)
+Moisture (%)
+Filter Rod
+Material
+Construction
+[LEVEL 3]
+Casing Strength (HHD)
+Tobacco Code
+Blend if Factory Made [ ]
+Casing ALF-550 vs XF-638
+Burley (Redried %)
+Flavor
+Operation No. (HHD)
+Date Made
+Trace Blend(s)
+Moisture (%)
+Filter Rod
+Material
+Construction
+[LEVEL 3]
+Casing Strength (HHD)
+
+65053102
+
+
+
+XF-638 vs XF-638
+XF-638 vs XF-638
+XFF-301 vs XFF-301
+L1/A 2.9 14.0
+14.0 5.8 14.0
+[LEVEL 3]
+[LEVEL 3]
+[LEVEL 3]
+57-204
+57-204
+57-204
+[LEVEL 3]
+[LEVEL 3]
+[LEVEL 3]
+57-204
+57-204
+57-204
+[LEVEL 3]
+[LEVEL 3]
+[LEVEL 3]
+57-204
+57-204
+57-204
+[LEVEL 3]
+[LEVEL 3]
+[LEVEL 3]
+57-204
+57-204
+57-204
+[LEVEL 3]
+[LEVEL 3]
+[LEVEL 3]
+57-204
+57-204
+57-204
+[LEVEL 3]
+[LEVEL 3]
+[LEVEL 3]
+57-204
+57-204
+57-204
+
+Quantity Requested
+Bookroom
+Tech. Dept.
+Marketing Research
+Tobacco Filing
+Type/Dist. (mm)
+Length (mm)
+Permeability (Core)
+Basis Wt. (grams/m²)
+Filter Length (mm)
+Pressure Drop (mm H₂O)
+M.B.E. (Ext.)
+Glue Pattern
+Smoke Time (Seconds)
+% Ventilation (Core)
+[LEVEL 3]
+Construction
+[LEVEL 3]
+Length (mm)
+Basis Wt. (grams/m²)
+Filter Length (mm)
+Pressure Drop (mm H₂O)
+M.B.E. (Ext.)
+Glue Pattern
+Smoke Time (Seconds)
+% Ventilation (Core)
+[LEVEL 3]
+Construction
+[LEVEL 3]
+Length (mm)
+Basis Wt. (grams/m²)
+Filter Length (mm)
+Pressure Drop (mm H₂O)
+M.B.E. (Ext.)
+Glue Pattern
+Smoke Time (Seconds)
+% Ventilation (Core)
+[LEVEL 3]
+Construction
+[LEVEL 3]
+Length (mm)
+Basis Wt. (grams/m²)
+Filter Length (mm)
+Pressure Drop (mm H₂O)
+M.B.E. (Ext.)
+Glue Pattern
+Smoke Time (Seconds)
+% Ventilation (Core)
+[LEVEL 3]
+Construction
+[LEVEL 3]
+Length (mm)
+Basis Wt. (grams/m²)
+Filter Length (mm)
+Pressure Drop (mm H₂O)
+M.B.E. (Ext.)
+Glue Pattern
+Smoke Time (Seconds)
+% Ventilation (Core)
+[LEVEL 3]
+Construction
+[LEVEL 3]
+Length (mm)
+Basis Wt. (grams/m²)
+Filter Length (mm)
+Pressure Drop (mm H₂O)
+M.B.E. (Ext.)
+Glue Pattern
+Smoke Time (Seconds)
+% Ventilation (Core)
+
+21
+FULL
+479
+80
+3.5
+2.6
+20
+2.6
+20
+2.6
+20
+2.6
+20
+2.6
+20
+2.6
+20
+2.6
+20
+2.6
+20
+2.6
+20
+2.6
+20
+2.6
+20
+2.6
+20
+2.6
+20
+2.6
+20
+2.6
+20
+2.6
+20
+2.6
+
+
+
+NOTES:
+
+1.  All samples to be returned with this request.
+2.  If a sample is not available, please indicate reason on reverse side.
+3.  Samples must be accompanied by a complete and accurate analysis sheet.

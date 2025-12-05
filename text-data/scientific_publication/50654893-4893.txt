@@ -1,0 +1,49 @@
+Leukemia & Lymphoma, 675–715 • 1992
+
+cDNA Sequencing Confirms HTLV-I Expression in Adult T-Cell Leukemia/Lymphoma and Different Sequence Variations In Vivo and In Vitro
+
+Zwi N. Benmenagen, Ronald B. Gantenbein, Marvin S. Reitz, Jr., Mary E. Kolman, and Robert C. Gallo
+
+Laboratory of Tumor Cell Biology, National Cancer Institute, NIH, Bethesda, MD.
+
+Human T-lymphotropic virus type I (HTLV-I) is the etiological agent of adult T-cell leukemia/lymphoma (ATLL) and of tropical spastic paraparesis/HTLV-I associated myelopathy (TSPM). The specific propagation of viral messages can generally only be demonstrated by reverse transcription–polymerase chain reaction (RT-PCR) techniques. We have previously reported on the mRNA sequences of HTLV-I in ATLL patients and cultured cell lines In vivo and In vitro. [1] The sequence variations between HTLV-I DNA cloned from primary peripheral blood mononuclear cells and from tumor tissue were found to be minimal. Nucleotide sequences closes from one of the ATL samples was completely identical to that of the prototype HTLV-I viral messages, establishing that the demonstration of HTLV-I mRNA in ATLL is not due to cellular contamination. Sequences amplified from different ATL patient samples can be clustered according to geographic origin. The HTLV-I DNA cloned a more recent marking sequence than seen In vivo. [2] We have also observed that HTLV-I infected cell lines showed a variable minibrity with demonstrating viral RNA. This observation led us to suspect that the association of HTLV-I in vivo may occur during viral transcription, rather than during the initial infection. To determine the complete puter structure of HTLV-I coding and noncoding regions, we have sequenced HTLV-I DNA cloned from ATLL patients and cultured cell lines.
+
+MATERIALS AND METHODS
+
+Viral Isolation and Cell Lines
+
+Peripheral blood mononuclear cells (PBMC) were obtained from ATL patients in Japan, New York, and California. The clinical characteristics of these patients have been previously described [3]. Lymph node tissue was obtained from biopsy specimens of ATL patients. HTLV-I infected cell lines were obtained as previously described [4].
+
+RNA Isolation and cDNA Synthesis
+
+Total cellular RNA was isolated from PBMC, lymph node tissue, and HTLV-I infected cell lines by the method of Chirgwin et al. [5]. The mRNA was extracted from total RNA using oligo(dT) cellulose chromatography [6]. Single-stranded cDNA was synthesized from mRNA using reverse transcriptase (RT) and ZAP as described previously [7].
+
+cDNA Sequencing
+
+The single-stranded cDNA was converted to double-stranded cDNA by treatment with DNA polymerase I [8]. The double-stranded cDNA was randomly primed with dideoxynucleotide triphosphates (ddNTPs) using T4 DNA polymerase [9] and sequenced in both directions. The sequencing reactions were carried out according to Sanger et al. [10] using 2'-deoxyribonucleotide triphosphates (dNTPs).
+
+RESULTS
+
+HTLV-I mRNA Sequences
+
+The complete nucleotide sequence of HTLV-I was determined from cDNA clones isolated from PBMC, lymph node tissue, and HTLV-I infected cell lines. The sequences obtained were compared with the previously published HTLV-I genome [11]. The HTLV-I viral messages have been described for proteins encoded by the pX region (11, 12). This mRNA, called px mRNA, is transcribed from a minor transcript of HTLV-I, for Ret, the regulator of expression and tax. [13] The major transcript of HTLV-I gives rise to a polyadenylated mRNA which allows the mobilization of Rex and p15^115 from the HTLV-I genome, but this cannot be initiated on the px mRNA. Using the methodology of RT-PCR, we have also detected minor transcripts encoding for protein of the region [14] p19 [p15^115]-Rex and p12^112-p15^115. The major transcript is a monocyclic message that encodes a 87 amino acid polypeptide [14] and a 37 amino acid polypeptide [14]. These messages are not spliced messages for the px region not only in HTLV-I infected T cell lines, but also in primary cells. We have observed a high grading for more variants of these kinds and the products. The sequences obtained from ATL patients and primary cells from ATL patients
+
+MATERIAL AND METHODS
+
+Viral Isolation and Cell Lines
+
+Peripheral blood mononuclear cells (PBMC) were obtained from ATL patients in Japan, New York, and California. The clinical characteristics of these patients have been previously described [3]. Lymph node tissue was obtained from biopsy specimens of ATL patients. HTLV-I infected cell lines were obtained as previously described [4].
+
+RNA Isolation and cDNA Synthesis
+
+Total cellular RNA was isolated from PBMC, lymph node tissue, and HTLV-I infected cell lines by the method of Chirgwin et al. [5]. The mRNA was extracted from total RNA using oligo(dT) cellulose chromatography [6]. Single-stranded cDNA was synthesized from mRNA using reverse transcriptase (RT) and ZAP as described previously [7].
+
+cDNA Sequencing
+
+The single-stranded cDNA was converted to double-stranded cDNA by treatment with DNA polymerase I [8]. The double-stranded cDNA was randomly primed with dideoxynucleotide triphosphates (ddNTPs) using T4 DNA polymerase [9] and sequenced in both directions. The sequencing reactions were carried out according to Sanger et al. [10] using 2'-deoxyribonucleotide triphosphates (dNTPs).
+
+RESULTS
+
+HTLV-I mRNA Sequences
+
+The complete nucleotide sequence of HTLV-I was determined from cDNA clones isolated from PBMC, lymph node tissue, and HTLV-I infected cell lines. The sequences obtained were compared with the previously published HTLV-I genome [11]. The HTLV-I viral messages have been described for proteins encoded by the pX region (11, 12). This mRNA, called px mRNA, is transcribed from a minor transcript of HTLV-I, for Ret, the regulator of expression and tax. [13] The major transcript of HTLV-I gives rise to a polyadenylated mRNA which allows the mobilization of Rex and p15^115 from the HTLV-I genome, but this cannot be initiated on the px mRNA. Using the methodology of RT-PCR, we have also detected minor transcripts encoding for protein of the region [14] p19 [p15^115]-Rex and p12^112-p15^115. The major transcript is a monocyclic message that encodes a 87 amino acid polypeptide [14] and a 37 amino acid polypeptide [14]. These messages are not spliced messages for the px region not only in HTLV-I infected T cell lines, but also in primary cells. We have observed a high grading for more variants of these kinds and the products. The sequences obtained from ATL patients and primary cells from ATL patients

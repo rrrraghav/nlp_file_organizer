@@ -1,0 +1,51 @@
+ATTACHMENT A
+
+Performance of Barclay Cigarettes
+with Filter Grooves Blocked
+
+An experiment has been performed to determine the variation
+in ventilation level and smoke delivery of the Barclay cigarette
+as a function of the number of filter grooves blocked. The
+Barclay filter relies exclusively on peripheral air channel
+grooves to provide a high level of ventilation. It has been
+shown that the lips of the smoker interact with filter grooves
+and thus diminish the ventilation level and the "tar"
+delivered. The present experiment was designed to show the extent
+of ventilation decrease and “tar” increase as a function of filter
+groove blockage.
+
+Barclay cigarettes (85 mm. soft pack) were prepared by block-
+ing 0, 1, 2, 3 or 4 of the filter groove openings with tipping
+glue. The glue was carefully applied such that a minimal amount
+of tow was contacted. After blocking the filter grooves, samples
+of the prepared cigarettes were submitted to the R&D Analytical
+Services Division for routine smoke analyses under standard FTC
+smoking conditions. Pressure drop and air dilution measurements
+were also performed. The results of these analyses are summarized
+in Table 1.
+
+As the results summarized in Table I show, smoke component
+deliveries increased dramatically with the number of filter grooves
+blocked. The FTC “tar” delivery increased from 1.8 mg/cigt. with
+no grooves blocked to 11.7 mg./cigt. with all four grooves glued
+shut. Other measured smoke component deliveries as well as cig-
+arette draft (DHO) increased as well. Air dilution levels
+decreased from 67.0% with no grooves blocked to 11.9% with four
+grooves blocked (Table I). FTC “tar,” carbon monoxide (CO),
+cigarette draft (DHO) and air dilution were found to vary exponent-
+ially with the number of filter grooves blocked (Figures 1, 2,
+4, respectively). Linear regression coefficients for these models
+are summarized in Table II.
+
+The results of the experiment show that as the Barclay filter
+grooves are closed off, the level of ventilation decreases sub-
+stantially. As a consequence, FTC “tar” and other smoke component
+(e.g., entrained CO, cigarette dilutions) increase exponentially.
+Mathematical models for these relationships between number of
+filter groove measurements can be used to characterize the influence
+subsequently closed during human smoking of the Barclay. In a
+simulation using the FTC filtered report test, it is possible to
+reproduce the tar, CO, tip HPA and draft patterns observed in
+the actual sample of cigarettes with dilution blocked to 11.9%
+
+2023089685

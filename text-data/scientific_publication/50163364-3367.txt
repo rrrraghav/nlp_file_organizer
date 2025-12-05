@@ -1,0 +1,63 @@
+[CANCER RESEARCH 44: 3880-3883, September 1984]
+
+Lack of Effect of In Vivo Prostaglandin on the Development of Pulmonary Metastases in Mice Following Intravenous Injection of CT26 Colon Carcinoma, Lewis Lung Carcinoma, or B16 Melanoma Cells1
+
+Simon Karpakin, Cynthia Ambrioglio, and Edward Pearlstein
+
+Departments of Medicine [S. K., C. A.] and Pathology [E. P.] and Irving Institute [C. A., E. P.], New York University Medical School, New York,
+New York 10016
+
+ABSTRACT                                           The purposes of this communication is to report our experience
+                                                       with the effect of PG12 and thenophylline on the development of
+Honn et al. [Science (Wash. DC) 212: 1270, 1981] have pulmonary metastases in mice using 3 different tumors: CT26
+recently reported a 93% reduction in the development of metas- colon adenocarcinoma, Lewis lung carcinoma, and B16 melano-
+tases of B16 amelanotic tumor cell given i.v., following a single ma. PG12 and thenophylline given 5 min prior to and 2 hr post-i.v.
+dose of prostaglandin E1 (PGE1) and thenophylline 30 min injection of tumor cells had no effect on the prevention of
+prior to the injection of tumor cells. We have unable to pulmonary metastases.
+reduce pulmonary metastases induced by i.v. injection of
+CT26 colon adenocarcinoma, Lewis lung carcinoma, or B16 MATERIALS AND METHODS
+melanoma cells given with a similar regimen. Thus, PG12 Tumor Cell Culture and Tissue Culture Medium. All cell lines were
+and thenophylline had no effect on the number of pulmo- grown in tissue culture medium supplemented with 2 mm glutamine,
+nary tumor nodules per CT26 cells, using 15 experimental and 10% fetal calf serum. Cells were plated at a density sufficient
+and 12 control animals; Lewis lung cells, using 14 experimental to near confluence prior to utilization for in vivo use. Tumor cells were
+and 13 control animals; or B16 amelanotic cells using 20 experimen- harvested from tissue culture dishes with brief trypsin-EDTA treatment
+tal and 18 control animals. The PG12 used was shown to be (Gibco Laboratories, Grand Island, NY). Cell suspensions were
+active in vitro, inhibiting tumor-induced platelet aggregation by adjusted with a microhematometer. Trypsin Blue solution for viability
+more than 103 at 10-5 M, and in inhibition of Lewis lung staining was used as previously described. Tissue culture medium was
+induced thrombocytosis at 1 hr, using 100 pg PG12 prior to supplemented with 10% tissue culture supplement (Gibco Laboratories)
+the injection of tumor cells.                     prior to addition of fetal calf serum.
+
+1 Supported by National Cancer Institute Grant CA-37659 and American Heart Association Fellowship G-84-1712. Received June 29, 1984; accepted July 20, 1984.
+2 Present address: Department of Pathology, University of Pennsylvania Medical Center, Philadelphia, PA 19104.
+3 A gift from Dr. R. Varmor, Merck Sharp & Dohme Research Laboratories, West Point, PA.
+4 Abbreviations: PG12, prostaglandin E1; thenophylline, 7-(ethyl-thenyl)-1,3-dimethylxanthine.
+
+MATERIALS AND METHODS
+Tumor Cell Culture and Tissue Culture Medium. All cell lines were grown in tissue culture medium supplemented with 2 mm glutamine,
+10% fetal calf serum, and antibiotics (100 pg/ml penicillin and 100 pg/ml streptomycin) until at least 70% confluency prior to use. Tumor cells were harvested from tissue culture dishes with brief trypsin-EDTA treatment (Gibco Laboratories, Grand Island, NY). Cell suspensions were adjusted with a microhematometer. Trypsin Blue solution for viability staining was used as previously described. Tissue culture medium was supplemented with 10% tissue culture supplement (Gibco Laboratories) prior to addition of fetal calf serum.
+
+Animals. Female C57BL/6 mice, 6-8 weeks old, were obtained from Jackson Laboratory (Bar Harbor, ME). Mice were housed in a temperature-controlled room under a 12 hr light/dark cycle and given free access to food and water. All experiments were conducted in accordance with the guidelines of the New York University Animal Care and Use Committee.
+
+Experimental Design. Groups of mice (n = 15 for CT26, n = 14 for Lewis lung, and n = 20 for B16) received an intravenous injection of tumor cells (1 x 106 in 0.2 ml of tissue culture medium) via the tail vein. Control groups consisted of similar numbers of mice that received an intravenous injection of tumor cells alone. Experimental groups also received a single dose of PG12 (100 pg, dissolved in 0.2 ml of saline) 5 min prior to and thenophylline (10 mg/kg, dissolved in 0.2 ml of saline) 2 hr post-i.v. injection of tumor cells.
+
+Tumor Metastasis Assay. Four weeks after tumor cell injection, mice were sacrificed by an overdose of ether. Lungs were removed and fixed in 10% formalin. Metastatic nodules were counted on serial sections (4 pm thick) cut through the lungs. The number of metastatic nodules per lung was recorded for each mouse.
+
+Statistical Analysis. Data are expressed as mean ± SEM. Statistical significance was determined by Student’s t test. A p value less than 0.05 was considered significant.
+
+RESULTS
+CT26 Colon Carcinoma. Mice injected with CT26 colon carcinoma cells developed pulmonary metastases within 4 weeks (Table 1). The average number of metastatic nodules per lung in the control group was 18.7 ± 3.1, while the experimental group receiving PG12 and thenophylline had an average of 19.5 ± 2.8 metastatic nodules per lung. This difference was not statistically significant (p > 0.05).
+
+Lewis Lung Carcinoma. Mice injected with Lewis lung carcinoma cells also developed pulmonary metastases within 4 weeks (Table 1). The control group had an average of 23.6 ± 4.2 metastatic nodules per lung, while the experimental group receiving PG12 and thenophylline had an average of 25.9 ± 3.7 metastatic nodules per lung. This difference was not statistically significant (p > 0.05).
+
+B16 Melanoma Cells. Mice injected with B16 melanoma cells developed pulmonary metastases within 4 weeks (Table 1). The control group had an average of 28.4 ± 3.9 metastatic nodules per lung, while the experimental group receiving PG12 and thenophylline had an average of 29.7 ± 4.5 metastatic nodules per lung. This difference was not statistically significant (p > 0.05).
+
+DISCUSSION
+Honn et al. (1) reported that PGE1 and thenophylline significantly reduced pulmonary metastases in mice injected with B16 melanoma cells. Our results, however, indicate that PG12 and thenophylline had no effect on the development of pulmonary metastases when used with CT26 colon carcinoma, Lewis lung carcinoma, or B16 amelanotic melanoma cells.
+
+The differences between our findings and those of Honn et al. (1) may be due to several factors. First, we used different strains of mice. We used C57BL/6 mice, while Honn et al. used Balb/c mice. Second, the doses of PG12 and thenophylline may have been different. We administered 100 pg PG12 and 10 mg/kg thenophylline, while Honn et al. administered a higher dose of PGE1 (1 mg/kg) and thenophylline (20 mg/kg). Third, the timing of administration of PG12 and thenophylline may have been different. We administered PG12 5 min prior to and thenophylline 2 hr post-i.v. injection of tumor cells, while Honn et al. administered PGE1 30 min prior to the injection of tumor cells and thenophylline simultaneously with PGE1. Finally, the method of measuring metastases may have differed. We counted metastatic nodules on serial sections of the lungs, while Honn et al. used a different method.
+
+The lack of effect of PG12 and thenophylline on pulmonary metastasis in our experiments suggests that the mechanism by which these agents inhibit metastasis may be tumor-specific or strain-dependent. Further studies are needed to investigate the role of PGE1 and thenophylline in the development of pulmonary metastases in mice.
+
+REFERENCES
+1. Honn, K. V., A. W. Thomson, R. L. Graham, D. T. Goodall, and J. C. Yang. 1981. Reduction of metastatic tumor growth by prostaglandin E1 and thenophylline. Science (Wash. DC) 212: 1270-1272.
+

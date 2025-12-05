@@ -1,0 +1,71 @@
+CAME 6 "X" (TEST 12797) Minor Change in C9(S.F.SR.X) Effective
+
+Using K10 as “Standard” (Remarks)
+Curve
+c 9 acres
+5x
+6x
+6x
+7x
+7x
+33x
+34x
+35x
+36x
+37x
+Total
+Area
+1.2 %
+1.2 %
+1.2 %
+1.2 %
+1.2 %
+1.9 %
+1.9 %
+1.9 %
+1.9 %
+1.9 %
+
+K4
+K5
+K10
+K15
+K16
+K18
+K20
+K23
+K25
+K30
+Total 100%
+
+Remarks
+Standards
+Area
+Acres
+K4 - 47.9 + .483 = 51.3 %
+C9 - 38.0 + .483 = 51.3 %
+T6Mx - 13.2 + .364 = 15.3 %
+T8Mx - 17.13
+
+(Remarks)
+I Dex - 1.14% * .20 = 2.3 %
+M - 7.94% * .20 = 1.6 %
+T6 - 1.54% + .364 = 1.9 %
+T8D - 15.3% 3.64x = 17.3 %
+
+Approved:  M.K.N.  1/6/61   1²
+Kick ² / 60
+
+*Note (Staley) Reduction of K10 & C9 correction = .2%
+to 4% less. This amount to be added for
+weight reduction in the next shift
+still requiring the same offset
+for accounting purposes.
+
+K10 = 1035 feet
+K(1) = 2157 feet
+TIME (M) = 77/16 feet
+
+
+
+25 9 80508

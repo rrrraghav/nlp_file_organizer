@@ -1,0 +1,32 @@
+( ( Attachment C
+
+PROPOSED SCRIPT OUTLINE
+
+1. Good evening. I’m calling from The Hearthstone Company in
+Stamford, Connecticut. May I ask you please, what brand of
+cigarettes you or any adult member of your household smokes?
+
+(IF Smoker - RECORD Brand & Go to 3)
+(IF NONE - GO to 2)
+
+2. Thank you for participating. Have a nice evening.
+
+3. Thank you. Now, is that: (RECORD)
+    a. regular or lights  ( )
+    b. king size or 100 millimeters ( )
+    c. soft pack or box ( )
+    d. menthol or non-menthol ( )
+
+4. (Optional) Are you (or the smoker) 21 years of age or
+older?
+
+5. Now I need only confirm your (or the smoker’s) name and
+address.
+
+(RECORD)
+
+6. Thank you for participating. Have a nice evening.
+
+
+
+09T5958

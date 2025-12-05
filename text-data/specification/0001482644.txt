@@ -1,0 +1,47 @@
+(CSSPRT1)                                    BROWN & WILLIAMSON TOBACCO CORPORATION             4/27/95   16:32    PAGE - 1
+
+CORPORATE MANUFACTURING SPECIFICATIONS SYSTEM – TOBACCOS
+
+CUT TOBACCO: MT-008 CARLETON MENTHOL.        STATUS… DEVELOPMENTAL  CHANGE NUMBER… 95-0042
+SHORT DESCRIPTION… CLOVER
+CULTIVAR PROD… ALP-1064                                    ANTICIPATED START DATE… 7/15/95
+
+LEAF BLEND FORMULA… BN-3184 (STANDARD) CARLTON BURLEY IS NOT REDREED
+
+FLAVORS…. P-243 AT APPLICATION RATE……. 10.560 LBS / M LS
+P-244 AT APPLICATION RATE……. 10.560 LBS / M LS
+MENTOL YIELD IN CIGARETTE… 1.230 %
+
+MOISTURE TARGETS…. FINAL IN CIGARETTES… 13.70 %
+FLUE CURED STRIPS BULKER… 23.00 %
+BURLEY STRIPS IN STRIPS BULKER… 23.00 %
+
+STRIP MOISTURE GAINS FROM HOT AIR… 2.00 %
+FROM STEAM STACK…. 2.00 %
+BURLEY STACK….
+
+RECONSTITUTED TOBACCO ADD POINT(S): TO BURLEY BEFORE CASING
+
+FLUE CURED ORIENTAL BURLEY    APPL. RATE   YIELD  RECON.   APPL.
+                                    (LBS/M LS)      %       W.C. % STAMP.
+BURLEY CASINGS…. D-437                                2.05 .38   160
+HOTAIRS…                                   31.31  23.0   160
+
+STRIPS…. BURLEY…. 96.0 1
+RECONSTITUTED TOBACCO… 4.0 1
+TOTAL STRIPS… 100.0 2
+
+ADD-INS…. 87-A                                   14.910 %
+88-B SM….                                    FACTOR: 2.06
+
+SHORTS….                                       5.00 % MAXIMUM
+
+BURLEY BLENDS                                 COMPOSITE   BLND FORMULA   GRADE BIN   BURLEY PERCENT
+                                               BN-3184            PIN
+E94 0373C8                                   96.0 1              72.772
+E94 0373D8                                   96.0 1              72.772
+E94 0373F8                                   96.0 1              72.772
+E94 0373G8                                   96.0 1              72.772
+E94 0373H8                                   96.0 1              72.772
+
+3980104580

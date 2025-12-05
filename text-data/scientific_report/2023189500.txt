@@ -1,0 +1,50 @@
+106E
+
+CRC CONTRACT RESEARCH CENTER
+
+B7004 7 Aug. 91 RAW/HJH/7004_NA.WM DRAFT PAGE 1
+
+CONCEPT
+
+CONCENTRATION AND PERSISTENCE
+OF SELECTED N-NITROSAMINES AND NICOTINE
+IN MATERIALS EXPOSED TO SIDESTREAM CIGARETTE SMOKE
+
+1 Objective
+
+Determine the concentration of tobacco-specific and volatile N-
+nitrosamines as well as of nicotine in the carpet, curtain, the wall
+paper, and on glass surfaces which were exposed to sidestream smoke
+of the standard reference cigarette 2R1 in the conditioning room
+(D1021) for approx. 100 consecutive days.
+
+2 Experimental Design
+
+The determination of nicotine and the N-Nitrosamines will start as
+soon as the smoke exposure of the conditioning room will have been
+stopped. It will be continued for several weeks or until no further
+traces of the analytes can be determined. The conditioning room air (as
+for R1021) will be continuously flushed with conditioned air (as
+during the light/dark cycle
+will continue to be operating during this period.
+
+The test components will be eluted from defined and randomly
+selected areas of carpet, curtain, and wall paper or removed from
+glass surfaces by blotting with glass fiber filter material soaked
+with dichloromethane.
+
+Analytical Parameters:
+(1) nicotine
+(2) volatile nitrosamines
+(3) TSNAs
+(4) continuous monitoring of temperature and relative humidity in
+the conditioning room
+
+3 Methods
+
+Careful removal of pieces of carpet and curtain (wearing gloves)
+5 cm x 5 cm, and wall paper, 10 cm x 10 cm from defined areas within
+with a Teflon roller. Wiping of glass window area (20 cm x 10 cm)
+with glass fibre filter (capable of retaining water), rinsed with
+dichloromethane. Collection of 2 samples per time point (not possible
+areas (FIGURES 1 to 3). Determination of sample weight.

@@ -1,0 +1,65 @@
+THE DATA GROUP INCORPORATED
+Executive Plaza
+Elkins Park, Pa. 19117
+
+Study 606/7
+October, 1979
+
+TRUE NON-PRODUCT TEST
+EVALUATION QUESTIONNAIRE
+
+Questionnaire # ____
+Brand _____
+Age _____
+Sex _____
+Amount Smoked_____
+
+
+
+(ASK TO SPEAK TO NAMED [INDIVIDUAL])
+Good morning/afternoon/evening. I’m Mr./___ calling long distance from The Data Group in Philadelphia.
+We're conducting a survey and we would like to ask you a few questions about them.
+(ASK RESPONDENT TO GET THEIR NOTE SHEET, IF HANDY) (GO DIRECTLY TO Q. A)
+
+A. About how many packs of each product number did you, yourself, smoke? (DO NOT READ LIST)
+
+PRODUCT #351   PRODUCT #526
+|  |
+Less than 1 pack | 16-______| 17-_____|
+|  |
+1-2 packs | 18-______| 19-_____|
+|  |
+2-3 packs | 20-______| 21-_____|
+|  |
+3+ packs (fill) | 22-______| 23-_____|
+(IF RESPONDENT SMOKED "NONE" OF BOTH PRODUCTS, ASK Q. C)
+(IF RESPONDENT SMOKED “SOME” OF ONLY ONE PRODUCT, SKIP TO Q. C)
+(IF RESPONDENT SMOKED AT LEAST SOME OF BOTH PRODUCTS, SKIP TO Q. 1)
+
+B. Why didn’t you smoke the cigarettes we sent to you? (DO NOT READ LIST)  C. Why didn't you smoke the [READ PRODUCT NOT SMOKED]? (DO NOT READ LIST)
+| |   |
+Product didn’t arrive | Cigarettes arrived damaged | Didn’t have time
+TERMINATE | TERMINATE | 3
+(T-1) | (T-2) |  Didn't like them
+Other (SPECIFY) | 4 | Didn’t have the time
+| |   | Didn’t like them
+Didn’t have the time | Wasn’t home | 5
+6 | 7 | Didn’t want to smoke
+Skip to | Bus sick | 8 | Skip to
+Q. D | Other (SPECIFY) |  Ask Q. D | Other (SPECIFY)
+
+D. Since we would very much like to get your opinions about both of the products we have sent to you, may
+we call you back in bury a few days after you have had a chance to try them? (Yes - 7, No - 8)
+
+E. When would be the best time of day to reach you?
+Morning _____ Afternoon _____ Evening _____
+F.  What is your telephone number? ____-_____-_____
+G.  Do you have any other comments about our products?
+H.  Date: _________ Time: _________ Interviewer: __________
+
+THANK YOU VERY MUCH FOR YOUR COOPERATION!
+
+
+
+PLEASE MAIL NOTE SHEET TO: THE DATA GROUP INCORPORATED
+0768015

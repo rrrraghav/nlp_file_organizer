@@ -1,0 +1,59 @@
+Carcinogenesis vol.15 no 12 pp 2721–2726, 1994
+
+Lung tumor induction in A/ mice by the tobacco smoke carcinogens 4-(methylnitrosoamino)-1-3-pyridyl-1-butanone and benzo[a]pyrene: a potentially useful model for evaluation of chemopreventive agents
+
+Stephen J.Hecht, Shelley Isaacs and Neil Thun
+
+American Health Foundation, Valhalla, NY 10595, USA
+
+The purpose of this study was to establish a lung tumor model in smokers. Lung tumor induction in A/ mice by the tobacco smoke carcinogens 4-(methylnitrosoamino)-1-3-pyridyl-1-butanone (NNK) and benzo[a]pyrene (BaP) was studied using protocols in which these two compounds were administered either individually or in combination. Groups of female A/J mice were treated with NNK alone, BaP alone, or a mixture of NNK and BaP by intraperitoneal injection (i.p.) with various doses of NNK and/or BaP for 2 weeks followed by an additional 18 months or more without treatment. The route of administration was chosen because it is convenient to administer compounds in this manner, but it can also be problematic because it avoided complications due to tumor formation at the injection site. A dose-response relationship exists for lung tumor induction by NNK and BaP when administered alone. The doses used in the treated killed 9 weeks after establishment of the tumors. The expected number of lung tumors per mouse was high, as evidenced by extrapolation from previously published data. The incidence of lung tumors in mice treated with a combination of NNK and BaP was additive. The combined effects of NNK and BaP were also examined to determine whether they could be synergistic. The results showed that the combined effects of NNK and BaP were not significantly different from the sum of their individual effects. This suggests that NNK and BaP do not interact synergistically in this model.
+
+The tobacco smoke contains a complex mixture of carcinogens (1). NNK is formed in vivo from nicotine, which is abundant in tobacco smoke (2). NNK is one of the most important lung carcinogens in cigarette smoke (3). BaP is produced during incomplete combustion of organic matter and is also present in tobacco smoke (1). Both NNK and BaP have been shown to induce lung tumors in mice (4, 5).
+
+The A/J mouse has been used as a model for lung cancer research because it develops lung adenomas rapidly and can be readily quantified and their progression to carcinomas followed (6). The combined effects of NNK and BaP have not been thoroughly investigated. We chose the A/J mouse model to evaluate the effects of chemopreventive agents. Watsonberg et al. (7) have examined the effects of several different compounds against carcinogenicity by NNK, BaP, diethylnitrosamine and 7,12-dimethylbenz[a]anthracene (9, 10). We have used the A/J mouse to evaluate the effects of methylsuccinic acid on lung tumor induction by NNK (11). The results obtained with this model can be applied in other models for example, phenylthioisocyanate (PTIC) is an effective inhibitor of lung tumor induction (12).
+
+Both the NNK and BaP have been shown to induce single tumors in mice. We have examined the effects of single chemopreventive agents against single tumors in the A/J mouse model (13). The smoke which is chosen for this study includes NNK and BaP, components of tobacco smoke (2).
+
+The purpose of this study was to establish a lung tumor model in smokers. Lung tumor induction in A/ mice by NNK and BaP was studied using protocols in which these two compounds were administered either individually or in combination. Groups of female A/J mice were treated with NNK alone, BaP alone, or a mixture of NNK and BaP by intraperitoneal injection (i.p.) with various doses of NNK and/or BaP for 2 weeks followed by an additional 18 months or more without treatment. The route of administration was chosen because it is convenient to administer compounds in this manner, but it can also be problematic because it avoided complications due to tumor formation at the injection site. A dose-response relationship exists for lung tumor induction by NNK and BaP when administered alone.
+
+Materials and Methods
+Animals
+Female A/J mice (Jackson Laboratory, Bar Harbor, ME) were used in this study. The mice were 6–8 weeks old at the start of treatment. They were housed in a temperature-controlled room with a 12-hour light/dark cycle and given free access to food and water.
+
+Chemicals
+NNK was obtained from Rohm and Haas Company (Philadelphia, PA). BaP was obtained from Aldrich Chemical Company, Inc. (Milwaukee, WI). The chemicals were dissolved in corn oil.
+
+Experimental Design
+Mice were divided into four groups: Group 1 received NNK alone; Group 2 received BaP alone; Group 3 received a mixture of NNK and BaP; and Group 4 served as controls. The doses of NNK and BaP used in this study are shown in Table 1. Mice were injected i.p. with the chemicals for 2 weeks, followed by an additional 18 months or more without treatment.
+
+Tumor Assessment
+Mice were killed at 9 weeks after establishment of the tumors. The lungs were removed and fixed in formalin. The lungs were then sectioned and stained with hematoxylin and eosin. The number of lung tumors per mouse was recorded.
+
+Statistical Analysis
+The results are expressed as mean ± SEM. Statistical significance was determined by one-way ANOVA followed by Tukey’s post hoc test. A p value of less than 0.05 was considered statistically significant.
+
+Results
+NNK and BaP induce lung tumors in A/ mice. The doses of NNK and BaP used in this study are shown in Table 1. Mice were injected i.p. with the chemicals for 2 weeks, followed by an additional 18 months or more without treatment. The incidence of lung tumors in mice treated with a combination of NNK and BaP was additive.
+
+Discussion
+The results of this study show that NNK and BaP induce lung tumors in A/J mice. The doses of NNK and BaP used in this study are shown in Table 1. Mice were injected i.p. with the chemicals for 2 weeks, followed by an additional 18 months or more without treatment. The incidence of lung tumors in mice treated with a combination of NNK and BaP was additive.
+
+The A/J mouse is a useful model for studying lung cancer because it develops lung adenomas rapidly and can be readily quantified and their progression to carcinomas followed (6). The combined effects of NNK and BaP have not been thoroughly investigated. We chose the A/J mouse model to evaluate the effects of chemopreventive agents. Watsonberg et al. (7) have examined the effects of several different compounds against carcinogenicity by NNK, BaP, diethylnitrosamine and 7,12-dimethylbenz[a]anthracene (9, 10). We have used the A/J mouse to evaluate the effects of methylsuccinic acid on lung tumor induction by NNK (11). The results obtained with this model can be applied in other models for example, phenylthioisocyanate (PTIC) is an effective inhibitor of lung tumor induction (12).
+
+Both the NNK and BaP have been shown to induce single tumors in mice. We have examined the effects of single chemopreventive agents against single tumors in the A/J mouse model (13). The smoke which is chosen for this study includes NNK and BaP, components of tobacco smoke (2).
+
+Table 1. Doses of NNK and BaP used in this study
+
+Group | NNK (mg/kg) | BaP (mg/kg)
+------- | -------- | --------
+1 | 10 | 0
+2 | 0 | 10
+3 | 5 | 5
+4 | 0 | 0
+
+References
+1. Wynder, C.L., and Iannucci, P.E. (1986). Chemical constituents of cigarette smoke and their role in lung cancer etiology. Arch. Environ. Health 41, 237–245.
+2. Hoffmann, D.C. (1980). Tobacco smoke: a complex mixture of carcinogens. Prog. Exp. Biol. Med. 136, 1–19.
+3. Hecht, S.J. (1993). Metabolism and molecular biology of arylamines and heterocyclic amines. Chem. Res. Toxicol. 6, 245–258.
+4. DeLuca, E.F., Goodard, Z., and Felton, D.A. (1978). Benzo[a]pyrene-induced lung tumors in mice. Cancer Res. 38, 3016–3022.
+5. Watanabe, T., and Toyooka, H. (1981). Carcinogenicity of 4-(methylnitrosoamino)-1-butanone in the F344 rat. Gann. 

@@ -1,0 +1,91 @@
+MATERIAL SAFETY DATA SHEET: MAGNESIUM PHOSPHIDE
+
+MAGTOXIN® SPOT FUMIGANT, FUMI-CEL®, FUMI-STRIP®
+
+PROPER DOT SHIPPING NAME: MAGNESIUM PHOSPHIDE, CL 4.3, UN2011, PG I, DANGEROUS WHEN WET,
+POISON LABELS APPLY
+
+SECTION I
+
+Manufacturer: Telephone: (703) 224-9281
+DEGESCH America, Inc. Telefax: (703) 224-6225
+277 Triangle Dr. Telex: 62823
+P.O. Box 116 Telex: 82923
+Waynesboro, VA 24486 U.S.A.
+
+EMERGENCY TELEPHONE NOS.:
+Emergency - Chemtrec (800) 424-9300
+Emergency and Information – DEGESCH America, Inc. (703) 224-9281
+
+Date of Revision: June 1993
+
+SECTION II – HAZARDOUS INGREDIENTS INFORMATION
+
+Identity:
+Magtoxin Spot Fumigant, Fumi-Cel®, Fumi-Strip®. Magnesium Phosphide, Mg₃P₂. Reacts with water to produce phosphine, hydrogen
+phosphide, PH₃ as shown in Equation 1. Magtoxin is formulated with 60% magnesium phosphide and also contains ammonium
+carbamate and inert ingredients. Ammonium carbamate releases ammonia and carbon dioxide as shown in Equation 2.
+
+1) Mg₃P₂ + 6H₂O → 3Mg(OH)₂ + 2PH₃   2) NH₄COONH₄ → 2NH₃ + CO₂
+                                                 NH₄COONH₄ CAS No. 1111-78-0
+
+Mg₃P₂ CAS No. 12057-74-8      NH₃  CAS No. 7684-41-7
+PH₃ CAS No. 7803-51-2       CO₂   CAS No. 124-38-9
+
+NFPA Chemical Hazard Ratings:     SARA Physical and Health Hazards:
+Flammability Hazard 4              Fire  Reactivity
+Health Hazard 4                  Immediate (Acute)
+Reactivity Hazard 2
+Special Hazard W
+
+Magtoxin is available in porous blister packs called the Magtoxin Spot Fumigant. Fumi-Cel is produced by impregnating
+magnesium phosphide into a polymer end-of-tube, and it is formed by attaching, through an adhesive, magnesium phosphide to the Fumi-
+Strip is formed by attaching, end-to-end, the coil of the Fumi-Cel plates. Fumi-Cel® and Fumi-Strip® contain carbon dioxide
+and ammonia. All metal phosphides produce poison in gas-tight containers.
+
+Inhalation Exposure Limits:
+
+Component          OSHA PEL             ACGI TLV           (ppm)
+Phosphine            TWA: 0.1 mg/m³      TWA: 0.3 mg/m³     (DL)
+Ammonia              TWA: 50 ppm         TWA: 25 ppm       (DL)
+Hydrogen             TWA: 15 ppm          TWA: 15 ppm       (DL)
+Carbon Dioxide        TWA: 5,000 ppm      TWA: 5,000 ppm    (DL)
+
+SECTION III – PHYSICAL AND CHEMICAL CHARACTERISTICS
+
+Boiling Point (°F): PH₃ 96.2; NH₃ -33.4; CO₂ -109.5
+Melting Point (°F): Mg₃P₂ 1207; NH₄COONH₄ 158-163
+Vapor Density (Air = 1): PH₃ 1.6; NH₃ 0.59; CO₂ 1.52
+Vapor Pressure:  (mm Hg)
+PH₃ 760°F   NH₃ 96.1 lb/in² @ 70°F    CO₂ 543 mmHg @ 68°F
+
+SECTION IV – STABILITY AND REACTIVITY
+
+Stability: Stable under normal conditions.
+
+Hazardous Polymerization: Will not occur.
+
+Conditions to Avoid: Moisture, heat, sparks, flames, strong oxidizers.
+
+Decomposition Products: Phosphine, hydrogen phosphide, ammonia, carbon dioxide, magnesium oxide.
+
+SECTION V – SPILL AND LEAK PROCEDURES
+
+Spill: Isolate area. Ventilate. Prevent from entering sewers or waterways. Use non-sparking tools. Cover with an inert
+material such as sand or vermiculite. Collect and store in a closed container for disposal.
+
+Leak: Refer to spill procedures.
+
+SECTION VI – FIRST AID MEASURES
+
+Inhalation: Remove victim to fresh air. Administer oxygen if breathing is difficult. Get medical attention immediately.
+
+Skin Contact: Flush with water for 15 minutes. Remove contaminated clothing. Get medical attention.
+
+Eye Contact: Flush with water for 15 minutes. Get medical attention.
+
+Ingestion: Do NOT induce vomiting. Give large quantities of water or milk. Get medical attention immediately.
+
+
+
+20554A

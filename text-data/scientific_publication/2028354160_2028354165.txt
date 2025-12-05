@@ -1,0 +1,26 @@
+Conduit Artery Compliance and Distensibility
+Are Not Necessarily Reduced in Hypertension
+
+Daniel Hayoz, Blaise Rutschmann, François Perret, Michel Niederberger, Yanik Tardy,
+Vincent Mooser, Jury Nussberger, Bernard Weber, and Hans R. Brunner
+
+The goal of this study was to investigate whether the elastic behavior of conduit arteries of humans or rats is altered as a result of concomitant hypertension. A high-resolution ultrasonic compliance-pressure curves were determined noninvasively by means of a high precision ultrasonic echo-tracking device coupled with an automated finger blood pressure monitoring. Seventeen newly diagnosed hypertensive patients with a humeral blood pressure of 167±13/102±8 mm Hg (mean ± SEM) and seventeen normotensive controls with a humeral blood pressure of 121±7/75±6 mm Hg were included in the study. Compliance-pressure curves were also established at the carotid artery of 16-week-old anesthetized spontaneously hypertensive rats (SHR) and Wistar-Kyoto control rats (WKR) (n=8 each). The ultrasonic echo-tracking device, in these animals, intra-arterial pressure was monitored in the contralateral carotid artery. Mean blood pressure was 175±12 and 130±9 mm Hg in the hypertensive and normotensive rats, respectively. Despite the considerable differences in blood pressure, the diameter-pressure and cross-sectional area-pressure relationships of human conduit arteries and rats were comparable when their respective curves were compared with their respective controls. These results suggest that the elastic behavior of a conduit artery (e.g., carotid) in humans or rats is not necessarily altered by an increase in blood pressure. (Hypertension 1992;20:6-11)
+
+KEY WORDS elasticity • arteries • essential hypertension • ultrasonography • spontaneously
+hypertensive rats
+
+The structural changes of arterial wall observed in hypertensive patients may reflect either a primary defect or a consequence of an elevated blood pressure. Increased vascular thickness is thought to be a key determinant of the mechanical behavior of conduit vessels. Several physical parameters have been used to assess this change, including the compliance change on arteries and pulse wave velocity. Because of technical difficulties, measurements of arterial compliance in humans have been limited to large arteries such as the aorta or femoral artery. The use of ultrasonic echo-tracking techniques has recently allowed for noninvasive measurement of the diameter and pressure changes in smaller arteries such as the brachial artery.1’2 In addition, this technique allows simultaneous recording of finger blood pressure, which can be used as an estimate of intra-arterial pressure.3’4
+
+The application of high-frequency ultrasound to arteries has been limited by the attenuation of sound waves in tissue.5 However, with improved ultrasonic equipment and techniques, it is now possible to measure diameter changes in relatively small arteries such as the radial or carotid artery.6’7 The use of a high frequency transducer (12 MHz) allows for accurate measurements of arterial diameter, even in obese patients.8 Furthermore, the simultaneous recording of finger blood pressure provides an estimate of intra-arterial pressure that is closely related to the true arterial pressure.9’10
+
+The application of ultrasonic changes dramatically with variations in blood pressure. Therefore, pressure has to be accounted for as a variable. This has not always been possible in the past due to methodological difficulties. In the present study, we have used an internal diameter and finger blood pressure recording simultaneously to evaluate the elastic behavior of conduit arteries in newly diagnosed hypertensive patients. We also investigated whether circulatory changes are associated with hypertension in spontaneously hypertensive rats (SHR) and Wistar-Kyoto control rats (WKR). The hypothesis was that the elastic behavior of a conduit artery is not necessarily altered by an increase in blood pressure.
+
+Subjects and Methods
+
+Human Studies
+
+Seventeen newly diagnosed hypertensive patients (11 men, 6 women; age 47±3 years) with a systolic/diastolic humeral blood pressure of 167±13/102±8 mm Hg (mean ± SEM) and seventeen normotensive controls (9 men, 8 women; age 45±2 years) with a humeral blood pressure of 121±7/75±6 mm Hg were included in the study. All patients had not received antihypertensive medication for at least 4 weeks prior to entering the study. The diagnosis of hypertension was based on two or more elevated blood pressure readings obtained during separate visits.
+
+Animal Studies
+
+Sixteen-week-old spontaneously hypertensive rats (SHR) and Wistar-Kyoto control rats (WKR) were obtained from the Jackson Laboratory. Sixteen rats of each group (n=8 each) were included in the study. The animals were anesthetized with pentobarbital (50 mg/kg ip). A high frequency ultrasonic transducer (12 MHz) was placed on the ventral surface of the neck to measure the diameter of the carotid artery. Intra-arterial pressure was monitored in the contralateral carotid artery via a polyethylene catheter inserted through the femoral artery.

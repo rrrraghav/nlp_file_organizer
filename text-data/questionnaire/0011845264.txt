@@ -1,0 +1,67 @@
+(AREA CODE AND PHONE NUMBER)
+
+406/28 - 1570
+
+
+
+Rep # 10
+Page: Leslie Castillo
+Interviewer: 1227
+Results: Complete
+State: MT
+Duration: 40 minutes
+
+WAVE:
+-1 5 week (5)
+-2 15 week
+-3 15 week
+-4 20 week
+
+SEX:
+(1) Male
+(2) Female
+
+9.21 BRANDS RATED
+(1) Virginia Slims
+(2) More
+(3) Capri
+(4) Salem
+Benson and Hedges
+
+
+
+M/S/CAP (AM)
+
+Hello, I’m from Kapler Marketing Research, a public opinion firm in Chicago. We are conducting a national study about consumers' opinions of some products. Your name was selected at random from telephone households in the [CITY] area, and we would really appreciate your opinions for this survey. We assure you that we are not selling any products, and your answers will be held in complete confidence.
+
+A. May I please speak to someone 21 years of age or older?
+
+(1) No one in household 21 or older --> (TERMINATE)
+On-called to phone... --> (GO TO Q.B.)
+-3 Unavailable ... (SET UP CALLBACK)
+
+B. How many people, 21 years of age or older, in your household…
+
+Drink diet beverages?  |
+Smoke cigarettes?   |
+Eat Mexican Food?    |
+
+
+
+(IF WOMEN DO SMOKE CIGARETTES, TERMINATE. IF ONE, ASK FOR THAT PERSON THEN ASK Q.I.D. AND GO TO Q.E ON THE NEXT PAGE. IF MORE THAN ONE, CONTINUE WITH Q.C)
+
+C. Do you, or does anyone in your immediate family work for… (IF YES TO ANY, TERMINATE Q.C.)
+
+-1 An advertising agency or advertising department of a company
+-2 A cigarette manufacturer or tobacco distributor
+-3 A magazine, newspaper, radio or television station
+-4 A marketing, research company or marketing research department
+-5 None
+
+
+
+466911575
+
+
+
+ox

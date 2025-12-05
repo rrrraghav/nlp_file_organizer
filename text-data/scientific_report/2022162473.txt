@@ -1,0 +1,51 @@
+PROJECT NUMBER: 0008
+PROJECT TITLE: Computer Applications/General Support
+PROJECT LEADER: G. D. Davis
+PERIOD COVERED: March 15 - April 19, 1988
+
+Library Palantir/Fulcrum Test
+
+B. Objective: To develop a working understanding of the Palantir scanner
+and the Fulcrum Fultext database; to create a Fultext collection for
+user testing utilizing data captured through the Palantir scanner.
+
+B. Results: A total of 18 user specified files were entered into the
+system using the Palantir Scanner. Two of these files were unable to be
+scanned due to smearing of the paper print. All the files were
+created from articles found in newspapers or magazines. Overall, the
+Palantir did an excellent job of scanning this data in. It did prove
+to be fairly time consuming though due to the Palantir user being a novice
+and the data was being derived from newspaper print.
+
+Fulcrum was used to create a fultext database collection. It had no
+apparent problems with any of the files referenced. The created
+database and profile were brought to the library. The necessary
+environment variables and path names were added to the .logins to access
+fultext. A demonstration/training session was held with Charity
+McDonald to introduce her to the basic commands, menus and terminology
+needed to use Fulcrum.
+
+C. Conclusions: The Library’s initial reaction to the fultext database
+seemed very positive. They were particularly impressed with the general
+flow of the menus and ease of use. It was determined that the Palantir
+scanner could not be used to enter into the system data that was
+generated before January of this year. Prior to this time the method of
+storing data was an unconcerned cut and paste process that created
+shadows, lines and severe skewing of the file making it impossible for
+any scanner to read. However, due to improvements in this method used
+to store data, the Palantir scanner will be used from this date on to
+scan data into the system.
+
+D. Plans: To remain accessible to the library users as they continue to
+need the Fulcrum database to answer questions or give support in anyway
+needed. To continue expanding the current knowledge base and the Fulcrum
+database for the Library current. At CAD, at that time we will
+have the opportunity to meet with them again. Screens and develop files
+which they want to ask questions or user requirements.
+
+2021-07-19 
+20210719
+
+
+
+                                      78

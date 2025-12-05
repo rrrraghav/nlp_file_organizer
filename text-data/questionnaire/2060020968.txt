@@ -1,0 +1,45 @@
+MARKETING RESEARCH SERVICES, INC. MRSI #6256
+
+15 EAST EIGHTH STREET
+CINCINNATI, OHIO 45202
+(513) 579-1555
+
+
+
+PARLIAMENT - REGION 1 SMOKERS
+
+1. Hello, I’m _____ of Marketing Research Services, a
+national public opinion firm calling long distance from Cincinnati,
+Ohio. I'd like to ask you a few questions, and your answers, of course,
+will be kept entirely confidential. We’re talking to people between the
+ages of 18 and 24, so first of all, are you between the ages of 18 and
+24?
+
+Yes - 1  ASK Q.IB
+No - 2  ASK: May I speak to someone who is
+between the ages of 18 and 24?
+
+
+
+IF NO ONE 18-24 IS AT HOME NOW WHO CAN BE INTERVIEWED, THANK AND ARRANGE
+TO CALL BACK. IF NECESSARY, RE-INTRODUCE YOURSELF AND PROCEED.
+
+
+
+IF NO ADULT 18-24 LIVES IN HOUSEHOLD, TERMINATE AND TALLY.
+
+2. Are there any people in this household, including yourself, who are
+between the ages of 18 and 24 and smoke cigarettes?
+
+Yes - 1  ASK Q.3
+No - 2  TERMINATE
+
+
+
+CALLBACK DATE: CALLBACK TIME:
+NAME: AGE:
+TELEPHONE: _____ STATE CODE: _____
+
+
+
+206020965

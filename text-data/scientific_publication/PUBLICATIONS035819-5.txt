@@ -1,0 +1,33 @@
+Reproduced from Biochemistry, 1985, 24, 6309.
+Copyright © 1987 by the American Chemical Society Printed in U.S.A.
+
+Tac Antigen Forms Dimer-Like Homodimers*
+
+Koichi Katō and Kendall A. Smith*
+Department of Medicine, Dartmouth Medical School, Hanover, New Hampshire 03756
+Received October 26, 1986; Revision Manuscript Received January 29, 1987
+
+ABSTRACT Interleukin 2 (IL-2) is responsible for stimulating T cell proliferation via interaction with specific receptors on the surface of responsive cells. A high-affinity IL-2 receptor has been identified by virtue of its reactivity with a monoclonal antibody that competes with IL-2 binding (anti-Tac). The Tac antigen represents the IL-2 receptor, and it can be detected in both IL-2–responsive and non-IL-2–responsive cell lines. We define further the composition of IL-2 receptors by analyzing their polypeptide chains using immunoprecipitation and gel electrophoresis techniques. Our approaches yield multimeric products that migrate as two major bands on NaDodSO4/PAGE. A variety of experimental conditions, including treatment with neuraminidase, suggest that these are homodimers. The Tac antigen can be released from cells under conditions that also release other cell surface heterodimers. Examination under more stringent conditions demonstrates the presence of a higher molecular weight homodimer.
+Examination under more stringent conditions demonstrated activation of a higher molecular weight homodimer.
+The disulfide bond is formed between two chains with apparent molecular weights of 100,000 in addition to the lower molecular weight forms. The formation of this disulfide bond is required for Tac antigen expression. Receptor proteins are indicated that extend into the presence of N-glycosylation sites and are consistent when the receptor is glycosylated. These findings suggest that the Tac antigen represents a homodimer with possible oligomeric association as it relates to the formation of high-affinity IL-2 receptors, is presently unknown.
+
+U ntil now, the structural characteristics of the IL-2 receptor have been poorly defined.
+(Rob et al., 1986) has utilized biochemical and genetic approaches to characterize IL-2 receptors on T cells. The expression of monoclonal antibodies (i.e. IL-2Rα, IL-2Rβ, IL-2Rγ) is used to identify IL-2 receptor polypeptides.
+The Tac antigen (Katz et al., 1985) is a T cell–associated molecule that binds IL-2 with high affinity and can be detected on both IL-2–responsive and non-IL-2–responsive cell lines. The Tac antigen has been shown to be an IL-2 receptor (Smith et al., 1986).
+The human IL-2 receptor is composed of at least two distinct polypeptide chains: a β chain (approximately 55,000 Da) and a γ chain (approximately 35,000 Da) (Ishida et al., 1986; Tanaka et al., 1986). The IL-2Rβ is expressed on all T cells, while the IL-2Rγ is restricted to activated T cells.
+The human IL-2 receptor β chain gene has been cloned (Smith et al., 1987) and its nucleotide sequence determined (Smith et al., 1987). The predicted amino acid sequence of the β chain shows homology with the human platelet-derived growth factor receptor (Ullrich et al., 1985; Traub et al., 1986).
+The human IL-2 receptor γ chain gene has also been cloned (Akiyama et al., 1987) and its nucleotide sequence determined (Akiyama et al., 1987). The predicted amino acid sequence of the γ chain shows homology with the human erythropoietin receptor (Yamada et al., 1987).
+The Tac antigen is a high-affinity IL-2 binding component that is expressed on T cells and some non-T cell lines. The Tac antigen has been shown to be a homodimer of approximately 100,000 Da (Smith et al., 1986).
+In this paper, we report further characterization of the Tac antigen and its relationship to the human IL-2 receptor β chain and γ chain. We have used immunoprecipitation and gel electrophoresis techniques to analyze the polypeptide composition of the Tac antigen. Our results indicate that the Tac antigen is a homodimer composed of two β chains.
+Experimental Procedures
+
+Cells: Human T cell leukemic (HUT 78) cells were obtained from the American Type Culture Collection (ATCC, Rockville, MD). These cells express both IL-2Rβ and IL-2Rγ chains. RPMI 8226 cells are a human myeloma cell line that does not express IL-2Rγ chain.
+Antibodies: The monoclonal antibody Tac is directed against the Tac antigen. It binds IL-2 with high affinity and inhibits IL-2 binding to T cells (Smith et al., 1986).
+Immunoprecipitation and Gel Electrophoresis: Cells were lysed in buffer containing Tris–HCl, NaCl, EDTA, and proteinase inhibitors. The lysates were immunoprecipitated with monoclonal antibody Tac coupled to Sepharose beads. Immunoprecipitates were analyzed by NaDodSO4/PAGE under reducing conditions. Gels were stained with Coomassie Blue or transferred to nitrocellulose for immunoblot analysis.
+Neuraminidase Treatment: Cells were treated with neuraminidase (Sigma Chemical Co., St. Louis, MO) at a concentration of 50 mU/mL for 30 min at 37 °C.
+
+*This work was supported by National Institutes of Health Grant AI26419.
+To whom reprints should be addressed.
+
+
+

@@ -1,0 +1,26 @@
+INBIFO Institut für biologische Forschung · Köln
+
+1.2 -
+MEAN SCORES
+
+1.0 -
+
+0.8 -
+
+0.6 -
+
+0.4 -
+
+0.2 -
+
+0 -
+0-GR     3-GR      6-GR
+SHAM       FSS        CSS
+
+
+
+p 0500/3169, 8011702, KGa, V9 F184 VA F184, PNEUMOCYTES TYPE II, LAMELAR BODIES FREQUENCY
+
+0460
+
+2501604277

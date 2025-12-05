@@ -1,0 +1,54 @@
+POB22 CITY VALID ION PLACEMENT DOCU T #
+SPOR
+
+hello, I’m from ______. We're doing a
+survey in the area and I would like to ask you a few questions.
+
+1. MARK CITY:
+Chicago..... 1 Memphis..... 4
+Dal/Ft. Worth.. 2 Philadelphia... 5
+Los Angeles.. 3 Pittsburgh.... 6
+Female..... 2
+
+2. Male…..
+
+3. Do you smoke cigarettes? Yes… 1 No…. 2—TERMINATE
+
+4. What one brand of cigarettes do you usually smoke? (DO NOT READ
+   CHOICES)
+     FULL PASTE       HIGH FILTRATION
+Camel Filter……... 1 Carlton………... 1
+L & M (Hard Box).….. 2 Doral……….. 2
+L & M (Soft Pack)…... 3 Kent Golden Lights… 2
+Marlboro (Hard Box)… 4 Marlboro Lights…. 3
+Marlboro (Soft Pack)… 5 Merit…………… 4
+Pall Mall………... 6 Now………….. 5
+Tarey……….. 7 Parliament (Hard Box)….. 6
+Winston (Hard Box).….. 8 Parliament (Soft Pack)… 9
+Winston (Soft Pack)… 9 True…………. X
+Vantage…….. X
+Winston Lights… X
+
+CHECK QUOTA SHEET
+
+5. Is that a: Non-menthol filter... 1
+       Menthol filter…. 2—TERMINATE
+       Non-filter….. 3—TERMINATE
+
+6. About how many cigarettes do you usually smoke per day?
+   Less than one—TERMINATE  20 (1 pack for) … 3
+   1 – 9……………………… 1 More than one pack… 4
+   10 – 19………………… 2
+
+INTERVIEWER INT. ID #
+RESPONDENT # DATE ____/____ TIME _____ Started Finished
+
+MAGAZINE CODED: 1 2 3 4 (PLEASE TURN PAGE)
+
+
+
+NOTICE IF THE FILM IMAGE IS LESS CLEAR
+THAN THIS, IT MAY BE DUE TO THE
+QUALITY OF THE DOCUMENT BEING FILMED.
+
+7 7 7 0 4 7 4 6 9

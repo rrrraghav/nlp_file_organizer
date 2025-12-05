@@ -1,0 +1,86 @@
+THE JOURNAL Vol. 2 No. 4 pp. 499–504, 1983
+
+Purification of muscarinic acetylcholine receptors by affinity chromatography
+
+C. André¹*, J.P. De Becker¹, J.C. Guillet²,
+P. Vanderheyden², C. Vauquierin² and A.D. Strosberg²
+
+'Department of Protein Chemistry (turbulent Biochemical),
+Free University of Brussels, Laarbeeklaan 103, B-1090 Brussels,
+Belgium, and ²Laboratory of Molecular Immunology, Jacques Ménard
+Institute, CNRS, Universite Paris VII, Tour 43, Place Jussieu,
+75251 Paris Cedex 5, France
+
+Communicated by S. Azoulay
+Received on 6 December 1982; revised on 6 February 1983
+
+Calf forebrain homogenates contain 2.8 pm muscarinic acetylcholine receptors per mg of protein. [H]Prazosin saturation revealed a single class of sites with equilibrium dissociation constants of 0.42 nm for [H]prazosin and 0.095 nm for [H]muscarinol. Displacement of binding sites
+with agonists revealed the presence of low and high affinity
+states, which are stabilized by different ligands. Purification by
+affinity chromatography using an affinity gel consisted
+of dexlantide coupled to Affi-Gel 10 (L), carbony|-N-hydroxysuccinimide esters linked via a 1 nm spacer arm
+allowed binding. Purified proteins were obtained at a pH of
+8.0 using imidazole buffer. The immobilized protein
+and the irreversible ligand propylbenzilic anhydride,
+sited-preparations gave evidence of a single muscarinic
+subtype. Polyacrylamide gel electrophoresis in sodium
+dodecyl sulphate (SDS) revealed a molecular weight of
+approximately 60 kd.
+
+Introduction
+
+Muscarinic acetylcholine receptors are membrane proteins that mediate the effects of acetylcholine and related agonists on various tissues (Fredriksson & von Euler, 1967; Hogquist & Ulman, 1971). These receptors are G-protein coupled receptors (Piomelli et al., 1980) which elicit a variety of cellular responses including changes in ion conductance (Van Crunningen et al., 1982), phosphatidylinositol turnover (Hokin & Neild, 1981) and cyclic nucleotide production (Skelton et al., 1981). The existence of different muscarinic receptor subtypes has been suggested by pharmacological studies (Faccini et al., 1974; Van Nuys et al., 1975) and by the observation that agonists and antagonists can have opposite effects on agonist affinity but
+no effect on antagonist binding (Chien et al., 1981; Weis & Sulakhe, 1980; Scammell et al., 1980) and finally, agonists
+but not antagonists induce conformational changes (Vauquierin et al., 1982).
+
+mAChRs have been successfully solubilized with a wide
+variety of detergents, but the digitonin appears to be
+most effective (Goriscn et al., 1981; Ruess and Lickfander,
+1979; Hucho, 1979; Karlsson et al., 1978; Repke and Mat-
+thies, 1980). An affinity gel with high affinity for mAChRs
+(Repke et al., 1980) has been described recently and a
+purified hydrophobic mAChRs and α2NAChR proteins
+was attempted earlier (Barrantes et al., 1979). We report here
+the first successful purification of mAChRs. These receptors
+were solubilized with digitonin, purified by absorption on
+an affinity gel with dexlantide followed by elution with
+the mAChR antagonists atropine or with a highly specific
+irreversible ligand propylbenzilic anhydride (PBA-CN).
+The radiolabelled purified proteins were analysed by SDS-
+polyacrylamide gel electrophoresis (SDS-PAGE).
+
+Results
+
+Ligand Binding Characteristics of Forebrain Membrane
+Extracts
+
+The affinity purification of mAChRs used a column
+containing dexlantide coupled to Affi-Gel 10 (L) via N-hydroxysuccinimide ester. Dextrantide is an analogue of
+the peptide hormone bombesin and binds with high affinity
+to muscarinic receptors (Vauquierin et al., 1982). The
+binding characteristics of mAChRs in calf forebrain
+membranes have been previously described (André et al.,
+1982). Saturation experiments using [H]prazosin revealed a
+single class of sites with an equilibrium dissociation constant
+of 0.42 nm (Figure 1A). The number of binding sites per
+mg of membrane protein was found to be 2.8 pm. Similar
+results were obtained using [H]muscarinol, which gave an
+equilibrium dissociation constant of 0.095 nm (Figure 1B).
+
+Affinity Purification of mAChRs
+
+Membranes were solubilized in buffer containing 1%
+digitonin and applied to the affinity column. Bound proteins
+were eluted with 10 mM atropine or 1 mM propylbenzilic
+anhydride N-hydroxysuccinimide ester (PBA-CN). The
+elution profile obtained using atropine is shown in Figure 2A.
+The elution profile obtained using PBA-CN is shown in Figure
+2B.
+
+Figure 3 shows a representative SDS-PAGE analysis of
+the proteins eluted with atropine or PBA-CN. A single band
+at approximately 60 kd was observed in both fractions.
+
+
+
+(*) To whom reprint requests should be addressed.

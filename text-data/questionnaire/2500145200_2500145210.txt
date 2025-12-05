@@ -1,0 +1,44 @@
+Country: 1
+
+RECRUITMENT QUESTIONNAIRE
+
+Approach only: 18-45 years old men
+
+USE QUOTAS AS SET ON SMOKING/NON SMOKING AND AGE.
+
+Use Quota Use Only:
+Age Group:
+18-24 A
+25-29 B
+30-34 C
+35-39 D
+40-45 E
+
+Smoke: 2
+Yes Y
+No N
+
+Recruitment question:
+I would like to know how interested you are in Motorsports, such as Formula 1. I am going to read four statements to you; please tell me which ONE of them applies to you personally.
+
+I have attended a Racing Event in the past 12 Months A
+I have NOT attended, but frequently watch racing events B
+on TV or read about it
+I have NOT attended, but occasionally watch C
+racing events on TV or read about it
+I am NOT INTERESTED in Motorsport D 4
+
+ONLY CONTINUE WITH QUESTIONNAIRE
+IF RESPONDENT ANSWERS CODES A,B OR C
+
+PLEASE ATTACH THIS RECRUITMENT QUESTIONNAIRE
+TO THE FULL QUESTIONNAIRE
+
+IF RESPONDENT ANSWERS CODE D, CONTINUE WITH QUESTIONS REGARDING
+PROFILE (SECTIONS L & P) ON THE REVERSE OF THIS SHEET.
+THEN CLOSE QUESTIONNAIRE
+
+KEEP THIS PAGE SEPARATE IF RESPONDENT ANSWERS D
+
+(c) 1993 Sports Marketing Surveys Ltd. 250457-005C
+Page 1

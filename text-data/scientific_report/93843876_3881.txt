@@ -1,0 +1,16 @@
+APPLICABILITY OF DNA AND PROTEIN ADDUCTS AS BIOCHEMICAL MARKERS IN ETS EXPOSURE DOSIMETRY
+
+Jarvis (1989) has listed the prerequisites of an ideal biochemical marker for exposure to ETS: (a) specific to tobacco smoke, (b) long-half life, (c) analytically method sensitive, precise and applicable to monitoring, and (d) valid indicator of health risk.
+
+Which component(s) of mainstream or sidestream smoke is responsible for each target organ effect is unknown. Broad classes of smoke components under consideration include polycyclic aromatic hydrocarbons (PAH), aryl/heterocyclic amines, nitrosamines, vinyl monomeros, radiosotopes, benzene, and polyphenols. A valid dosimetry marker for the purpose of high (mainstream) to low dose (ETS) risk extrapolation ideally would incorporate the most biologically relevant particulate smoke components and target organs. Several tobacco derived chemical addition products (adducts) in protein and DNA have been studied as markers to determine the extent of internal or target organ dose following exposure. The detection methods fall into three major categories-- Immunochemical, Physicochemical, and 3H-Post Labeling. Here I give an overview of human adduct dosimetry and discuss evidence from recent literature indicating which, if any, of these adduct dosimeters may be applicable to ETS.
+
+Figure 1. Relationship of Biomarker to Exposure
+
+0 Bioactivation of genotoxins in CSC is catalyzed primarily by P-
+450 1A2 (Shimada and Guengerich, 1991)
+
+0 No DNA adducts related to Benz(a)pyrene or other common PAH are detected in smokers lungs or placenta; or mice treated with CSC
+
+
+
+9384296

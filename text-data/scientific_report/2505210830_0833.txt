@@ -1,0 +1,24 @@
+PRIORITY
+
+B1044 - P0500/3238, URSUS 21-day pilot study
+Dose
+
+250
+   
+  1R4F-origin.estim.
+  U-60-1-revised forecast
+  U-60-2-revised forecast
+
+150 -
+
+100 -
+
+50 -
+
+0
+    0      5     10    15    20   25   30
+dose (cigarettes/m²)
+
+2505270830
+
+CRC/PMT                 page 17                27 Jul.95

@@ -1,0 +1,109 @@
+CAT. NO. 52419
+
+MSDS # 14767
+
+REV. DATE: 8/9/90
+PRINT DATE: 8/9/90
+
+HACH COMPANY
+P.O. BOX 3415
+AMES, IA 50010
+
+European Telephone &
+Fax Number: (303) 494-6716
+
+I. PRODUCT IDENTIFICATION
+
+ACCELERATE (T.M.)  Documented trace solution for
+Aquatic Life Water Quality Tests.
+Appearance: Liquid, colorless
+Odor: None known. Not applicable.
+
+II. INGREDIENTS
+
+Electrolytes/Buffer Solution: Tetraboron sodium, Bicarbonate of Sodium, Sodium Chloride. All ingredients
+are considered safe.
+
+Other: Water
+
+CAS NO. not listed CAS NO. not available
+N/E for this application N/E for this application
+
+Specific Hazard Data:  None known. Not applicable.
+
+III. PHYSICAL DATA
+
+Appearance: Clear liquid.
+Odor: None known.
+Boiling Point: 212°F (100°C)
+Melting Point: 32°F (0°C)
+Vapor Pressure: >1 mm Hg @ 20°C
+Specific Gravity: 1.00 - 1.04
+Solubility in Water: Miscible
+pH: 8.5-9.5
+
+IV. FIRE AND EXPLOSION HAZARD DATA
+
+Not applicable. This product is not a fire or explosion hazard.
+
+V. REACTIVITY DATA
+
+Stable under normal conditions.  Avoid contact with strong oxidizing agents.
+
+VI. FIRST AID
+
+Eyes are most affected. Immediately flush eyes with water for
+at least 15 minutes, occasionally lifting upper and lower eyelids.
+Remove contact lenses if present. Get medical attention immediately.
+Ingestion: Drink 1-2 glasses of milk or water and obtain immediate
+medical attention. Do not induce vomiting.
+
+VII. SPILL AND DISPOSAL PROCEDURES
+
+In case of spill or leakage, dilute with water. Pour down the drain
+following all applicable state and local regulations.
+
+VIII. TRANSPORTATION DATA
+
+U.S.D.O.T. PROPER SHIPPING NAME: Corrosive Liquids, N.O.S.
+(Contains Sodium Hydroxide) UN 1816
+CLASS: 8
+PACKAGING GROUP: II
+
+I.A.T.A. PROPER SHIPPING NAME: Corrosive Liquid, N.O.S. (Bicarbonate of
+Sodium Solution)
+CLASS: 8
+UN NUMBER: UN 1816
+PACKAGING GROUP: II
+
+U.S.D.O.T. PROPER SHIPPING NAME:  Corrosive Liquids, N.O.S. (Contains
+Sodium Chloride)
+CLASS: 8
+UN NUMBER: UN 3264
+PACKAGING GROUP: III
+
+IX. REFERENCES
+
+1.  "ILSI’s Threshold of Toxicological Concern” and “Reported Values for the
+    Threshold of Toxicological Concern.” ILSI Risk Science Institute, Washington,
+    D.C., 1995.
+2.  Sax, N.I. "Dangerous Properties of Industrial Materials." Van Nostrand
+    Reinhold Company, New York, NY, 1984.
+3.  "NIOSH Pocket Guide to Chemical Hazards," National Institute for
+    Occupational Safety and Health (NIOSH), U.S. Department of Health and
+    Human Services, Cincinnati, Ohio 45101-8210.
+
+X. DISCLAIMER OF LIABILITY
+
+HACH COMPANY makes no warranty, express or implied, including any warranty
+of merchantability or fitness for a particular purpose.  The information
+contained in this Material Safety Data Sheet is offered as guidance for
+handling HACH COMPANY products safely. It does not substitute individual
+assessment of the suitability of these products for your specific use.
+
+Confidential
+Philip Monte V. ABG,
+
+
+
+ 40-107-09-00

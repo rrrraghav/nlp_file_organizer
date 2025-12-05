@@ -1,0 +1,32 @@
+#2
+
+PM USA Confidential
+
+Marlboro Lights Menthol - Japan
+Central QAT Sensory Results
+Control(s): Original (Normal FZ/Normal Menthol) # Tests: 1
+Experimental(s): Original (High FZ/Normal Menthol) # Tests: 1
+Descriptive Statistics
+
+Attribute   Mean
+Sample Cont. Exper.
+Aftertaste  19    60.8 60.6   0.942
+Astringent  19    35.5 32.4   0.473
+Bitter      18    29.1 29.4   0.741
+Dry         18    46.7 45.2   0.741
+Full        18    55.9 57.8   0.549
+Harsh       19    31.4 26.8   0.525
+Hot         19    31.4 26.8   0.525
+Impact      18    51.4 50.7   0.938
+Menthol     19    56.5 60.7   0.581
+Mouthcoating 19    57.8 58.2   0.928
+Off-Notes   18    45.0 44.0   0.622
+Peppery     18    39.0 29.9   0.019
+Rich        18    47.5 45.2   0.741
+Response    19    57.8 60.3   0.561
+Sweet       19    51.6 50.9   0.893
+Tobacco Taste 18    54.5 50.9   0.346
+
+Doc Code: P/622
+
+2078455794

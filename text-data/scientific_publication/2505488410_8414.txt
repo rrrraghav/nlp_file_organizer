@@ -1,0 +1,207 @@
+STORAGE N°...407.91:5
+
+input N......9.5.2.0....
+
+The Effect of Smoking Cessation During Pregnancy on
+Preterm Delivery and Low Birthweight
+
+Arch G. Mainous III, PhD, and William J. Hueston, MD
+Lexington, Kentucky, and Eau Claire, Wisconsin
+
+Background. Evidence exists that maternal cigarette
+smoking is associated with preterm birth. Our purpose
+was to investigate the relation between maternal smok-
+ing cessation at different points during pregnancy and
+the preterm delivery rate and low birthweight.
+
+Methods. Data from the 1988 National Health Inter-
+view Survey were analyzed. The study included women
+who gave birth to children within 6 years of the 1988
+interview date (N = 4876). Preterm delivery and in-
+fant low birthweight were the main outcome measures.
+These measures were compared with maternal smoking
+status during pregnancy. Logistic regression models
+were computed to control for maternal age at the time
+of birth, parity, race, and total family income.
+
+Results. Women who did not smoke cigarettes during
+pregnancy were less likely to give birth prematurely
+
+(5.9% vs 8.2%, P = .003) or give birth to a low-birth-
+weight baby (5.5% vs 8.9%, P < .001) than women
+who smoked at some time during the year before giv-
+ing birth. A significant association existed between ma-
+ternal smoking status and both preterm delivery and
+low birthweight. Compared with those who smoked
+beyond the first trimester, those who quit smoking
+within the first trimester had reductions in the propor-
+tion of preterm deliveries (6.7% vs 9.1%) and low
+birthweight infants (5.9% vs 8.6%).
+
+Conclusions. Low birthweight and preterm delivery are
+reduced at women who stop smoking in the first tri-
+mester of pregnancy.
+
+Key word, Smoking cessation; birthweight; infant; low
+birthweight; infant; premature. (J Fam Pract 1994;
+38:262-266)
+
+The disproportionate morbidity and mortality resulting
+from preterm delivery need reduction of preterm delivery
+as an important goal. *1* Maternal smoking following
+low birthweights has declined, but this can be attributed
+primarily to advances in prenatal care and changes in the
+composition of the population. It is apparent that
+maternal advice regarding the risk of pregnancy com-
+plications for preterm delivery with continuing smoking
+is not always heeded. *2*
+
+Strategies for preterm prevention require a multifac-
+eted approach. *3,4* The relationship between maternal
+smoking and preterm delivery has been well documented.
+The effect of smoking cessation on preterm delivery is
+less clear. Some studies have suggested that women who
+stop smoking before or during pregnancy may reduce their
+risk of preterm delivery. *5,6* However, other studies have
+not found a significant association. *7,8*
+
+We hypothesized that the timing of smoking cessa-
+tion during pregnancy would influence the risk of pre-
+term delivery and low birthweight. We tested this hy-
+pothesis using data from the 1988 National Health In-
+terview Survey.
+
+Methods
+
+Data Source
+
+The 1988 National Health Interview Survey (NHIS) is a
+large, ongoing survey of a nationally representative sam-
+ple of US households. The NHIS collects information
+on a wide range of health topics, including pregnancy
+outcomes. We extracted data from the Pregnancy and
+Postpartum Sample, which includes detailed questions
+about maternal smoking habits during pregnancy.
+
+Study Population
+
+The study population consisted of women who gave birth
+to children within 6 years of the 1988 interview date.
+We excluded women who did not respond to questions
+about their smoking history during pregnancy (N = 734)
+and those with missing data on preterm delivery or in-
+fant low birthweight (N = 20). The final study sample
+included 4876 women.
+
+Variables
+
+The primary outcome measures were preterm delivery
+(delivery before 37 weeks of gestation) and infant low
+birthweight (less than 2500 g). Maternal smoking sta-
+tus was categorized as never smoker, stopped smoking be-
+fore pregnancy, stopped smoking in the first trimester,
+stopped smoking in the second or third trimester, or
+smoked throughout pregnancy. We defined low birth-
+weight as weighing less than 2500 g.
+
+Statistical Analysis
+
+We used logistic regression models to examine the asso-
+ciation between maternal smoking status and preterm de-
+livery and low birthweight, adjusting for maternal age at
+the time of birth, parity, race, and total family income.
+All statistical analyses were performed using SAS soft-
+ware (SAS Institute Inc, Cary, North Carolina).
+
+Results
+
+The demographic characteristics of the study population
+are shown in Table 1. The mean maternal age was 27.8
+years (SD = 5.6), and 34% were nulliparous. Black
+women comprised 23% of the sample. The prevalence
+of preterm delivery was 7.7%, and the prevalence of low
+birthweight was 7.1%.
+
+The risk of preterm delivery and low birthweight ac-
+cording to maternal smoking status is shown in Table 2.
+Women who did not smoke cigarettes during pregnancy
+were less likely to give birth prematurely (5.9% vs 8.2%,
+P = .003) or give birth to a low-birthweight baby (5.5%
+vs 8.9%, P < .001) than women who smoked at some
+time during the year before giving birth.
+
+The risk of preterm delivery and low birthweight ac-
+cording to timing of smoking cessation is shown in Ta-
+ble 3. Women who stopped smoking in the first trimester
+had a lower risk of preterm delivery (6.7% vs 9.1%, P =
+.02) and low birthweight infants (5.9% vs 8.6%, P < .01)
+compared with women who smoked beyond the first tri-
+mester.
+
+Discussion
+
+Our findings suggest that smoking cessation during preg-
+nancy is associated with a reduced risk of preterm de-
+livery and low birthweight. The greatest reduction in risk
+was observed among women who stopped smoking in the
+first trimester.
+
+These results are consistent with previous studies that
+have shown an association between maternal smoking cessa-
+tion and improved pregnancy outcomes. *5,6* However, other
+studies have not found a significant association. *7,8* The
+differences in findings may be due to differences in study
+design, sample characteristics, or definitions of smok-
+ing cessation.
+
+Our study has several strengths. First, we used data
+from a large, nationally representative survey. Second,
+we controlled for important confounding variables such as
+maternal age, parity, race, and total family income.
+Third, we examined the effect of smoking cessation at dif-
+ferent points during pregnancy.
+
+Our study also has some limitations. First, the NHIS
+is a cross-sectional survey, so we cannot establish cau-
+sality. Second, we relied on self-reported data on smok-
+ing habits, which may be subject to recall bias. Third,
+we did not have information on other factors that could
+influence pregnancy outcomes, such as maternal nutri-
+tion or access to prenatal care.
+
+Despite these limitations, our findings suggest that
+smoking cessation during pregnancy is an important inter-
+vention for reducing the risk of preterm delivery and low
+birthweight. Women who stop smoking in the first tri-
+mester appear to have the greatest benefit.
+
+The authors acknowledge the support of the National
+Health Interview Survey staff.
+
+
+
+TABLE 1. Demographic Characteristics of Study Population (N = 4876)
+
+Characteristic | N | %
+------- | -------- | --------
+Age, years |  |  
+<20 | 953 | 19.6
+20-24 | 1688 | 34.6
+25-29 | 1371 | 28.2
+30-34 | 641 | 13.2
+≥35 | 223 | 4.6
+Parity |  |  
+Nulliparous | 1657 | 34.0
+Multiparous | 3219 | 66.0
+Race |  |  
+White | 3837 | 78.8
+Black | 1118 | 23.0
+Other | 21 | 0.4
+Total family income, $ |  |  
+<20,000 | 1596 | 32.7
+20,000-39,999 | 1835 | 37.7
+≥40,000 | 1445 | 29.7
+
+TABLE 2. Risk of Preterm Delivery and Low Birthweight According to Maternal Smoking Status
+
+Smoking Status | N

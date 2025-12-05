@@ -1,0 +1,62 @@
+09/11/98 17:55 +$503 641 1998 LORTLAND PTLD --- GREENSBORO_SALES 002/003
+
+*Second Survey*
+
+Section I: GENERAL INFORMATION
+
+Date:
+Company Name:
+Company Address:
+
+Survey Completed by:
+Name:
+Title:
+Telephone:
+Faxsimile:
+
+Your 2000 Contact:
+Name:
+Title:
+Telephone:
+Faxsimile:
+
+Section II: PHILIP MORRIS USA INTERFACES
+
+1. Briefly describe all data processing interactions between your Company and Philip Morris USA:
+
+2. Are you aware of any date related issues that will affect your Company’s business relationship with
+Philip Morris USA before or after the century change?
+Yes ___ No ___ Don't Know ___ ?___
+
+If yes, please explain:
+
+Section III: YOUR COMPANY’S INTERNAL SYSTEMS
+
+3. Does your Company have a project under way internally to deal with this Year 2000 issue?
+Yes ___ No ___
+
+If yes, when do you plan on being Year 2000 Ready?
+
+Yes ___ No ___
+
+In the event of system failure, do you have a contingency plan in place to continue billing
+and AR functions?
+Yes ___ No ___
+
+If yes, please explain:
+
+Responses should be returned to:
+Philip Morris USA
+120 Park Avenue, 15th Floor
+New York, N.Y. 10017
+Attn: Credit Department
+
+THE FOLLOWING INFORMATION WAS GIVEN TO
+S.R. Griffin, Lortland PTLD - 98-11-11
+on 11/11/98
+George Straley, James Burke Co., Inc.
+and submitted by
+J.K. Griffin, Lortland PTLD - R.C.V.
+wk for the Corp. Office on 0/11/93 @(F)
+
+988651

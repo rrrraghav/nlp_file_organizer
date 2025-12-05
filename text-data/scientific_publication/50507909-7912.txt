@@ -1,0 +1,169 @@
+Communication
+
+Vol. 240 No. 18  The Journal of Experimental Biology
+20 July 1995 pp. 7634–7639
+© 1995 by The American Zoological Society
+
+The GDP-bound Form of the
+Small G Protein Rac1 p21 is a
+Potent Activator of the
+Superoxide-forming NADPH
+Oxidase of Macrophages*
+
+(Received for publication, November 18, 1995, and in revised
+form, January 5, 1996)
+
+Yael Bronberg, Esther Shani, Gill Joseph,
+Tira Gorzalczany, Oded Springer, and
+Edgar Pick
+
+
+
+From the Laboratory of Immunopharmacology,
+Department of Veterinary Resources, Faculty of
+Medicine, Tel Aviv University, Sackler School of
+Medicine, Tel Aviv 61090, Israel
+
+Macrophages produce superoxide through the assembly of a
+multi-component membrane enzyme (NADPH oxidase). The
+production of molecular oxygen in NADPH oxidase is associated with
+the reduction of flavocytochrome b558.  The role of G proteins
+in the regulation of NADPH oxidase activity has been unclear until
+now.  Stimulation of macrophages with phorbol esters such as Phor-
+bol 12-myristate 13-acetate (PMA) induces a rapid increase in
+flavocytochrome b558 redox state and NADPH oxidation rate.
+The mechanism by which PMA activates the NADPH oxidase is not
+fully understood.  It has been suggested that G proteins may be
+involved in this process, but the specific G protein(s) involved
+have remained elusive.  We have now identified a small G protein,
+Rac1 p21 (p21 Rac), as a potent activator of NADPH oxidase.
+Here we show that Rac1 p21 is bound to GDP in resting macro-
+phages and becomes activated upon stimulation with PMA.  The
+GDP-bound form of Rac1 p21 is sufficient to stimulate NADPH
+oxidase activity, suggesting that the binding of GTP may be an
+inhibitory step in the activation process.  We also show that
+Rac1 p21 interacts directly with flavocytochrome b558 and that
+this interaction is enhanced upon stimulation.
+
+NADPH oxidase, Rac1 p21, G protein, macrophages, super-
+oxide
+
+
+
+The NADPH oxidase complex has made possible
+the study of the molecular mechanisms underlying the pro-
+duction of reactive oxygen species (ROS) in various ani-
+mal tissues, such as arachidonic acid and SDS, to elicit
+inflammatory responses.  The superoxide production sys-
+tem developed from central phagocytes 1,2–4. The only mem-
+brane-bound cytochrome system containing the elements of the
+electron transport chain is flavocytochrome b558 (CYTB558), with
+the participation of three cytosolic proteins: p47phox, p67phox
+and Rac (5).  The NADPH oxidase complex also includes SOC 1 (11, 12). For using the cell-free system, evidence was found
+for a GTP binding protein that is necessary for its normal
+function in neutrophil extracellular environment. This was in terms
+of stimulation of superoxide production by nonhydrolyzable
+analogue, GTPγS, on NADPH oxidase activation (13–15). Next,
+the role of G proteins in the regulation of NADPH oxidase
+of the oxidase-related G protein (16, 21), and that proposed
+as a possible Rac1 p21 family member (22).
+
+We have purified the intact cell form and macrophage cytosol to
+have homogeneity and found that it contained two proteins,
+p47phox and Rac1 p21.  The molecular weight of p47phox is
+amino acid indicating the peptide derived from the 25-kDa
+subunit of NADPH oxidase. The molecular weight of Rac1 p21 is
+21 kDa, as suggested by its previous identification (23). Partial
+purification of the cytosolic fraction revealed that these two
+proteins were associated with each other.  We have now shown
+that Rac1 p21 is bound to GDP in resting macrophages and
+becomes activated upon stimulation with PMA. The GDP-bound
+form of Rac1 p21 is sufficient to stimulate NADPH oxidase ac-
+tivity, suggesting that the binding of GTP may be an inhibitory
+step in the activation process.  We also show that Rac1 p21 inter-
+acts directly with flavocytochrome b558 and that this interaction
+is enhanced upon stimulation.
+
+EXPERIMENTAL PROCEDURES
+
+Purification of Macrophage Cytosol—Bone marrow derived macro-
+phages were prepared as described previously (17).  Cells were
+lysed by hypotonic shock, and the cytosol was purified by a series
+of centrifugation steps. The cytosolic fraction was further purified
+by affinity chromatography using Cibacron Blue 3G agarose (18).
+
+Western Blot Analysis—Samples of macrophage cytosol were sepa-
+rated on SDS-acrylamide gels and transferred to nitrocellulose mem-
+branes.  The membranes were probed with antibodies against p47phox
+and Rac1 p21 (19).
+
+Binding Assays—Macrophage cytosol was incubated with 35S-GTPγS
+or nonhydrolyzable GTP analogue, and the bound radioactivity
+was determined by filtration.
+
+NADPH Oxidase Assay—Superoxide production was measured by
+the reduction of ferricyanide (20).  Samples were incubated with
+ferricyanide and NADPH, and superoxide production was monitored
+by measuring the absorbance change at 490 nm.
+
+Immunoprecipitation—Macrophage cytosol was incubated with anti-
+Rac1 p21 antibody, and the immunoprecipitates were analyzed by
+Western blotting using antibodies against flavocytochrome b558.
+
+RESULTS
+
+Identification of Rac1 p21 in Macrophage Cytosol—Western blot
+analysis of macrophage cytosol revealed two prominent bands at
+approximately 25 kDa and 21 kDa, corresponding to p47phox and
+Rac1 p21, respectively (Fig. 1A).  The specificity of the anti-Rac1
+p21 antibody was confirmed by immunoprecipitation of Rac1 p21
+from macrophage cytosol followed by Western blotting (data not
+shown).
+
+Binding of GDP to Rac1 p21—To determine the nucleotide bind-
+ing state of Rac1 p21 in resting macrophages, we incubated cyto-
+sol with 35S-GTPγS.  The amount of radioactivity bound per mg
+of protein was low (Fig. 1B).  Treatment of the cytosol with PMA
+resulted in a significant increase in GTPγS binding (Fig. 1B), sug-
+gesting that Rac1 p21 is activated upon stimulation.
+
+Activation of NADPH Oxidase by GDP-bound Rac1 p21—To
+determine whether the GDP-bound form of Rac1 p21 is sufficient
+to stimulate NADPH oxidase activity, we incubated purified cyto-
+sol with anti-Rac1 p21 antibody and then added NADH and ferri-
+cyanide.  The addition of the immunoprecipitated complex resulted
+in a significant increase in superoxide production (Fig. 1C).
+
+Interaction of Rac1 p21 with Flavocytochrome b558—To deter-
+mine whether Rac1 p21 interacts directly with flavocytochrome
+b558, we performed immunoprecipitation experiments using anti-
+Rac1 p21 antibody followed by Western blotting using antibodies
+against flavocytochrome b558.  A band corresponding to fla-
+vocytochrome b558 was detected in the immunoprecipitates (Fig. 1D).
+Treatment of the cytosol with PMA resulted in an enhanced interac-
+tion between Rac1 p21 and flavocytochrome b558 (Fig. 1D).
+
+DISCUSSION
+
+Our results demonstrate that Rac1 p21 is a potent activator of
+NADPH oxidase in macrophages.  We have shown that Rac1 p21 is
+bound to GDP in resting macrophages and becomes activated upon
+stimulation with PMA. The GDP-bound form of Rac1 p21 is suffi-
+cient to stimulate NADPH oxidase activity, suggesting that the bind-
+ing of GTP may be an inhibitory step in the activation process.  We
+have also shown that Rac1 p21 interacts directly with flavocyto-
+chrome b558 and that this interaction is enhanced upon stimula-
+tion.
+
+The involvement of G proteins in NADPH oxidase activation has
+been suggested previously (13–15). However, the specific G pro-
+tein(s) involved have remained elusive.  Our results identify Rac1
+p21 as a key regulator of NADPH oxidase activity. The finding that
+Rac1 p21 is bound to GDP in resting macrophages and becomes
+activated upon stimulation with PMA suggests that GTP binding
+may be an inhibitory step in the activation process. This is con-
+sistent with the observation that nonhydrolyzable analogues of GTP,
+such as GTPγS, can stimulate NADPH oxidase activity (13–15).
+
+The interaction between Rac1 p21 and flavocytochrome b558
+suggests that Rac1 p21

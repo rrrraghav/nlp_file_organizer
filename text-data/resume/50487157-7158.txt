@@ -1,0 +1,40 @@
+FF
+
+PRINCIPAL INVESTIGATOR/PROGRAM DIRECTOR
+
+BIOGRAPHIC SKETCH
+
+Name Position Title Birthdate(Mo/Day/Yr)
+James Zhijun Lu Postdoctoral Fellow 01/15/1964
+
+EDUCATION
+
+Institute and Location Degree Year Conferred Field of Study
+Central China’s University BS 1978-1982 Biology
+of Agriculture, China
+
+Wuhan University, China MS 1982-1985 Biochemistry
+
+Beijing Normal University, PhD 1985-1989 Cell & Mol. Biology
+
+RESEARCH AND PROFESSIONAL EXPERIENCE
+
+1. 1991-Present: Postdoc Fellow in Dr Dennis McCance’s Lab, University of Rochester.
+Currently working on the replication and its regulation of Human Papillomaviruses
+Type 6B, 11, 16, 18 and 31, focusing on the roles of two of the major open reading
+frames products E1 and E2, using molecular biology techniques including cloning,
+gene structure analysis, in vivo gene expression and DNA-protein interactions.
+
+2. 1990-1991: Postdoc fellow in Dr. Ian Macara’s lab, University of Rochester.
+Following work was carried out: High expression and purification of rab3A, a GTP-
+binding protein as a potential cellular signal transducer; In E. coli development of
+antibody to rab3A; oligonucleotide-directed mutagenesis of rab3A cDNA to change
+codon 134 in order to decrease its GTP-binding ability; expression of wild-type and
+mutagenized forms of rab3A in PC12 and NIH3T3 cells respectively; functional
+analysis of rab3A in the signal transduction and its effects on cell differentiation.
+
+3. 1985-1989 PhD student in the National Lab of Cell Biology in Beijing Normal
+University. PhD thesis included: 1> Antissense RNA of Human c-Ha-ras1 decreased
+endogenous p21ras expression level in human stomach cancer cell line NIH 3T3-823;
+2> Calmodulin overexpression induced transformation of normal NIH3T3 cells; 3>
+Establishment of cell line inducibly expressing v-Ha-ras oncogene.

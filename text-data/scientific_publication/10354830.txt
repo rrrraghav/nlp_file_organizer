@@ -1,0 +1,52 @@
+KANCER RESEARCH 54, 602-609 (1984)
+
+3722.
+Differential Responsiveness of Human Breast Cancer Cell Lines MCF-7 and T47D
+to Growth Factors and 17β-Estradiol
+APPENDIX 7
+FILE COPY
+Kenneth P. Karey and David A. Sirbasku*
+Department of Biochemistry and Molecular Biology, The University of Texas Medical School, Houston, Texas 77225
+
+ABSTRACT
+A completely serum-free assay method has been used to compare the responsiveness of two human breast cancer cell lines and their growth with stimulation by a variety of polypeptide growth factors and 17β-estradiol. MCF-7 cells were stimulated to proliferation by insulin (10 ng/ml), epidermal growth factor (10 ng/ml), transferrin (10 μg/ml), phenol red (2.0 mM), and 17β-estradiol (2.3 g/ml). T47D cells were stimulated by insulin (10 ng/ml), epidermal growth factor (10 ng/ml), and 17β-estradiol (100 pg/ml) with the addition of BSA (200 μg/ml) (designated TBSA). This medium allowed the assay of proliferation without interference from serum components. The relative stimulation of DNA synthesis, cellular hypertrophy, colony formation, and functions associated with a normal epithelium, such as lactose production, were all measured. MCF-7 cells showed a maximal response to 17β-estradiol at a concentration of 100 pg/ml and T47D cells at a concentration of 100 pg/ml with the addition of TBSA. The relative stimulation of DNA synthesis was 3- to 5-fold greater in MCF-7 cells than in T47D cells. The relative stimulation of lactose production was 2- to 3-fold greater in MCF-7 cells than in T47D cells. Epidermal growth factor stimulated both cell lines, but the stimulation was less pronounced in T47D cells. Insulin stimulated both cell lines, but the stimulation was less pronounced in T47D cells. Transferrin stimulated both cell lines, but the stimulation was less pronounced in T47D cells. Phenol red stimulated both cell lines, but the stimulation was less pronounced in T47D cells. The relative stimulation of colony formation was 2- to 3-fold greater in MCF-7 cells than in T47D cells. These observations suggest that MCF-7 cells are more responsive to hormone-dependent growth signals than T47D cells.
+
+The differential responsiveness of human breast cancer cell lines MCF-7 and T47D to a variety of polypeptide growth factors and 17β-estradiol has been investigated. The MCF-7 cell line was derived from an axillary node metastasis of pleural carcinoma (2). The T47D cell line was derived from a pleural effusion of breast cancer (3). Both cell lines have been extensively characterized (4, 5) and are widely used in studies of hormone receptor expression and function.
+
+The growth-stimulating effects of polypeptide growth factors on human breast cancer cells have been reported previously (6, 7). These observations suggest that some of these components are secreted locally rather than being acquired from the environment (8). Submaxillaris, we found the same to be true for MCF-7 and T47D cells.
+
+The relative stimulation of DNA synthesis, cellular hypertrophy, colony formation, and lactose production has been measured in response to a variety of polypeptide growth factors and 17β-estradiol. The results indicate that these components are important regulators of breast cancer cell proliferation and function.
+
+Autocrine secretion of TGFs has been reported to be in-volved in several human cancers (9, 10, 11). In addition, autocrine stimulation of epidermal growth factor receptor expression has been shown to play a role in the progression of some tumors (12). It is also clear that 17β-estradiol can stimulate breast cancer cell proliferation through both genomic and non-genomic mechanisms (13, 14).
+
+The results presented here suggest that MCF-7 cells are more responsive to hormone-dependent growth signals than T47D cells. This may be due to differences in the expression of hormone receptors or growth factor receptors. It is also possible that there are differences in the intracellular signaling pathways that mediate the effects of these components.
+
+The relative stimulation of DNA synthesis, cellular hypertrophy, colony formation, and lactose production has been measured in response to a variety of polypeptide growth factors and 17β-estradiol. The results indicate that these components are important regulators of breast cancer cell proliferation and function.
+
+MATERIALS AND METHODS
+Cell Culture: MCF-7 and T47D cells were obtained from the American Type Culture Collection (Rockville, MD). Cells were grown in Dulbecco’s modified Eagle’s medium (DMEM) supplemented with 10% fetal bovine serum (FBS), 2 mM L-glutamine, and antibiotics.
+
+Serum-Free Assay Medium: The serum-free assay medium was prepared as follows: DMEM, 10 mM HEPES buffer, 10 μg/ml BSA, 2.0 mM phenol red, 10 ng/ml insulin, 10 ng/ml epidermal growth factor, and 10 μg/ml transferrin. For T47D cells, the serum-free assay medium also contained 200 μg/ml BSA (designated TBSA).
+
+Assay Procedure: Cells were seeded at a density of 5 x 10^3 cells per well in 24-well tissue culture plates. After incubation for 24 hours, the medium was removed and replaced with serum-free assay medium containing the appropriate concentrations of growth factors or 17β-estradiol. The plates were incubated for 48 hours, and then the following assays were performed:
+
+DNA Synthesis: DNA synthesis was measured by incorporation of [^3H]thymidine (2 μCi/ml) during the last 4 hours of incubation.
+Cellular Hypertrophy: Cellular hypertrophy was measured by determining the mean cell diameter using an image analysis system.
+Colony Formation: Colony formation was measured by counting the number of colonies that developed after incubation for 10 days in serum-free assay medium supplemented with 0.5% agarose.
+Lactose Production: Lactose production was measured by a modified version of the method described previously (15).
+
+RESULTS
+MCF-7 cells were stimulated to proliferation by insulin (10 ng/ml), epidermal growth factor (10 ng/ml), transferrin (10 μg/ml), phenol red (2.0 mM), and 17β-estradiol (2.3 g/ml). T47D cells were stimulated by insulin (10 ng/ml), epidermal growth factor (10 ng/ml), and 17β-estradiol (100 pg/ml) with the addition of BSA (200 μg/ml) (designated TBSA).
+
+DISCUSSION
+The results presented here suggest that MCF-7 cells are more responsive to hormone-dependent growth signals than T47D cells. This may be due to differences in the expression of hormone receptors or growth factor receptors. It is also possible that there are differences in the intracellular signaling pathways that mediate the effects of these components.
+
+The relative stimulation of DNA synthesis, cellular hypertrophy, colony formation, and lactose production has been measured in response to a variety of polypeptide growth factors and 17β-estradiol. The results indicate that these components are important regulators of breast cancer cell proliferation and function.
+
+ACKNOWLEDGMENTS
+We thank Dr. D.A. Sirbasku for his assistance with the preparation of this manuscript.
+
+*To whom reprint requests should be addressed at Department of Biochemistry and Molecular Biology, The University of Texas Medical School, Houston, TX 77225.
+
+
+

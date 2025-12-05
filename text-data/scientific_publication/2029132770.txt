@@ -1,0 +1,135 @@
+AMERICAN JOURNAL OF
+
+Public Health reprint
+
+® DESP
+F.D.C.
+
+
+
+PUBLIC HEALTH BRIEFS
+
+Validation of Self-Reported Smoking Behavior:
+Biochemical Analyses of Cotinine and Thiocyanate
+
+NANCY JEAN HALEY, PhD, CAROL M. ANSELL, MD, and KATHRYN A. TITTON, BS
+
+Abstract: Biochemical determinations of plasma and urinary
+cotinine and thiocyanate were used to validate self-reported
+smoking status in early childhood. Cotinine was found to be
+useful for determining large scale differences between smokers and
+nonsmokers but less useful for detecting small changes. Urinary
+thiocyanate was a more sensitive index for detecting small
+variations and for following up changes in daily smoking patterns. 1 AM.
+Public Health 1983; 44:1205-1207
+
+Introduction
+
+Smoking control research has generally relied upon self-
+report for information concerning smoking status, but the
+accuracy of self-reports is questionable. This study aims to
+report the extent of agreement (validity) that exists between
+self-reported smoking behavior and biochemical measures
+used to detect cigarette smoke exposure. The controversy how-
+ever, centers on whether individuals accurately report their
+cigarette smoking habits. It has been suggested that there is
+little incentive for smokers to underreport their smoking
+behavior, and that the tendency to overreport may be more
+common. In addition, it has been noted that children are
+particularly prone to misreporting their smoking behavior.
+Therefore, this study was designed to validate self-reported
+smoking status in early childhood using biochemical measures
+of exposure to cigarette smoke.
+
+Methods
+
+Study Population
+
+The study population consisted of 214 first grade children
+(ages 6–8 years) attending elementary schools in Rochester,
+New York. The children were recruited as part of a larger
+study examining dietary habits and nutritional status. Parents
+provided written informed consent for their child’s participation
+in the study.
+
+Data Collection
+
+Parents completed a questionnaire on smoking behavior
+as well as a 24-hour dietary recall.
+
+Participants then completed a questionnaire on smoking
+behavior as well as a 24-hour dietary recall.
+
+Experiment 2
+
+Two “smokers” and two nonsmokers were asked to
+smoke one cigarette each, and their plasma was sampled.
+Samples were collected directly into pretreated vials and then frozen
+until analysis. All samples were analyzed in duplicate.
+
+Analytical Techniques
+
+Cotinine was quantitated by a modification of the radio-
+immunoassay described previously (1). The assay is highly
+sensitive and specific for cotinine. The detection limit of
+plasma cotinine would be considered to be 20 millimoles per liter.
+The intraassay coefficient of variation was less than 5%.
+Approximately 80 samples plus standards and controls were
+analyzed in each assay. Results are reported as means ±
+standard error with confidence intervals.
+
+Thiocyanate was quantitated by an automated enzymatic
+procedure following the method described by (2). Saliva was
+used for thiocyanate determination, and all samples were analyzed
+in duplicate with negligible carryover.
+
+Results
+
+Table 1 displays the mean plasma cotinine concentrations
+for smokers and nonsmokers as determined by self-report and
+biochemical analysis. The mean plasma cotinine concentration
+for children who reported being smokers was significantly higher
+than that for those who reported being nonsmokers (p < 0.001).
+The mean plasma cotinine concentration for the “smokers”
+who were asked to smoke one cigarette each was 57 ± 4
+millimoles per liter. The mean plasma cotinine concentration
+for the nonsmokers who were not asked to smoke was 6 ± 1
+millimoles per liter.
+
+Table 2 displays the mean urinary thiocyanate concentrations
+for smokers and nonsmokers as determined by self-report and
+biochemical analysis. The mean urinary thiocyanate concentra-
+tion for children who reported being smokers was significantly
+higher than that for those who reported being nonsmokers
+(p < 0.001).
+
+Discussion
+
+The results of this study indicate that biochemical measures
+of cotinine and thiocyanate can be used to validate self-reported
+smoking status in early childhood. Cotinine was found to be
+useful for determining large scale differences between smokers
+and nonsmokers but less useful for detecting small changes.
+Urinary thiocyanate was a more sensitive index for detecting
+small variations and for following up changes in daily smoking
+patterns.
+
+The findings of this study have implications for research
+on smoking control. Self-reported smoking behavior should be
+validated with biochemical measures whenever possible.
+
+
+
+REFERENCES
+
+1.  Haley, N. J., Ansell, C. M., Titton, K. A., et al. Radioimmunoassay
+    for plasma cotinine in children. Clin. Chem. 29:1378–1382 (1983).
+2.  Hine, R. J., and Hoare, S. J. Enzymatic determination of thiocyanate
+    in urine. J. Clin. Pathol. 35:604–608 (1982).
+
+Reprint requests to Nancy Jean Haley, PhD, Department of
+Pediatrics, University of Rochester Medical Center, 696
+Cobbs Street, Rochester, NY 14648.
+
+
+

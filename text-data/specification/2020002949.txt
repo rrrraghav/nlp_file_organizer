@@ -1,0 +1,49 @@
+Section Q.I. Code
+
+
+
+PHILIP MORRIS
+USA
+
+SPECIFICATIONS
+& STANDARDS.
+
+Approved by: DRAFT Origin Date:
+Sub-Assembly Page Prepared by:
+Cigarette Front End Combined Sub-Assemblies Reviewed by:
+[1], [II, 2 and III]
+
+
+
+
+
+Characteristics Spec. & Tol. Measurement
+Nominal (Tolerance) Unit Method
+a. Length 57.98 (57.60 - 58.30) mm Digital Indicator
+b. Weight ms. Mettler Balance
+c. RPD 2.35 (2.10 - 2.60) mm P&V/1001
+Circumference
+1- End Cap 24.06 (23.97 - 24.14) mm Lazemike
+2- Assembly Intersect 24.10 (24.05 - 24.16) mm
+(over cut surface)
+3- Expansion Tube 24.03 (23.88 - 24.17) mm
+Length - Front Half 26.35 (26.60 - 26.90) mm
+Length - Back Half 31.2 (31.00 - 31.40) mm
+
+
+
+Attachments Refer to Q.A. Manual
+Standards For Attachments
+
+
+
+
+
+Notes: E. Measured from end of end cap to back edge of perforated tube.
+F. Measured from back edge of perforated tube to back edge of expansion tube.
+
+Reverse for Change :
+
+
+
+D-4 TS

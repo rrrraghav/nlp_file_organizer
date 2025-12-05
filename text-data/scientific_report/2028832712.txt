@@ -1,0 +1,29 @@
+INBIFO Institut für biologische Forschung - Köln
+15.Jul.94 NDA/MWO QAT3182
+
+ÜBERPRÜFUNG VON P 0500 / 3182 / B1035 DURCH QA
+
+BLATT-NR.: 1 von 2
+
+TITEL: Biological Activity of the Mainstream Smoke of Research Cigarettes X6D3BGW, X6D3BGW, and X6D3BGW .
+90-Day Inhalation Study on Rats (PT)
+
+PRÜFZEITPUNKT: vor Ausgang des Reports (7.Jul.94)
+
+UBERPRÜFTER PARAMETER BEANSTANDUNG
+
+Report Kapitel 4.8 (Histopathologie) Die Aussage, daß es keinen statistisch signifikanten
+allgemein Unterschied zwischen den MS-Gruppen und der "Sham"-
+Report Appendix Kontrolle gibt, gilt für die Lunge und nicht für den Larynx.
+Rohdaten keine
+einige Kleinigkeiten
+keine
+
+BEMERKUNG: Studie nach den GLP-Grundsätzen des ChemG
+
+15.Jul.94
+QA: DATUM/ZN
+
+
+
+202837212

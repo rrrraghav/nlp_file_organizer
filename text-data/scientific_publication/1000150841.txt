@@ -1,0 +1,148 @@
+† Small Airway Disease: Comparison of Tests in Young
+( Smokers Versus Nonsmokers*
+
+GARY N. HARRISON, MD, GARY R. MOOR, BS, JAMES L. MOHLER, AB, and WILLIAM A. SPEIR, JR.,
+MD,* Augusta, Ga
+
+ABSTRACT: A number of new tests for detection of small airway disease have been developed in
+the past several years. It is hoped that these will prove valuable as screening tests to detect those
+at risk of developing obstructive airway disease. We obtained data on the degree of discrimination
+of single breath nitrogen studies (CV/VC, CC/TLC, AnL/TL), air-flow studies (Vmax50), and the maximal
+midexpiratory flow (FEF25-75%) with detecting abnormalities in young smokers. Only the CV/VC and
+CC/TLC significantly separated smokers from nonsmokers, each revealing 20% abnormal values in
+smokers.
+
+CHRONIC OBSTRUCTIVE AIRWAY DISEASE is a serious
+health problem in the United States, and no one
+doubts that it is intimately associated with chronic
+cigarette smoking. According to a 1972 NHLI Task
+Force report,* chronic respiratory diseases cost the
+people of these United States 6.3 billion dollars in
+1970, and cost the lives of 128,102 persons. These
+figures have surely escalated during the past ten years.
+The major portion of the economic and human cost of
+these diseases can be attributed to chronic obstructive
+( ) disease.
+
+Ever since Anthonsen et al.* demonstrated
+pathophysiologic abnormalities in bronchitic patients
+with normal routine lung function tests, the literature
+has been rife with speculation concerning path-
+k physiologic mechanisms by which disease in “si-
+kul” peripheral airways ( < 2 mm in diameter) might
+proceed and progress to irreversible airway obstruc-
+tion. Many tests have been developed, some of these
+have used in this study,* which are purported to de-
+tect small airway dysfunction. It is hoped that these
+tests will prove valuable as screening tests to detect
+those at risk of developing obstructive airway disease.
+We obtained data on the degree of discrimination
+of single breath nitrogen studies (CV/VC, CC/TLC,
+AnL/TL), air-flow studies (Vmax50), and the maxi-
+mal midexpiratory flow (FEF25-75%) with detecting
+abnormalities in young smokers.
+
+MATERIALS AND METHODS
+
+The study population consisted of 100 male volunteers
+aged 18 to 35 years. Fifty were known cigarette smok-
+ers and fifty were nonsmokers. Smokers had smoked at
+least one pack per day for at least five years. Non-
+smokers had never smoked or had smoked less than five
+cigarettes in their lifetime. All subjects were free of
+clinical respiratory disease, as determined by history,
+physical examination, and routine chest roentgenog-
+raphy.
+
+Pulmonary function tests were performed according to
+standard methods.* The following measurements were
+obtained: vital capacity (VC), forced expiratory vol-
+ume in one second (FEV1), forced vital capacity (FVC),
+maximal midexpiratory flow (FEF25-75%), single
+breath nitrogen rebreathing tests (CV/VC, CC/TLC,
+AnL/TL), and maximal air-flow studies (Vmax50).
+
+Statistical analysis was performed using the t test to
+compare means and chi-square analysis to compare pro-
+portions. A p value of less than 0.05 was considered
+statistically significant.
+
+RESULTS
+
+The mean age of the smokers was 23.8 ± 4.2 years,
+and the mean age of the nonsmokers was 23.2 ± 4.1
+years. The difference in age was not statistically sig-
+nificant (p > 0.05). Smokers had a history of 9.7 ±
+4.8 pack-years of cigarette smoking.
+
+It is clear that the lungs of smokers, even at a rela-
+tively young age, are different from those of
+nonsmokers. Nieoheuser et al.* studied at autopsy the
+lungs of young smokers (aged 23.7 ± 1.2 years), and
+accident victims, and compared them to nonsmokers
+of the same age. Respiratory bronchiolitis associated
+with clusters of pigmented alveolar macrophages was
+observed in the peripheral airways of all smokers, but
+was only rarely noted in the nonsmokers. In a classic
+paper, Ingram and O’Calin demonstrated frequency
+dependence of dynamic compliance in a majority of
+cigarette smokers, and showed that it disappeared
+after cessation of smoking. As Dosman and Macklem*
+pointed out in their review, the prevalence of abnor-
+malities in this and other tests of small airway dysfunc-
+tion is 50% or more averaged 50% or higher. It is
+obvious that smokers have disease to not develop
+chronic obstructive airways.
+
+Most large-30% are mucus globs a heterogen-
+ous group of specimens and nonsmokers, which in-
+cluded persons spanning the age range from the sec-
+ond to fifth decades of life. The prevalence of abnor-
+malities in young smokers is greater than that in non-
+smokers, but the degree of difference depends on the
+test used.
+
+TABLE 1 summarizes the pulmonary function test re-
+sults for smokers and nonsmokers. The CV/VC and
+CC/TLC were significantly different between smokers
+and nonsmokers (p < 0.01). The AnL/TL, Vmax50,
+and FEF25-75% were not significantly different be-
+tween the two groups.
+
+DISCUSSION
+
+The results of this study confirm that young cigarette
+smokers have abnormal pulmonary function tests com-
+pared to nonsmokers. The CV/VC and CC/TLC are
+the most useful single breath nitrogen tests for de-
+tecting small airway dysfunction in young smokers.
+These two tests significantly separated smokers from
+nonsmokers, each revealing 20% abnormal values in
+smokers.
+
+The FEF25-75% is a commonly used test for detect-
+ing small airway disease, but it was not useful in this
+study. This may be because the FEF25-75% is af-
+fected by large airway obstruction as well as small
+airway obstruction.
+
+The Vmax50 is another air-flow study that has been
+used to detect small airway disease. It also was not
+useful in this study, possibly because it is affected by
+both large and small airway obstruction.
+
+This study confirms the importance of screening tests
+for detecting small airway dysfunction in young smok-
+ers. The CV/VC and CC/TLC are the most useful sin-
+gle breath nitrogen tests for this purpose.
+
+REFERENCES
+
+1. Anthonsen, T., Kjellman, B., Lundberg, J., and Unge, T.: Lung function in chronic bronchitis with normal routine spirometry. Scand. J. Respir. Dis., 56:273-280, 1975.
+2. Dosman, W. J., and Macklem, P. T.: Abnormalities of respiratory function in cigarette smokers. Can. Med. Assoc. J., 114: 553-558, 1971.
+3. Ingram, D. L., and O’Calin, R. A.: Frequency dependence of dynamic compliance in cigarette smokers. J. Appl. PhysioL, 32: 601-604, 1972.
+4. Nieoheuser, M. J., Bennett, W. C., Jr., and Muggleton, N. P.: Lung function in young cigarette smokers. Am. J. Med., 58: 311-316, 1975.
+
+
+
+00210814

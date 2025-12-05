@@ -1,0 +1,26 @@
+ELSEVIER
+
+Mutation Research 346 (1995) 77-84
+
+MR Mutation Letters
+
+Mathematical parameters for quantification of mutational responses in bacteria
+
+Teresa Roldán-Arjona a,b, Carmen Pueyo a *, Robert H. Haynes b
+a Departamento de Genética, Facultad de Ciencias, Universidad de Granada, 14071 Córdoba, Spain
+b Department of Biology, York University, Toronto M3J 1P3, Canada
+
+Received 12 September 1994; revision received 21 November 1994; accepted 24 November 1994
+
+Abstract
+
+This paper introduces a new parameter, derivable from dose-response data for induced mutagenesis in bacteria, that can be used to quantify mutational responses in short-term tests. We called this parameter the mutational response of the biphasic exponential system (agent plus cells). We define it as being jointly proportional to the efficiency of the mutagen and the sensitivity of the test. We show how this quantity can be used to rank order chemical carcinogens on the basis of their mutagenicity and to determine the strength of an quantitative correlation that may exist between mutagenicity in bacteria and carcinogenicity in rodents. We find that this particular measure of mutational response for 10 direct-acting monofunctional alkylating agents correlates remarkably well with the rodent carcinogenicity of these chemicals measured in terms of their reciprocal TD50 values.
+
+Keywords: Dose-response curve; Lethal hit; Mutant yield; Mutagenic potency; Mutational response
+
+An important, but controversial, issue in genetic toxicology has been to determine whether extent of the mutagenicity of chemical carcinogens in short-term bacterial tests may be correlated quantitatively with their carcinogenicity in long-term bioassays for tumor induction (Melsons and Russel, 1977). Stated most simply, among any given group of chemicals already known to pos sess both mutagenic and carcinogenic activity, are the most potent mutagens also the most potent carcinogens, and the weakest mutagens also the weakest carcinogens?
+
+This is not the same as asking what is the probability, with no regard to relative potency, that a chemical found to be mutagenic in some specified bacterial test will later prove to be car cinogenic in a bioassay. Furthermore, even if a strong correlation between mutagenic and car cinogenic potencies is found for some particular tests and chemicals, this does not neces sarily imply that similar correlations will be found for other tests or groups of chemicals. Therefore, in general, mutagenic potentialities should not be predictors of carcinogen poten tial. Nevertheless, still it is interesting, to iden tify means of sense and sensitivity of mutable mathematical forms and those measures of para-
+
+* Corresponding author. Tel: (34) 521 21 21 86.
+Fax: (34) 521 21 21 00.

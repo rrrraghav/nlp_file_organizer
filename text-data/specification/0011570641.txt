@@ -1,0 +1,283 @@
+B&W BROWN AND WILLIAMSON TOBACCO CORPORATION B&W
+
+COMPANY - BROWN & WILLIAMSON BRANCH - MASON **** LUCKY STRIKE U.S. AS FILTERED NON-HEATING GENERAL EXPORT ****
+DATE OF MANUFACTURE: SPECIFICATIONS CURRENT AVERAGE PREVIOUS DATA POINTS SOURCE
+P.I.D. (INCHES)
+CIGARETTE
+TOP DIAMETER
+BOTTOM DIAMETER
+BRANCH SEALED CIG.
+LENGTH (MM)
+CIGARETTE
+DIAMETER (MM)
+FILTER
+LENGTH (MM)
+WEIGHT (MG)
+CIGARETTE
+W.I.N.
+DENSITY (MG/CC)
+FILTER
+TOTAL FILLING (%)
+TAR (MG)
+NICOTINE (MG)
+TRACETIVES (MG)
+BRANCH VENTILATION RATE (%)
+MACHINE VENTILATION RATE (%)
+PAPER
+POROSITY (CONESTA)
+CRESOTATE 12
+MOISTURE (%)
+BLEND
+SMOKE TIME.
+RECOGNITION
+TOTAL ANALYSES (%)
+ALKALOIDS (MG)
+TOTAL SUGAR
+TOTAL SALTS
+ASH CONTENT (%)
+PROT. MATTER
+SHAPING INDEX
+CLIP LENGTH (MM)
+TOP CLIP WIDTH (MM)
+BOTTOM CLIP WIDTH (MM)
+PRINTED SURFACE AREA (SQ. MM.)
+PARTICLE SIZE (MICRONS)
+TOBACCO TYPE
+TYPE 1
+TYPE 2
+TYPE 3
+TYPE 4
+TYPE 5
+TYPE 6
+TYPE 7
+TYPE 8
+TYPE 9
+TYPE 10
+TYPE 11
+TYPE 12
+TYPE 13
+TYPE 14
+TYPE 15
+TYPE 16
+TYPE 17
+TYPE 18
+TYPE 19
+TYPE 20
+TYPE 21
+TYPE 22
+TYPE 23
+TYPE 24
+TYPE 25
+TYPE 26
+TYPE 27
+TYPE 28
+TYPE 29
+TYPE 30
+TYPE 31
+TYPE 32
+TYPE 33
+TYPE 34
+TYPE 35
+TYPE 36
+TYPE 37
+TYPE 38
+TYPE 39
+TYPE 40
+TYPE 41
+TYPE 42
+TYPE 43
+TYPE 44
+TYPE 45
+TYPE 46
+TYPE 47
+TYPE 48
+TYPE 49
+TYPE 50
+TYPE 51
+TYPE 52
+TYPE 53
+TYPE 54
+TYPE 55
+TYPE 56
+TYPE 57
+TYPE 58
+TYPE 59
+TYPE 60
+TYPE 61
+TYPE 62
+TYPE 63
+TYPE 64
+TYPE 65
+TYPE 66
+TYPE 67
+TYPE 68
+TYPE 69
+TYPE 70
+TYPE 71
+TYPE 72
+TYPE 73
+TYPE 74
+TYPE 75
+TYPE 76
+TYPE 77
+TYPE 78
+TYPE 79
+TYPE 80
+TYPE 81
+TYPE 82
+TYPE 83
+TYPE 84
+TYPE 85
+TYPE 86
+TYPE 87
+TYPE 88
+TYPE 89
+TYPE 90
+TYPE 91
+TYPE 92
+TYPE 93
+TYPE 94
+TYPE 95
+TYPE 96
+TYPE 97
+TYPE 98
+TYPE 99
+TYPE 100
+
+5.4 5.4 5.4 5.4 5.3 5.3 BRANCH
+2.9 - - - - - - BRANCH
+- - - - - - SPEC
+- - - - - - SPEC
+BRANCH
+28.70 24.70 24.71 24.71 24.71 24.70 24.71
+24.70
+362 350 350 350 350 350 350
+249 249 249 249 249 249 249
+RED
+RED
+RED
+10.4 10.4 10.4 10.4 10.2 7.8 10.4
+10.0 - - - - - - RED
+25 - - - - - - RED
+- - - - - - CALC
+16.4 - - - - - - CALC
+39.2 - - - - - - RED
+- - - - - - RED
+- - - - - - RED
+- - - - - - RED
+- - - - - - RED
+- - - - - - RED
+- - - - - - RED
+- - - - - - RED
+- - - - - - RED
+- - - - - - RED
+- - - - - - RED
+- - - - - - RED
+- - - - - - RED
+- - - - - - RED
+- - - - - - RED
+- - - - - - RED
+- - - - - - RED
+- - - - - - RED
+- - - - - - RED
+- - - - - - RED
+- - - - - - RED
+- - - - - - RED
+- - - - - - RED
+- - - - - - RED
+- - - - - - RED
+- - - - - - RED
+- - - - - - RED
+- - - - - - RED
+- - - - - - RED
+- - - - - - RED
+- - - - - - RED
+- - - - - - RED
+- - - - - - RED
+- - - - - - RED
+- - - - - - RED
+- - - - - - RED
+- - - - - - RED
+- - - - - - RED
+- - - - - - RED
+- - - - - - RED
+- - - - - - RED
+- - - - - - RED
+- - - - - - RED
+- - - - - - RED
+- - - - - - RED
+- - - - - - RED
+- - - - - - RED
+- - - - - - RED
+- - - - - - RED
+- - - - - - RED
+- - - - - - RED
+- - - - - - RED
+- - - - - - RED
+- - - - - - RED
+- - - - - - RED
+- - - - - - RED
+- - - - - - RED
+- - - - - - RED
+- - - - - - RED
+- - - - - - RED
+- - - - - - RED
+- - - - - - RED
+- - - - - - RED
+- - - - - - RED
+- - - - - - RED
+- - - - - - RED
+- - - - - - RED
+- - - - - - RED
+- - - - - - RED
+- - - - - - RED
+- - - - - - RED
+- - - - - - RED
+- - - - - - RED
+- - - - - - RED
+- - - - - - RED
+- - - - - - RED
+- - - - - - RED
+- - - - - - RED
+- - - - - - RED
+- - - - - - RED
+- - - - - - RED
+- - - - - - RED
+- - - - - - RED
+- - - - - - RED
+- - - - - - RED
+- - - - - - RED
+- - - - - - RED
+- - - - - - RED
+- - - - - - RED
+- - - - - - RED
+- - - - - - RED
+- - - - - - RED
+- - - - - - RED
+- - - - - - RED
+- - - - - - RED
+- - - - - - RED
+- - - - - - RED
+- - - - - - RED
+- - - - - - RED
+- - - - - - RED
+- - - - - - RED
+- - - - - - RED
+- - - - - - RED
+- - - - - - RED
+- - - - - - RED
+- - - - - - RED
+- - - - - - RED
+- - - - - - RED
+- - - - - - RED
+- - - - - - RED
+- - - - - - RED
+- - - - - - RED
+- - - - - - RED
+- - - - - - RED
+- - - - - - RED
+- - - - - - RED
+- - - - - - RED
+- - - - - - RED
+- - - - - - RED
+- - - - -

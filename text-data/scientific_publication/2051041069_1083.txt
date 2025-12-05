@@ -1,0 +1,41 @@
+3
+
+Assessing Exposures to Environmental
+Tobacco Smoke
+
+Howard D. Goodfellow, Ph.D.,
+with S. Eyre, M.I.Sc., and
+J.A.S. Wyatt, P.Eng.
+Goodfellow Consultans Inc.
+
+1. Introduction
+
+Accurate assessments of exposure are fundamental to any credible epidemio-
+logical study of the health effects of environmental tobacco smoke
+(“ETS”). Measuring exposure is a complicated task, made difficult by
+the complex nature of ETS itself. As the previous panel has discussed, ETS is
+not a single substance; rather, it is a diverse and dynamic mixture consisting
+of several thousand constituents. Some of these constituents may serve as
+surrogates for the ETS mixture as a whole or for potentially significant por-
+tions of the mixture. However, accurate detection of even these surrogates is
+often difficult because many are present in very low concentrations.
+Furthermore, because materials and furnishings, cooking and heating
+sources, such as building materials and furnishings, cooking and heating
+fuels, aerosol propellants and cleaning compounds. Thus, there are substan-
+tial problems in attempting to trace the existence of these substances back to
+ETS. The physical and chemical complexity of ETS is compounded by its
+propensity to change over time. Such changes can occur as a result of reactions
+among constituents or between them and constituents and
+other surfaces or chemical sources. This dynamic quality further complicates
+the measurement of ETS.
+
+Given these difficulties, it is not surprising that there is no universally
+accepted and standardized method for assessing the exposure of an individual
+to ETS. A large number of studies have based estimates of exposure on ret-
+rospective data obtained from questionnaires. But problems of recall bias
+associated with these methods have led investigators to seek more objective
+and a more objective method for measuring exposure. The first is to measure lev-
+els of ETS constituents in exhaled breath or saliva (i.e., biological monitoring).
+The second is to measure levels of ETS constituents in samples of air collected
+
+265141083

@@ -1,0 +1,32 @@
+Effective Date: 1-12-70
+
+Brand - Virginia Slims
+Length - 99.4 mm.
+Circumference - 23.0 mm.
+
+Filler - Legg.
+Machine Type - Mark VIII
+Reason for Change - .25% Reduction in Filler from previous
+filler weight of 0.8031563 gms.
+
+Authorized by: Mr. B. A. Syars
+Paper Width- 25.0 mm.
+
+
+
+Filler Weight - 74.4 mm. (gms)     0.8011484
+Paper & Paste - 74.4 mm. (gms)    0.0423989
+Rod Weight - 74.4 mm. (gms)        0.8435473
+Tipping & Adhesive - 32 mm. (gms)   0.0414796
+Total Less Plug (gms)               0.8850269
+
+
+
+Volume (Cubic Millimeters)           3131.9710
+Density (Gms/cc.)                   25.5797
+Filler Weight (Lbs/1,000 Cigts.)    1.7662
+
+OBSOLET
+AS OF 2/9/90
+
+2031316778

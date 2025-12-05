@@ -1,0 +1,12 @@
+THE DETERMINATION OF CERTAIN C1-C4 ALDEHYDES IN CIGARETTE SMOKE USING HIGH PRESSURE LIQUID CHROMATOGRAPHY. A. B. Canon and N. M. S. Frank, Brown & Williamson Tobacco Co., Louisville, Ky. 40232
+
+Presented at the 32nd Tobacco Chemists’ Research Conference,
+October 31, 1978, Montreal, Canada (Paper 837)
+
+This paper describes procedures for collecting and measuring several aldehydes in whole cigarette smoke. During collection, the aldehydes are converted to stable 2,4-dinitrophenylhydrazone derivatives. The derivatives are separated and measured by high pressure liquid chromatography, avoiding the thermal decomposition often encountered during gas chromatographic analyses of aldehydes or their derivatives. This method allows the determination of formaldehyde, acetaldehyde, acrolein, propionaldehyde and croton- aldehyde in cigarette smoke.
+
+The collection procedures I will describe are similar to those reported by Mansfield et al., in 1977 for the analysis of formaldehyde in tobacco smoke with high pressure liquid chromatog- graphy.(¹) Mansfield’s method required gradient solvent programming for the separation of aldehyde derivatives other than formaldehyde. This new method offers the advantages of allowing a relatively rapid separation of several aldehyde derivatives under isocratic conditions.
+
+(SLIDE –Flowchart) A flowchart of our method begins with the generation of whole smoke from thirty cigarettes. (SLIDE - Flow- chart) The smoke is bubbled through an acidic solution of 2,4- dinitrophenylhydrazine held in an ice bath. This trapping solution removes the aldehydes from the smoke and simultaneously forms
+
+20905837

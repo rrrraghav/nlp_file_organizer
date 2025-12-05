@@ -1,0 +1,52 @@
+Proc. Natl. Acad. Sci. USA
+Vol. 92, pp. 9711–9716, October 1995
+Cell Biology
+
+Kinetics of spindle pole body separation in budding yeast
+
+JASON A. KAMANA*, BRUCE I. SCHNAPP†, and PAMELA A. SILVER‡
+*Department of Biological Chemistry and Molecular Pharmacology, Harvard Medical School and Dana-Farber Cancer Institute, 64 Huntington Street, Boston, MA
+02115; †Department of Cell Biology, Harvard Medical School, Boston, MA 02115
+Communicated by Bruce M. Alberts, National Science Foundation, Washington, DC, July 1995.
+
+ABSTRACT In the budding yeast Saccharomyces cerevisiae, the spindle pole body (SPB) serves as the microtubule-organizing center and is essential for accurate segregation of chromosomes in dividing cells. By expressing a fusion of a yeast centromere protein to the SPBs in living cells, we have observed the movement of the SPBs in living cells undergoing mitosis. We have previously reported that SPBs undergo unidentified mitotic events. During anaphase, the mitotic spindle elongates, and the SPBs move apart as a single unit, past the inter-daughter junction, for elongation, transcription, then separation into two daughter spindles. Here we report that distinct forces act upon the spindle at different times during anaphase.
+
+During mitosis, chromosome segregation is mapped by the mitotic spindle. Chromosomes are attached to kinetochores, which associate with microtubules emanating from a pair of microtubule-organizing centers (MTOCs). In the budding yeast Saccharomyces cerevisiae, these MTOCs are called spindle pole bodies (SPBs). The SPBs are essential for accurate chromosome segregation [1, 2]. During anaphase, the mitotic spindle elongates as kinetochore microtubules slide past each other. This sliding is driven by motor proteins associated with the kinetochores [3, 4]. In addition, the SPBs themselves move toward opposite poles of the cell [5, 6]. The mechanism underlying this movement of the SPBs is not well understood.
+
+We have previously reported that in cells expressing a fusion of a yeast centromere protein to the SPBs, the SPBs undergo unidentified mitotic events [7]. Here we report that during anaphase, the SPBs move apart as a single unit, past the inter-daughter junction, for elongation, transcription, then separation into two daughter spindles. We also show that distinct forces act upon the spindle at different times during anaphase.
+
+MATERIALS AND METHODS
+Yeast Strains and Media—The yeast strains used in this study are listed in Table 1. All strains were grown in standard rich medium (YPD) or synthetic complete medium [SC; 2% glucose, 0.1% adenine hemisulfate, 0.05% uracil, 0.05% leucine, 0.01% thiamine hydrochloride, and 0.004% tryptophan] at 30°C.
+
+Cloning of Centromere Protein Fusion Construct—The centromere protein Cdc14 was fused to the N terminus of green fluorescent protein (GFP) by PCR amplification. The GFP gene was amplified from plasmid pGR1 [8] with the following primers: 5′-ATCGGTCCTAGACGGTCC-3′ and 5′-TTAATTGCGGCCGCTACCCATG-3′. The Cdc14 gene was amplified from yeast genomic DNA by PCR with the following primers: 5′-ATCGGTCCTAGACTGGTGGCG-3′ and 5′-TTAATTGCGGCCGCTTAGTGTTG-3′. The PCR products were digested with EcoRI and HindIII, ligated together into plasmid pGR1, which had been digested with EcoRI and HindIII.
+
+CAT. The PCR product was cut with BamHI and Xho I. The resulting fragment containing the GALI promoter sequence cut with BamHI and Pst I.
+
+Plasmid pKSW5 was constructed as follows: Plasmid pKS1 (courtesy of Ronni Bashir and Marc Wiman) was digested with BamHI and EcoRI, then filled in with Klenow. A 35-Ssp fragment containing the NUF2 promoter region along with the first 78 nucleotides of the coding sequence was isolated. This fragment was ligated into the BamHI/EcoRI sites of pKS1. The resulting plasmid was digested with BamHI and Xho I to release the GALI promoter and the NUF2-GFP coding sequence.
+
+Western Blots—Whole cell extracts were prepared by sus-
+pending 3 x 10^8 cells in 200 μl of protein sample buffer (7% acetic acid, followed by addition of lysis buffer). The lysates were sonicated for 1 min. Ten microliters of extract was run on a 10% SDS | polyacrylamide gel transferred to nitrocellulose at 4°C for 1 hr with 25 mM Tris-HCl, 190 mM glycine, and 10% methanol. The membrane was blocked with 5% nonfat dry milk in TBS (Tris-buffered saline) and probed with rabbit anti-Cdc14 serum [9] diluted 1:1000 or mouse anti-GFP antibody (Boehringer Mannheim) diluted 1:200. Blots were developed using horseradish peroxidase-conjugated secondary antibodies and enhanced chemiluminescence (Amersham).
+
+Microscopy—Cells were grown in microtiter plates, and images were acquired on a Nikon Diaphot microscope equipped with a cooled CCD camera (Princeton Instruments). Images were collected every 30 sec for 5 min during anaphase. The SPB positions were determined by measuring the distance from the cell center to each SPB using Metamorph software (Universal Imaging).
+
+RESULTS
+SPBs Move Apart as a Single Unit During Anaphase—To visualize the movement of the SPBs, we expressed a fusion of the yeast centromere protein Cdc14 to GFP. Cdc14 is localized to the SPBs and is essential for proper spindle function [9]. Cells expressing Cdc14-GFP were monitored by time-lapse microscopy during mitosis (Fig. 1). During anaphase, the two SPBs moved apart as a single unit, past the inter-daughter junction (Figs. 1a and 2a). The distance between the SPBs increased linearly with time (Fig. 2b). The velocity of SPB separation was approximately 0.5 μm/sec (Fig. 2c).
+
+The movement of the SPBs as a single unit suggests that they are linked by a force-generating structure. To determine whether the SPBs remain connected throughout anaphase, we measured the distance between them at various times after nuclear envelope breakdown (NEBD). The average distance between the SPBs increased linearly with time from NEBD (Fig. 2d).
+
+To confirm that the movement of the SPBs is not an artifact of Cdc14-GFP expression, we examined cells expressing a fusion of another centromere protein, Nuf2, to GFP. Nuf2 is also localized to the SPBs and is essential for proper spindle function [10]. Cells expressing Nuf2-GFP exhibited similar behavior as those expressing Cdc14-GFP (data not shown).
+
+DISCUSSION
+Our results show that the SPBs move apart as a single unit during anaphase. This movement is likely driven by motor proteins associated with the kinetochores, but the mechanism underlying this coordinated movement of the SPBs remains unclear. The fact that the SPBs move as a single unit suggests that they are linked by a force-generating structure.
+
+ACKNOWLEDGMENTS
+We thank Ronni Bashir and Marc Wiman for plasmid pKS1. This research was supported by grants from the National Science Foundation (to P.A.S.) and the Department of Energy (to B.I.S.).
+
+LITERATURE Cited
+1. Roberts, R. A. 1983. J. Cell Biol. 97: 1065–1074.
+2. Cleveland, D. W., Satterfield, J. M., and Dunphy, W. G. 1985. Cell 41: 451–463.
+3. Bloom, K., Hirano, T., McIntosh, J. R., and Hays, T. S. 1991. Cell 67: 1029–1040.
+4. Cheeseman, I. M., Mast, A. D., Wiese, E., Fornerod, C., and Cleveland, D. W. 1994. Nature 368: 254–258.
+5. Dernburg, P., Meyerowitz, B., and Cook, R. 1987. J. Cell Biol. 104: 671–682.
+6. Gartner, T. A., and Cook, R. 1990. J. Cell Biol. 110: 1035–1045.
+7. Kamana, J. A., Schnapp, B. I., and Silver, P. A. 1994. Genes Dev. 8: 2601–2611

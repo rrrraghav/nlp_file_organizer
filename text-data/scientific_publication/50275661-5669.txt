@@ -1,0 +1,25 @@
+Bioscience Reports 1, 197-205 (1981)
+Printed in Great Britain
+
+197
+
+Coagulation factor III (tissue factor) interaction with phospholipid vesicles induced by cadmium: characterization of the reconstituted protein-membrane complex
+
+Steven D. CARSON and William H. KONIGSBERG
+Department of Molecular Biophysics and Biochemistry,
+Yale University, 333 Cedar Street, New Haven, CT 06510, U.S.A.
+
+(Received 30 January 1981)
+
+Coagulation factor III (tissue factor) is a membrane glycoprotein which serves as a cofactor in the proteolytic activation of factor X and factor IX by factor VIIa. Mixing of human placental factor III apoprotein with vesicles of bovine brain phospholipids does not produce significant reconstitution of factor III activity, but when the mixture of apoprotein and vesicles is made 5 mM with CdCl2, the apoprotein is incorporated into the vesicles. Ultracentrifugation on sucrose density gradients demonstrates that the active factor III-lipid complex formed by reconstitution from that of the complex formed by detergent dialysis. Vesicles isolated after centrifugation were shown to range in diameter from 20 nm to over 100 nm using the electron microscope. Gel filtration showed that factor III activity was associated with all size-classes of vesicles. The presence of factor III activity in the smallest vesicles argues for a specific cadmium-mediated reconstitution of the apoprotein with phospholipid vesicles.
+
+Coagulation factor III (tissue factor), present in the membrane or reconstituted into phospholipid vesicles, accelerates the proteolytic activation of both factor X and factor IX by factor VIIa (1, 2, 3). The assembly of factor III into phospholipid vesicles during deoxycholate dialysis is promoted by CdCl2 (4), and although the apoprotein does not interact significantly with preformed phospholipid vesicles, it can be induced to do so by the addition of CdCl2 (5). The control of factor-III activity is not well understood but is known to be affected by the particular phospholipids bound to the apoprotein (6, 7) and by the lipid surfaces present (8). This report demonstrates the cadmium-induced incorporation of human placental factor III into preformed phospholipid vesicles and describes the resultant protein-membrane complex.
+
+Experimental Procedures
+
+Factor III was prepared from human placental tissue as described previously (9). The tissue was homogenized in 20 volumes of 5 mM Tris buffer, pH 7.4, containing 0.1 M NaCl, 1 mM EDTA, and 1 mM phenylmethylsulphonyl fluoride. After centrifugation at 4000 g for 10 min, the supernatant was treated with 1% Triton X-100.
+
+(Continued on page 200)
+
+
+

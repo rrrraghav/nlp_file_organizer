@@ -1,0 +1,40 @@
+© 1993 Kugler Foundation, P.O. Box 622, 2300 AA Haarlem, The Netherlands
+Cells of the Hepatic Sinusoid, Vol. 4, Editors, G.L. Klous, E. Wiss
+
+438
+
+L-TYPE VOLTAGE-DEPENDENT CALCIUM CHANNELS IN KUPFFER CELLS
+
+T. HIJIKA (1,2), R. L. ROSENBERG (2), J. LEMASTER (3), H. FUSAMOTO (4),
+T. KAMADA (4) and R.G. THURMAN (1)
+
+(1) Laboratory of Hepatology and Toxicology, (2) Department of Pharmacology and (3)
+Department of Cell Biology and Anatomy, University of North Carolina at Chapel Hill,
+Chapel Hill, North Carolina 27599, USA; (4) Department of Medicine, Osaka University Medical School, 1-4-50 Fukushima, Fukushi-minka, Osaka 553 Japan. Tel.
+(4) 451-0651, ex. 2210.
+
+ABSTRACT
+
+Kupffer cells, the resident macrophages in liver, which have been implicated in liver injury, are activated by calcium. We investigated the presence of L-type Ca2+ channels and a dihydropyridine type calcium channel blocker N'-nitrendipine to isolated Kupffer cells cultured from rat livers. The purpose of this study was to test if hydrophilic type Kupffer cells express L-type Ca2+ channels.
+
+Nonparenchymal cells were isolated from livers of Sprague-Dawley rats by collagenase perfusion and gradient-followed saline collagenase digestion. Kupffer cells were purified by adherence to plastic dishes, followed by density gradient centrifugation. Cells were cultured in RPMI 1640 medium supplemented with 10% fetal bovine serum. The cell mass was measured with the fluorescent Ca2+ indicator, Fura-II.
+
+Partial replacement of sustentacular cells (5–10%) was achieved using a mixture of rat hepatocytes (Eros) and nonparenchymal cells (NPCs). NPCs were purified by density gradient centrifugation as described previously (3). The NPCs consisted of 84% Kupffer cells, 7% stellate cells, 6% endothelial cells, 2% fat storage cells, and 1% other cell types.
+
+The effect of N'-nitrendipine on [Ca2+]i was examined using a fluorescence imaging system. Cells were incubated with 5 μM N'-nitrendipine for 30 min at 37°C. The effects of N'-nitrendipine on the amplitude and time course of Ca2+ transients evoked by electrical stimulation (1 Hz, 10 ms) were also examined.
+
+MATERIALS AND METHODS
+
+Kupffer cells were isolated from rat livers as described previously (3, 4). Briefly, livers were perfused in situ with collagenase at 37°C until the entire liver was free-floating. The liver was then minced and digested with collagenase for 30 min at room temperature. The resulting suspension was filtered through gauze and centrifuged at 500g for 10 min. The supernatant was transferred to a density gradient medium (Lymphocyte Separation Medium, Euroscreen, Brussels, Belgium) and centrifuged at 800g for 20 min. Kupffer cells were collected from the interface between the plasma and density gradient media.
+
+The purity of Kupffer cells was assessed by morphological examination under an inverted microscope and by immunocytochemical staining for F4/80 (a Kupffer cell marker). The percentage of F4/80-positive cells was >95%.
+
+Cell mass was measured using a fluorescence imaging system (Bio-Rad, Hercules, CA) equipped with dual excitation and emission filters. Cells were incubated with 2 μM Fura-II for 30 min at room temperature, washed, and then placed on the stage of the microscope. Images were acquired sequentially at excitation wavelengths of 340 nm and 380 nm. The ratio of fluorescence intensities (F340/F380) was used as an indicator of [Ca2+]i.
+
+RESULTS
+
+The effect of N'-nitrendipine on [Ca2+]i in Kupffer cells is shown in Figure 1A. N'-nitrendipine significantly reduced the basal [Ca2+]i (54 ± 6 vs. 30 ± 4 nM, P < 0.01). The effects of N'-nitrendipine on the amplitude and time course of Ca2+ transients evoked by electrical stimulation are shown in Figure 1B. N'-nitrendipine significantly reduced the amplitude of the Ca2+ transient (57 ± 8 vs. 34 ± 5%, P < 0.01) and prolonged the decay time constant (1.9 ± 0.2 vs. 1.2 ± 0.2 s, P < 0.01).
+
+DISCUSSION
+
+The results of this study demonstrate that Kupffer cells express L-type Ca2+ channels. The channel blocker, N'-nitrendipine (1),

@@ -1,0 +1,50 @@
+ID: 217713
+NAME: L-17951 A
+7-1-82
+7722
+
+ANALYSIS
+RESULTS
+AVERAGE
+--------------------- -------------------- ---------
+NICOTINE (%) 1.58
+NITROGEN (%) 2.41
+NITRATE (%) 1.45
+T-SUGAR (%) 15.9
+GLYCERIN (%) 3.38
+PROPYLENE GLYCOL (%) 9.28
+TR[ETHYLENE GLYCOL (%) .30
+POTASH (%) 3.45
+
+ID: 217711
+NAME: L-17951 B
+7722
+
+ANALYSIS
+RESULTS
+AVERAGE
+--------------------- -------------------- ---------
+NICOTINE (%) 1.59
+NITROGEN (%) 1.39
+NITRATE (%) 1.59
+T-SUGAR (%) 14.5
+GLYCERIN (%) 3.43
+PROPYLENE GLYCOL (%) 8.74
+TR[ETHYLENE GLYCOL (%) .30
+POTASH (%) 3.53
+
+ID: 217712
+NAME: L-17951 C
+7722
+
+ANALYSIS
+RESULTS
+AVERAGE
+--------------------- -------------------- ---------
+NICOTINE (%) 1.59
+NITROGEN (X) 2.21
+(CONTINUED ON NEXT PAGE)
+
+
+
+Sep 32 36

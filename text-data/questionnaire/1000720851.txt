@@ -1,0 +1,40 @@
+NAME DATE TIME
+
+Please light the cigarettes in alphabetical order. Take as few puffs as necessary to evaluate the cigarettes.
+
+Check one - leave no blanks:
+
+First Second No
+Code: Cigarette Cigarette Differences
+
+1. Which is more stinging (peppery) to mouth and nasal areas? 
+☐ ☐ ☐
+
+2. Which has more taste?
+☐ ☐ ☐
+
+3. Which is sweeter?
+☐ ☐ ☐
+
+4. Which is more bitter?
+☐ ☐ ☐
+
+5. Which has more menthol coolness?
+☐ ☐ ☐
+
+6. Which is more tobacco-like in flavor?
+☐ ☐ ☐
+
+7. Which has more lung impact when inhaled (which do you feel more when you inhale)?
+☐ ☐ ☐
+
+8. Which do you prefer?
+☐ ☐ ☐
+
+9. Rate how you feel about the cigarette coded with menthol cigarettes in general: as compared 
+very much much moderately slightly same slightly moderately much very much
+worse worse worse worse 
+
+10. Rate how you feel about the cigarette coded with menthol cigarettes in general: as compared
+very much much moderately slightly same slightly moderately much very much
+worse worse worse better

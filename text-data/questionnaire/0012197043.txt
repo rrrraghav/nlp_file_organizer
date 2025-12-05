@@ -1,0 +1,52 @@
+"FISHING"- VERSION "A"
+
+VIDEO COMMERCIAL TEST ANALYSIS
+
+NAME I____________________
+ADDRESS I____________________
+CITY I____________________ COUNTRY I__________
+TELEPHONE NUMBER I_________ DATE: I________
+
+INTERVIEWER'S SIGNATURE: ___________
+Hello, I am... ____ etc.
+
+1. Please tell me what brand of cigarettes you smoke on a regular basis?
+(That is, the brand you smoke most often.) And what length is that brand? Is it too regular length (King Size) or the Deluxe Length (100)?
+
+Kent KS.................. Viceroy KS...................
+Kent 100............... Viceroy 100................
+Marlboro KS............. Winston KS.................
+Marlboro 100............ Winston 100................
+OTHER (WRITE IN).....................(END INTERVIEW)
+
+2. Have you ever participated in any type of a cigarette survey before?
+That is, have you been asked to sit down and answer questions about cigarette products or advertising. Or a survey that you were asked about cigarettes by an interviewer?
+
+Yes..................(ASK Q.3) No........(SKIP TO Q.4)
+
+3. (IF "YES" IN Q.2) About how long ago was that?
+
+Within the past year...................(END INTERVIEW)
+Over 1 year ago.........................(ASK Q.4)
+
+4. Do you, or any of your family or friends... (READ LIST)
+
+Work for a cigarette company.......Yes........No..........
+Work for a market research company....Yes........No..........
+Work for an advertising company......Yes........No..........
+(INTERVIEWER: IF "YES" TO ANY OF ABOVE IN Q.4 - END INTERVIEW)
+
+5. Thinking now of your regular brand of cigarettes, that is [BRAND IN Q.1], how long have you been smoking? [BRAND IN Q.1]
+
+Less than 6 months..................2 to 3 years...............
+6 months to 1 year.................3 years or more..........
+1 to 2 years.......................
+
+SB (Ask if it's a regular brand on Q1) Please tell me what you smoke most, first as your regular brand.
+
+(If product name is unknown)
+673030165
+So you have one known cigarette what brand would you associate with that?
+
+[BRAND IN Q.1] (VIEWER)
+[BRAND IN Q.1] (INTERVIEWER)

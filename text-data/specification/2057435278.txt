@@ -1,0 +1,170 @@
+U.S. DEPARTMENT OF LABOR
+MATERIAL SAFETY DATA SHEET
+
+SECTION I - PRODUCT IDENTIFICATION
+MANUFACTURER: E.I. du Pont de Nemours Company
+P.O. Box 399, Wilmington, Delaware 19898
+TELEPHONE NUMBER: (302) 999-6574
+CHEMICAL NAME: Polyethylene Glycol Monomethyl Ether
+
+SECTION II - HAZARDOUS INGREDIENTS
+INGREDIENT(S)
+Polyethylene Glycol Monomethyl Ether
+CAS NO.
+2036-81-2
+
+OSHA PEL
+Not Established
+ACGIH TLV
+Not Established
+
+SECTION III - PHYSICAL AND CHEMICAL DATA
+BOILING POINT: 573°F (301°C)
+MELTING POINT: Not Available
+VAPOR PRESSURE: <0.001 mmHg @ 20°C
+VAPOR DENSITY: >1 (Air = 1)
+SOLUBILITY IN WATER: Miscible
+SPECIFIC GRAVITY: 1.11
+APPEARANCE: Clear, colorless liquid
+
+SECTION IV - FIRE AND EXPLOSION HAZARD DATA
+FLASH POINT: Not Applicable
+AUTO-IGNITION TEMPERATURE: Not Available
+FLAMMABLE LIMITS (in air): LEL: Not Available UEL: Not Available
+EXTINGUISHING MEDIA: Use any extinguishing media suitable for surrounding fire.
+
+SECTION V - HEALTH HAZARD DATA
+ROUTE OF EXPOSURE: Inhalation, ingestion, skin and eye contact.
+EFFECTS OF ACUTE OVEREXPOSURE:
+INHALATION: May cause respiratory irritation.
+INGESTION: May cause gastrointestinal distress.
+SKIN CONTACT: Prolonged or repeated contact may cause mild irritation.
+EYE CONTACT: May cause mild irritation.
+EFFECTS OF CHRONIC OVEREXPOSURE: No known chronic effects.
+
+SECTION VI - PRECAUTIONS FOR SAFE HANDLING AND USE
+Avoid contact with skin and eyes. Use with adequate ventilation. Keep container closed.
+
+SECTION VII - FIRST AID MEASURES
+INHALATION: If inhaled, remove to fresh air.
+INGESTION: If ingested, drink water. Call a physician if symptoms develop.
+SKIN CONTACT: Wash affected area with soap and water.
+EYE CONTACT: Flush eyes with water for 15 minutes.
+
+SECTION VIII - STABILITY AND REACTIVITY DATA
+STABLE: Yes
+CONDITIONS TO AVOID: Excessive heat.
+MATERIALS TO AVOID: Strong oxidizing agents.
+HAZARDOUS DECOMPOSITION PRODUCTS: Carbon monoxide and carbon dioxide.
+
+SECTION IX - SPILL OR LEAK PROCEDURES
+Spills will form a slippery surface. Contain spill. Absorb with inert material. Collect and dispose of properly.
+
+SECTION X - WASTE DISPOSAL METHOD
+Dispose of in accordance with federal, state and local regulations.
+
+SECTION XI – TRANSPORTATION INFORMATION
+DOT PROPER SHIPPING NAME: Not Regulated
+DOT HAZARD CLASS: None
+DOT LABEL REQUIRED: None
+DOT REPORTABLE QUANTITY: None
+
+SECTION XII – ADDITIONAL INFORMATION
+This material is not considered hazardous under OSHA Hazard Communication Standard (29 CFR 156.8).
+
+NOTE: The information in this Material Safety Data Sheet should be used to provide guidance on the safe handling, use, and disposal of this product. It does not constitute a warranty and does not guarantee against any hazards that may arise from the use of this product.
+
+U.S. DEPARTMENT OF LABOR
+MATERIAL SAFETY DATA SHEET
+
+SECTION I - PRODUCT IDENTIFICATION
+MANUFACTURER: E.I. du Pont de Nemours Company
+P.O. Box 399, Wilmington, Delaware 19898
+TELEPHONE NUMBER: (302) 999-6574
+CHEMICAL NAME: Polyethylene Glycol Monomethyl Ether
+
+SECTION II - HAZARDOUS INGREDIENTS
+INGREDIENT(S)
+Polyethylene Glycol Monomethyl Ether
+CAS NO.
+2036-81-2
+
+OSHA PEL
+Not Established
+ACGIH TLV
+Not Established
+
+SECTION III - PHYSICAL AND CHEMICAL DATA
+BOILING POINT: 573°F (301°C)
+MELTING POINT: Not Available
+VAPOR PRESSURE: <0.001 mmHg @ 20°C
+VAPOR DENSITY: >1 (Air = 1)
+SOLUBILITY IN WATER: Miscible
+SPECIFIC GRAVITY: 1.11
+APPEARANCE: Clear, colorless liquid
+
+SECTION IV - FIRE AND EXPLOSION HAZARD DATA
+FLASH POINT: Not Applicable
+AUTO-IGNITION TEMPERATURE: Not Available
+FLAMMABLE LIMITS (in air): LEL: Not Available UEL: Not Available
+EXTINGUISHING MEDIA: Use any extinguishing media suitable for surrounding fire.
+
+SECTION V - HEALTH HAZARD DATA
+ROUTE OF EXPOSURE: Inhalation, ingestion, skin and eye contact.
+EFFECTS OF ACUTE OVEREXPOSURE:
+INHALATION: May cause respiratory irritation.
+INGESTION: May cause gastrointestinal distress.
+SKIN CONTACT: Prolonged or repeated contact may cause mild irritation.
+EYE CONTACT: May cause mild irritation.
+EFFECTS OF CHRONIC OVEREXPOSURE: No known chronic effects.
+
+SECTION VI - PRECAUTIONS FOR SAFE HANDLING AND USE
+Avoid contact with skin and eyes. Use with adequate ventilation. Keep container closed.
+
+SECTION VII – FIRST AID MEASURES
+INHALATION: If inhaled, remove to fresh air.
+INGESTION: If ingested, drink water. Call a physician if symptoms develop.
+SKIN CONTACT: Wash affected area with soap and water.
+EYE CONTACT: Flush eyes with water for 15 minutes.
+
+SECTION VIII – STABILITY AND REACTIVITY DATA
+STABLE: Yes
+CONDITIONS TO AVOID: Excessive heat.
+MATERIALS TO AVOID: Strong oxidizing agents.
+HAZARDOUS DECOMPOSITION PRODUCTS: Carbon monoxide and carbon dioxide.
+
+SECTION IX - SPILL OR LEAK PROCEDURES
+Spills will form a slippery surface. Contain spill. Absorb with inert material. Collect and dispose of properly.
+
+SECTION X – WASTE DISPOSAL METHOD
+Dispose of in accordance with federal, state and local regulations.
+
+SECTION XI – TRANSPORTATION INFORMATION
+DOT PROPER SHIPPING NAME: Not Regulated
+DOT HAZARD CLASS: None
+DOT LABEL REQUIRED: None
+DOT REPORTABLE QUANTITY: None
+
+SECTION XII – ADDITIONAL INFORMATION
+This material is not considered hazardous under OSHA Hazard Communication Standard (29 CFR 156.8).
+
+MSDS # 01295
+Archived
+
+SECTION XIV - REGULATORY INFORMATION
+TSCA INVENTORY STATUS: Listed on TSCA Inventory
+SARA TITLE III NOTIFICATION: None
+CALIFORNIA PROPOSITION 65: Not listed.
+
+SECTION XV – NOTES
+This Material Safety Data Sheet contains the most current information available at the time of preparation. However, it is up to the user to determine if this product is suitable for their particular use and application.
+
+Prepared by: Environmental Protection Department
+Date: 10/26/84
+Revision Date: 10/26/84
+
+SECTION XVI – DISCLAIMER
+E.I. du Pont de Nemours Company believes that the information contained herein is accurate; however, no assurance or guarantee, expressed or implied, is made with respect to its accuracy. Furthermore, it is recognized that this information may not be sufficient for all purposes and that additional data may be necessary to evaluate the product for a specific application. This information is offered solely for your consideration, investigation, and verification. The user must determine the suitability of the product for his own particular purpose.
+
+205752418/
+205752418/

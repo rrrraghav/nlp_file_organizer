@@ -1,0 +1,52 @@
+INBIFO Institut für biologische Forschung · Köln
+15. May 85 FTE/SSU SU23 (DIV) A1 (SN)
+
+GENOTOXIC ASSAY TARGET NUMBER OF
+EFFECT PROJECTS
+
+primary DNA yeast mutagenicity, Saccharomyces cerevisiae 2
+damage in vitro (a) strain D7
+
+SCE, in vivo Chinese hamster, 4
+bone marrow
+
+SCE, in vivo/in vitro rat, peripheral blood 3
+lymphocytes
+rat, pulmonary macrophages 1
+V79 cells 9
+SCR, in vitro PAN-L3 cells 1
+
+DNA adduct formation, calf thymus DNA 1
+in vitro
+
+DNA adduct formation, mouse, skin 1
+in vivo
+
+gene plate incorporation Salmonella typhimurium 32
+mutation mutagenicity, in vitro strains TA98, TA100
+
+preincubation muta- Salmonella typhimurium 2
+genicity, in vitro strains TA98, TA100
+
+HMA, in vivo/in vitro Salmonella typhimurium 2
+strain TA1930, TA100
+
+yeast mutagenicity, Saccharomyces cerevisiae 2
+in vitro (b) strain D7
+
+HGPRT, in vitro V79 cells 1
+
+chromosome micronucleus, in vivo mouse, bone marrow 4
+aberration rat, bone marrow 1
+Syrian hamster, bone marrow 2
+CA, in vivo/in vitro rat, peripheral blood 2
+lymphocytes
+rat, pulmonary macrophages 1
+CA, in vitro PAN-L3 (cells) 1
+
+TABLE
+GENOTOXICITY ASSAYS PERFORMED AT INBIFO
+
+(a) see also gene mutation
+(b) see also primary DNA damage
+2364

@@ -1,0 +1,46 @@
+PHILIP MORRIS
+U.S.A.
+
+INTER-OFFICE CORRESPONDENCE
+
+RICHMOND, VIRGINIA
+
+To: Dr. M. F. Gannon date: April 11, 1974
+From: Noel Einolf
+Subject: Mechanical Pumps on DuPont GC/MS 21-490
+
+The present (Alcatel) direct drive mechanical
+pumps on the DuPont 21-490 GC/MS have developed
+problems either with the motors or with the pump
+mechanisms. One of the two pumps has been repaired
+twice, and has had a motor replaced one time.
+The other pump was simply replaced with a new one
+when it became noisy. Because of the problems en-
+countered with these pumps within a period of only
+a year, I suggest replacing them with conventional
+belt-driven pumps.
+
+The Edwards ED 200 pump would be suitable,
+since it has a pumping speed slightly greater than
+those it would replace. I have used an Edwards pump-
+and found it to be quiet and require minimal mainten-
+ance.
+
+Mr. Bob Fuchs at DuPont agreed (verbally) to
+allow us half value for the Alcatel pumps. Current
+price for these is $475.00 each. The price of the
+Edwards ED 200 pump is $680.00 each. Our cost would
+be (2 x $680) - $475 = $885.00 for this changeover.
+I would also buy a spare parts kit at $35.00.
+
+I suggest ordering the Edwards pumps as soon as
+possible because of the lead time of 12-14 weeks.
+
+
+
+/slb Dr. T. S. Osdene
+cc Mr. W. F. Kuhn
+
+W. Puelly
+
+100820042

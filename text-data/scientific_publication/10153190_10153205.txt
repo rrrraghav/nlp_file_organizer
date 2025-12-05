@@ -1,0 +1,48 @@
+1621018
+
+From: Pulmonary Toxicology of Respirable
+Particles. C.I. Sanders et al., Eds.
+(Proceedings of the 14th Annual Harvard Life
+Sciences Symposium at Woods Hole, Mass. 1996)
+Technical Information Center, U.S. Dept. Energy
+
+The Dosimetry and Distribution of
+Cigarette Smoke Particulate Inhaled
+of Mice: Comparison of a Large Smoke-Exposure
+Machine (SEM) with a Small-Capacity
+Smoke-Exposure Machine (Walton)
+
+C.J. HENRY*, E. WHITINGHE+, A. LOPEZ†, D.R. DANSIE†,
+C.B. NEWMAN*, J.A. STOKLEY‡, R.W. HOELBERG†,
+M.R. GUERIN† and R.E. KOURI*
+
+*Department of Experimental Oncology and †Department of Biochemical
+Oncology, Microbiological Associates, Berlanda, Maryland; ‡Environmental
+Chemistry Division, Oak Ridge National Laboratory, Oak Ridge, Tennessee
+
+ABSTRACT
+
+The deposition and the external distribution of particulate matter (TPM) of
+cigarette smoke were measured under conditions of whole-body exposure in
+mice. Two different smoke-exposure systems were used: a large-capacity
+smoke machine (SEM, 31 L) is a large-speed (140 m/s) dynamic system in
+which smoke is drawn through the nose and mouth; a small-capacity system is
+a modified version of the Walton system with a 2.9 L/min flow rate. Mice are restrained about the neck in 16x17x7” boxes for
+whole-body exposure. The SEM was used to generate smoke at two different
+small-capacity (12 to 20 mice) rates, and the Walton smoke is introduced into
+a modified version of the Walton system. Both machines were operated under
+controlled conditions: temperature (23 ± 1°C), relative humidity (56 ± 8%),
+puff frequency (one puff per second), and butt length of cigarette (23 mm).
+The TPM mass concentration was measured by a tapered impactor to determine the
+deposition of TPM in mice during one brief exposure to smoke. When the
+Walton system was used, the TPM mass concentration was 140 µg/m³ with
+a particle size distribution that included particles as small as 0.25 µm. The SEM
+was used to generate smoke at a high flow rate, and isonicrh. The distribution of TPM
+in the lungs of mice exposed to cigarette smoke was determined by measuring
+the TPM mass concentration in each lung region. The TPM mass concentration
+at the alveolar level was not significantly different between the two exposure
+systems (SEM and Walton).
+
+Received 17 December 1995; accepted 23 January 1996.
+
+Environ Health Perspect. 1996;104:311-318

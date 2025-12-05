@@ -1,0 +1,32 @@
+REPORT P URGI/3138 890120
+
+SWS PAGE 89
+
+the LD50 values and 95- percent confidence limits
+for the SWS of the test cigarettes are the following.
+
+^LD50
+
+CIGARETTE NITRATE LD50 95% CONFIDENCE LIMIT
+CODE CONC. (mg TFM/finask)
+IN THE FILTER (%)  (mg" TFM/fin.lk)
+
+OR3   0.89    4.854   (0.368 to 0.26%)
+L1     0.22    3.287   0.22% to 0.4%
+L2     0.63    5.682  (1.15% to 0.2%)
+L4     1.12    0.16% 5.473  0.1% to 0.1%
+J3     1.78    0.16%   5.349 (1.15% to 0.2%)
+
+D
+
+"TABLE II: LD50 VALUES FOR SWS OF THE Y-400 SERIES CIGARETTES."
+
+The LD50 value for the SWS of the y-400 series
+showed a decreasing trend with increasing nitrate
+concentration in the filter. The 95% percent confidence
+limits evaluate between four the test
+cigarettes, 11 and L2, and for the test cigarettes or
+and J3, which means that the
+there cigarettes was statistically significant.
+
+2028689347

@@ -1,0 +1,26 @@
+Design Control: Procedures for new product development
+and changes to existing products after QSR compliance date
+
+Design Plan
+Design Inputs
+(Requirements)
+Design Outputs
+(Specifications)
+
+V & V
+Assessment/Analysis
+Tools
+Design Reviews
+Change Control
+Human Factors
+Design Transfer
+
+Production
+
+
+
+Non-product specific records: Product specific
+QS Records records:
+DHP, DMR, DHR
+
+20823630

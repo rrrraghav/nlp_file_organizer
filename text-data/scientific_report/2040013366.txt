@@ -1,0 +1,40 @@
+Attorney/Client Privilege
+
+Draft
+
+Contaminants in PZ Samples From Celanese
+
+See attached charts for GC/MS traces for two representative samples.
+Sample descriptions are as follows:
+
+Sample #775 Loaded 5/2/95 Received 5/3/95 F 100 Tanker 602(4690) (CAB).
+
+Samp #808 Loaded 5/6/95 Received 5/16/95 F 100 Tanker 602(26) (LVL)
+
+
+
+Table I. ConfirmedⱠ Compound Identification
+
+Peak Odor Profile Quality Compound Name MW
+Descriptors
+C1 Butyric Acid 88
+C2 Methanediol diacetate 132
+C3 1,1-Ethanediol diacetate 146
+C4 1,2-Ethanediol diacetate 146
+C5 1,2-Propanediol diacetate 160
+C6 2-Ethylhexyl acetate 172
+C7 1,2-Butanediol diacetate 174
+C8 1,3-Propanediol diacetate 160
+
+Footnotes: Ⱡ Structures confirmed by comparison of GC retention time
+and mass spectral fragmentation pattern with authentic reference samples.
+
+
+
+JS
+June 16, 1995
+
+
+
+
+204001366

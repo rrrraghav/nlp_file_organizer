@@ -1,0 +1,40 @@
+HKW21WO84
+
+ANALYTICAL BIOCHEMISTRY 82, 602-608 (1978)
+
+Rev.
+
+Degradation of Tropoelastin by Proteases
+
+PAUL CHRISTNER,* GERMAINE WEIRMAN,* BRUCE SLOAN,* AND
+JOEL ROSENBLOOM*
+
+*Center for Oral Health Research, Department of Anatomy and Radiology, Schools of Dental
+Medicine, University of Pennsylvania, Philadelphia, Pennsylvania 19104, and *Institute for
+Disease Prevention, Albert Einstein Medical Center, Philadelphia, Pennsylvania 19141
+Received December 13, 1977; accepted March 17, 1978
+
+A simple assay is described which is capable of detecting single strands in purified
+radioactively labeled tropoelastin after incubation with dilute solutions of
+proteases. The assay utilizes a monoclonal antibody affinity column and a variety of proteases, including trypsin and pancreatic elastase, at physiologic
+pH. Degradation of tropoelastin by these enzymes yields fragments of
+tropoelastin or other related biosynthetic intermediates may play a role in the
+pathogenesis of emphysema.
+
+The connective tissue protein elastin is largely responsible for maintaining the elasticity of major blood vessels and lung tissue. In the highly
+insoluble elastin, the polypeptide chains are extensively cross-linked
+by desmosine and isodesmosine residues (1). The formation of these
+oxidations of lysine residues (1-5). A single polypeptide, designated tropoelastin, with a molecular weight of about 48,000, is an intermediate in
+the biosynthesis of the fiber (6-10). Although recent evidence suggests that a larger molecular weight precursor may also exist
+(11), relatively little has focused on the role of proteolytic enzymes, particularly leukocyte elastase, in the pathogenesis of chronic emphysema. The major emphasis has been on the destruction of mature elastic fiber
+by administered proteases, and in these systems there is a strong correlation between the severity of elastin degradation and the degree of elastin (12, 13). However, in man the development of emphysema is a
+complex process involving many factors, during which time
+there may be periodic destruction of pulmonary alveolar tissue. Such
+considerations suggest that interruption or repair of tropoelastin biodegradation may play a significant role in emphysema development.
+
+As a first step in exploring this possibility, we have developed a simple
+assay which is capable of detecting a single strand in the tropoelastin
+polypeptide chain and measuring the sensitivity of tropoelastin to a
+group of proteases.
+
+(Fig. 1)

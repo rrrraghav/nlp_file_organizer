@@ -1,0 +1,57 @@
+MURC
+
+
+
+FOR FIELD USE
+
+Monitored
+Validated By:
+Edited By:
+Complete
+Terminate
+
+
+
+
+
+DW/dr REVISED 3/16/89 10:45 a.m.
+
+
+
+
+RESPONDENT NUMBER:
+
+
+
+
+
+RESPONDENT'S NAME:
+
+
+
+
+
+State Code County Code Geo. Reg. TELEPHONE NUMBER
+Co. Size
+
+
+
+Interviewer Number
+
+Date: Time Ended: am  pm Time Started: pm No. Of Min. am
+
+1) (ASK TO SPEAK TO RESPONDENT NAMED AT TOP OF SCREEN. IF NOT AVAILABLE, ENTER CODE 2 AND SCHEDULE CALLBACK. IF NO SUCH PERSON OR NO LONGER IN HOUSEHOLD, ENTER CODE 4.)
+
+Hello, I'm *OI with M/A/R/C CONSUMER RESEARCH, an affiliate of National Product Opinion Surveys. We are conducting a survey and would like to include you or someone in your household among the people we are talking to.
+Respondent Available (SKIP TO Q.2) . . . 1
+Respondent Not Available . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 2
+(SCHEDULE CALLBACK)
+No Eligible Respondent. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 3
+(TERMINATE)
+4
+
+1a) (ASK TO SPEAK TO RESPONDENT LISTED BELOW. IF NOT AVAILABLE, ENTER CODE 2 AND SCHEDULE CALLBACK. IF NO SUCH PERSON OR NO LONGER IN HOUSEHOLD, CONTINUE WITH INTRODUCTION.)
+
+Hello, I'm *OI with M/A/R/C CONSUMER RESEARCH, an affiliate of National Product Opinion Surveys. We are conducting a survey and would like to include you or someone in your talking to.
+Respondent Available (SKIP TO Q.2) . . . 1
+Respondent Not Available . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .

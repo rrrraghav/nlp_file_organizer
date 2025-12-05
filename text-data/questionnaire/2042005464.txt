@@ -1,0 +1,39 @@
+#426-074
+July, 1971
+Male
+Female
+
+QUESTIONNAIRE
+
+Hello, I’m from ............................, a national market research company.
+We are conducting a study among men and women about smoking/cigarettes.
+
+Do you smoke one or more packages of cigarettes a week?
+Yes
+No ----- TERMINATE
+
+Here is an advertisement for a new product. Please read this ad entirely. REMOVE AD.
+This is what the product looks like.
+
+1. Would you consider smoking P. M. Brown as your regular smoke instead of what
+you usually smoke?
+Yes
+No ----- SKIP TO Q. 3.
+
+2a. Would you consider smoking it occasionally?
+Yes
+No
+
+2b. IF NO TO Q. 1 AND 2, ASK: Why not?
+
+
+
+3. Do you think that P. M. Brown would be…………. READ CHOICES.
+
+    * Milder than the average cigarette
+    * Stronger than the average cigarette
+    * About the same as the average cigarette
+
+
+
+2042005464

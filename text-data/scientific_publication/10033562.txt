@@ -1,0 +1,41 @@
+Reproduced from
+J. Virol., Vol. 26, No. 3, pp. 450–459, September 1978
+Microbiology
+
+Serological characterization of B-tropic viruses of C57BL mice:
+Possible origin by recombination of endogenous N-tropic and
+xenotropic viruses
+
+(N-B-tropic type N virus/recombination/competition radi-immunoassays)
+
+LEONARD E. BENAZE, JAMES N. HILE*, AND ALAIN DECLIVE*
+
+*Tumor Biology Research Center, National Cancer Institute, Frederick, Maryland 21701, and *Cancer Biology Research
+Laboratory, Department of Pathology, Stanford University School of Medicine, Stanford, California 94305
+
+Communicated by Henry S. Kaplan, June 23, 1978
+
+ABSTRACT. The N-tropic properties of the p5g gene products of viruses isolated from C57BL mice were previously described and it was shown that these viruses could be distinguished from BALB/c viruses by their ability to react with monoclonal antibodies against gp1 and gp2. In this report, we describe the isolation of B-tropic viruses from C57BL mice that also reacted with these monoclonal antibodies. These B-tropic viruses were purified from the B-tropic virus stocks using affinity chromatography. The p5g gene products of these viruses were shown to be similar to those of the endogenous N-tropic viruses, but they also shared some antigenic properties with BALB/c viruses. It is proposed that the B-tropic viruses arose via recombination of endogenous N-tropic viruses and xenotropic viruses.
+
+INTRODUCTION
+The murine leukemia virus (MuLV) genome incorporates a variety of unique sequences in addition to the structural genes (1, 2). These sequences are often referred to as “subgenomic” RNAs and may encode unusual proteins or regulatory elements (3, 4). One such sequence, designated N-tropic virus, has been isolated from C57BL mice (5, 6). This virus is characterized by its ability to infect neuronal cells in vivo and by the unique properties of its p5g gene products (7, 8). The N-tropic viruses are distinguished from other MuLV strains by their reactivity with monoclonal antibodies against gp1 and gp2 (9).
+
+Recently, we have isolated a series of recombinant BALB/c viruses that also react with these monoclonal antibodies (10). An analysis of the genetic relationships among these viruses suggested that they arose by recombination of endogenous N-tropic and xenotropic viruses. Similarly, N-tropic viruses were linked to the p5g gene products of BALB/c viruses (11). In this communication, we report the isolation of B-tropic viruses from C57BL mice that can be distinguished on the basis of their reactivity with monoclonal antibodies. The results of these experiments have showed that their viral recombinant sequences are similar to those of endogenous N-tropic viruses. We also show that the p5g gene products of these viruses share some antigenic properties with BALB/c viruses, suggesting that the B-tropic viruses of C57BL mice arose by recombination of endogenous N-tropic and xenotropic viruses.
+
+MATERIALS AND METHODS
+
+Virus and cell lines: Virus strain M2(N) (BALB/c) (7) has been used previously (10). The B-tropic virus labeled B6-N was isolated from a BALB/c mouse as described in reference 10. C57BL mice were obtained from Jackson Laboratory, Bar Harbor, Maine. Cell lines used included NIH 3T3, A20, Rausher’s sarcoma (RS), and p8.15 (12). All cells were maintained in Dulbecco's modified Eagle medium supplemented with 10% fetal bovine serum, 2 mM L-glutamine, 48 μM gentamicin, and 100 μg/ml penicillin.
+
+Virus purification: B-tropic viruses were purified from infected culture fluids by a combination of low-speed centrifugation, DEAE-cellulose chromatography, and affinity chromatography (13, 14).
+
+Serological analysis: Viral antigens were analyzed by radi-immunoassays using monoclonal antibodies against gp69, gp55, and p15 (15).
+
+by polyperoxide glycoprotein (14, 15). An analysis of the genetic relationships among these viruses suggested that they arose by recombination of endogenous N-tropic and xenotropic viruses. Similarly, N-tropic viruses were linked to the p5g gene products of BALB/c mice. It is proposed that the B-tropic viruses of C57BL mice arose by recombination of endogenous N-tropic and xenotropic viruses.
+
+MATERIALS AND METHODS
+
+Virus and cell lines: Virus strain M2(N) (BALB/c) (7) has been used previously (10). The B-tropic virus labeled B6-N was isolated from a BALB/c mouse as described in reference 10. C57BL mice were obtained from Jackson Laboratory, Bar Harbor, Maine. Cell lines used included NIH 3T3, A20, Rausher’s sarcoma (RS), and p8.15 (12). All cells were maintained in Dulbecco's modified Eagle medium supplemented with 10% fetal bovine serum, 2 mM L-glutamine, 48 μM gentamicin, and 100 μg/ml penicillin.
+
+Virus purification: B-tropic viruses were purified from infected culture fluids by a combination of low-speed centrifugation, DEAE-cellulose chromatography, and affinity chromatography (13, 14).
+
+Serological analysis: Viral antigens were analyzed by radi-immunoassays using monoclonal antibodies against gp69, gp55, and p15 (15).

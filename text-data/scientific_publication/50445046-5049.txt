@@ -1,0 +1,60 @@
+0022-1465/88/$1.00 + 0.10
+
+The Journal of Immunology
+Copyright © 1988 by The American Association of Immunologists
+
+Vol. 131: 2573-2580; No. 10, October 15, 1988
+Printed in U.S.A.
+
+RECEPTOR-LIKE NATURE OF CLASS I HLA: ENDOCYTOSIS VIA COATED PITS¹
+
+JAI DEV DASGUPTA,²* SIMON WATKINS,** HENRY SLAYTER,** AND EDMOND J. YUNIS*
+
+From the Dana-Farber Cancer Institute, ²the Department of Pathology, Division of Immunogenetics, and ³the Department of Physiology and Biophysics, Harvard Medical School, Boston, MA
+
+The present investigations show that class I HLA are internalized by monocytemacrophage type cells. Anti-class I Ag antibody-binding assays show that about 30% of class I Ag present on cell surfaces are endocytosed within 1 h. Electronmicroscopic investigations reveal that, like other well established receptor molecules, internalization of HLA is mediated by coated pits and coated vesicles. The endocytosed Ag are transferred from endosomes to trans-Golgi reticulum and back to the cell surface, suggesting recycling of these Ag back to the cell surface. In the presence of phorbol ester tetradeca-noyl phorbol acetate, there is a modest increase in the rate of internalization. These results are con-sistent with the hypothesis that class I Ag on mono-cytes/macrophages behave like receptor molecules. Malignant transformation of monocyte cells appear-ently causes the loss of this property of class I Ag.
+
+The role of class MHC Ag in regulating immune cell cytotoxicity is well established (1, 2). However, besides its role in antigen presentation, other functions have also appeared to be involved in class MHC Ag expression (3, 4). In particular, it has been shown that class MHC Ag can be internalized from the cell surface by monocytemacrophage type cells (5, 6). This internalization is thought to be mediated by a receptor-like mechanism (7), but the precise nature of this mechanism remains unclear.
+
+In this study, we have investigated the mechanism of class I HLA internalization in human mono-cytes. Our results show that class I HLA molecules follow different pathways. The present study shows that class I Ag molecules on human monocytes/macrophages behave like receptor molecules in that they follow one of these pathways of internalization. About 30% of surface bound Ag are internalized within 1 h. Electronmicroscopic investigations show that class I Ag, endocytosed via coated pits and coated vesicles, are transferred to endosomes and then to the trans-Golgi, suggesting that the Ag are recycled back to the cell surface. Mono-cytic tumor cell lines do not internalize these Ag.
+
+MATERIALS AND METHODS
+
+Cells and antibodies. Macrophages/monocytes were isolated from peripheral blood mononuclear cells (PBMCs) as described previously (7). Briefly, PBMCs were prepared from buffy coats of normal healthy blood donors by density gradient centrifugation using Ficoll-Paque. Mono-cytic (1 x 10⁶) monocytes were enclosed by 1% dialyzed adhesive plastic plates in RPMI 1640 supplemented with 2 mM L-glutamine, 10% fetal bovine serum, and antibiotics. The cells were cultured for 7 days in the presence of 10 ng/ml human GM-CSF (R&D Systems, Minneapolis, MN) to generate macrophage-like cells.
+
+Monoclonal antibodies (mAbs) MEM-17, W6/32, HP-30, and THP-1 from American Type Culture Collection, Bethesda, MD, were used for blocking experiments. MEM-17 is an anti-HLA class I mAb that binds to a monomorphic determinant present on all HLA class I molecules. W6/32 is an anti-HLA class I mAb that blocks the binding of HLA class I molecules to beta 2-microglobulin. HP-30 is an anti-Fc receptor mAb, and THP-1 is an anti-monocyte marker.
+
+Antibody internalization assay. Cells (1 x 10⁵) were incubated with MEM-17 at a concentration of 10 μg/ml for 30 min at 37°C. The cells were then washed three times with PBS and incubated in fresh medium for various periods of time (0–4 h). At each time point, the cells were lysed, and the amount of antibody bound to the cells was determined by ELISA as described previously (7).
+
+Electron microscopy. Cells were fixed with 2.5% glutaraldehyde in PBS, postfixed with osmium tetroxide, dehydrated through a graded series of ethanol solutions, and embedded in epoxy resin. Thin sections were cut on an ultramicrotome and examined under a Philips CM100 electron microscope.
+
+RESULTS
+
+Antibody internalization kinetics. The rate of MEM-17 antibody internalization by mono-cytic cells is shown in Fig. 1. About 30% of the bound antibody was internalized within 1 h. The rate of internalization decreased slightly after 4 h.
+
+Fig. 1. Kinetics of MEM-17 antibody internalization by monocytemacrophage type cells. Cells were incubated with MEM-17 (10 μg/ml) for 30 min at 37°C, washed, and then incubated in fresh medium. At each time point, the cells were lysed, and the amount of antibody bound to the cells was determined by ELISA. The data are expressed as percentage of antibody internalized compared to the initial binding.
+
+Effect of phorbol ester on antibody internalization. Phorbol esters have been shown to stimulate various cellular functions, including endocytosis (8). To determine whether phorbol esters affect class I HLA internalization, monocytemacrophage type cells were incubated with tetradecanoyl phorbol acetate (TPA) (100 ng/ml) for 30 min prior to incubation with MEM-17. As shown in Fig. 2, TPA treatment resulted in a modest increase in the rate of antibody internalization.
+
+Fig. 2. Effect of TPA on MEM-17 antibody internalization by monocytemacrophage type cells. Cells were pretreated with TPA (100 ng/ml) for 30 min prior to incubation with MEM-17 (10 μg/ml) for 30 min at 37°C, washed, and then incubated in fresh medium. At each time point, the cells were lysed, and the amount of antibody bound to the cells was determined by ELISA. The data are expressed as percentage of antibody internalized compared to the initial binding.
+
+Electron microscopy. Electronmicroscopic examination of monocytemacrophage type cells revealed that MEM-17 antibodies were internalized via coated pits and coated vesicles (Fig. 3). The endocytosed antibodies were found within multivesicular bodies, which are known to be intermediates in the recycling pathway (9).
+
+Fig. 3. Electronmicroscopic appearance of antibody internalization by monocytemacrophage type cells. Note the presence of coated pits and coated vesicles involved in antibody internalization.
+
+REFERENCES
+
+1.  ....
+2.  ....
+3.  ....
+4.  ....
+5.  ....
+6.  ....
+7.  ....
+8.  ....
+9.  ....
+
+
+
+*Present address: Department of Immunology, University of Pittsburgh School of Medicine, Pittsburgh, PA 15213.
+**These authors contributed equally to this work.

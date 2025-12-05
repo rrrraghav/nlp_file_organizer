@@ -1,0 +1,33 @@
+BROWN & WILLIAMSON TOBACCO CORPORATION
+
+RESEARCH & DEVELOPMENT
+
+INTERNAL CORRESPONDENCE
+
+TO: J. S. Wigand
+
+CC: T. F. Richl, R. C. Harris, R. H. Honeycutt, W. J. Buda, D. D. Snyder
+
+FROM: G. R. Nicholson, R. Spivey, B. T. Thompson
+
+DATE: January 29, 1991
+
+SUBJECT: WORK AREAS AND PRIORITIES FOR MAJOR MANUFACTURING MEASUREMENT SYSTEMS/136
+
+Listed below are descriptions of the work areas in order of priority for Manufacturing Measurement Systems (MMS) based on input from Bacon Quality Assurance (QA).
+
+1. Final Flavor Verification - A benchtop method, similar in function but not necessarily the same technology to the Casing Verification System, that provides a rapid pass/fail output on final flavors sent from the Flavor Prep area.
+
+2. Quantitative Analysis of Casings - A timely method that takes Casing Verification a step further: Reliable quantitative analysis of casing components.
+
+3. Detection of Menthol Shorts - An on-line system for the non-menthol reclaim line to detect the presence of menthol shorts.
+
+As always, these work areas and priorities will be reviewed periodically to assure MMS is addressing QA’s needs.
+
+ 
+G. R. Nicholson	B. T. Thompson	R. Spivey
+
+HTT/rmb
+0017g
+
+583226258

@@ -1,0 +1,46 @@
+--Original Message---
+From: Spencer, Ruth
+Sent: Tuesday, May 02, 2000 2:57 AM
+To: Carmines, Edward L J
+Cc: Peterson, George; Solano, Rick P.; Sanders, Edward
+Subject: RE: Run's slide ppt
+
+WOW! How efficient! Thanks for the slide, just a couple of questions to ensure that I represent the past correctly - (I think I know the answers to some of these, but I just want to be sure)
+
+I seem to remember Richard saying that there were some written 'guidelines' for ingredient assessment prior to the most recent version. Although I think these were probably more piece meal in format - did they actually specify the types of toxicology testing which performed?
+
+[Carmines, Edward L J] Yes, but they were more suggestive than specific. "Testing Aspects" were listed as:
+* Chemistry
+* Pyrolysis
+* Smoke Chemistry
+* In vitro and in vivo toxicity studies
+
+[Carmines, Edward L J] Under the toxicity test heading there was a list of rules ranging form acute and genes tox to carcinogenicity and chronic studies.
+
+Was there a minimum battery of tests through which all new ingredients were assessed, or was this also performed on a case by case basis - based on literature & structural analysis?
+[Carmines, Edward L J] Testing was judged on a case by case basis and we were driven by our estimates of potential exposure and our knowledge of the toxicity of the material. We didn't use formal structure activity relationships to make judgements, but in reality we did consider them when evaluating structures and making toxicological judgements. The most recent testing battery included smoke chemistry, Ames, Cytotoxicity, and Lymphoma. We’ve also tested for mouse lymphoma and
+lymphomas. Both have been approved, but we haven't actually run an ingredient through them yet.
+Am I correct in thinking that most previous was testing basically Ames and Cytox, the mouse lymphoma and
+mouse lymphoma tests only being added recently as our experience with these has evolved?
+[Carmines, Edward L J] Yes
+
+Did we do any inhalation studies or ingredient review in the past?
+[Carmines, Edward L J] Inhalation tests as well as skin painting tests have been run in the past but were mostly in response to specific issues or allegations that ingredients appeared to date we have
+not done structure-activity relationship on ingredients.
+
+[Carmines, Edward L J] George has significant role in ingredient toxicology [Carmines, Edward L J] We rarely did test layout at the time of the GRAS materials.
+
+Did the ingredient file contain a list of the tests which were run on it?  George, Rick or I would seem to remember that as part of our work. A few of the old files are still available at (username) x: in old ingredients
+was the expectation that we would review this information prior to use?
+[Carmines, Edward L J] No, there wasn't a list of tests - it was more a matter of us knowing what had been done and why.  We didn’t have a formal system for documenting this at the time.
+
+I think I remember something about a consultant being used to review toxicology data?
+[Carmines, Edward L J] Yes, we did use consultants from time to time.
+
+Thanks again for your help!
+
+Ruth Spencer
+
+
+
+***Disclaimer: This email message contains information that may be confidential and/or proprietary. If this message was sent to you in error, please notify the sender immediately and do not disclose, copy, distribute, or take any action in reliance on the contents of this email.***

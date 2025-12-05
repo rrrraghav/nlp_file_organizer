@@ -1,0 +1,44 @@
+9010 & pleadings
+
+
+
+ACCOUNTS PAYABLE VOUCHER 0128999
+
+SEE INSTRUCTIONS ON BACK August 4 19 88
+
+Mail to payee  □ Other
+Call for check pick-up - Name Ext.
+
+Return Name Patty Turner Dept. Name R&D
+
+Bldg. 611-12 Rm. No. 304
+
+Check to be dated August 19 and available 3:00
+
+ISSUE CHECK TO: $ Time CENTS
+Name Battelle-Northwest 8,748.47
+
+Employee Account No. (if applicable)
+Attn: Cashier
+Address P.O. Box 999
+
+City Richland State WA Zip 99352
+
+Explanation: Payment for analysis of plasma for nicotine
+and Cotinine during the months of May & June 1988.
+
+Special Payment Information to appear on check stub:
+
+Related AR/AC/CA Number: Contract #88-771-039/AR #88-342
+
+G/L Account Code Other Required Code Amount
+04 90 0111 9010 58 $8,748.47
+
+Dr. Gary T. Burger
+Approval Authority Named (Type or Print) Requester Signature Teresa Ljallts
+Approval Authority Signature
+RJRN Form 67 - Rev. 8/86 ORIGINAL
+
+
+
+50559.2495

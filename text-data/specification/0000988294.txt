@@ -1,0 +1,46 @@
+PRODUCT SPECIFICATION SHEET
+
+Brand Code: 0114 Date: 03-04-87 Market: D
+BRAND NAME ELI CUTTER Lights Kings
+Date of Authorization: 22-APR-86 Date of Implementation: 05-MAY-86
+
+TOBACCO SECTION:
+Cut Tobacco Code: MT-070A Casings: C-042
+Blend Code: BW1527 Flue Cured: C-043
+XLF Burley: C-246
+Top Dressing: C-246
+Flavor: F-95 F-
+Blend Components: Moisture: 14.0% Menthol: 0.00%
+Flue Cured: 0.00% Recon: 0.00% 0.00%
+Burley: 0.00% Puffed: 0.00%
+Oriental: 0.00% Stem: 0.00%
+
+Small Strip:
+Flue Cured: 0.00% Burley: 0.00% Flue/Burley Blend: 0.00%
+
+Density 267.00 mg/cc Tobacco Weight: 751 mg
+Tobacco Section Length: 57 mm Circumference: 24.90 mm
+Cigarette Paper Material Code: 13-0340
+Supplier’s Designation: E609 Burn Additive: 0.75% CIT
+Permeability: 25.0 C
+Alternate Paper: Burn Additive: 0.00% CIT
+Permeability: 0.0 C
+Alternate Paper: Burn Additive: 0.00% CIT
+Permeability: 0.0 C
+
+FILTER SECTION:
+Filter Rod Code: FR-9192 Length: 18 in Pressure Drop: 14.B in
+Circumference: 24.60 mm Tow Item: FT107 DPF/TD: 3.1/ 35.000
+Tip Length: 27 mm Tip Pressure Drop: 3.7 in
+Plug Wrap Type: S65 Plasticizer: 7.0% TIL
+
+TIPPING:
+Tipping Material Code: 37-3080 Type of Perforations: MLP
+Permeability: 900 Length: 32 mm Color: W
+
+VENTILATION
+Total Ventilation: 21% On-Line Laser: 0% Groove Only: 0%
+
+REMARKS 13-0350 (51371) ALTERNATE PAPER
+
+620389483

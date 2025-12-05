@@ -1,0 +1,137 @@
+3217
+
+The Journal of Biological Chemistry
+Published monthly by the American Society for Biochemistry and Molecular Biology, Inc.
+
+Vol. 262 No. 4 February 5, 1987—Pages 1300-1306
+
+Identification of a Guanosine Triphosphate-binding Site on Guinea Pig Liver Transglutaminase
+
+ROLE OF GTP AND CALCIUM IONS IN MODULATING ACTIVITY*
+
+(Received for publication November 27, 1986)
+
+FILE COPY
+
+Komandoor E. Acyuthayan and Charles S. Greenberger‡
+From the Departments of &Medicine and Pathology, Duke University Medical Center, Durham, North Carolina 27710
+
+Guanosine 5'-triphosphate (GTP) was found to in- conformational change in the active site of the enzyme which
+hibit guinea pig liver transglutaminase activity as also eliminated its catalytic activity (O’Donohue and Pell, 1973).
+measured by its reaction with N-succinimido esters. GTP is GTP has been shown to inhibit glutaminyl cyclase activity
+(GTP + Ca2+)-dependent in vitro. The GTP inhibition was and extracellular calcium induces transglutaminase activ-
+reversible and noncompetitive. GTP acted as a ity (Uesato et al., 1983). Furthermore, retinoic acid
+substrate for ATP hydrolysis, but did not inhibit cerule- was found to inhibit intracellular transglutaminase activity
+lase or chymotrypsin. GTP also inhibited Factor XIII in cultured fibroblasts (Breckler et al., 1981), and the
+activity. Guinea pig liver transglutaminase GMP-, presence of retinoic acid increased transglutaminase activ-
+ADP-, UMP-, UDP-, and UT were ineffective sub- ity in human skin cells (Lichti et al., 1985) as well
+zyme activity. Guinea pig liver transglutaminase GMP-, as in cultured human embryoleucocyte HL-60 cells
+ADP-, UMP-, UDP-, and UT were ineffective sub- (Seiti et al., 1982), human erythroleukemia HL-60 cells
+strates. Recent studies have implicated nucleotide triphosphates (Davies et al., 1985) and mouse epidermal cells (Lichti et al.,
+in the regulation of several cellular functions, but 1985).
+to our knowledge, this is the first demonstration of a Recent studies have implicated nucleotide triphosphates
+GTP-binding site on transglutaminase. The GTP-bind- in the regulation of several cellular functions, but to
+ing assay was performed with 14C-labeled GTP. All our knowledge, this is the first demonstration of a
+triphosphate, later was inhibited by unlabeled GTP. The GTP-binding site on transglutaminase. The GTP-bind-
+GTP or Ca2+ inhibition of transglutaminase activity ing assay was performed with 14C-labeled GTP. All
+was reversible. Electrophoretic properties of the pro- triphosphates were later inhibited by unlabeled GTP. The
+tein plus GTP revealed a slower mobility. Affinitive GTP or Ca2+ inhibition of transglutaminase activity
+chromatography and threshold GTP binding at a was reversible. Electrophoretic properties of the pro-
+pH of 7.4 suggested that GTP binds to a specific site tein plus GTP revealed a slower mobility. Affinity
+on the enzyme. The results suggest that GTP may chromatography and threshold GTP binding at a pH
+regulate transglutaminase activity in vivo. of 7.4 suggested that GTP binds to a specific site
+on the enzyme. The results suggest that GTP may
+Transglutaminases are a family of enzymes that regulate transglutaminase activity in vivo.
+catalyze the cross-linking of proteins via the formation
+of covalent bonds between amino groups and glutamyl MATERIALS AND METHODS
+residues (Wolff, 1965). These enzymes play an impor-
+tant role in various biological processes including blood Guinea pig liver transglutaminase was purified from
+clotting, wound healing, keratinocyte differentiation, guinea pig liver homogenate as described previously
+and sperm maturation (Ferm et al., 1983; Hough et al., (Greenberger et al., 1972). The enzyme was stored at -20°C
+1984). Guinea pig liver transglutaminase is inhibited by in 50 mM Tris buffer, pH 7.4, containing 1 mM phenyl-
+ATP and GTP (Pell and O’Donohue, 1973) and methylsulfonyl fluoride.
+stimulates glutaminyl cyclase activity (O'Donohue and
+Pell, 1973). ATP has been shown to induce a Materials. Guanosine triphosphate (GTP), guanosine
+diphosphate (GDP), adenosine triphosphate (ATP), adeno-
+sine diphosphate (ADP), uridine triphosphate (UTP), uri-
+dine diphosphate (UDP), guanosine monophosphate (GMP),
+and phenylmethylsulfonyl fluoride were purchased from
+Sigma Chemical Co. (St. Louis, MO). [14C]GTP was pur-
+chased from New England Nuclear and had a specific ac-
+tivity of 39 Ci/mmol. N-succinimido esters of D-phe-
+nylalanine and p-nitroaniline were obtained from Aldrich
+Chemical Co., Inc. (Milwaukee, WI).
+
+RESULTS
+
+Effect of Nucleotides on Transglutaminase Activity
+
+Guinea pig liver transglutaminase activity was inhibited
+by GTP in a reversible manner (Fig. 1A). The IC50 for
+GTP inhibition was approximately 10 μM. GDP, ATP,
+ADP, UTP, UDP, GMP, and UT were ineffective inhibitors
+of the enzyme (Fig. 1B).
+
+Binding of [14C]GTP to Transglutaminase
+
+The binding of [14C]GTP to guinea pig liver transglu-
+taminase was saturable and reversible (Fig. 2A). The
+equilibrium dissociation constant (Ki) for GTP binding
+was 5 μM. Scatchard analysis revealed a single class of
+binding sites (Fig. 2B).
+
+Effect of GTP on Electrophoretic Mobility
+
+The addition of GTP to guinea pig liver transglutaminase
+resulted in a slower electrophoretic mobility of the pro-
+tein (Fig. 3). This suggests that GTP binds to a specific
+site on the enzyme and induces a conformational change.
+
+Affinity Chromatography
+
+Guinea pig liver transglutaminase was applied to a col-
+umn containing [14C]GTP coupled to Sepharose CL-6B.
+The enzyme bound to the column and was eluted with 50
+mM Tris buffer, pH 7.4, containing 10 mM GTP. The
+eluted enzyme exhibited increased transglutaminase activ-
+ity.
+
+DISCUSSION
+
+These results demonstrate that guinea pig liver transglu-
+taminase possesses a specific binding site for GTP. The
+binding of GTP to the enzyme is reversible and inhibits
+its catalytic activity. The conformational change in-
+duced by GTP binding may be responsible for the inhibi-
+tion of enzyme activity.
+
+REFERENCES
+
+Breckler, R. B., M. A. DeRose, J. L. Sturgess, and D. G.
+Sandford. 1981. Retinoic acid inhibits intracellular trans-
+glutaminase activity in cultured fibroblasts. J. Cell.
+Physiol. 109: 357-362.
+
+Davies, P., A. Seiti, M. C. Laniado, and R. D. Levin. 1985.
+Effect of retinoic acid on transglutaminase activity in
+human embryoleucocyte HL-60 cells. Blut. 51: 237-241.
+
+Ferm, W. A., J. M. Dougherty, and R. E. Banks. 1983.
+Transglutaminases. Adv. Enzymol. Relat. Areas Comput.
+Biol. 15: 269-307.
+
+Greenberger, C. S., K. E. Acyuthayan, and J. M. Dougherty.
+1972. Purification of guinea pig liver transglutaminase.
+J. Biol. Chem. 247: 8257-8263.
+
+Hough, R. G., D. C. Miller, and W. A. Ferm. 1984.
+Transglutaminases in human skin. J. Invest. Dermatol.
+83: 155-158.
+
+Lichti, E., M. B. Katz, P. M. Cregan, and R. D. Levin. 1985.
+Effect of retinoic acid on transglutaminase activity in
+mouse epidermal cells. J. Invest. Dermatol. 84: 367-370.
+
+O’Donohue, T., and G. Pell. 1973. Stimulation of glutaminyl
+cyclase activity by adenosine triphosphate and guanosine
+triphosphate. Biochem. Biophys. Res. Commun. 52: 

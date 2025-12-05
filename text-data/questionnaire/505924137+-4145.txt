@@ -1,0 +1,58 @@
+MARC
+
+Segment Description Study
+FOR FIELD USE
+Study #86-15280
+(ACTS Version)
+Validated By:
+Edited By:
+Complete ☐
+Terminate ☐
+CLT/kah 6/20/86
+
+DATE 85 TIME ENDED  TIME STARTED   NO. OF MIN.
+STATE CODE COLINTY CODE AREA CODE PREFIX EXTENSION INTERVIEWER NUMBER
+Hello, I’m with M/A/C Opinion Research. May I please speak to [READ NAME AT TOP OF SCREEN]?
+
+(IF RESPONDENT UNAVAILABLE, ENTER CODE 2 AND SCHEDULE CALLBACK) Respondent available .....................1
+                                                                        Respondent unavailable (SCHEDULE
+                                                                         CALLBACK)....................2
+                                                                        No such person (TALLY)  .................3
+                                                                        TERMINATE.....................4
+
+1 2 3 4 5 6 7 8 9
+
+1. We spoke with you several weeks ago about participating in a study we are conducting. Did you receive the materials we sent you recently? (IF RESPONDENT DID NOT RECEIVE MATERIALS, ENTER CODE 2 AND SCHEDULE A “MO MATERIALS” CALLBACK IN TWO DAYS.)
+Yes, received materials....................1
+No, did not received materials
+(SCHEDULE CALLBACK)....................2
+No such person (TALLY)  .................3
+TERMINATE.....................4
+
+2. So that we can begin, please get the packet of materials we sent you and bring it to the phone. (PAUSE WHILE RESPONDENT GETS THE PACKET. READ CHECK LIST. PAUSE FOR RESPONSE AFTER EACH ITEM.)
+
+Checklist: Yes No
+1. Pink deck of cards Continue Skip to Q.2a
+2. Blue cards on a ring Continue Skip to Q.2a
+3. White cards on a ring Continue Skip to Q.2a
+
+2a. (IF ANY ITEM NOT IN PACKET, ASK: OTHERWISE SKIP TO Q.3 READ:) “I’m very sorry, but all of these materials are needed to complete our study. We will mail another package to you and call back in 5 days.” (GET NAME AND ADDRESS. ARRANGE "CHECK-UP" CALLBACK IN 5 DAYS.)
+
+3a. Have you completed the questionnaire and interests that was in your packet of materials and mailed it back? Yes, completed and mailed questionnaire....................1
+                                                                        No, not completed/not mailed
+                                                                         (SKIP to Q.3c)....................2
+                                                                        Did not receive questionnaire.................3
+
+3b. In order to complete our study it is very important that we receive the questionnaire & interests. When do you expect to mail it? (IF WITHIN 1 WEEK, RECORD DATE. IF LATER, SKIP TO Q.3c.)
+
+3c. Very sorry you haven’t mailed the questionnaire yet. (SKIP TO Q.4)
+(IF RESPONDENT REFUSES TO GIVE INFORMATION, ENTER CODE 2 AND TERMINATE).....................2
+
+4.  To help us improve our study, could you briefly tell me how you feel about the questionnaire & interests? (RECORD OPEN-ENDED RESPONSE.)
+
+5. Thank you for your time. Have a nice day.
+(TERMINATE) ....................1
+
+
+
+5/29/86 0:47

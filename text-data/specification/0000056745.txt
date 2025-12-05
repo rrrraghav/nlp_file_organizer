@@ -1,0 +1,227 @@
+SAMPLE SPECIFICATIONS/PILOT PLANT WORK REQUEST
+pg. 1/8
+
+Date Reqd.
+Approved by
+Requiring Dept./Proj. No.
+Subject/Purpose
+Material No.
+Current Brand (Specify)
+Cigarette Code
+Analysis Code
+Masked Analysis Code
+End Pack Code
+Tobacco Color
+Skid No.
+Blend (Factory Mark)
+Rating
+Burley (Redried Ver.)
+Flue-Cured
+Top Dressing
+Operation No. (HHD/LND)
+Date Cased
+Trace (Specify)
+Moisture Req. (%)
+Filter (R)
+Material
+Length (mm)
+Circumference (mm)
+Pressure Drop (in H2O)
+Resistance (grains)
+Absorb (ml)
+Weight (grams)
+Density (g/cm3)
+Appearance
+Taste
+Aroma
+Body
+Smoke Characteristics
+Draw Resistance (grams)
+Filter Type
+Filter Length (mm)
+Filter Diameter (mm)
+Overwrap
+Packing Density (grams/100cc)
+Tip Shape
+Tip Length (mm)
+Tip Color
+Tip Pattern
+Tip Texture
+Band
+Band Position
+Band Width (mm)
+Band Material
+Band Color
+Wrapper
+Wrapper Type
+Wrapper Length (mm)
+Wrapper Circumference (mm)
+Wrapper Color
+Wrapper Texture
+Moisture (%)
+pH
+Ash Content (%)
+Carbon Monoxide (ppm)
+Nicotine (mg)
+Tar (mg)
+Quantity Requested
+30074 500
+Tech. Dept. Prod.
+Marketing Research
+Other
+Filter/Tobacco
+Levels
+Supplier - Color
+Length (mm)
+Perf./Type (Dist. M.S.)
+Permeability (Sec.cm3)
+Basis Wt. (grams/m2)
+Bobbin No.
+Filter Length (mm)
+Pressure Drop (in H2O)
+Smoke Pattern
+Glue Area (12x20, 12x16)
+Ventilation (E.I.)
+Mask. Width (mm)/Color
+Length (mm)
+Circumference (mm)
+Weight (grams)
+Maker
+Tip Length (mm)
+Tip Width (mm)
+Tip Color
+Tip Texture
+Band Position
+Band Width (mm)
+Band Material
+Band Color
+Wrapper Color
+Wrapper Texture
+Moisture (%)
+pH
+Ash Content (%)
+Carbon Monoxide (ppm)
+Nicotine (mg)
+Tar (mg)
+
+2/18/03
+B.A. Davis
+LEVEL 1 PATRINS
+4/6/13
+Req. Date 2/18/03
+Mktg. Control
+pot. 4/18
+(1-5)
+27977 2/18/03
+10-11 1/2
+(1-5)
+23077 2/18/03
+(1-5)
+N/A
+(1-5)
+123800 2/18/03
+(1-5)
+N/A
+(1-5)
+N/A
+(1-5)
+(1-5)
+Levels 3
+NE-569 H.S. NF-712
+NE-710 NE-712
+NF-710 NE-712
+N/A
+4066 1/28/03 4/6
+(1-5)
+Levels 3
+2.98 1/28/03 4/6
+(1-5)
+N/A
+(1-5)
+N/A
+(1-5)
+N/A
+(1-5)
+N/A
+(1-5)
+N/A
+(1-5)
+Levels 3
+2.98 1/28/03 4/6
+(1-5)
+N/A
+(1-5)
+N/A
+(1-5)
+N/A
+(1-5)
+N/A
+(1-5)
+Levels 3
+2.98 1/28/03 4/6
+(1-5)
+N/A
+(1-5)
+N/A
+(1-5)
+N/A
+(1-5)
+N/A
+(1-5)
+Levels 3
+N/A
+(1-5)
+N/A
+(1-5)
+N/A
+(1-5)
+N/A
+(1-5)
+N/A
+(1-5)
+N/A
+(1-5)
+N/A
+(1-5)
+N/A
+(1-5)
+N/A
+(1-5)
+N/A
+(1-5)
+N/A
+(1-5)
+N/A
+(1-5)
+N/A
+(1-5)
+N/A
+(1-5)
+N/A
+(1-5)
+N/A
+(1-5)
+N/A
+(1-5)
+N/A
+(1-5)
+N/A
+(1-5)
+N/A
+(1-5)
+N/A
+(1-5)
+N/A
+(1-5)
+N/A
+(1-5)
+N/A
+(1-5)
+N/A
+(1-5)
+N/A
+(1-5)
+N/A
+(1-5)
+N/A
+(1-5)

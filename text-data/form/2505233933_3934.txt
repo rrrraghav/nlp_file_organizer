@@ -1,0 +1,31 @@
+INBiFO Institut für biologische Forschung · Köln
+20 Sep. 00 NDA/MWO F:\MWO\QA\CHECKS\3000\3364.DOC
+
+ÜBERPRÜFUNG VON P 0500/3364 DURCH QA SEITE-NR.: 1 von 2
+
+TITEL: Determination of Aluminum (Al), Cadmium (Cd), Chromium (Cr), Lead (Pb),
+Nickel (Ni), and Arsenic (As) in Mainstream Smoke Condensate of the
+Cigarettes 1R4F, 1R5F, and VIRGO-CA
+Project PROFILE (PT)
+
+PRÜFZIEITPUNKT: 19.Sep.2000
+
+ÜBERPRÜFTER PARAMETER BEANSTANDUNG
+
+Kondensatgewinnung
+Study Plan, Study Plan Amendments
+SOPs
+Abrauchen der Zigaretten (VIRGO-CA)
+Wägung des Impaktors
+Protokollführung
+Etikettierung
+Gerätebuch
+keine
+
+BEMERKUNG: Studie nach den GLP-Grundsätzen des ChemG
+
+20.Sep.2000 QA: DATUM/ZN
+29052393
+
+
+

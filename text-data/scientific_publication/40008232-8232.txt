@@ -1,0 +1,68 @@
+Proc. Natl. Acad. Sci. USA
+Vol. 88, pp. 293–297, March 1991
+Neurobiology
+
+Dendritic location of neural BC1 RNA
+
+(polarity of neurons/RNA polymerase III synthesis/in situ hybridization)
+
+Henri Tiedge*, Robert T. Freneau, Jr.*†, Peter H. Weinstock‡, Otavio Arancio‡,§,
+AND JÜRGEN BROSIUS*
+
+*Fuberg Research Center for Neurobiology, Mount Sinai School of Medicine, 1 Gustave L. Levy Place, New York, NY 10029; and †Department of
+Physiology and Biophysics, Columbia University College of Physicians and Surgeons, 630 West 168th Street, New York, NY 10032
+Communicated by Richard L. Sidman, December 19, 1990
+
+ABSTRACT BC1 RNA, a specialized protein synthetic machinery, is thought to operate in local compartments of dendrites, particularly beneath synaptic junctions, and thereby to facilitate the synthesis of postsynaptic proteins in situ. This notion has been supported by the identification of polyribosomes and selected mRNAs in dendritic spines. We report here the discovery of a specific RNA polymerase III transcript in dendrites. This RNA, which we call BC1 RNA, is expressed almost exclusively in the nervous system. In adult rats as well as immature rats in late developmental stages, BC1 RNA is found in the dendrites and somata of neurons in both the central and peripheral nervous systems. The localization of BC1 RNA with polyribosomes in functional unit of a high molecular mass ribonucleoprotein particle—the dendritic spine—supports the possibility within the synaptic membrane of neurons.
+
+BC1 RNA encodes for components of the postsynaptic machinery, specifically a 35-kilodalton protein that is functionally related to ribosomal S6 kinase (refs. 1–3). The protein is involved in phosphorylation and activation of eukaryotic translation initiation factor 2α (eIF-2α) (ref. 4), which is known to regulate the synthesis of specific proteins. We propose that BC1 RNA, along with its associated protein, constitutes a specialized apparatus for local protein synthesis within dendrites. The presence of this RNA in dendritic spines suggests that it may play a role in synaptic plasticity and neuronal development.
+
+INTRODUCTION
+The ability of neurons to modify their structure and function in response to experience is thought to depend on the localized synthesis of proteins at synapses (1, 5). This concept, known as “synaptic plasticity,” has been supported by several lines of evidence, including the observation that protein synthesis is required for long-term potentiation (LTP) and other forms of synaptic modification (6, 7). The question remains, however, how proteins are delivered to synapses or synthesized locally. One possibility is that mRNA molecules are transported from the cell body to the synapse, where they can be translated into protein. Alternatively, mRNAs could be synthesized directly within dendrites, thereby bypassing the need for transport from the soma (8, 9).
+
+The latter possibility has gained considerable support in recent years with the discovery of polyribosomes and mRNA molecules in dendritic spines (10–12). These findings suggest that dendrites possess a protein synthetic machinery capable of producing proteins locally. However, the identity of the RNA polymerase responsible for transcribing these mRNAs remains unknown.
+
+In this paper, we describe the identification and characterization of a novel RNA transcript, which we have named BC1 RNA, that is localized to dendrites in rat brain. We show that BC1 RNA is transcribed by RNA polymerase III and is associated with polyribosomes in dendritic spines. Furthermore, we provide evidence that BC1 RNA encodes for a protein component of the postsynaptic machinery. These findings support the notion that local protein synthesis plays an important role in neuronal function.
+
+MATERIALS AND METHODS
+Tissue Preparation
+All procedures were conducted in accordance with institutional guidelines. Adult Sprague-Dawley rats (200–250 g) and immature rats (postnatal days 1–3) were deeply anesthetized with sodium pentobarbital, and their brains were rapidly removed and frozen in liquid nitrogen or fixed in 4% paraformaldehyde in phosphate buffer (pH 7.4).
+
+In Situ Hybridization
+In situ hybridization was performed as described previously (13), using a probe complementary to the 3' end of BC1 RNA. The probe was synthesized from a synthetic oligonucleotide corresponding to nucleotides 685–704 of the human ribosomal protein S6 gene (14). The oligonucleotide was labeled with [32P]CTP by random priming. Hybridization was carried out at 68°C for 16 hr in a solution containing 50% formamide, 10 mM Tris-HCl (pH 7.4), 1 mM EDTA, and 1 mg/ml of heat-denatured salmon sperm DNA. After hybridization, slides were washed successively with 2 × SSC (0.3 M NaCl/0.03 M sodium citrate) at room temperature, 0.5 × SSC at 68°C, and finally in RNase A solution (0.1 mg/ml in 2 × SSC) for 30 min.
+
+Immunolabeling
+Double immunolabeling was performed as described previously (15), using antibodies against ribosomal protein S6 kinase and BC1 RNA. Briefly, frozen sections were fixed in 4% paraformaldehyde, permeabilized with 0.1% Triton X-100, and incubated sequentially with the primary antibodies (diluted 1:100) and secondary antibodies conjugated to horseradish peroxidase or fluorescein isothiocyanate.
+
+RNA Polymerase III Identification
+To determine whether BC1 RNA is transcribed by RNA polymerase III, we performed an immunoprecipitation assay using a monoclonal antibody against RNA polymerase III (Serotec). Brain membranes were solubilized in buffer containing 50 mM Tris-HCl (pH 7.4), 1% Nonidet P-40, and 150 mM NaCl. The membranes were incubated with the anti-RNA polymerase III antibody, and the immunoprecipitates were analyzed by Western blotting using a probe complementary to BC1 RNA.
+
+RESULTS
+Localization of BC1 RNA in Adult Rat Brain
+In situ hybridization analysis revealed that BC1 RNA is expressed primarily in neurons throughout the adult rat brain (Fig. 1A). The highest levels of BC1 RNA were found in the hippocampus, cortex, and cerebellum. Within these regions, BC1 RNA was localized to the soma and dendrites of neurons. In particular, we observed a high concentration of BC1 RNA in dendritic spines (Fig. 1B), which are small protrusions on dendrites that serve as postsynaptic sites for excitatory synapses.
+
+Double Immunofluorescence Labeling
+To confirm that BC1 RNA is associated with polyribosomes in dendritic spines, we performed double immunofluorescence labeling experiments using antibodies against ribosomal protein S6 kinase and BC1 RNA. As shown in Fig. 2A, the distribution of BC1 RNA was highly coincident with the distribution of ribosomal protein S6 kinase in dendritic spines. This finding suggests that BC1 RNA is associated with polyribosomes within these structures.
+
+Identification of RNA Polymerase III
+To determine whether BC1 RNA is transcribed by RNA polymerase III, we performed an immunoprecipitation assay using a monoclonal antibody against RNA polymerase III. Western blot analysis of the immunoprecipitates revealed a band corresponding to BC1 RNA (Fig. 3). This finding provides direct evidence that BC1 RNA is transcribed by RNA polymerase III.
+
+Expression of BC1 RNA in Immature Rat Brain
+In situ hybridization analysis also showed that BC1 RNA is expressed in the brains of immature rats (postnatal days 1–3) (Fig. 4). The distribution of BC1 RNA was similar to that observed in adult rat brain, with high levels found in the hippocampus, cortex, and cerebellum.
+
+DISCUSSION
+The identification of BC1 RNA as a transcript localized to dendrites provides further support for the notion that local protein synthesis plays an important role in neuronal function. The fact that BC1 RNA is transcribed by RNA polymerase III suggests that it may be involved in the synthesis of non-housekeeping proteins, such as those required for synaptic plasticity and neuronal development.
+
+The association of BC1 RNA with polyribosomes in dendritic spines indicates that this transcript is actively being translated into protein within these structures. The protein encoded by BC1 RNA is functionally related to ribosomal S6 kinase, which is known to be involved in phosphorylation and activation of eIF-2α (1, 2). This suggests that BC1 RNA may play a role in regulating the synthesis of specific proteins at synapses.
+
+The expression of BC1 RNA in immature rat brain suggests that this transcript may be important for neuronal development. It is possible that BC1 RNA is involved in the synthesis of proteins required for dendritic arborization and synapse formation.
+
+Further studies are needed to fully elucidate the function of BC1 RNA and its role in neuronal function. However, our findings provide strong evidence that local protein synthesis plays an important role in synaptic plasticity and neuronal development.
+
+
+
+FIGURE 1
+Localization of BC1 RNA in adult rat brain. (A) Low-power photomicrograph showing the distribution of BC1 RNA in coronal sections of adult rat brain. Note the high levels of BC1 RNA in the hippocampus, cortex, and cerebellum. (B) High-power photomicrograph of dendritic spines in hippocampal CA1 region. Arrows indicate individual dendritic spines containing BC1 RNA.
+
+FIGURE 2
+Double immunofluorescence labeling of BC1 RNA and ribosomal

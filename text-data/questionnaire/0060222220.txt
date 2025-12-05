@@ -1,0 +1,43 @@
+FULL IN AT COMPLETION
+OF INTERVIEW:
+
+PORTFOLIO TEST - SCREENER
+
+RESPONDENT'S NAME:
+ADDRESS:
+CITY: ____ STATE: ____ ZIP: ____
+TELEPHONE # WITH AREA CODE: ( ) ____ DATE: ____
+INTERVIEWER: ____ TIME ENDED: ____ TOTAL MINUTES: ____
+TIME STARTED: ____
+
+Hello, I’m ____ from ____. We’re conducting a
+market research study in this area. I would like to ask a few minutes of your time.
+
+S/A. Do you or does any member of your family or close friends work in any of the
+following industries? (READ LIST) (CIRCLE ALL THAT APPLY)
+
+Advertising ____ 1 ____
+Market Research ____ 2 ____
+
+IF ANY OF ABOVE CIRCLED, TERMINATE INTERVIEW. OTHERWISE CONTINUE.
+
+S/B. Have you been interviewed by a market research company in the past 6 months?
+
+YES 1 - TERMINATE NO 2 - CONTINUE
+
+(HAND RESPONDENT CARD A)
+S/C. Please look at this card and tell me into which age group you fall?
+
+A. Under 21 years old 1 (TERMINATE) CIRCLE NO. ____ AND TERMINATE
+B. 21-24 years old ____ 01 02 03
+C. 25-29 years old ____ 04 05 06
+D. 30-34 years old ____ (CONTINUE)
+E. 35-39 years old ____ 07 08 09
+F. 40-44 years old ____
+G. 45-49 years old ____ 10 11 12
+H. 50 years and older ____ (TERMINATE) CIRCLE NO. ____
+Refused
+
+
+
+4

@@ -1,0 +1,147 @@
+12/04 15:10 041 38 312 676
+
+JOURNAL OF BIOLOGICAL CHEMISTRY, 1996, Vol. 271, Issue 4, pp. 2144-2149. Printed in U.S.A.
+
+Chemoprevention of Carcinogen-DNA Adducts and Chronic Degenerative Diseases*
+
+Alberto Izzi, Francesco D’Agostino, Maria Ragni, Leonardo Sciallioli, Alessandro Rovida,
+Roumen M. Boiarski, Carmine Perricone, and Silvio De Flora
+Institute of Hygiene and Preventive Medicine, L. S. R., U.M., & B. F., and National Institute for Cancer Research (I.R.C.), University of Genoa, Via
+Ferrara 1, 16132 Genoa, Italy
+
+Abstract
+
+Molecular docking techniques were employed in order to assess the
+ability of N-acetylcysteine (NAC) to interfere with DNA adduct formation.
+The involvement of DNA alteration, not only in cancer but also in other
+chronic degenerative diseases, is increasingly recognized. NAC, a well-
+known antioxidant used in the same amino acid thiol, the N-acetylcystei-
+nine residue, has been shown to reduce the levels of carcinogen-DNA
+adducts in three experimental systems in vivo. Thus, we
+examined the effects of NAC on benzo[a]pyrene-7,8-dihydrodiol-9,10-epoxide
+(BPA-DE) - DNA adducts and 2-amino-1,4-naphthoquinone (ANQ)-DNA
+adducts. We also tested for alloxan-induced alterations in rat
+liver glutathione S-transferase activity. The formation of BPA-DE-DNA
+and ANQ-DNA adducts was quantified by reversed-phase high-
+performance liquid chromatography with electrochemical detection.
+The results showed that NAC significantly reduced the levels of both
+types of adducts, and also diminished alloxan-induced alterations in
+glutathione S-transferase activity. The ability of NAC to reduce DNA
+adduct formation may be related to its capacity to scavenge reactive
+oxygen species (ROS) and to increase intracellular glutathione levels.
+NAC is a relatively inexpensive drug that has been used clinically for
+various purposes, including the treatment of acetaminophen overdose
+and cystic fibrosis. It also appears to have beneficial effects in patients
+with chronic bronchitis and other respiratory diseases. NAC has been
+shown to protect against radiation-induced lung injury and to reduce
+the toxicity of certain chemotherapeutic agents. In addition, it has
+been reported that NAC can inhibit the formation of advanced glycation
+end products (AGEs), which are implicated in several age-related
+diseases. NAC is also a precursor of glutathione, an important anti-
+oxidant molecule. NAC may be useful as a chemopreventive agent for
+reducing the risk of cancer and other chronic degenerative diseases.
+
+Introduction
+
+Reactive oxygen species (ROS) are generated during normal cellular
+metabolism and also by exposure to environmental pollutants and
+xenobiotics. ROS can damage DNA, proteins, and lipids, leading to
+cellular dysfunction and disease. The formation of DNA adducts is a
+major mechanism by which carcinogens and other electrophilic compounds
+can induce mutations and cancer. Advanced glycation end products (AGEs)
+are formed when reducing sugars react nonenzymatically with amino-
+containing molecules, such as proteins and lipids. AGEs accumulate in
+tissues during aging and contribute to the pathogenesis of several age-
+related diseases, including diabetes, cardiovascular disease, and Alzheimer’s
+disease. NAC is a thiol compound that has antioxidant and anti-inflammatory
+properties. It can scavenge ROS, increase intracellular glutathione levels,
+and inhibit the formation of AGEs. NAC is also a precursor of gluta-
+thione, which is an important antioxidant molecule. NAC has been used
+clinically for various purposes, including the treatment of acetaminophen
+overdose and cystic fibrosis. It also appears to have beneficial effects in
+patients with chronic bronchitis and other respiratory diseases. NAC has
+been shown to protect against radiation-induced lung injury and to reduce
+the toxicity of certain chemotherapeutic agents. In addition, it has been
+reported that NAC can inhibit the formation of AGEs. NAC is readily
+(6) and alone or in combination with reduced glutathione, is employed in
+an experimental model of thiol (Glutathione) for the prevention of second
+primary tumors in patients previously treated for lung cancer [10].
+
+The mechanisms responsible for the protective effects of NAC
+against ROS-induced damage have been extensively investigated in our
+laboratory [for recent reviews, see Refs. 1, 2]. In synthesis, in this
+role, NAC acts as a substrate for glutathione conjugation.
+NAC is readily converted to cysteine. It identifies direct-acting mutagens can do so by nucleophile
+attack on electrophilic sites and also by scavenging free radicals
+and other reactive species. The reaction of NAC with oxygen gives
+concentrations formed in an acidic environment and enhance thiol
+conjugation. In addition, NAC increases the intracellular concentrations
+of glutathione by yield cysteine, which is the rate-limiting step into
+the disposal of cellular exports of a ROS. NAC enhances the
+formation of glutathione conjugates via conjugation to electrophilic
+sites, such as long-lived transport cells (e.g., erythrocytes) and serving
+as a substrate for glutathione S-transferase (GST). GSTs are a family
+of enzymes that catalyze the conjugation of glutathione to electrophilic
+compounds [11]. These enzymes play an important role in detoxification
+and xenobiotic metabolism [12]. NAC has been shown to increase GST
+activity in several tissues [13, 14].
+
+In this study, we examined the effects of NAC on the formation of
+BPA-DE-DNA and ANQ-DNA adducts in rat liver. We also tested for
+alloxan-induced alterations in rat liver glutathione S-transferase activity.
+BPA-DE is a metabolite of the potent carcinogen BPA [15]. ANQ is a
+quinone that is formed during the metabolism of several drugs and
+environmental pollutants [16]. Alloxan is a compound that induces
+oxidative stress and damage to pancreatic beta cells [17].
+
+Materials and Methods
+
+Animals
+
+Male Sprague-Dawley rats (200-250 g) were obtained from Harlan
+Sprague Dawley, Inc. (Indianapolis, IN). The animals were housed in
+temperature-controlled rooms with a 12-h light/dark cycle and fed a
+standard laboratory diet. All experiments were conducted in accordance
+with the guidelines of the Institutional Animal Care and Use Committee.
+
+Chemicals
+
+NAC was purchased from Sigma Chemical Co. (St. Louis, MO). BPA
+and ANQ were obtained from Aldrich Chemical Co. (Milwaukee, WI).
+Alloxan monohydrate was purchased from Sigma Chemical Co. Solvents
+and reagents were of HPLC grade.
+
+DNA Adduct Formation
+
+Rats were treated with NAC (300 mg/kg body weight) by oral gavage
+daily for 1 week. Control rats received saline injections. After the last
+dose, the animals were killed by CO2 inhalation, and livers were removed
+and frozen at -80°C until analyzed. DNA adducts were extracted from
+liver tissue using a modified version of the method described previously
+[18]. Briefly, 0.5 g of liver tissue was homogenized in 10 ml of buffer
+containing 10 mM Tris-HCl (pH 7.4), 1 mM EDTA, and 0.5% Noni-
+det P-40. The homogenate was centrifuged at 16,000 x g for 20 min
+at 4°C. The pellet was resuspended in 10 ml of buffer containing 10 mM
+Tris-HCl (pH 7.4), 1 mM EDTA, and 0.5% Nonidet P-40, and incubated
+with proteinase K (2 mg/ml) at 56°C for 1 h. The DNA was extracted
+using phenol/chloroform extraction and ethanol precipitation.
+
+Quantification of DNA Adducts
+
+DNA adducts were quantified by reversed-phase HPLC with electro-
+chemical detection [19]. Briefly, DNA samples (10 pg) were hydrolyzed
+with alkali and derivatized with 1-fluoro-2,4-dinitrophenol (FDNP). The
+derivatized adducts were separated on a C18 column (3.5 μm, 4.6 × 150
+mm; Phenomenex, Torrance, CA) using a gradient elution system with
+mobile phases A (water containing 0.1% trifluoroacetic acid) and B
+(acetonitrile containing 0.1% trifluoroacetic acid). The flow rate was
+1 ml/min. Detection was performed at 340 nm. Adduct concentrations
+were determined by comparison to standard curves generated using syn-
+thetic adduct standards.
+
+Glutathione S-Transferase Activity
+
+Liver glutathione S-transferase activity was measured in liver homogenates
+using a spectrophotometric assay [20]. Briefly, the reaction mixture
+contained 100 μl of liver homogenate, 100 μl of substrate solution (1-
+chloro-2,4-

@@ -1,0 +1,38 @@
+Transplantational Mechanisms Determine the Type of Potassium Channels Expressed in the Rat Skeletal and Cardiac Muscles
+
+(Received for publication, December 19, 1990)
+
+Hiroaki Matsubara, Emily R. Liman", Peter Hess, and Gideon Koren ††
+
+From the Lifearea of Chronobiology, Brigham and Women's Hospital and the Program in Neurosciences, The Department of Cellular and Molecular Physiology, Harvard Medical School, Boston, Massachusetts 02115
+
+We have cloned c DNA (RMK2) coding for a skeletal muscle delayed rectifier K+ channel from the rat. The protein of 902 amino acids, identical with a rat brain K+ channel (RMK1) (Swanson et al., 1990) Neuron 4, 831-841. We ex pressed RMK2 in Xenopus oocytes and showed that it generated a slow, delayed rectifier K+ current resistant to block by cesium ions (Tanabe et al., 1988). A similar channel was found in the skeletal muscle, heart, and brain. The amino acid sequence of RMK2 is identical to that of RMK1 except for three amino acids (Swanson et al. [1990] Neuron 4, 929-939). We ex pressed RMK2 in Xenopus oocytes and showed that it generated a slow, delayed rectifier K+ current resistant to block by cesium ions (Tanabe et al., 1988). A similar channel was found in the skeletal muscle, heart, and brain. The amino acid sequence of RMK2 is identical to that of RMK1 except for three amino acids (Swanson et al. [1990] Neuron 4, 929-939). We ex pressed RMK2 in Xenopus oocytes and showed that it generated a slow, delayed rectifier K+ current resistant to block by cesium ions (Tanabe et al., 1988). A similar channel was found in the skeletal muscle, heart, and brain. The amino acid sequence of RMK2 is identical to that of RMK1 except for three amino acids (Swanson et al. [1990] Neuron 4, 929-939). We ex pressed RMK2 in Xenopus oocytes and showed that it generated a slow, delayed rectifier K+ current resistant to block by cesium ions (Tanabe et al., 1988). A similar channel was found in the skeletal muscle, heart, and brain. The amino acid sequence of RMK2 is identical to that of RMK1 except for three amino acids (Swanson et al. [1990] Neuron 4, 929-939).
+
+The molecular mechanisms that control the expression of heart channels during skeletal muscle and cardiac development are poorly understood. Furthermore, cardiac K+ channels were found to be different from their skeletal and brain counterparts (1, 2).
+
+In this report, we describe the cloning, expression, and functional properties of a skeletal muscle delayed rectifier K+ channel (RMK2). This channel was found to be identical to the rat brain K+ channel RMK1. The slow, delayed rectifier K+ channels are responsible for the TEA resistant and inactivating nonactivating delayed rectifier channels and its localization in the cell membrane is essential for the normal pattern of ventricular and atrial repolarization (3, 4).
+
+The amino acid sequence of RMK2 is identical to that of RMK1 except for three amino acids.
+
+RMK2 mRNA was detected in skeletal muscle, heart, brain, liver, pancreas, kidney, lung, spleen, testis, ovary, uterus, and placenta. The distribution of RMK2 mRNA in the adult rat tissues suggests that this channel is widely expressed throughout the body.
+
+The expression of RMK2 in Xenopus oocytes resulted in a slow, delayed rectifier K+ current resistant to block by cesium ions (Tanabe et al., 1988). The kinetics of the currents were dependent on membrane potential and voltage-dependent inactivation was observed. The channel exhibited a single channel conductance of approximately 50 pS.
+
+The amino acid sequence of RMK2 suggests that this channel can form heterooligomeric channels with other K+ channels.
+
+We have cloned c DNA (RMK2) coding for a skeletal muscle delayed rectifier K+ channel from the rat. The protein of 902 amino acids, identical with a rat brain K+ channel (RMK1) (Swanson et al., 1990) Neuron 4, 831-841. We ex pressed RMK2 in Xenopus oocytes and showed that it generated a slow, delayed rectifier K+ current resistant to block by cesium ions (Tanabe et al., 1988). A similar channel was found in the skeletal muscle, heart, and brain. The amino acid sequence of RMK2 is identical to that of RMK1 except for three amino acids (Swanson et al. [1990] Neuron 4, 929-939). We ex pressed RMK2 in Xenopus oocytes and showed that it generated a slow, delayed rectifier K+ current resistant to block by cesium ions (Tanabe et al., 1988). A similar channel was found in the skeletal muscle, heart, and brain. The amino acid sequence of RMK2 is identical to that of RMK1 except for three amino acids (Swanson et al. [1990] Neuron 4, 929-939). We ex pressed RMK2 in Xenopus oocytes and showed that it generated a slow, delayed rectifier K+ current resistant to block by cesium ions (Tanabe et al., 1988). A similar channel was found in the skeletal muscle, heart, and brain. The amino acid sequence of RMK2 is identical to that of RMK1 except for three amino acids (Swanson et al. [1990] Neuron 4, 929-939).
+
+The molecular mechanisms that control the expression of heart channels during skeletal muscle and cardiac development are poorly understood. Furthermore, cardiac K+ channels were found to be different from their skeletal and brain counterparts (1, 2).
+
+In this report, we describe the cloning, expression, and functional properties of a skeletal muscle delayed rectifier K+ channel (RMK2). This channel was found to be identical to the rat brain K+ channel RMK1. The slow, delayed rectifier K+ channels are responsible for the TEA resistant and inactivating nonactivating delayed rectifier channels and its localization in the cell membrane is essential for the normal pattern of ventricular and atrial repolarization (3, 4).
+
+The amino acid sequence of RMK2 is identical to that of RMK1 except for three amino acids.
+
+RMK2 mRNA was detected in skeletal muscle, heart, brain, liver, pancreas, kidney, lung, spleen, testis, ovary, uterus, and placenta. The distribution of RMK2 mRNA in the adult rat tissues suggests that this channel is widely expressed throughout the body.
+
+The expression of RMK2 in Xenopus oocytes resulted in a slow, delayed rectifier K+ current resistant to block by cesium ions (Tanabe et al., 1988). The kinetics of the currents were dependent on membrane potential and voltage-dependent inactivation was observed. The channel exhibited a single channel conductance of approximately 50 pS.
+
+The amino acid sequence of RMK2 suggests that this channel can form heterooligomeric channels with other K+ channels.
+
+
+

@@ -1,0 +1,51 @@
+PREPOSAL for the study of THE EFFECTS OF SHEARING STRESS ON THE TRACHEO-BRONCHIAL TREE AND ITS POSSIBLE RELATION TO THE PATHO-
+GENESIS OF BRONCHOGENIC CARCINOMA AND CHRONIC BRONCHIITIS.
+
+Paul Hamosh, M. D.
+
+Among the etiological factors which might contribute to the patho-
+genesis of bronchogenic carcinoma, mechanical factors received practically
+no attention. During rapid expiratory flow and especially during coughing,
+powerful shearing forces are generated in the airways. We have demonstrated
+that these forces might cause significant damage to the mucosal layer.
+This damage can lead to frequent regeneration leading to metaplasia and
+ultimately may manifest changes. Discontinuities in the mucosal layer
+can also theoretically lead to increased penetration of carcinogenic sub-
+stances and even release of additional broncho-constrictor agents (prosta-
+glandins). Thus, repeated coughing might produce a vicious cycle resulting
+in permanent damage of the airways. Circumstantial evidence to support
+this hypothesis is the fact that present studies indicate that bronchogenic
+carcinoma is originating in segmental or some subsegmental bronchi. We
+have found by calculation that these sites coincide with the points of
+maximum shear. "Atrophy" of tracheal mucosa (also a high shear area)
+has been reported.
+
+The experimental approach to the study of the above problem is complex.
+We have completed the study in isolated tracheal segments and now we would
+like to move on to look at the *in vivo* situation. Recently a group at
+Oak Ridge developed a model of isolated trachea under the skin of the
+back in rats. This model could be easily used to study shearing stress
+because of its convenient remoteness from the respiratory system, i.e.
+it can be manipulated without interfering with breathing. Further experi-
+could be performed by producing an additional animal model in which local-
+ized broncho construction could be produced surgically and then areas of
+major shearing stress created. A third approach would be computer simulation
+of superimposed lung disease on a functioning model for a study of
+shearing stress distribution in such a model.
+
+We would be excellently equipped to carry out this research for the follow-
+ing reasons:
+
+1) We have contributed so far the only study on this subject.
+2) We have excellent personnel which covers everything from nephology
+by light microscopy to electron microscopy.
+3) We have a program and the hardware for running the computer aspect of
+this project.
+
+In view of the above, the time is now necessary to prove or disprove
+our hypothesis that shearing forces play an important role in the development
+of bronchogenic carcinoma and chronic bronchitis.
+
+Sincerely,
+
+Paul Hamosh, M. D.

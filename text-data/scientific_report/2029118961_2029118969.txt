@@ -1,0 +1,38 @@
+REPORT P 0500/3132 (INT) 890113 PAGE 1
+
+1 SUMMARY
+========
+
+1.1 Objective
+
+In the present 90-day nose-/head-only inhalation study on male
+rats the influence of a filler ingredient on the biological ac-
+tivity of mainstream cigarette smoke was investigated.
+
+For this purpose, the biological activity of the cigarette X6D7EDL
+(EDL), used as the reference, and the test cigarettes X6D7EDM
+(EDM) and X6D7BON (EDN), both of which contained a different con-
+centration of the ingredient, was compared with regard to the
+following parameters:
+
+(1) general condition and behavior of the rats,
+(2) body weight,
+(3) organ weights,
+(4) gross pathology,
+(5) histopathology of the respiratory tract, and
+(6) laryngeal epithelium thickness.
+
+1.2 Experimental Conduct (a)
+
+96 male Sprague Dawley rats (strain CrL:CD(SD)BR, Charles River,
+France), 6 weeks of age at the start of the inhalation period,
+were allocated to 8 groups (12 rats per group): 1 low- and 1 high-
+smoke-dose group per cigarette type and 2 sham-exposed groups .
+
+Mainstream smoke (MS) was generated using modified 30-port
+Büttelle Mark 3 smoking machines. The nominal total particulate
+
+(a) The experimental part of the study was performed by the TNO-
+CIVO Toxicology and Nutrition Institute, Zeist, Netherlands,
+according to a protocol prepared by IMBIFO and with the
+technical assistance of INBiFO.

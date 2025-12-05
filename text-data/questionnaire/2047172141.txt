@@ -1,0 +1,61 @@
+OFFICE USE ONLY
+
+L _ CEC CECX/CC HT OEC OECX /CC OCC RECOL_
+
+#830594
+January, 1994
+
+SIMBA CONCEPT TEST
+(Screener)
+
+
+
+Hello, I’m of . We're conducting an opinion
+survey today among adult men and women about various products used in the
+household and I’d like to ask you a few questions.
+
+CARD 1 - COL. 7 ( )
+8/9-
+
+1. First of all, are you between the ages of 18 and 54?
+Yes . . . ( ) No . . . ( )
+(THANK AND TERMINATE)
+
+
+
+2. What is your exact age? (RECORD EXACT AGE AT LEFT BELOW; THEN "X"
+CORRESPONDING AGE CATEGORY)
+
+   18 - 24 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . ( ) ->1
+10/11-
+(EXACT AGE)  25 - 34 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . ( ) ->2
+   35 - 54 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . ( ) ->3
+
+
+
+3. (RECORD, DO NOT ASK:)
+
+    Male . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . ( ) ->1  (CHECK QUOTAS)
+   Female . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . ( ) ->2
+
+
+
+3a. (RECORD, DO NOT ASK:)
+
+    White . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . ( ) ->1
+   Black . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . ( ) ->2
+
+
+
+4. Next, I’m going to read you a list of products. For each one I read, please
+tell me if you yourself use the product. The first one is... (READ ENTIRE
+LIST ONE AT A TIME AND RECORD)
+
+                                                                 204712141
+    Antacids . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . Yes ( ) No ( )
+    Aspirin . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . ( ) ->1
+    Beer . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . ( ) ->2
+    Breakfast cereals . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . ( ) ->3
+    Cigarettes . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . ( ) ->4
+    Diet soda . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . ( ) ->5  (THANK AND TERMINATE)
+    Frozen vegetables . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . ( ) ->6

@@ -1,0 +1,29 @@
+678 THE NEW ENGLAND JOURNAL OF MEDICINE Sept. 18, 1969
+
+5. Wallmark, G., Findahl, M: Phase types and antibiotic susceptibility of pathogenic Staphylococcus aureus at Boston City Hospital. Acta pathol. Microbiol. scand. Suppl. 173:382-397, 1961.
+
+CHEMOPROPHYLAXIS OF MENINGOCOCCAL CARRIERS
+
+For over 20 years sulfadiazine was a model prophylactic agent when used in closed populations, small amounts of sulfonamide drugs interrupted transmission of meningococci by eradicating the organism from the nasopharynx of asymptomatic carriers, who are the source of most meningococcal illnesses. With the development and spread of sulfonamide-resistant strains several years ago this era of tranquility came to an abrupt end. The most recent data show that sulfonamide-resistant meningococci now account for over 70 per cent of the reported cases of meningococcal bacteremia and meningitis. At present no other chemoprophylactic drug has proved capable of preventing meningococcal disease or transmission, although penicillin is still effective treatment for the disease.
+
+One fruitful result of this dilemma was the surge of efforts directed toward gaining a basic knowledge of the organism and its human parasite to it. This resulted in an improved understanding of purified nospharyngeal filtrates which show promise as immunologic tools in attempting to identify meningococcal carriers.
+
+In 1962, Katzenstein and his colleagues reported that rifampin (S-57), a semisynthetic derivative of rifomycin B, possessed marked antibacterial activity against meningococci. Since then, several studies have confirmed this observation. The drug is active against meningococci in vitro and has been shown to eradicate the organism from the nasopharynx of carriers. It is considerably more potent than sulfonamide drugs and appears to be effective even when administered in small doses.
+
+The use of rifampin for meningococcal prophylaxis is now being considered in several countries, particularly in situations where outbreaks have occurred. However, there are certain reservations that must be considered before embarking on a widespread program. One concern is the possibility of inducing resistance. Although no resistance to rifampin has been observed in the 14 meningococcal carrier strains that were eradicated, failures of rifampin treatment of bacteremia were frequent in the studies of Atlas and Tureck and were associated with the development of resistance to the drug (Staph. coli, pseudomonas and Proteus mirabilis).
+
+Thus, because of this experience with other bacteria, it is possible that large-scale use of rifampin for meningococcal prophylaxis - for example, in military training centers - would result in the emergence and spread of resistant neisserial organisms. The limited use of rifampin prophylaxis for the relatively few close contacts of civilian patients with meningococcemia would entail much less a risk of mutation to resistance. Further experimental work is necessary before even this use of rifampin for prophylaxis can be properly evaluated.
+
+MALCOLM S. ARTZ, M.D.
+
+REFERENCES
+
+1. Nuffield Committee on Disease: Meningococcal infections. London: Medical Research Council, vol. 38, p. 16, April 1969, p. 155.
+2. Katzenstein, H., et al.: Rifampin I Activity against meningococci. Proc. Soc. Exptl. Biol. Med. 114:711, 1963.
+3. Atlas, R., and Tureck, W.: Rifampin in treatment of acute bacterial infections. Ann. Intern. Med. 72:580, 1970.
+4. Powell, S. M., et al.: Meningococcal bacteremia in armed forces. III. Chemoprophylaxis with rifampin. JAMA 213:1647, 1970.
+5. Wallmark, G., Findahl, M: Phase types and antibiotic susceptibility of pathogenic Staphylococcus aureus at Boston City Hospital. Acta pathol. Microbiol. scand. Suppl. 173:382-397, 1961.
+
+ADDRESS CORRESPONDENCE TO Dr. Artz, Department of Medicine, University of Utah Medical Center, Salt Lake City, Utah 84112.
+
+*Supported by a grant from the National Institutes of Health (AI-05469).*

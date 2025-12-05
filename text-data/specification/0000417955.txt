@@ -1,0 +1,373 @@
+AT 0338
+
+Lab No. 511670
+Approved by
+M.D. OBSERVATIONS/FLUID PLANT REPORT
+P.L. (4) 26
+J.C. Riemer
+R.E. Stauffer
+Sample Rec’d: May 21, 1976
+Product Test
+Field Plant Prod. No. 6/8-180
+Measured by J.C. Riemer
+Assayer By
+Sample/Utilities
+Sugar Level (Mostly)
+Clarity Code
+354/356 356/356
+E.Coli
+Color
+37200 37200
+Turbidity (NTU)
+Mineral Profile Code
+17890 00000
+pH
+Indicator Code
+Solids
+Skly No.
+400-116 Castor 26
+Kind (Gross Weight)
+Flourescence
+Flavor
+357/358
+Appearance
+Reported by:
+3-12-76
+Varian Chromo
+(M.S.)
+Monel No. (1)
+Naphthalene
+Nitrates
+Phosphates
+Potassium (as K)
+Silica (as SiO2)
+Sodium (as Na)
+Sulfates
+Trace Elements
+Calcium (as Ca)
+Magnesium (as Mg)
+Iron (as Fe)
+Zinc (as Zn)
+Chloride (as Cl)
+Bicarbonates
+Alkalinity (as CaCO3)
+Hardness (as CaCO3)
+P.H. Range
+Specific Gravity
+Resistivity (ohms-cm)
+Total Solids (ppm)
+Dissolved Solids (ppm)
+TDS/TDS Ratio
+Conductivity (micromhos/cm)
+B.O.D. (5 days, 20°C)
+Chlorine Residual
+Free Ammonia
+Nitrites
+Organic Nitrogen
+Total Kjeldahl Nitrogen
+Ammonium Nitrogen
+Nitrate Nitrogen
+Nitrite Nitrogen
+Trace Elements (cont.)
+Iron-Manganese Ratio
+Dissolved Oxygen
+Alkalinity (total) (ppm)
+Hardness (total) (ppm)
+Calcium Hardness (ppm)
+Magnesium Hardness (ppm)
+Carbonate Hardness (ppm)
+Bicarbonate Hardness (ppm)
+Hydroxide Hardness (ppm)
+Nitrate Nitrogen (as N)
+Ammonia Nitrogen (as N)
+Organic Nitrogen (as N)
+Total Kjeldahl Nitrogen (as N)
+Trace Elements (cont.)
+57
+9.0
+11.0
+Append. 26
+358/358
+140/140
+1-12-78
+57
+170
+170
+230
+0.05
+0.05
+0.05
+0.05
+0.05
+0.05
+0.05
+0.05
+0.05
+0.05
+0.05
+0.05
+0.05
+0.05
+0.05
+0.05
+0.05
+0.05
+0.05
+0.05
+0.05
+0.05
+0.05
+0.05
+0.05
+0.05
+0.05
+0.05
+0.05
+0.05
+0.05
+0.05
+0.05
+0.05
+0.05
+0.05
+0.05
+0.05
+0.05
+0.05
+0.05
+0.05
+0.05
+0.05
+0.05
+0.05
+0.05
+0.05
+0.05
+0.05
+0.05
+0.05
+0.05
+0.05
+0.05
+0.05
+0.05
+0.05
+0.05
+0.05
+0.05
+0.05
+0.05
+0.05
+0.05
+0.05
+0.05
+0.05
+0.05
+0.05
+0.05
+0.05
+0.05
+0.05
+0.05
+0.05
+0.05
+0.05
+0.05
+0.05
+0.05
+0.05
+0.05
+0.05
+0.05
+0.05
+0.05
+0.05
+0.05
+0.05
+0.05
+0.05
+0.05
+0.05
+0.05
+0.05
+0.05
+0.05
+0.05
+0.05
+0.05
+0.05
+0.05
+0.05
+0.05
+0.05
+0.05
+0.05
+0.05
+0.05
+0.05
+0.05
+0.05
+0.05
+0.05
+0.05
+0.05
+0.05
+0.05
+0.05
+0.05
+0.05
+0.05
+0.05
+0.05
+0.05
+0.05
+0.05
+0.05
+0.05
+0.05
+0.05
+0.05
+0.05
+0.05
+0.05
+0.05
+0.05
+0.05
+0.05
+0.05
+0.05
+0.05
+0.05
+0.05
+0.05
+0.05
+0.05
+0.05
+0.05
+0.05
+0.05
+0.05
+0.05
+0.05
+0.05
+0.05
+0.05
+0.05
+0.05
+0.05
+0.05
+0.05
+0.05
+0.05
+0.05
+0.05
+0.05
+0.05
+0.05
+0.05
+0.05
+0.05
+0.05
+0.05
+0.05
+0.05
+0.05
+0.05
+0.05
+0.05
+0.05
+0.05
+0.05
+0.05
+0.05
+0.05
+0.05
+0.05
+0.05
+0.05
+0.05
+0.05
+0.05
+0.05
+0.05
+0.05
+0.05
+0.05
+0.05
+0.05
+0.05
+0.05
+0.05
+0.05
+0.05
+0.05
+0.05
+0.05
+0.05
+0.05
+0.05
+0.05
+0.05
+0.05
+0.05
+0.05
+0.05
+0.05
+0.05
+0.05
+0.05
+0.05
+0.05
+0.05
+0.05
+0.05
+0.05
+0.05
+0.05
+0.05
+0.05
+0.05
+0.05
+0.05
+0.05
+0.05
+0.05
+0.05
+0.05
+0.05
+0.05
+0.05
+0.05
+0.05
+0.05
+0.05
+0.05
+0.05
+0.05
+0.05
+0.05
+0.05
+0.05
+0.05
+0.05
+0.05
+0.05
+0.05
+0.05
+0.05
+0.05
+0.05
+0.05
+0.05
+0.05
+0.05
+0.05
+0.05
+0.05
+0.05
+0.05
+0.05
+0.05
+0.05
+0.05
+0.

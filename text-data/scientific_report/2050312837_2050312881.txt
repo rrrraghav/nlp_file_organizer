@@ -1,0 +1,31 @@
+Product Solubility individuals chart
+
+P
+
+A) Histogram of Original Data + Stats
+File = PRODSOL5 3/4 - 360
+rejected this file because its after the
+low function / been and before the
+yankee problem got bad.
+
+B) Original Data Printed
+
+C) Chart based on 36 limits (no deletions required)
+X= 45.88
+δ = .689 X3 = 2.067 UCL = 47.947
+CL = 45.88
+LCL = 43.813
+
+did not adjust to 46.0
+
+D) Test of 36 limits with PRODSOL2
+(didn’t zero to 460)
+
+E) Original Moving Range Limits
+deleted 12, 27, 39, 52, 58, 74, 160, 202, 239, 246
+
+based on PRODSOL4
+
+F) Final Moving Range Limits
+
+2050312837

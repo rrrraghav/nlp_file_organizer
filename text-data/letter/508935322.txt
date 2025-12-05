@@ -1,0 +1,43 @@
+RJR
+
+inter-office Memorandum
+
+Subject: WINSTON Improvement (Project 1251) Date: April 11, 1978
+
+To: Dr. Alan Rodgman From: J. N. Schumacher
+
+Short Range Commitments:
+
+Results from the short range commitments have aided TDD in preparing a 2nd generation of samples. As mentioned in my previous memo several diluted versions of the CFX-17 cigarette (one of which Marlboro smokers preferred) and cigarettes containing denicotized flue-cured tobacco are being prepared. The following cigarettes and analysis will be made:
+
+Sample Description EO¹ VP² SP³
+2600 A Current WINSTON X X X
+B CFX-17, air-diluted, mech. X X
+C CFX-17, air-diluted, electro. X X
+D CFX-17 with DNCF X X X
+CF-Unfilt. Flue-cured blend X X L
+-filtered X X
+DNCF - Unfilt. Denicotized flue-cured blend X X L
+-filtered X X
+
+CF1 Flue-cured sub-blend X X
+DN CF1 Denicotized flue-cured sub-blend X X
+DN CF2 X X
+DN CF3 X X
+CF2 X X
+CF3 X X
+
+1. Essential Oil Analysis; 2. Vapor Phase Profile; 3. Smoke Profile
+
+Series 2600A-D cigarettes are available this week and the rest by April 19. TDD has a May 10 deadline on this work and we feel that essential oil and vapor phase analyses can be completed by this date. Due to vacations and other projects, e.g., MORE paper, the full smoke profile comparison between 2600A and D may or may not be completed. The smoke profile comparison between CF and DNCF tobaccos is considered to be part of our long range project and will be started as soon as possible.
+
+Long Range Commitments:
+
+Long range commitments for studying the effect of various modifications employed in the manufacturing of a cigarette are not expected to begin until June 30.
+
+:Im
+xc: Dr. D. H. Piehl
+Mr. J. L. McKenzie
+Dr. R. A. Lloyd, Jr.
+Dr. C. R. Green
+Dr. J. P. Dickerson

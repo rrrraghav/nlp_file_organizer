@@ -1,0 +1,65 @@
+review, Biomonitoring, uroprothesins, smoke,
+polycyclic, 4-aminobiphenyl, (ABP), portaline,
+immunoassay, ELISA, antibodies, synchronous fluorescence spectroscopy   pp 51-59, 1980
+
+Markers of Exposure to Carcinogens
+
+by Gerald N. Wogan*
+
+Methods have been developed for the detection of carcinogens and other DNA damaging agents
+in body fluids through adducts bound covalently to DNA or hemoglobin. The successful use of phytohemag-
+glutinin as an indicator of exposure to Aflatoxin, and AFB1-N-guanine as an indicator of exposure to N-
+nitroso compounds, has much been used to detect AFB1 and AFB2.  N-guanine as markers of ex-
+posure to aflatoxins. The use of phytohemagglutinin as a marker for DNA damage and the use of
+mine glycerol as an indicator of exposure to acute respiratory oxidative damage to hemoglobin have been reported
+in studies of occupationally exposed individuals who were also exposed to ethylene oxide, in which 2-hydroxyethyl-
+and 2-aminobiphenyl and 2-hydroxyvaline that are excreted in urine.  The frequency of cigarette smoking
+is correlated with the presence of adducts in the cells and an exposed individual has also been
+measured by immunoassays and fluorescence spectroscopy. The results have been accomplished through the use of several types of analytical methods. Immunoassays and fluorescence spectro-
+scopy have been used to detect adducts formed during the major intermediate in the activation of
+benzalpyrene, the 7,12-diol-9,10-epoxide (BPXDE). This adduct has been found in the urine and leo
+of workers in aluminum smelters, roasters, and coke oven plants, and also
+in urine of smokers. BPXDE adducts have been detected by synchronous fluorescence spectroscopy as well
+as immunoassays conducted in blood samples from non-smokers.  The detection of BPXDE adducts
+is correlated to the exposure of workers who are exposed to polycyclic aromatic hydrocarbons.
+*Oxyhemoglobin gunned in the presence of high concentrations of oxygen and a small amount of glucose is also used
+to detect BPXDE adducts. The detection of BPXDE adducts has been found in urine samples from
+the method of 14C-portaline for the cell reflection of portaline as well as one and foundry workers.
+
+The technical limitations involved with this method, however, are several.
+
+The most difficult problem is that of specificity.  As it is known, we could only measure the
+amount of adducts formed in the cells of a person’s body. The next problem is that of sensitivity.
+The third problem is that of reproducibility.  The final problem is that of cost.  In order to overcome these
+problems, we have developed several new methods for the detection of carcinogens and other DNA damaging agents
+in body fluids. These methods are based on the use of antibodies and immunoassays. The antibodies are
+produced by injecting a protein antigen into an animal. The protein antigen is then purified and conjugated
+to a carrier molecule. The conjugate is then injected into another animal, which produces antibodies against
+the protein antigen. The antibodies are then purified and used to detect the presence of the protein antigen
+in body fluids.
+
+The immunoassays are based on the use of labeled antibodies. The labeled antibodies are produced by
+conjugating an antibody to a radioactive isotope or a fluorescent dye. The labeled antibodies are then
+incubated with a sample of body fluid. If the protein antigen is present in the sample, it will bind to the
+labeled antibodies. The amount of labeled antibodies that bind to the sample can be measured and used to
+determine the concentration of the protein antigen in the sample.
+
+The fluorescence spectroscopy methods are based on the use of fluorescent dyes. The fluorescent dyes
+are excited by light and emit light at a different wavelength. The intensity of the emitted light is proportional
+to the concentration of the fluorescent dye in the sample. The fluorescent dyes can be used to detect the
+presence of carcinogens and other DNA damaging agents in body fluids.
+
+The methods described above have been used to detect a variety of carcinogens and other DNA damaging
+agents in body fluids. These include Aflatoxin B1, 4-aminobiphenyl, ethylene oxide, and vinyl chloride. The
+methods have also been used to monitor the exposure of workers to these chemicals.
+
+References
+
+1.  Wogan, G. N., et al. (1976). Detection of DNA adducts in human tissues. *Environ. Health Perspect.* **12**: 153-160.
+2.  Wogan, G. N., et al. (1977). A rapid method for the detection of DNA adducts in human tissues. *Environ. Health Perspect.* **14**: 285-292.
+3.  Wogan, G. N., et al. (1978). The use of immunoassays to detect DNA adducts in human tissues. *Environ. Health Perspect.* **15**: 369-376.
+4.  Wogan, G. N., et al. (1979). The use of fluorescence spectroscopy to detect DNA adducts in human tissues. *Environ. Health Perspect.* **16**: 481-488.
+
+
+
+*National Cancer Institute, Bethesda, Maryland 20892

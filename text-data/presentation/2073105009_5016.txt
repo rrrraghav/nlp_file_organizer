@@ -1,0 +1,20 @@
+Project Tomorrow - IP Testing
+Agenda 11/17/1999
+
+Introduction ---- Osborne
+
+1. Review NIST IP protocol and PM testing protocol development --- McRae
+2. ASTM protocol / test plan --- Dwyer / Whidby
+3. ASTM protocol for PTL --- Boswell / Phay
+4. Modified NIST compatibility --- McRae / Phan
+5. Reversal Fabrics --- McRae / Dyer
+6. Review current testing in CPPD IP lab --- Wettle / Reynolds
+7. Review Merit family IP data --- Wettle / Reynolds
+8. Discuss test market testing plan in PTL --- Counts
+
+DOC CODE 9022
+2073105009
+
+
+
+PWUSA CONFIDENTIAL

@@ -1,0 +1,147 @@
+Beiräge zur Tabakforschung • Band 9 • Heft 3 • Oktober 1977
+
+Cigarette Smoke Formation Studies
+
+V. The Effects of the Cigarette Periphery on Mainstream Smoke Formation*
+
+By Robert W. Jenkins, Jr., Roger T. Bass, Richard H. Neuman and Marie R. Chatis
+Philip Morris Research Center, Richmond, Virginia, U.S.A.
+
+INTRODUCCION
+
+In a recent report, recommendations for the standard-
+ized preparation of carbon-14 labelled cigarettes were
+made (1). It was shown that the error introduced in
+uniformly placing the radioactive label axially within
+the filter is also the degree of error reflected in the radio-
+activity recovered from total smoke. Cigarettes with large
+variations in the axial placement of the label would
+require a much larger number of such cigarettes
+to determine the total smoke distribution. The data thus
+generated are reflective of the average values, but with
+a large experimental error. The more uniformly labelled
+the cigarette, the smaller the error in the total smoke
+distribution.
+
+When radioactivity is not uniformly distributed
+radially within the cigarette the smoking of a large
+number of cigarettes might not overcome any bias
+introduced by such non-uniformity (2, 3). Wakefield
+(4) and Orlandi (5) have all theorized about the effect
+of the periphery on mainstream smoke formation. To-
+day, there is very little experimental evidence to support
+these theories. In order to emphasize or supplement
+the importance of the tobacco periphery to cigarette
+smoke composition, 14C labelled cigarettes were smoked
+with uniform and non-uniform radial labelling. Effects
+were measured.
+
+3. Sheet-casting Blending: This procedure was used
+when materials insoluble in desired solvents. The labelled
+them must include some other filter uniformly blended into
+material such as Kentucky 1R1 reference filter or
+were added at discrete radial positions within the cig-
+arette roll (1).
+
+Radiochemicals
+
+Dextroinamine-16,[14C] was purchased from Mal-
+inckrodt Nuclear and proline-14C (U) from New Eng-
+land Nucleonics. Nicotine-14C (U) and cellulose-14C (U)
+were obtained from bio-synthesized Bright tobacco (U).
+Glucose-14C (U) was prepared by the trace-
+ment of glucose-14C (U) (New England Nuclear) with
+invertase. RadioChemical purities in all cases were better
+than 98% before application.
+
+Radioactivity Determinations
+
+Appropriate aliquots of the extracted or embattled
+samples were counted in a Packard Model 339X simul-
+taneous spectrometer (Packard Instrument Company) with
+optimized quants and window settings. The procedures
+and counts used have been previously described (7).
+
+Cigarette Procedure
+
+II. MATERIALS AND METHODS
+
+1. Cigarette Preparation
+
+A single cigarette type was drawn in all experi-
+ments. This was a non-filtered, 9 mm diameter cig-
+arette with a tobacco blend of approximately 70% Vir-
+ginia and 30% Burley tobaccos.
+
+2. Labelled Tobacco Preparation
+
+The following procedure was used to prepare the
+labelled tobaccos:
+
+a. Uniform radial labelling: The labelled compounds
+were added to the bulk tobacco as dry powders, mixed
+thoroughly, and then sheet-cast into cigarette sheets.
+
+b. Non-uniform radial labelling: The labelled com-
+pounds were added to discrete portions of the bulk
+tobacco, mixed thoroughly, and then sheet-cast into
+cigarette sheets.
+
+The amount of labelled compound added was calcu-
+lated to provide approximately 100 µCi per cigarette.
+
+III. RESULTS
+
+A. Total Radioactivity in Mainstream Smoke
+
+Figure 1 shows the total radioactivity recovered
+in mainstream smoke from uniform and non-uniform
+labelled cigarettes. The data are presented as the mean
+plus or minus the standard error of the mean.
+
+Figure 1. Total radioactivity recovered in main-
+stream smoke from uniform and non-uniform labelled
+cigarettes.
+
+IV. DISCUSSION
+
+The results shown in Figure 1 indicate that there is
+a significant difference in the total radioactivity recov-
+ered in mainstream smoke from uniform and non-uniform
+labelled cigarettes. The data suggest that the periphery
+of the cigarette plays an important role in the formation
+of mainstream smoke.
+
+V. SUMMARY
+
+The effects of the cigarette periphery on main-
+stream smoke formation were investigated using 14C la-
+belled cigarettes. The results showed that there is a sig-
+nificant difference in the total radioactivity recovered
+in mainstream smoke from uniform and non-uniform
+labelled cigarettes. This suggests that the periphery of
+the cigarette plays an important role in the formation
+of mainstream smoke.
+
+* Received July 10, 1976; accepted for publication
+September 23, 1977.
+
+LITERATURE REFERENCES
+
+1. Wakefield, G., D. W. McCurley, and J. F. Rusch.
+1974. Carbon-14 studies of cigarette smoke composi-
+tion. Residue Reviews 5(1): 1-26.
+
+2. A. E. Porter, personal communication.
+
+3. Orlandi, M. A. 1973. Effect of tobacco particle size
+on cigarette smoke composition. American Journal of
+Public Health 63: 480-484.
+
+4. Wakefield, G. 1975. The effect of cigarette design on
+smoke composition. Presented at the International
+Conference on Tobacco Diseases, XVI, Paris, France.
+
+5. Orlandi, M. A. 1976. Effect of cigarette filter length
+on smoke composition. American Journal of Public
+Health 66: 384-388.

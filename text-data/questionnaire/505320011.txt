@@ -1,0 +1,232 @@
+PAGE 26
+
+DETERGENTS & LAUNDRY PRODUCTS
+
+16. Do you or any other members of your household use “downy”?
+
+YES No  →
+
+17. Please indicate the extent to which you completely agree with each of the following statements when you see one?
+
+[ ] I like the way it cleans
+[ ] It leaves my clothes soft
+[ ] It has a pleasant scent
+[ ] It is easy to use
+[ ] It is worth the price
+[ ] Other (Please specify) _________________________
+
+18. Do you or any other members of your household use fabric softener?
+
+YES No  →
+
+19. If yes, which brands do you use? Mark all that apply.
+[ ] Downy
+[ ] Snuggle
+[ ] Bounce
+[ ] Comfort Suds
+[ ] Other (Please specify) _________________________
+
+20. Do you or any other members of your household use liquid laundry detergent?
+
+YES No  →
+
+21. If yes, which brands do you use? Mark all that apply.
+[ ] Tide
+[ ] Cheer
+[ ] Oxydol
+[ ] All
+[ ] Other (Please specify) _________________________
+
+22. Do you or any other members of your household use powdered laundry detergent?
+
+YES No  →
+
+23. If yes, which brands do you use? Mark all that apply.
+[ ] Tide
+[ ] Cheer
+[ ] Oxydol
+[ ] All
+[ ] Other (Please specify) _________________________
+
+24. Do you or any other members of your household use laundry detergent pods/packs?
+
+YES No  →
+
+25. If yes, which brands do you use? Mark all that apply.
+[ ] Tide Pods
+[ ] Gain Fireworks
+[ ] Other (Please specify) _________________________
+
+26. Do you or any other members of your household use bleach?
+
+YES No  →
+
+27. If yes, which brands do you use? Mark all that apply.
+[ ] Clorox
+[ ] Purex
+[ ] Other (Please specify) _________________________
+
+28. NONE OF THESE ITEMS USED
+
+SOAPS & COSMETICS
+
+29. Do you or any other members of your household use bar soap?
+
+YES No  →
+
+30. If yes, which brands do you use? Mark all that apply.
+[ ] Ivory
+[ ] Zest
+[ ] Dial
+[ ] Coast
+[ ] Other (Please specify) _________________________
+
+31. Do you or any other members of your household use liquid hand soap?
+
+YES No  →
+
+32. If yes, which brands do you use? Mark all that apply.
+[ ] Softsoap
+[ ] Dial
+[ ] Lever 2000
+[ ] Other (Please specify) _________________________
+
+Grocery Store/Supermarket Products
+
+BABY OIL & BABY LOTION
+
+50532 0011
+
+1. Do you or any other members of your household use baby oil?
+
+YES No  →
+
+2. Do you or any other members of your household use baby lotion?
+
+YES No  →
+
+3. In what age groups do children in your household fall? Mark as many as apply.
+Babies (0-1 Year) [ ] 0-1 [ ] 1-2 [ ] 2-3 [ ] 3-4 [ ] 5-6 [ ] 7-9 [ ] 10+
+Children (1-12 Years) [ ] 1-3 [ ] 4-6 [ ] 7-9 [ ] 10-12
+Teens (13-17 Years) [ ] 13-15 [ ] 16-17
+Adults (18+ Years) [ ] 18+
+
+4. Which brands of baby oil do you use? Mark all that apply.
+[ ] Johnson & Johnson
+[ ] Member’s Mark
+[ ] Other Brands
+
+5. Which brands of baby lotion do you use? Mark all that apply.
+[ ] Johnson & Johnson
+[ ] Member’s Mark
+[ ] Vaseline Intensive Care Baby
+[ ] Aveeno Baby Magic Lotion
+[ ] Other Brands
+
+6. About how much do you spend on these items in a 4 week period?
+$0-$5 [ ] $6-$10 [ ] $11-$15 [ ] $16-$20 [ ] $21 or more [ ]
+
+7. Do you or any other members of your household use PRESTO-CLEANSED WIPE CLOTHS?
+
+YES No  →
+
+8. If yes, which brands do you use? Mark all that apply.
+[ ] Your Household’s Brand
+[ ] Dial
+[ ] Other Brands
+
+9. In what age groups do children in your household fall? Mark as many as apply.
+Babies (0-1 Year) [ ] 0-1 [ ] 1-2 [ ] 2-3 [ ] 3-4 [ ] 5-6 [ ] 7-9 [ ] 10+
+Children (1-12 Years) [ ] 1-3 [ ] 4-6 [ ] 7-9 [ ] 10-12
+Teens (13-17 Years) [ ] 13-15 [ ] 16-17
+Adults (18+ Years) [ ] 18+
+
+10. Which brands of PRESTO-CLEANSED WIPE CLOTHS do you use? Mark all that apply.
+[ ] Johnson & Johnson Baby Powder
+[ ] Member’s Mark Baby Powder
+[ ] Vaseline Intensive Care Baby Powder
+[ ] Other Brands
+
+11. About how much do you spend on these items in a 4 week period?
+$0-$5 [ ] $6-$10 [ ] $11-$15 [ ] $16-$20 [ ] $21 or more [ ]
+
+HAIR CARE PRODUCTS
+
+33. Do you or any other members of your household use hair spray?
+
+YES No  →
+
+34. If yes, which brands do you use? Mark all that apply.
+[ ] Aqua Net
+[ ] Rave
+[ ] TRESemmé
+[ ] Other (Please specify) _________________________
+
+35. Do you or any other members of your household use hair gel?
+
+YES No  →
+
+36. If yes, which brands do you use? Mark all that apply.
+[ ] Gel Fabulous
+[ ] Rave
+[ ] TRESemmé
+[ ] Other (Please specify) _________________________
+
+37. Do you or any other members of your household use hair mousse?
+
+YES No  →
+
+38. If yes, which brands do you use? Mark all that apply.
+[ ] Well-a-pon
+[ ] Rave
+[ ] TRESemmé
+[ ] Other (Please specify) _________________________
+
+39. Do you or any other members of your household use hair tonic/conditioner?
+
+YES No  →
+
+40. If yes, which brands do you use? Mark all that apply.
+[ ] Brylcreem
+[ ] Clairol
+[ ] TRESemmé
+[ ] Other (Please specify) _________________________
+
+41. Do you or any other members of your household use hair shampoo?
+
+YES No  →
+
+42. If yes, which brands do you use? Mark all that apply.
+[ ] Johnson’s Baby Shampoo
+[ ] Member’s Mark
+[ ] Clairol
+[ ] TRESemmé
+[ ] Other (Please specify) _________________________
+
+43. Do you or any other members of your household use hair conditioner?
+
+YES No  →
+
+44. If yes, which brands do you use? Mark all that apply.
+[ ] Johnson’s Baby Shampoo
+[ ] Member’s Mark
+[ ] Clairol
+[ ] TRESemmé
+[ ] Other (Please specify) _________________________
+
+45. Do you or any other members of your household use hair coloring products?
+
+YES No  →
+
+46. If yes, which brands do you use? Mark all that apply.
+[ ] Clairol
+[ ] Vidal Sassoon
+[ ] Godrej
+[ ] Other (Please specify) _________________________
+
+47. NONE OF THESE ITEMS USED
+
+
+
+
+RenstaGram

@@ -1,0 +1,75 @@
+Carcinogenesis vol. 11 no. 8 1329-1335, 1990
+
+Investigations of metabolic precursors to 3-methyl and DNA adducts of 4-(methylnitrosamino)-1-(3-pyridyl)-1-butanone
+
+Lisa A. Peterson, Gwen C.Carmella and Stephen S. Hecht
+Division of Chemical Carcinogenesis, American Health Foundation,
+One Davis Road, Valhalla, NY 10595, USA
+
+Levels of auto and hemoglobin pyridylbutylation were determined in F344 rats treated with 4-(methylnitrosamino)-1-(3-pyridyl)-1-butanone (5-[HNNC(O)CH3]-3-pyridyl-1-butanone; 4-HPB) or 5-[HNNC(O)CH3]-3-pyridyl-1-butanone N-oxide (5-HNPB). The DNA adducts of 4-HPB and 5-HNPB were also measured. Adducts were detected in tissues from rats treated with pyridyl-nitrated NNK [5-(7)-
+NN(O)CH3] or NNNC(O)CH3]. The relative abundance of these adducts is unknown, in the case of DNA, adducts are measurable and 4-HPB can be released by thermal or acid hydrolysis of the DNA (1). Some of the globin adducts are also released during acid hydrolysis.
+
+These unstable adducts account for 15–40% of the total adducts present in tissues from rats treated with NNK. The same adducts are observed in animals treated with N-nitrosoNornicotine (NNNO), another tobacco-specific nitrosamine (2, 3).
+
+These studies demonstrate that α-hydroxylation of NNK generates a reactive species capable of interacting covalently with cellular macromolecules. A sensitive and specific assay was developed to measure the levels of 4-HPB released from hemoglobin in rats treated with NNK. This assay assumes DNA adduct exposure is closely tied and HNNC(O)CH3] has an individual ability to react with proteins. The metabolites, 4-HPB and 5-HNPB, of NNK and NNNO (3) and may also be present in tobacco smoke.
+
+The levels of auto and hemoglobin pyridylbutylation were determined in F344 rats treated with 4-(methylnitrosamino)-1-(3-pyridyl)-1-butanone (5-[HNNC(O)CH3]-3-pyridyl-1-butanone; 4-HPB) or 5-[HNNC(O)CH3]-3-pyridyl-1-butanone N-oxide (5-HNPB). The levels of total binding and 4-HPB adducts are also estimated from labeled NNK.
+
+The data show that the globin adducts, 4-HPB and 5-
+HNNC(O)CH3], appeared similar to those observed during treatment with pyridyl-nitrated NNK. The levels of total binding were approximately equal in rats treated with 4-HPB and 5-HNPB.
+
+The incubation of hemoglobin with [14C]NNK or [14C]5-
+HNNC(O)CH3] resulted in the formation of 4-HPB adducts. The levels of 4-HPB adducts were also determined in DNA isolated from the liver, lung, and kidney.
+
+The data show that the relative abundance of 4-HPB and 5-
+HNNC(O)CH3] adducts varies depending on the tissue.
+
+Materials and Methods
+
+Animals and Treatment
+Female F344 rats (21–23 g) were obtained from Charles River Laboratories (Wilmington, MA). Rats were housed in plastic cages with albescent bedding and maintained at 22 ± 2°C with a 12-hr light/dark cycle.
+
+NNK and 5-HNPB were prepared as previously described (4).
+[Methyl-14C]NNK was obtained from DuPont NEN Research Products (Lexington, MA) in 98% radiochemical purity.
+
+Results
+
+Auto and Hemoglobin Pyridylbutylation
+Rats were treated with NNK or 5-HNPB at doses of 50 mg/kg body weight administered by intraperitoneal injection three times per week for 2 weeks. Auto and hemoglobin pyridylbutylation levels are shown in Table 1.
+
+DNA Adducts
+The DNA adduct levels are shown in Table 2. The data show that the relative abundance of 4-HPB and 5-HNPB adducts varies depending on the tissue.
+
+Discussion
+
+The results demonstrate that NNK is metabolized to 4-HPB and 5-HNPB, which can then react with DNA to form covalent adducts. These adducts are detectable in tissues from rats treated with pyridyl-nitrated NNK or NNNO (2, 3).
+
+References
+1.  Hecht, S.S., Barnes, D.J., Arabshahi, K. and Wynder, E.L. (1986) Formation of DNA adducts by nicotine and its metabolites in hairless mice. Cancer Res. 46, 5037–5042.
+2.  Hecht, S.S., Belinsky, A.J., Rivenson, B. and Wynder, E.L. (1987) Metabolism of nicotine and its N-nitrosation to tobacco-specific nitrosamines in hairless mice. Cancer Res. 47, 2053–2060.
+3.  Patterson, A.D., Lommen, A.E., Hoffmann, R.C. and Hecht, S.S. (1989) N-nitrosoNornicotine is metabolized to NNK in rats. Cancer Res. 49, 2576–2583.
+4.  Hecht, S.S., Arabshahi, K., Barnes, D.J. and Wynder, E.L. (1986) Synthesis of 4-(methylnitrosamino)-1-(3-pyridyl)-1-butanone. J. Am. Chem. Soc. 108, 725–727.
+
+
+
+Table 1. Auto and Hemoglobin Pyridylbutylation Levels in Rats Treated with NNK or 5-HNPB
+
+| Treatment | Auto (nmol/g protein) | Hemoglobin (nmol/g protein) |
+|---|---|---|
+| Control | 0.02 ± 0.01 | 0.03 ± 0.01 |
+| NNK (50 mg/kg) | 4.8 ± 0.6 | 7.9 ± 0.9 |
+| 5-HNPB (50 mg/kg) | 2.9 ± 0.3 | 5.1 ± 0.5 |
+
+Table 2. DNA Adduct Levels in Rats Treated with NNK or 5-HNPB
+
+| Tissue | Treatment | Adducts (pmol/g DNA) |
+|---|---|---|
+| Liver | Control | <0.1 |
+| Liver | NNK (50 mg/kg) | 2.3 ± 0.4 |
+| Liver | 5-HNPB (50 mg/kg) | 1.8 ± 0.3 |
+| Lung | Control | <0.1 |
+| Lung | NNK (50 mg/kg) | 3.2 ± 0.6 |
+| Lung | 5-HNPB (50 mg/kg) | 2.7 ± 0.5 |
+| Kidney | Control | <0.1 |
+| Kidney | NNK (50 mg/kg) | 1.9 ± 0.3 |
+| Kidney | 5-HNPB (50 mg/kg) | 1.6 ± 0.2 |

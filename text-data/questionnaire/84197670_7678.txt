@@ -1,0 +1,46 @@
+AIR MORLING RESEARCH
+801 Second Avenue
+New York, New York 10017
+
+NATIONAL CONSENSUS SURVEYS
+CIGARETTE CONSUMPTION PAGE
+#55764A (F646054)
+August, 1973
+
+SCREENER
+
+TIME INTERVIEW: STARTED ______ ENDED ______
+RESPONDENT’S NAME ______ PHONE NO. ______
+ADDRESS ______ CITY ______ STATE ______
+INTERVIEWER ______ METRO AREA ______ DATE ______
+VALIDATED BY ______ DATE ______
+
+Hello, I'm a field representative of National Consensus Surveys. We are conducting a survey on people’s attitudes toward certain products, and I would like to ask you a few questions.
+
+A. (INDICATE SEX OF RESPONDENT:)
+Male— 1
+Female— 2
+
+B. First of all, what is your approximate age? Are you … (READ LIST.)
+(TERMINATE AND RECORD ON CALL RECORD SHEET) Under 21 ——— 1
+                                                        21 - 24 ——— 2
+                                                        25 - 34 ——— 3
+                                                        35 - 44 ——— 4
+                                                        50 and over— 5
+
+(CHECK QUOTA GROUP AND CONTINUE)
+
+C. Have you, yourself, smoked any cigarettes during the past week?
+(TERMINATE AND RECORD ON CALL RECORD SHEET) (CONTINUE) Yes——— 1
+                                                                 No——— 2
+
+D. About how many cigarettes do you, yourself, smoke during an average day?
+(DO NOT READ LIST.)  9 or less ——— 1
+                         (Less than 1/2 pack)—
+                         10 - 19 (CONTINUE) —— 2
+                         20 - 29 (CONTINUE) —— 3
+                         30 - 39 (over 1 to less than 3 packs) —— 4
+                         40 or more (CONTINUE)—— 5
+                         (2 packs or more)— 6
+
+81675/970

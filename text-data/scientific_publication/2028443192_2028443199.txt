@@ -1,0 +1,60 @@
+International Journal of Epidemiology 1994 Vol. 23 No. 2 Printed in Great Britain
+
+Childhood and Adolescent Passive
+Smoking and the Risk of Female
+Lung Cancer
+
+FU-LIN WANG*, EDGAR JOHN LOVE*, NING LIU* AND XU-DONG DAI+
+
+Wang (F-L) Department of Community Health Sciences, Faculty of Medicine, University of Calgary, 3330 Hospital Dr.
+NW, Calgary, Alberta T2N 4N1, Canada; Love (E J), Liu (N) and Dai (X-D) Childhood and adolescent passive smoking
+and the risk of female lung cancer. International Journal of Epidemiology 1994. 23:223-230
+
+Background Few studies have reported the relationship between passive smoking (PS) in early life and the risk of
+lung cancer. This study was done to evaluate the risk of female lung cancer from PS, especially that during childhood
+and adolescence.
+
+Methods A household exposure to tobacco smoke as an estimate of PS, a 1:1 paired case-control study was
+conducted in Harbin, China. We interviewed 114 female primary lung cancer cases, aged 30–65 years, and their
+hospital-matched controls. The controls were non-cancer patients selected from the same hospital as the cases, and
+matched on age (±5 years), residential area, and smoking status overall. There were 59 pairs who ever
+smoked and 55 pairs who never smoked. Information on PS was collected by residence for each of the following
+periods: 0–5, 6–14, 15–22, and 23–30 years.
+
+Res Household PS significantly increased the risk of female lung cancer for those exposed at ages 22 or younger,
+who have ever smoked. The risk was also increased for those non-smoking pairs when exposed under the age of 15
+years. Exposure to maternal smoking at ages 14 or younger increased the risk by 30% (odds ratio [OR] 1.3,
+95% confidence interval [CI] 1.49–4.86), but not to paternal smoking (OR 1.4d, 95% CI 1.52–3.50) The risk was
+highest for those exposed under the age of 5 years (OR 3.36, 95% CI 1.86–6.05) and was also significantly higher at
+OR_3.08(95%CI: 1.62–5.57) and 5-22 (OR 3.10, 95% CI 1.56–6.31) years, and under the age of 23 years (OR
+3.48, 95%CI: 1.42–11.59, p<0.001) 0f note, the OR in five exposure periods for non-smoking pairs were similar
+to those at household PS.
+
+Conclusion It appears that childhood and adolescent PS increases the risk of female lung cancer.
+[Journal of Epidemiology 1994;23:223–230]
+
+Keywords: Lung Cancer, Passive Smoking, Childhood, Adolescence, China.
+
+*Department of Public Health, Harbin Medical University, Harbin, 150081, China.
++To whom correspondence should be addressed at the above address.
+
+Received 26 January 1993; Accepted 13 September 1994
+
+References
+1. Wynder KL, Graham PA. Passive smoking: an unappreciated hazard of everyday life. N Engl J Med 1987;317:1059–63.
+2. U.S. Environmental Protection Agency. Indoor Air Quality: Environmentally Sensitive Issues. Washington, DC: EPA, 1984.
+3. US Surgeon General. The Health Consequences of Involuntary Smoking. Atlanta, GA: US Department of Health and Human Services, PHS, 1989.
+4. Thun MJ, Shasky BG, Garcia-Closas R, et al. Epidemiologic evidence on the health effects of passive smoking. N Engl J Med 1993;328:1567–76.
+5. Gray NJ, Rawlins JM, Macrae A, et al. Lung cancer and residence in smokers’ households: a case-control study. Br Med J 1984;289:1305–8.
+6. Boffetta J, Suomi O, McMichael AJ. Passive smoking and lung cancer: a review of epidemiological studies. Scand J Public Health 1988;16:273–82.
+7. Ito K, Adachi T, Takano Y, et al. Mortality from respiratory diseases among non-smokers residing with smokers. Arch Environ Health 1985;40:297–302.
+8. Naiman MA, Holbrook RH, Zahn CM, et al. Respiratory illness in children and adult smoking habits. Pediatrics 1986;77:801–7.
+9. U.S. Environmental Protection Agency. Air Quality Criteria for Particulate Matter and Related Air Pollution Agents. Washington, DC: EPA, 1992.
+10. Law M-L, Ho K-M, Cheng J-Y. Passive smoking at home and respiratory symptoms among children in Hong Kong. Arch Environ Health 1986;41:357–62.
+11. Magnusson Adlerbring P-J, Persson LÅ, Sundquist K, et al. Lung cancer risk in relation to parental smoking during childhood: a case-control study. Scand J Public Health 1993;21:248–54.
+12. Blot WJ, McLaughlin JK, Wacholder T, et al. Body size and lung cancer mortality in male smokers. Am J Epidemiol 1986;123:750–61.
+13. Rothman N, Hayes RD, Greenland S. Evidence for the role of chance in epidemiologic studies. Epidemiology 1988;29:473–83.
+14. Breslow NES. Statistical Methods for Rates and Proportions. Springfi eld, IL: Charles C Thomas, 1987.
+
+
+

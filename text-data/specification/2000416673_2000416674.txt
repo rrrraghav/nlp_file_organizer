@@ -1,0 +1,53 @@
+MATERIAL SAFETY DATA SHEET
+
+J. T. Baker Chemical Co., 222 Red School Lane, Phillipsburg, N.J. 08865
+
+SECTION I: IDENTIFICATION OF PRODUCT
+
+CHEMICAL NAME
+Potassium Dihydrogen Monopersulfate
+
+FORMULA
+K₂C₈H₁₇O₇
+
+SYNONYM OR CROSS REFERENCE
+Bis(monotone) of Potassium
+Monopersulphate
+
+CAS NO.: 00773509
+
+SECTION II: HAZARDOUS INGREDIENTS
+
+MATERIAL NATURE OF HAZARD
+
+SECTION III: PHYSICAL DATA
+
+BOILING POINT DECOMPOSES at 500°C. MELTING POINT 398°C.
+VAPOR PRESSURE SPECIFIC GRAVITY 2.46
+VAPOR DENSITY (AIR=1) PERCENT VOLATILE BY VOLUME (%)
+WATER SOLUBILITY EVAPORATION RATE
+Soluble - (-)
+APPEARANCE
+White crystals
+
+SECTION IV: FIRE AND EXPLOSION HAZARD DATA
+
+FLASH POINT (method used) FLAMMABLE LIMITS Lower Upper
+
+FIRE EXTINGUISHING MEDIA
+
+SPECIAL FIRE-FIGHTING PROCEDURES
+
+UNUSUAL FIRE AND EXPLOSION HAZARD
+
+SECTION V: REACTIVITY DATA
+
+THRESHOLD LIMIT VALUE
+2 mg/m³ - POTASSIUM DIOXID: 40 mg/kg
+
+HEALTH HAZARDS Harmful if inhaled. May cause rash or external ulcers.
+Causes irritation.
+
+FIRST AID PROCEDURES In case of contact, immediately flush eyes or skin with water for at least 15 minutes. If inhaled, remove to fresh air. If not breathing, give artificial respiration. If breathing is difficult, give oxygen. Call a physician.
+
+20046873

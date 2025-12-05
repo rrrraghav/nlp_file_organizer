@@ -1,0 +1,51 @@
+MOLECULAR AND CELLULAR BIOLOGY, July 1988, p. 2963–2974
+0270-7065/88/072963-12$02.00
+Copyright © 1988, American Society for Microbiology
+
+Vol. 8, No. 7
+
+Meiotic Recombination between Repeated Transposible Elements
+in Saccharomyces cerevisiae
+
+MARTIN KUPIEC AND THOMAS D. PETES*†
+Department of Molecular Genetics and Cell Biology, University of Chicago, 920 E. 58th Street, Chicago, Illinois 60637
+
+Received 24 February 1988/Accepted 14 April 1988
+
+We have measured the frequency of meiotic recombination between marked Ty elements in the Saccharomyces cerevisiae genome. These recombinations occur as synapsis-dependent (gene conversion) and sometimes involved nonhomologous chromosomes. The frequency of ectopic gene conversion at Ty elements appeared lower than expected on the basis of previous studies of recombination between artificially constructed repeats. The conversion events were either absent or a small region of the Ty element, or the conversion tract was restricted to a small region of the Ty element. In addition, the observed conversion events were very infrequently associated with reciprocal exchange.
+
+Most individuals within a phylogenetic species have the same karyotype. The frequency of spontaneous chromosome aberrations is low, and when they occur, alterations are usually those that produce chromosomal duplications can be regarded as the product of illegitimate recombination events. In some cases, the event producing the altered chromosome appears to be a site-specific type of recombination (for review, see reference 5). For example, the translocations observed in certain non-Burkitt B-cell tumors appear to be the result of errors made during V-J joining or immunoglobulin gene rearrangement (1, 2). An alternative mechanism for the production of chromosomal alterations is homologous recombination between dispersed repeats. Such exchanges have been shown to pro-duce deletions and duplications in high frequency. For example, the duplication of a region of human chromosome 7 has been attributed to illegitimate recombination events involving Alu elements. All Alu elements bear repetitive sequences that are distributed throughout the genome (10).
+
+The yeast Saccharomyces cerevisiae contains a large number of Ty elements, which are transposable DNA sequences (11). These elements are similar to retroviruses in that they encode proteins required for their mobilization, but unlike retroviruses, Ty elements transpose directly as DNA (12). A typical Ty element is approximately 6.5 kb long and has several unique features, including a single open reading frame that encodes a protein with motifs characteristic of retroviral gag and pol proteins (13). The ends of a Ty element are bordered by short inverted repeats (14), which are thought to be involved in the transposition process.
+
+Ty elements are present at a high copy number in the yeast genome, approximately 30 to 50 copies per haploid genome (11). These elements have a structure similar to that of retroviral DNA, consisting of an LTR and a central element region that is flanked by 318-base pair (bp) direct repeats delta elements. Ty elements have been shown to transpose into target sites at a frequency of about 10−6 to 10−7 through a reverse transcription process (11).
+
+Since there are many Ty elements in the genome and since they are capable of promoting illegitimate recombination events, it is likely that meiotic recombination occurs between Ty elements. As with allelic conversion events (17), approximately half of the ectopic conversion events were associated with reciprocal recombination, producing chromosomal translocations (24, 31).
+
+One of the most abundant dispersed class of repeated sequences in the yeast genome are the Ty elements, which are found in approximately 30 to 50 copies per haploid genome (11). These elements have a structure similar to that of retroviruses, consisting of an LTR and a central element region that is flanked by 318-base pair (bp) direct repeats delta elements. Ty elements have been shown to transpose into target sites at a frequency of about 10−6 to 10−7 through a reverse transcription process (11).
+
+Since there are many Ty elements in the genome and since they are capable of promoting illegitimate recombination events, it is likely that meiotic recombination occurs between Ty elements. As with allelic conversion events (17), approximately half of the ectopic conversion events were associated with reciprocal recombination, producing chromosomal translocations (24, 31).
+
+One of the most abundant dispersed class of repeated sequences in the yeast genome are the Ty elements, which are found in approximately 30 to 50 copies per haploid genome (11). These elements have a structure similar to that of retroviruses, consisting of an LTR and a central element region that is flanked by 318-base pair (bp) direct repeats delta elements. Ty elements have been shown to transpose into target sites at a frequency of about 10−6 to 10−7 through a reverse transcription process (11).
+
+Since there are many Ty elements in the genome and since they are capable of promoting illegitimate recombination events, it is likely that meiotic recombination occurs between Ty elements. As with allelic conversion events (17), approximately half of the ectopic conversion events were associated with reciprocal recombination, producing chromosomal translocations (24, 31).
+
+One of the most abundant dispersed class of repeated sequences in the yeast genome are the Ty elements, which are found in approximately 30 to 50 copies per haploid genome (11). These elements have a structure similar to that of retroviruses, consisting of an LTR and a central element region that is flanked by 318-base pair (bp) direct repeats delta elements. Ty elements have been shown to transpose into target sites at a frequency of about 10−6 to 10−7 through a reverse transcription process (11).
+
+Since there are many Ty elements in the genome and since they are capable of promoting illegitimate recombination events, it is likely that meiotic recombination occurs between Ty elements. As with allelic conversion events (17), approximately half of the ectopic conversion events were associated with reciprocal recombination, producing chromosomal translocations (24, 31).
+
+One of the most abundant dispersed class of repeated sequences in the yeast genome are the Ty elements, which are found in approximately 30 to 50 copies per haploid genome (11). These elements have a structure similar to that of retroviruses, consisting of an LTR and a central element region that is flanked by 318-base pair (bp) direct repeats delta elements. Ty elements have been shown to transpose into target sites at a frequency of about 10−6 to 10−7 through a reverse transcription process (11).
+
+Since there are many Ty elements in the genome and since they are capable of promoting illegitimate recombination events, it is likely that meiotic recombination occurs between Ty elements. As with allelic conversion events (17), approximately half of the ectopic conversion events were associated with reciprocal recombination, producing chromosomal translocations (24, 31).
+
+One of the most abundant dispersed class of repeated sequences in the yeast genome are the Ty elements, which are found in approximately 30 to 50 copies per haploid genome (11). These elements have a structure similar to that of retroviruses, consisting of an LTR and a central element region that is flanked by 318-base pair (bp) direct repeats delta elements. Ty elements have been shown to transpose into target sites at a frequency of about 10−6 to 10−7 through a reverse transcription process (11).
+
+Since there are many Ty elements in the genome and since they are capable of promoting illegitimate recombination events, it is likely that meiotic recombination occurs between Ty elements. As with allelic conversion events (17), approximately half of the ectopic conversion events were associated with reciprocal recombination, producing chromosomal translocations (24, 31).
+
+One of the most abundant dispersed class of repeated sequences in the yeast genome are the Ty elements, which are found in approximately 30 to 50 copies per haploid genome (11). These elements have a structure similar to that of retroviruses, consisting of an LTR and a central element region that is flanked by 318-base pair (bp) direct repeats delta elements. Ty elements have been shown to transpose into target sites at a frequency of about 10−6 to 10−7 through a reverse transcription process (11).
+
+Since there are many Ty elements in the genome and since they are capable of promoting illegitimate recombination events, it is likely that meiotic recombination occurs between Ty elements. As with allelic conversion events (17), approximately half of the ectopic conversion events were associated with reciprocal recombination, producing chromosomal translocations (24, 31).
+
+One of the most abundant dispersed class of repeated sequences in the yeast genome are the Ty elements, which are found in approximately 30 to 50 copies per haploid genome (11). These elements have a structure similar to that of retroviruses, consisting of an LTR and a central element region that is flanked by 318-base pair (bp) direct repeats delta elements. Ty elements have been shown to transpose into target sites at a frequency of about 10−6 to 10−7 through a reverse transcription process (11).
+
+Since there are

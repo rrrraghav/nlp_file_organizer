@@ -1,0 +1,37 @@
+Proc. Natl. Acad. Sci. USA
+Vol. 89, pp. 6232-6236, July 1992
+Genetics
+
+Targeted oncogene activation by site-specific recombination in transgenic mice
+
+(cre/loxP/transgene/simian virus 40 large antigen)
+
+M. Lakso*, B. Sauer†, M. Mosinger‡, J.R.*, E. J. Lee*, R. W. Manning§, S.H. Yu*, K. L. Mulder*,
+and H. Westphal*
+
+*Laboratory of Mammalian Genes and Development, National Institute of Child Health and Human Development, National Institutes of Health, Bethesda,
+MD 20892, and †Zen-Tech Pharmaceuticals, Inc., Experimental Station E326, Wilmington, DE 19880;‡§
+
+Communicated by Igor B. Dawid, April 9, 1992
+
+An efficient and accurate method for controlled in vivo transgene modulation by site-specific recornbination is described. Several transgenic mouse lines were created carrying the murine *c-raf* oncogene under the control of the simian virus 40 large tumor-antigen gene sequence, separated by a l-kb stop fragment sequence that contains elements preventing expression of the large tumor-antigen gene prior to Cre recombinase recognition sites. Fragments from two different LoxP sequences were flanked by the *c-raf* promoter and either the murine *c-cytomegalovirus* or the human cytomegalovirus promoter. All double-transgenic offspring developed lcnus tumors. Subsequent analysis confirmed that timing of tumor formation was regulated by Cre recombinase activation via site-specific, Cre-mediated deletion of stop sequences.
+
+A desired manipulation of target genes with gene-specific control is a major goal in transgenic research. The ability to regulate transgene expression at specific times and locations would greatly facilitate the study of developmental processes and disease mechanisms (1, 2). A particularly attractive approach is site-specific recombination, which allows for precise DNA alterations at defined chromosomal sites (3, 4).
+
+We have exploited this technology to create a series of transgenic mice in which the *c-raf* oncogene is conditionally expressed. The *c-raf* gene, also known as B-Raf or RAF-1, encodes a cytoplasmic serine/threonine kinase that functions as an intermediate in the MAP kinase signal transduction pathway (5). Mutations activating *c-raf* are found in several human tumors, including malignant melanoma and bronchioloalveolar carcinoma (6, 7).
+
+The strategy for conditionally expressing *c-raf* is shown schematically in Fig. 1. A l-kb stop fragment was inserted between the *c-raf* promoter and a l-kb stop fragment flanked by directly repeated [cr sequences (5'-ATACT-TCGTACAGCATGATTTAGCG-3'). The stop sequence was composed of the 5' end of the yeast His3 gene, 82 bp of the SV40 polyadenylation signal, and a synthetic oligonucleotide (5'-GATCCCTAGGAATCGATCGTTAG-3', where ATG is a false translation initiation signal) and CT AAGT is a splice donor site. The human cytomegalovirus (HCMV)-c-raf construct was obtained by losing the l-kb stop gene cre construct as described (16) and the mouse cre construct was derived from pCMV2-cre (obtained by changing the promoter sequence and mice P to G substitution as described (18).
+
+Screening of Transgenic Mice. The genotypes of the positive transgenic mice by PCR and Southern blot analysis. DNA was extracted from tail biopsies of 350 micrograms, amplified with primers specific for the loxP sequences flanking the *c-raf* gene (5'-CCGTCTAGAA GTCGATGTG-3' and 5'-ATTACCGGAATCGATTAG-3'), under the following conditions: 95°C, 1 min; 65°C, 1 min; 72°C, 1 min for 30 cycles. A 1-kb PCR product was obtained in all transgenic mice. Southern blot analysis confirmed that the *c-raf* gene was inserted singly into the mouse genome.
+
+The loxP sequences were derived from plasmid pAD366-T (17) by inserting an BamHI site between each and a l-kb stop fragment. The stop sequence was composed of the 5' end of the yeast His3 gene, 82 bp of the SV40 polyadenylation signal, and a synthetic oligonucleotide (5'-GATCCCTAGGAATCGATCGTTAG-3', where ATG is a false translation initiation signal) and CT AAGT is a splice donor site. The human cytomegalovirus (HCMV)-c-raf construct was obtained by losing the l-kb stop gene cre construct as described (16) and the mouse cre construct was derived from pCMV2-cre (obtained by changing the promoter sequence and mice P to G substitution as described (18).
+
+Screening of Transgenic Mice. The genotypes of the positive transgenic mice by PCR and Southern blot analysis. DNA was extracted from tail biopsies of 350 micrograms, amplified with primers specific for the loxP sequences flanking the *c-raf* gene (5'-CCGTCTAGAA GTCGATGTG-3' and 5'-ATTACCGGAATCGATTAG-3'), under the following conditions: 95°C, 1 min; 65°C, 1 min; 72°C, 1 min for 30 cycles. A 1-kb PCR product was obtained in all transgenic mice. Southern blot analysis confirmed that the *c-raf* gene was inserted singly into the mouse genome.
+
+The loxP sequences were derived from plasmid pAD366-T (17) by inserting an BamHI site between each and a l-kb stop fragment. The stop sequence was composed of the 5' end of the yeast His3 gene, 82 bp of the SV40 polyadenylation signal, and a synthetic oligonucleotide (5'-GATCCCTAGGAATCGATCGTTAG-3', where ATG is a false translation initiation signal) and CT AAGT is a splice donor site. The human cytomegalovirus (HCMV)-c-raf construct was obtained by losing the l-kb stop gene cre construct as described (16) and the mouse cre construct was derived from pCMV2-cre (obtained by changing the promoter sequence and mice P to G substitution as described (18).
+
+Screening of Transgenic Mice. The genotypes of the positive transgenic mice by PCR and Southern blot analysis. DNA was extracted from tail biopsies of 350 micrograms, amplified with primers specific for the loxP sequences flanking the *c-raf* gene (5'-CCGTCTAGAA GTCGATGTG-3' and 5'-ATTACCGGAATCGATTAG-3'), under the following conditions: 95°C, 1 min; 65°C, 1 min; 72°C, 1 min for 30 cycles. A 1-kb PCR product was obtained in all transgenic mice. Southern blot analysis confirmed that the *c-raf* gene was inserted singly into the mouse genome.
+
+The loxP sequences were derived from plasmid pAD366-T (17) by inserting an BamHI site between each and a l-kb stop fragment. The stop sequence was composed of the 5' end of the yeast His3 gene, 82 bp of the SV40 polyadenylation signal, and a synthetic oligonucleotide (5'-GATCCCTAGGAATCGATCGTTAG-3', where ATG is a false translation initiation signal) and CT AAGT is a splice donor site. The human cytomegalovirus (HCMV)-c-raf construct was obtained by losing the l-kb stop gene cre construct as described (16) and the mouse cre construct was derived from pCMV2-cre (obtained by changing the promoter sequence and mice P to G substitution as described (18).
+
+Screening of Transgenic Mice. The genotypes of the positive transgenic mice by PCR and Southern blot analysis. DNA was extracted from tail biopsies of 350 micrograms, amplified with primers specific for the loxP sequences flanking the *c-raf* gene (5'-CCGTCTAGAA GTCGATGTG-3' and 5'-ATTACCGGAATCGATTAG-3'), under the following conditions: 95°C, 1 min; 65°C, 1 min; 72°C, 1 min for 30 cycles. A 1-kb PCR product was obtained in all transgenic mice. Southern blot analysis confirmed that the *c-raf* gene was inserted singly into the mouse genome.

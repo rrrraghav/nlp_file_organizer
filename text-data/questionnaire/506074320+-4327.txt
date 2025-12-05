@@ -1,0 +1,73 @@
+FOR FILE USE:
+
+TARGET: ....................
+NON TARGET: ..............12
+Market
+
+
+
+POSITIONING EVALUATION STUDY
+STUDY NO. 84-763
+
+
+
+RESPONDENT NAME:
+
+
+
+
+AREA CODE  TELEPHONE NUMBER   INTERVIEWER
+PREFIX     NUMBER      SUFFIX
+
+
+
+
+
+DATE: ________ TIME STARTED _________ BD. TIME ENDED _________ # OF MIN.
+
+Hello, my name is _______________. We appreciate your coming in to help us today.
+
+1. Now, I would like to review some of the information that we obtained when we talked to you earlier on the telephone.
+
+(REFER TO Q.1 ON SCREENER)
+
+Do you still smoke (USUAL BRAND) as your usual brand?
+
+(IF SAME BRAND, RECORD BELOW AT Q.2A AND CONTINUE WITH Q.2. IF BRAND CHANGE, CORRECT
+SCREENER AND PROBE FOR FULL STYLE INFORMATION. ENTER NEW BRAND NAME AT Q.2A AND
+CONTINUE.)
+
+2. As you know, cigarettes come in different styles such as menthol and non-menthol and
+light and ultra lights, as well as different sizes.  These differences may or may not
+have several particular styles. My next question refers only to brand name not
+particular styles or sizes of the brand.
+
+Think for a minute about all the cigarette brands that are currently on the market.
+Besides (USUAL BRAND) what other two cigarette brands do you like best?
+(RECORD ON GRID BELOW AT Q.2B AND Q.2.C.)
+
+
+
+(USE FOLLOWING IF RESPONDENT CANNOT NAME 3 BRANDS.)
+
+Let me explain a little more about what we’re trying to do...
+
+Even though you may only smoke one brand regularly, there are probably other
+brands on the market that you like. It's not necessary that you buy these
+other brands as well as your usual brand, but that you believe you would like
+them better than the other brands on the market. This may include brands you
+have tried but never purchased for your own use.
+
+Now, besides the brand(s) you’ve just mentioned, what other brand(s) do you like?
+(RECORD ON GRID BELOW AT Q.2B/2.C IN ORDER MENTIONED. IF RESPONDENT REFUSES TO
+LIST OTHER BRANDS 2 AND 3, SKIP TO Q.4.)
+
+2a. Usual Brand _______________
+
+2b. Second Choice _______________
+
+2c. Third Choice _______________
+
+
+
+5067.4330

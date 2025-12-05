@@ -1,0 +1,26 @@
+(972)
+
+1798
+
+Carcinogenesis Assay of Subfractions of Cigarette Smoke Condensate Prepared by Solvent-Solvent Separation of the Neutral Fraction 1,2
+
+Fred G. Bock, A. P. Swain², and L. Stedman³, Roswell Park Memorial Institute, New York State Department of Health, Buffalo, New York 14203; and Eastern Marketing and Nutrition Research Division, Agricultural Research Service, U.S. Department of Agriculture, Philadelphia, Pennsylvania 19118
+
+SUMMARY.—Carcinogenesis assay was conducted on subfractions of the neutral fraction (NF) of cigarette smoke condensate. Subfractions that were prepared by solvent partition of the major subfractions, “methanol-insoluble neutrals” (MIN) were much more active than the "methanol-soluble" neutrals (MSN). Distribution of MSN between n-hexane and carbon dioxide yielded 2 active fractions. Poor dose-response suggests that extraneous materials may reduce the activity of MSN. Analysis of the recovery of MSN is difficult, but apparently there were significant losses during separation. On countercurrent distribution (CCD), MIN yielded 3 active and 2 inactive subfractions. Recovery of the activity of MIN in the extractions was excellent in comparison with an earlier separation with silice gel chromatography. Recoveries might be improved if CCD is applied to the NF before the more rigorous chromatographic separations.—J Natl Cancer Inst 49: 477-483, 1972.
+
+1,2 IN AN earlier study,³ of the subfractions prepared by silice gel chromatography of the neutral fraction (NF) of cigarette smoke condensate (CSC) induced skin tumors in mice previously painted with 125 pg of 7,12-dimethylbenz[a]anthracene (DMBA). As this procedure, tumor-promot ing agents as well as complete carcinogens were detected. All the subfractions were recombined in proportion to their yield, to provide a reconstituted sample that had been handled with NFi(1) procedures. It is observed that separate no change material, however, substantially less active than NF, suggesting that important amounts of the active materials are lost during chromatogra-
+
+fractionating NF, with the hope that these losses could be avoided.
+
+MATERIALS AND METHODS
+
+Details of the preparation of the various fractions will be described elsewhere (2) Profly, 1-4kg
+
+¹ Received January 26, 1972; accepted April 14, 1972. ² This study was carried out under contract 22-14-100-53 with the Agricultural Research Service, U.S. Department of Agriculture. ³ Addressed to the Eastern Marketing and Nutrition Research Division. * Present address: Richard L. Connell Division, E. R. Squibb & Sons, Inc., New Brunswick, N. J. 08901. Agricultural Research Service, U.S.D.A., Box 367, Athens, Ga. 30602.
+
+FIGURE 1. Chromatographic separation of the neutral fraction (NF) of cigarette smoke condensate.
+
+The NF was prepared as previously described (1). Briefly, cigarette smoke was collected in a chilled hexane trap and the solvent evaporated. The residue was dissolved in methanol and centrifuged. The supernatant was extracted with chloroform, and the chloroform extract evaporated. The residue was then dissolved in methanol and centrifuged again. The clear super-
+ 
+
+902810

@@ -1,0 +1,73 @@
+WSL -> Dr. C Ellis
+
+Environmental Health Perspectives
+Vol. 80, pp. 17–26, 1996
+
+Genetic Modulation of the Cellular
+Antioxidant Defense Capacity
+
+by Paul Amstad* and Peter Cerutti*
+
+Oxidants are ubiquitous in our aerobic environment. While they are always useful, they can also exert
+pathophysiological effects at low concentrations and thus are strategists in human disease. Thus far,
+oxidants have been implicated as mediators of cellular damage and as regulators of the antioxidant defense
+system. Besides its effect of oxidants are products of the metabolic reactions (SOD), and glutathione peroxidase.
+We are attempting to modulate the expression of CuZn-superoxide dismutase (CuZn-SOD) and catalase.
+experimental JBR cells were found that the production is more pronounced in superoxide levels of mouse
+embryos. We propose that the growth-stimulating effect of oxidants is more pronounced in primordial clones of
+JBR cells with higher levels of Cu-Zn-SOD and CAT by transfection with expression vectors containing
+the SOD and CAT genes, respectively. The JBR cells were transfected with a vector containing SOD-DNA in the antisense orientation. These cell
+lines exhibited increased resistance to oxidative stress and enhanced antioxidant defense capacity. We are being
+more modular oxidants and thus, we’re limiting our properties may generate a cellular prooxidant
+state by a variety of mechanisms. The evidence that loss of enzymes activity was
+due to an increase in superoxide levels. In JBR cells this loss of enzymes activity was
+associated with the steady-state concentration of SOD mRNA. The observed decrease in
+SOD and CAT genes is being studied as part of the reprogramming of gene expression after cell death in
+mouse by CAT.
+
+Introduction
+
+Oxidants are toxic to most cells. They inflict damage
+on several targets, more importantly DNA, lipids, and
+proteins. The deleterious effects of oxidants are an
+important determinant of aging and a variety of human
+diseases. 
+
+It is well known that the body has evolved a complex
+antioxidant defense system to protect against oxidative
+damage. This system includes both enzymatic and non-
+enzymatic components. Enzymatic antioxidants include
+superoxide dismutase (SOD), catalase (CAT), glutathione
+peroxidase (GPx), and glutathione reductase (GR). Non-
+enzymatic antioxidants include vitamins E and C,
+glutathione, carotenoids, and various metal chelators.
+
+Oxidants can also act as signaling molecules in a
+variety of cellular processes. Oxidants are involved in
+the regulation of gene expression, cell proliferation, and
+differentiation. In some cases, oxidants may even
+promote apoptosis. 
+
+The following section alternates tumorigenesis (1-4). The following
+section promotes tumorigenesis (1-4). Oxidants and cellular proaction
+often signal alterations in damaging selective
+processes. Signal transduction pathways involving activation
+of protein kinases, such as mitogen-activated protein
+kinase (MAPK), are involved in the regulation of gene
+expression (5, 6). The MAPK pathway is a heterogenous
+group of serine/threonine kinases that transduce signals
+from cell surface receptors to the nucleus, where they
+regulate the activity of transcription factors. Activation
+of MAPK can lead to increased expression of immediate-
+early genes, such as c-fos and fibronectin (7). 
+
+We have been studying the role of oxidants in the
+regulation of gene expression in mouse primordial germ
+cells (PGCs) (8). PGCs are a specialized population of
+embryonic cells that give rise to sperm and eggs. These
+cells are initially located in the allantois, where they
+undergo a series of developmental events. During this
+period, PGCs become highly sensitive to oxidative stress.
+
+*To whom requests for reprints should be addressed at Department of
+Biological Chemistry, University of California, San Francisco, CA 94143.

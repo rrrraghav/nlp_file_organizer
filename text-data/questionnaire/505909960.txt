@@ -1,0 +1,51 @@
+Bellomy Research, Inc.
+
+108 CAMBRIDGE PLAZA DRIVE
+WINSTON-SALEM, N.C. 27104
+
+NAME:                                         ADDRESS:
+CITY:                                          PHONE: (_____)
+INTERVIEWER:
+
+(SPEAK TO MALES AND FEMALES 18-34)
+
+Hello, I’m _______ from Bellomy Research, Inc., a local marketing research company.
+I'd like to ask you a few questions.
+
+la. First of all, do you or does any member of your family work for…
+No Yes
+An advertising agency or marketing
+research company.................................  TERMINATE, ERASE
+A tobacco company............................... AND RE-USE.
+A food company...................................
+A beverage company..............................
+
+1b. Where do you work: (RECORD BELOW)
+
+2. What is your age? (RECORD BELOW)   CONTINUE ONLY IF AGE 18-34.
+                                                 TERMINATE ALL OTHER.
+
+3a. Which of the following products do you presently use? (READ LIST. CHECK AS MANY AS APPLY.)
+No Yes
+Fruit juices.......................................
+Carbonated soft drinks..........................
+Coffee............................................
+Cigarettes........................................  CONTINUE ONLY IF SMOKE.
+Tea...............................................
+
+3b. Have you ever participated in any research projects on cigarettes where you went to a test center and smoked cigarettes?
+Yes............................................. TERMINATE
+No.............................................. IN REVIEW
+3c. Have you participated in any AA/S group discussions about cigarettes during the past 12 months?
+Yes............................................. TERMINATE
+No..............................................
+
+clear enough?
+
+
+
+Job #87188
+August, 1987
+
+BIOBEHAVIORAL “PILOT” STUDY
+SCREENING QUESTIONNAIRE

@@ -1,0 +1,36 @@
+Attachment I
+
+PETS QDA DEFINITIONS (Visitors)
+
+FIRST PAGE
+
+IMPACT ---------------Total sensation felt at initial exposure, overall sensation.
+
+STALE ---------------Lingering old odors, closed up house.
+
+HAY ---------------The smell of hay in barn loft (not freshly cut nor rotting).
+
+SWEET ---------------Sweet Aroma.
+
+CARMEL ---------------The smell of Burned Sugar, Candy, Butterscotch, Bakery.
+
+SPICY ---------------The smell of Cloves, Cinnamon or Ginger.
+
+WOOD SMOKE ---------------The smell of Wood Smoke, Woody.
+
+NASAL IRRITATION ------The sensations felt in the nose of a non-odorous nature, irritation or itchy sensations.
+
+
+
+SECOND PAGE
+
+ODOR QUALITY --------How you rate the acceptance of the quality of the odor of the smoke. Try not to include any sensations of irritation or strength.
+
+ODOR INTENSITY -------How you rate the acceptance of the intensity of the odor of the smoke. Try not to include odor quality.
+
+OVERALL ----------Rate your overall acceptance of smoke. Include all sensations including odor quality, odor intensity and eye/nose irritation.
+
+
+
+PETS/DEF - visitor definitions - revised 9/22/87
+50&37 2528

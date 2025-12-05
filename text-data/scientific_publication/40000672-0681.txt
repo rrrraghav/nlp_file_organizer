@@ -1,0 +1,24 @@
+46
+
+Mapping of Immunogenic
+Determinants of Human CD4 Using Chimeric
+Interspecies Molecules and Anti-CD4
+Antibodies¹
+
+Pila Estess
+Sharon L. Salmon
+Margaret A. Weinberg
+Vernon C. Li
+David Baltimore
+
+Becton Dickinson Monoclonal Center, Mountain View, California 94090
+
+I. Introduction
+
+The CD4 (Leu3/T4) lymphocyte antigen, expressed on helper T cells and macrophages, appears to be involved in restriction of antigen reactive T cells to class II bearing antigen presenting cells and is in fact mediate that restriction (reviewed in [1]). Antibodies to human CD4 (L3T4) have been successfully used to treat murine autoimmune disease [1,2][7] [28]. In addition, anti-L3T4 antibodies can be administered to humans, resulting in antigen specific tolerance [6]. Such treatments may have implications for human autoimmune disease and transplantation therapies. In most model systems, a single rat monoclonal anti-CD4 antibody (GK1.1) has been utilized. In considering similar in vivo applications in primates and humans, it may be important to use anti-CD4 antibodies that are as closely as possible equivalent with respect to reactivity with the equivalent region(s) of the human CD4 molecule.
+
+A particular interest in human CD4 epitopes stems from its role as the receptor for HIV [11, 12]. The binding of HIV to CD4 has suggested an adoptive vaccine strategy utilizing anti-CD4 antibodies as immunogens (reviewed in [29]). Administration of a single anti-CD4 monoclonal antibody (or antibody) may generate anti-idiotypic responses capable of neutralizing HIV and preventing infection. In theory, this approach would be applicable to multiple HIV isolates since the CD4 binding site on gp120 is conserved [30]. Identification of an HIV-CD4 binding site with an epitope conserved [31]. Identification of an HIV-CD4 binding site would be an initial step in developing such a vaccine. The identification would be facilitated by such a strategy. Cross-linking studies have partitioned anti-CD4 antibodies into multiple epitope clusters [21,22], but strict interference between two epitopes is difficult to verify because regions of the primary sequence cannot be distinguished from their flanking regions or overlapping epitopes. We have circumvented this problem by using recombinant human CD4 (rhCD4) [32] ([15] blocking studies by generating a bacterial recombination system with human and mouse CD4 clones [15, 33]. The chimeric CD4 molecules were designed to contain both human and mouse sequences.
+
+¹ Supported by grants AI-28679 and AI-28680 from the National Institute of Allergy and Infectious Diseases, National Institutes of Health.
+² Present address: Department of Microbiology, University of Washington, Seattle, Washington 98105.
+³ Recipient of a Special Fellowship Award from The American Federation for Clinical Immunology.

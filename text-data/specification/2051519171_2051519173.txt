@@ -1,0 +1,68 @@
+MATERIAL SAFETY DATA SHEET MSDS # 005967
+
+This material safety data sheet complies with OSHA’s Hazard Communication Standard,
+29CFR 1910.1200. If any item is not applicable, or no information is available, the
+space is marked to indicate that.
+
+IDENTITY (As Used on Label and List) 45126 CLAIR S.S. WEATHERSTRIP CEMENT
+
+SECTION I
+
+Manufacturer’s Name: MIDWEST GENERAL CORPORATION
+Address: 20630 Harper Avenue, Suite 109 Harper Woods.MI 48225
+Emergency Telephone Number: 800-424-9300
+Telephone Number for Information: (313) 881-2340
+Date Prepared: June 18, 1990
+Signature of Preparer (optional):
+
+SECTION II – HAZARDOUS INGREDIENTS/IDENTITY INFORMATION
+
+Hazardous Components SARA III
+(Specific Chemical Identity/ SECTION 313 APPROX. % V/V
+Common Name(s)) OSHA PEL ACGIH TLV (OPTIONAL)
+Toluene 100 ppm 100 ppm * 10-15
+N-Hexane 50 ppm 50 ppm * 35-40
+Acetone 750 ppm 750 ppm * 35-40
+Other Hexane Isomers 500 ppm 500 ppm * 750
+
+SECTION III – PHYSICAL/CHEMICAL CHARACTERISTICS
+
+Boiling Point (760 mmHg): 156°F Specific Gravity (water=1): .82-.84
+Vapor Pressure (mmHg): 135 Melting Point: NA
+Vapor Density (air=1): 2.6 Evaporation Rate: 6.4
+(Butyl Acetate=1)
+Solubility in Water: Negligible
+Appearance and Odor: Yellow liquid, hexane odor.
+
+SECTION IV – FIRE AND EXPLOSION HAZARD DATA
+
+Flash Point (Method Used): -9.6°F (TCC) Explosive Limits: LEL-1% UEL-12.0%
+Extinguishing Media: Regular foam or carbon dioxide or dry chemical.
+
+Special Fire Fighting Procedures: Wear self-contained breathing apparatus with a full
+facepiece operated in pressure-demand or other positive pressure mode when fighting fires.
+
+Unusual Fire and Explosion Hazards: Vapors are heavier than air and may travel along
+the ground or may be moved by ventilation and ignited by pilot lights, other flames,
+sparks, heaters, smoking, electrical motors, static discharge, or other ignition sources.
+Containers may explode when heated. Use water spray to cool fire exposed containers.
+Take precautions when moving vehicles involved in a fire; if possible, move them to a safe
+location.
+
+SECTION V – REACTIVITY DATA
+
+Stability: Stable under normal conditions.
+
+Conditions to Avoid: Excessive heat, sparks, open flame, strong oxidizers.
+
+Hazardous Decomposition Products: Carbon monoxide, carbon dioxide.
+
+SECTION VI – HEALTH HAZARD DATA
+
+Eye Contact: Causes severe eye irritation or damage.
+Skin Contact: May cause skin irritation. Prolonged contact may defat the skin and cause dermatitis.
+Inhalation: Excessive inhalation of vapors may cause dizziness, headache, nausea, and respiratory tract irritation.
+Ingestion: May cause gastrointestinal distress.
+
+
+

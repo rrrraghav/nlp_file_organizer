@@ -1,0 +1,39 @@
+RJR AMES TEST DATA SHEET
+
+TEST ARTICLE: IMPERIALE ABSOLUTE
+
+Submitted By:
+
+Dates Tested: 8/23/79
+
+Notebook Pages: 318046-97
+
+Solvent: DMSO
+
+Comments: N.P. % TOP AZAR, READ AT 4.4 MMes, VISCOUS LIQUID,
+AT 2.5 ul TURNED Milky IN TUBE; AT 25ul DID NOT mix.
+
+S-9_D
+
+S-9 Lot
+
+Dose Average # of Revertants/Plate
+
+
+
+16 (µg/ml) TA 1535 TA 1537 TA 1538 TA 98 TA 100
+.025 13+3.5 45+3.1 13+3.6 20+4.4 130+13.7
+.05   11+2.7 44+1.2 9+3.4 15+1.5 138+11.4
+.125  12+3.6 45+1.1 11+3.1 20+5.4 147+10.5
+.25   10+3.1 45+1.6 11+3.1 18+5.7 149+9.1
+.5     9+3.5 37+1.1 7+1.5 16+1.4 98+7.1
+2.5 DID NOT DISSOLVE. - DID NOT DISSOLVE. -
+
+
+
+Additional Comments: TOXIC
+insol. at 2.5 ul
+
+Page of Pages
+
+5051 9593

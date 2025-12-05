@@ -1,0 +1,33 @@
+PRINT TIME 10/10 '01 13:32 ID: LORILLARD LEGAL DEPT'S
+
+*** TRANSMISSION REPORT ***
+
+D- FILE START MODE LOCATION STORE TX TOTAL CODE
+No. No. TIME PAGE PAGE TIME
+00 496 10/10 13:30 TX 912155212997 6 0 01'45" OK
+
+REM. RELAY GROUP No.
+COPY
+
+
+
+Lorillard
+TOBACCO COMPANY
+
+
+
+
+Fax
+
+To: Barry Hirsch, Esq. From: Ronald S. Millstein
+Fax: (212) 521-2997 Date: October 10, 2001
+Phone: Fax: 336-335-7707 Tel: 336-335-7716
+Re: Attached Pages: 6
+
+☐ Urgent ☐ For Review ☐ Please Comment ☐ Please Reply ☐ Please Recycle
+
+
+
+Comments: I have approved this. Bob Jones will be sending you a copy for your
+
+9938209

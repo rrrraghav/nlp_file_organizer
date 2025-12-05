@@ -1,0 +1,99 @@
+MSDS# 00107
+
+The state CHEMICAL MANUFACTURING CO.
+DISTRIBUTION CENTER: 2901 N.W. 36th Street, Oklahoma City, OK 73116
+
+I. MATERIAL SAFETY DATA SHEET
+
+A formulated aerosol
+Name W-15 Type spray
+
+D.O.T. Consumer Commodity
+
+Shipping Name:
+
+Hazard Class: ORM-D
+
+ID No. N/A Label Required None
+
+II. HAZARDOUS INGREDIENTS
+
+INGREDIENT % WEIGHT PPM
+1,1,1-Trichloroethane (C2H3Cl3) 65% 54,000 ppm
+Propane (CAS# 74-98-3) 20% 16,000 ppm
+Butane (CAS# 106-97-8) 10% 8,000 ppm
+Isopentane (CAS# 513-31-8) 5% 4,000 ppm
+
+This product contains Propane, 1,1,1-Trichloroethane, Butane
+and Isopentane. This material is regulated under the requirements
+of the Federal and State laws of the Surface Transportation
+Act of 1966.
+
+VII. PHYSICAL DATA
+
+Boiling Point (F) -40°F to 724°F Specific Gravity (Water = 1) 0.9
+
+Volatile By Weight (%) 90 Weight Per Gallon: (Pounds) N/A
+Solubility in Water N/A pH N/A
+
+III. APPEARANCE & Odor A - white aerosol spray with a
+mild, pleasant odor.
+
+IV. FIRE & EXPLOSION HAZARD
+
+Flash Point (Closed Cup): 180°F  Lower Explosion Limit: 2% Upper Explosion Limit: 10%
+
+Extinguishing Media: Use dry chemical, carbon dioxide, or foam. Water may spread fire.
+
+V. SPECIAL HAZARDS ARISING FROM THE SUBSTANCE OR MIXTURE
+Special Fire Fighting Procedures: Cool containers with water spray. Evacuate personnel from area. Wear self-contained breathing apparatus and full protective clothing.
+
+VI. REACTIVITY DATA
+
+STABLE
+
+Conditions To Avoid: Excessive temperatures above 120°F
+Exposure to open flames.
+
+INCOMPATIBILITY: Avoid strong oxidizers, strong
+caustic, chemically active light metals. May
+affect some plastics.
+
+Hazardous Decomposition Products: During fire this product may
+result in the formation of HCl, Phosgene and
+Carbon Dioxide.
+
+HAZARDOUS POLYMERIZATION WILL NOT OCCUR.
+
+VII. SPILL OR LEAK PROCEDURES
+
+Steps To Be Taken If Material Is Released Or Spilled Remove
+sources of ignition. Ventilate area. Absorb on soil absorbent. Put into container.
+Dispose as hazardous waste.
+
+Waste Disposal Method Follow all Federal, State and
+Local regulations regarding waste disposal. Do not
+pour to sewer or soak into cans. Give to a disposal
+service equipped to handle and dispose of
+hazardous materials. Dispose as hazardous waste in accordance with EPA/state laws.
+
+VIII. SPECIAL PROTECTION INFORMATION
+
+Eye & Face Protection: Wear safety glasses or goggles where eye contact may occur.
+
+Respiratory Protection: Use mechanical ventilation or respiratory protection when handling this product.
+
+Ventilation: Provide adequate ventilation.
+
+Gloves: Wear chemical resistant gloves.
+
+IX. FIRST AID MEASURES
+
+Eye Contact: Flush with water for 15 minutes. Get medical attention.
+Skin Contact: Wash with soap and water.
+Inhalation: Remove to fresh air. If not breathing, administer artificial respiration. Get medical attention.
+Ingestion: Do not induce vomiting. Get medical attention immediately.
+
+X. DISCLAIMER
+
+The information contained herein is based on data available at the time of preparation. However, we do not guarantee that it is absolutely complete or accurate. Valued recipients are advised to conduct their own investigations and assessments for proper usage and handling of this product.

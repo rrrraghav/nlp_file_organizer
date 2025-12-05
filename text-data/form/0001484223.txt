@@ -1,0 +1,31 @@
+INGREDIENT EVALUATION DATA
+List No. 171                                    02/04/91.
+
+ID.          Name             [Es No; des; [/ ] [FEMA No. & Class] DOE No.  DFR References - Regulatory status on next line
+26337   2-Pentyrridine    [89:92-5,4/9-4] [FEMA No:3383 Class:2] DOE No:1142 CFR Ref:FDA02015
+
+
+
+Action Approval
+4/30/91: For us @ 50 PPM
+as is add’tive
+4/27/91: Reconfirmed after
+detailed review
+
+
+
+
+
+APPLICATION: Flavor
+
+SMOKE : Contributor   Noncontributor
+
+COMMENTS: Not on industry list.  Not on NTP List.
+Present at <500 PPM in flavor which is applied at < 100 PPM.
+
+
+
+Countries monitored:
+AMER, AUSt, BELG, CAIS, EIRI, FRIN, GERM, HOO, IREL, ITAL, JAPA, PORT, SPAl, SwED, SWIT,
+
+                                                                        605125825

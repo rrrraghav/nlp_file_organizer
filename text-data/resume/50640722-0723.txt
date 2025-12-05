@@ -1,0 +1,44 @@
+Principal Investigator/Program Director (Last, first, middle);
+
+BIOGRAPHICAL SKETCH
+
+Give the following information for the key personal and consultants and collaborators. Begin with the principal investigator/program director. Photocopy this page for each person.
+
+NAME POSITION TITLE
+Thomas Jue Associate Professor
+
+EDUCATION (Begin with baccalaureate or other initial professional education, such as nursing, and include postdoctoral training.)
+
+INSTITUTION AND LOCATION DEGREE YEAR FIELD OF STUDY
+University of California, Berkeley BA 1971 English
+California State University, Hayward BA 1977 Chemistry
+University of California, Davis PhD 1983 Chemistry
+
+RESEARCH AND PROFESSIONAL EXPERIENCE: Consulting with present position list, in chronological order, previous employment, experience, and honors. Key personal include the principal investigator and any other individuals who participate in the scientific development or execution of the project. Individuals typically will include all individuals with doctoral degrees; however, it is permissible to include individuals at the masters or baccalaureate level provided they contribute in a substantive way to the scientific development or execution of the project. Include present membership on any Federal Government public advisory committee. List, in chronological order, the titles and complete references to all publications during the past three years and to representative earlier publications pertinent to this application. DO NOT EXCEED TWO PAGES.
+
+PROFESSIONAL EXPERIENCE
+1982-83 Postgraduate Research Associate, Department of Chemistry, University of California, Davis
+1983-98 Associate Research Scientist, Molecular Biophysics & Biochemistry, Yale University
+1989-present Associate Professor, Department pf Biological Chemistry, University of California, Davis
+
+HONORS
+Graduate Opportunity Fellowship, University of California, Davis, 1980-81, 1981-82
+US Patent No. 4,678,995: Apparatus and Method for Determining the Presence of Substances in a Sample by NMR and Producing an NMR Image Therof.
+
+PUBLICATIONS (Most recent on top of 37)
+1. J. Bogan, T.S. and Jue, T. A computer controlled attenuator for indirect detection experiments. J. Mag. Reson. 14(1):43, 1986.
+2. J. Bogan, T.S., Wing, R.J. and Jue, T. A high-resolution in vivo NMR relaxation stain. J. Mag. Res. 71:532-538, 1987.
+3. Jue, T. A strategy to shift H and 13C-NMR spectra via selective transfer. J. Mag. Res. 71:539-542, 1987.
+4. Jue, T.S., Wing, R.J. and Jue, T.  "In vivo" 31P NMR using a circulating signal. J. Mag. Reson. 72:595-598, 1987.
+5. Jue, T.S.; Tweney, P.A.; Hutton, B.F.; and Jue, T.  Signal enhancement in indirect detection NMR using a circulating signal. J. Mag. Reson. 72:599-603, 1987.
+6. Jue, T.S.; Wing, R.J.; and Jue, T.  A method for measuring the apparent transverse relaxation time of phosphorus in vivo. Magn. Reson. Chem. 25:741-744, 1987.
+7. Jue, T.S.; Tweney, P.A.; Hutton, B.F.; and Jue, T.  Circulating signal enhancement in indirect detection NMR: theory and experimental verification. J. Mag. Reson. 75:237-246, 1988.
+8. Jue, T.S.; Wing, R.J.; and Jue, T.  "In vivo" measurement of phosphocreatine and ATP by NMR spectroscopy. Magn. Reson. Chem. 26:503-507, 1988.
+9. Jue, T.S.; Tweney, P.A.; Hutton, B.F.; and Jue, T.  Circulating signal enhancement in indirect detection NMR: application to the measurement of phosphorus metabolites in rat brain. J. Mag. Reson. 76:413-420, 1988.
+10. Jue, T.S.; Wing, R.J.; and Jue, T.  A method for measuring intracellular pH using 31P NMR spectroscopy. Magn. Reson. Chem. 26:753-757, 1988.
+
+REVIEW ARTICLES
+1. Jue, T.S. Phosphorus NMR Spectroscopy. In: Chemical and Biological Applications of Magnetic Resonance, edited by A. Gelman and R.W. Komberg, pp. 247-280, Plenum Press, New York, 1989.
+
+
+

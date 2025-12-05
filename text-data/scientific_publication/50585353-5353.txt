@@ -1,0 +1,53 @@
+TOXICOLOGY AND APPLIED PHARMACOLOGY 96, 132–139 (1988)
+
+Altered Exocrine Pancreatic Function in Rats Treated with Nicotine
+
+MICHAEL A. DUBICK*,† ROBBIN PALMER*, PAUL P. LAUL*, LARRY R. MORRILL*,
+and MICHAEL C. GEORGAS*‡
+
+*Enzymeology Research Laboratory, Department of Medicine, Veterans Administration Medical Center,
+Martinez, California 94553, and Department of Biological Chemistry and †Medicine,
+University of California, Davis, California 95616
+
+Received January 14, 1988; accepted June 29, 1988
+
+Altered Exocrine Pancreatic Function in Rats Treated with Nicotine. DUBICK, A.,
+PALMER, R., LAUL, P. P., MORRILL, L. R., and GEORGAS, M. C. (1988). Toxicol. Appl. Pharmo-
+col. 96, 132–139. The effects of nicotine were examined on exocrine pancreatic function. Adult male Sprague-Dawley rats received nicotine via a time-release pel-
+let at a rate of 1.05 mg/day for 3 weeks. At the end of the experimental period, it was observed
+that although nicotine did not affect total protein or DNA content, the activities of amylase,
+trypsin, and chymotrypsin in pancreatic homogenates from nicotine-treated rats were 51.3%,
+and 29.7% higher, respectively, than those of control animals. Levels of immunoreactive trypsinogen
+were significantly higher in pancreatic homogenates and serum from nicotine-treated rats as
+compared with controls. In addition, concentrations of mRNA encoding for pancreatic amy-
+lase were elevated in the pancreas of nicotine-treated rats compared to that in controls. In
+dispersed pancreatic acini isolated from nicotine-treated rats, basal secretion of amylase, trypin-
+ogen, and chymotrypsin was 34.6% higher than that observed in control acini. Stimulation with CCK-
+8 (100 pM), secretin (1 μM), and carbacol (7.4 μM) stimulation was also significantly higher.
+These data indicate that nicotine treatment, at levels comparable to those experienced in moderate
+cigarette smoking, increases the rate of digestive enzyme secretion in rat pancreas, as well as their
+basal and secretagogues-induced release. © 1988 Raven Press, Inc.
+
+Cigarette smoking is a well-recognized risk ever has not been identified, but could origi-
+factor in a number of conditions including nate from polymorphonuclear leukocytes
+pulmonary emphysema (Cartwright and Jaffé, (PMN), macrophages and monocytes, plate-
+1978; Elliott, 1983), coronary artery dis- lets, the enteric nervous system, or plasma
+ease (Hill et al., 1983), and arthritis (Siegel cells, all of which express chymotrypsinogen
+et al., 1985). Although Hill et al. (1983) have (Derouet et al., 1981; Weisszonis, 1983; Jon-
+attributed the increased risk of coronary dis- son et al., 1985). In addition to its role in
+ease to nicotine, the specific mechanisms by digestion, evidence suggests that chymotryp-
+which cigarette smoking contributes to these sinogen may also be involved in inflam-
+diseases are largely unknown. It is well matory events (e.g., tissue destruction) and
+established that cigarette smoke contains thou- tumor invasion (e.g., Weisszonis, 1983;
+sands of chemical constituents, many of which Jonsson et al., 1985).
+are toxic or carcinogenic. Nicotine, the prin- In recent years, there has been increasing
+cipal psychoactive agent in cigarette smoke, interest in the effects of nicotine on various
+has been shown to have a variety of physiolog- physiological processes. For example, nicoti-
+ical effects, including stimulation of the adre- ne stimulates insulin release (Saito et al.,
+nal glands and increased heart rate. In addi- 1984) and increases gastric acid secretion
+tion, nicotine has been shown to stimulate (Kruse et al., 1986). To further investigate
+the secretion of digestive enzymes from the the effects of nicotine on pancreatic function,
+pancreas (Dubick et al., 1987). The source we examined the exocrine pancreatic response
+of immunoreactive chymotrypsinogen in cir- to chronic nicotine treatment in rats.
+
+MATERIALS AND METHODS

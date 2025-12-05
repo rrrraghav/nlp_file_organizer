@@ -1,0 +1,68 @@
+MARKETING INFORMATION SYSTEMS, INC. #834087
+
+
+
+100 Sylvan Avenue January, 1987
+Englewood Cliffs, New Jersey 07632
+1-800-631-1626/201-541-6900
+
+PM BLUE AD/PACK EXTENDED USE TEST (Screener)
+
+Hello, I’m [NAME] of Marketing Information Systems. We're conducting an
+opinion survey today among people between the ages of 18 and 54 about various products
+used in the household and I’d like to ask a few questions. CARD 1 COL 1
+
+
+
+1. First of all, are you between the ages of 18 and 54? 7 -
+Yes.. ( ) No... ( )
+(THANK AND TERMINATE)
+
+2. And are you between 18 and 34 years of age, or between 35 and 54 years of age?
+18 - 34....... 8  >1
+35 - 54....... ( ) >2 (CHECK QUOTA)
+
+3. (RECORD, DO NOT ASK:)
+Male.................. 9  >1
+Female............... ( ) >2
+
+4. (RECORD, DO NOT ASK:)
+White................. 10 >1
+Black................ ( ) >2
+
+5. Next, I’m going to read you a list of products. For each one I read, please
+tell me if you yourself use the product. The first one is... (READ ENTIRE
+LIST ONE AT A TIME AND RECORD).
+
+Yes No
+Antacids............... 11 >1 ( )
+Aspirin................ ( ) >2 ( )
+Beer.................. ( ) >3 ( )
+Breakfast cereals...... ( ) >4 ( )
+Cigarettes............ ( ) >5 ( ) THANK AND TERMINATE
+Diet soda............. ( ) >6 ( )
+Frozen vegetables..... ( ) >7 ( )
+
+WHEN ASKING 0.6 AND/OR 0.8, PROBE FOR EXACT OCCUPATION. IF JOURNALISM, PUBLIC
+RELATIONS, ADVERTISING, OR MARKETING ANSWERED IN EITHER QUESTION, THANK RESPON-
+DENT AND TERMINATE.
+
+6. Since we’re talking to people all across the country, we’re interested in talking
+to a cross-section of people in different occupations. What is your occupation?
+
+(WRITE IN FULL TITLE)
+
+IF RESPONDENT GIVES A GENERAL OCCUPATION SUCH AS SALES OR MANUFACTURING, ASK:
+"What products are involved in your occupation?" (TERMINATE IF RESPONDENT ANSWERS
+CIGARETTES.)
+
+(WRITE IN PRODUCTS)
+
+7. Are you married? 12 -
+Yes.................. ( )
+No................... ( )  >1 ( )
+Prefer not to say..( ) >2 ( )
+
+
+
+2017092743

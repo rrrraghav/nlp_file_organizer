@@ -1,0 +1,41 @@
+A New Technique For Determining
+The pH Of Whole Tobacco Smoke
+
+A. J. Sensabaugh, Jr. and H. Cundiff
+Research Department, R. J. Reynolds Tobacco Company
+Winston-Salem, North Carolina, U.S.A.
+
+205081045
+
+To pH Meter
+Glass Reference
+Electrode Electrode
+Cambridge Filter
+Smoke Chamber
+To Smoking Machine
+
+A. Original Smoke Train
+
+Combination
+Electrode
+pH meter Recorder
+To Filters and Smoking Line
+
+B. Modified Smoke Train
+
+To pH Meter
+Glass Reference
+Electrode Electrode
+Cambridge Filter
+Smoke Chamber
+To Smoking Machine
+
+Modified Combination
+Electrode
+pH meter Recorder
+To Filters and Smoking Line
+
+The efforts to quantitate certain quality factors cigarette smoke that have been variously described as “bitter,” “pungent,” or “acid” have stimulated the search for comparatively simple methods of determining acidic or basic nature of the smoke. Although the definition of pH would seem to preclude its use in defining an aerosol system, it has been frequently reported in the literature. (1), (11) For example, described a method for determining the pH and buffering capacity of cigarette smoke using a cotton filter. Shmuk and Kollen-nik (13) reported pH values ranging from 6.0 to 8.5 for the smoke of various types of tobacco. Kobayashi, et al. (9), listed pH values for the smoke of Turkish, flue-cured, burley, and native Japanese tobaccos. Other work-ers (10, 12) have published pH values based on a simple performic acid extraction of the smoke condensate solution.
+
+From these studies, the smoke condensate from several varieties was collected in water and the pH of the resulting solution determined. The effect of the vapor phase of the smoke was minimized by leading it to the method of collecting the condensate. Although some care must be made upon analysis of smoke may be based on varying conditions. It is therefore important to provide a more standard-ized way to measure or correct for any variations in pH values.
+

@@ -1,0 +1,183 @@
+4486
+FILE COPY
+
+Impaired Hepatic Apolipoprotein B and E Translation
+in Streptozotocin Diabetic Rats
+
+James O. Schaeffer,’ David A. Zelen,* Charles E. Sparks,¹ Harold C. Smith,² and Edward A. Fisher³
+'Department of Pathology and Laboratory Medicine, University of Rochester, School of Medicine and Dentistry, Rochester, New York
+14642; ²Department of Physiology and Biochemistry, Medical College of Pennsylvania, Philadelphia, Pennsylvania 19129
+
+1982 ANNUAL REPORT
+
+Abstract
+
+Studies of streptozotocin-induced diabetes in rats have demon-
+strated that hepatic apo B mRNA levels are reduced. To
+determine if reductions are related to decreases in total liver
+RNA or altered processing of apo E and albumin mRNA, we
+compared apo B, apo E, and albumin cDNA probes. The expected
+reduction in albumin mRNA was observed; however, the
+decrease was later rat than those with apo B mRNA
+levels unchanged. The proportion of translational transcripts
+(BSTOP) was similar to control levels in diabetic rats.
+In vitro translation studies using rabbit reticulin lysates
+and immunoprecipitation demonstrated production of apo B
+and apo E proteins in livers from control and diabetic rats
+together with FR-1, FR-2, and 26K proteins. Control-phase diabetes
+suggested that the reduction in hepatic apo B mRNA
+secretion of apo A II augmented by primarly a result of
+impaired translation and not intracellular degradation. Ribo-
+some scanning defects caused the reduced incorporation
+of labeled amino acids into apo E mRNA in diabetic rats. Apo
+B mRNA processing was normal. The BSTOP is primarily con-
+stituted of 3’ noncoding sequences, which are involved in
+termination of transcription. Apo B mRNA transcripts were
+reduced in livers from streptozotocin-induced diabetic rats.
+The reduced levels of apo B mRNA may be related to the
+decreased hepatic synthesis of VLDL and IDL.
+
+Introduction
+
+Apolipoprotein B (apo B) is a structural component of
+very low density lipoproteins (VLDL) and intermediate density
+lipoproteins (IDL) (1, 2). Apo B is synthesized as a single
+polypeptide chain that is subsequently glycosylated and
+modified to form VLDL and IDL. The apo B gene is large
+(approximately 300 kb) and contains the coding sequences
+for apo B-48 and apo B-100 (3). Apo B-48 is produced in
+the intestine, whereas apo B-100 is synthesized primarily
+in the liver (4). Apo E is a nonstructural component of VLDL,
+IDL, and high density lipoproteins (HDL) (5). Apo E plays an
+important role in lipid metabolism and clearance from plasma.
+The hepatic synthesis of both apo B and apo E is reduced in
+streptozotocin-induced diabetic rats (6, 7). The reduction in
+apo B synthesis may be related to decreased VLDL secretion
+(8, 9). Apo E levels are also reduced in diabetic rats (10).
+The mechanisms responsible for the reduced hepatic synthesis
+of apo B and apo E in diabetes are not completely under-
+stood. It has been suggested that the reduction in apo B pro-
+duction may be due to decreased transcription of the gene
+(11, 12) or impaired translation (13). Apo E levels are re-
+duced in diabetic rats, but the mechanisms responsible for
+this reduction are not known.
+
+Materials and Methods
+
+Animals
+
+Male Harlan Sprague-Dawley rats (250-300 g) were used
+in this study. Streptozotocin was administered intraperito-
+neally at a dose of 65 mg/kg. Control animals received an
+equal volume of saline. Blood glucose levels were measured
+daily by the glucose oxidase method. Diabetic rats were con-
+sidered to be diabetic when blood glucose levels exceeded
+250 mg/dl for 3 consecutive days.
+
+RNA Isolation and Blotting Procedures
+
+Total liver RNA was isolated from control and diabetic rats
+as previously described (14). RNA samples (20 ug) were
+subjected to electrophoresis on a 1.2% agarose gel con-
+taining formaldehyde. The RNA was transferred to nitrocel-
+lulose membranes by capillary transfer. The membranes were
+hybridized with cDNA probes for apo B, apo E, and albumin
+as previously described (15).
+
+In Vitro Translation
+
+Total liver RNA was isolated from control and diabetic rats
+as described above. In vitro translation was performed using
+rabbit reticulin lysates (16). Samples of total liver RNA (10
+ug) were incubated with 20 ul of rabbit reticulin lysate con-
+taining [35S]methionine (1,000 Ci/mmol; Amersham Corp.,
+Arlington Heights, IL). After a 45-min incubation at 37°C,
+the reaction mixtures were treated with RNase A (2 ug/ml)
+for 30 min. The translation products were immunoprecipi-
+tated with rabbit antibodies against apo B and apo E as
+previously described (17). Immunoprecipitated proteins
+were analyzed by SDS-PAGE and autoradiography.
+
+Results
+
+Hepatic Apo B mRNA Levels are Reduced in Diabetic Rats
+
+Total liver RNA was isolated from control and diabetic rats
+and subjected to electrophoresis on a 1.2% agarose gel con-
+taining formaldehyde. The RNA was transferred to nitrocel-
+lulose membranes and hybridized with cDNA probes for apo
+B, apo E, and albumin (Fig. 1A). Apo B mRNA levels were
+reduced in livers from diabetic rats compared to control rats.
+The reduction in apo B mRNA levels occurred later than the
+reduction in albumin mRNA levels.
+
+BSTOP Analysis
+
+The proportion of translational transcripts (BSTOP) was sim-
+ilar in control and diabetic rats (Fig. 1B). The BSTOP is
+primarily constituted of 3’ noncoding sequences, which are
+involved in termination of transcription.
+
+In Vitro Translation Studies
+
+In vitro translation studies using rabbit reticulin lysates dem-
+onstrated production of apo B and apo E proteins in livers
+from control and diabetic rats (Fig. 2). Apo B mRNA transla-
+tion was reduced in livers from streptozotocin-induced dia-
+betic rats. The reduction in apo B mRNA translation may be
+related to the decreased hepatic synthesis of VLDL and IDL.
+
+Discussion
+
+The results of this study demonstrate that hepatic apo B mRNA
+levels are reduced in streptozotocin-induced diabetic rats.
+The reduction in apo B mRNA levels occurred later than the
+reduction in albumin mRNA levels. The proportion of transla-
+tional transcripts (BSTOP) was similar in control and dia-
+betic rats. In vitro translation studies using rabbit reticulin
+lysates demonstrated production of apo B and apo E pro-
+teins in livers from control and diabetic rats. Apo B mRNA
+translation was reduced in livers from streptozotocin-induced
+diabetic rats. The reduction in apo B mRNA translation may
+be related to the decreased hepatic synthesis of VLDL and
+IDL.
+
+The reduction in hepatic apo B mRNA levels in diabetic rats
+may be due to a decrease in transcription of the gene or im-
+paired processing of the mRNA. The results of this study sug-
+gest that the reduction in apo B mRNA levels is related to
+impaired translation rather than decreased transcription. This
+conclusion is based on the observation that the proportion of
+translational transcripts (BSTOP) was similar in control and
+diabetic rats.
+
+The reduced incorporation of labeled amino acids into apo E
+mRNA in diabetic rats suggests that ribosome scanning de-
+fects may be responsible for the impaired translation of apo
+E mRNA. Ribosome scanning is an important step in the ini-
+tiation of protein synthesis. It involves the binding of the ri-
+bosome to the mRNA and the subsequent scanning of the
+mRNA until a start codon is encountered. Defects in ribo-
+some scanning can lead to reduced translation of specific
+mRNAs.
+
+The impaired hepatic apo B and E translation may be re-
+lated to the decreased VLDL secretion observed in diabetic
+rats. VLDL are synthesized primarily in the liver and trans-
+ported to the periphery via the circulation. The reduction in
+VLDL secretion in diabetic rats may be due to a decrease in
+the synthesis of apo B and apo E, which are essential com-
+ponents of VLDL.
+
+The results of this study provide new insights into the mech-
+anisms responsible for the reduced hepatic synthesis of apo
+B and apo E in streptozotocin-induced diabetic rats. The re-
+duction in apo B mRNA translation may be related to ribo-
+some scanning defects or impaired processing of the mRNA.
+
+References
+
+1.  Frederickson, R. G., et al. 1972. Circulation 45:803.
+2.  Havel, R. J., et al. 1972. J. Lipid Res. 13:617.
+3.  Brown, A. L., et al. 1982. Cell 29:745.
+4.  Kraemer, W. B., et al. 1978. J

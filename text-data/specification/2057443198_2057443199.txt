@@ -1,0 +1,62 @@
+MATERIAL SAFETY DATA SHEET
+
+Hach Company
+Technical Support
+P.O. Box 907
+Ames, Iowa 50010
+MSDS # 03491
+(Revue)
+BELGIUM
+HACH
+WORLD HEADQUARTERS
+P.O. Box 389 Loveland, Colorado 80539 U.S.A.
+BASF/NUMUR
+
+CAT. NO. 20847
+CAS NO. 7727-21-1
+FORMULA K₂S₂O₈
+I. PRODUCT IDENTIFICATION
+TRADE NAME Potassium Persulfate Powder for Phosphonate
+CHEMICAL NAME Peroxydisulfuric Acid, Dipotassium Salt
+CHEMICAL FAMILY oxidizing agent
+II. INGREDIENTS
+INGREDIENT % TWA CAS NUMBER NATURE OF HAZARD ACRA NO. Ref.
+Potassium persulfate 100 2mg/m³ 7727-21-1 strong oxidizer none 3
+M³ moderately toxic 9
+
+III. PHYSICAL DATA
+Solid x Appearance and Odor Solubility in Water Solubility in Acid
+Liquid white, odorless crystals soluble Not determined
+Boiling Pt. Melting Pt. dec. 100°C Vapor Pressure (mmHg) Vapor Density (Air = 1)
+Not applicable Not applicable Not applicable
+Specific Gravity 2.48 pH aq. soln. > acidic Not Corrosive Not determined
+Evaporation Rate Not applicable Flammability: Not determined
+IV. FIRE and EXPLOSION HAZARD DATA
+Flash Point Not applicable Method Used: Flammability: Lower NA Upper NA
+Heating Shock Sensitivity Fire Front Auto Ignition Point
+None None ND Not determined
+Extinguishing Media: Water x CO₂ Foam Dry chemical Other:
+Unusual Fire and Explosion Hazards fire risk in contact with organic materials 9
+V. HEALTH HAZARD DATA
+Acute Toxicity Spontaneously toxic II. ROUTE OF INHALATION, ingestion Ref.
+NFPA
+HAZARDS Eyes Skin Respiratory Tract Target Organs
+0 3 X  X  X  X  X  X  X  X  X  X
+Personal Protection: Eye Goggles, Gloves, Respirator, Protective Clothing
+Effects of Acute Exposure: May cause irritation to eyes, skin and respiratory tract.
+Effects of Chronic Exposure: No data available
+Carcinogenicity: NTP? No IARC? No OSHA? No
+VI. FIRST AID MEASURES
+Eye Contact: Flush with water for 15 minutes. Get medical attention.
+Skin Contact: Wash with soap and water.
+Inhalation: Remove to fresh air. If not breathing, give artificial respiration.
+Ingestion: Do not induce vomiting. Get medical attention immediately.
+VII. SPILL or LEAK PROCEDURES
+Small Spills: Sweep up and place in a suitable container for disposal.
+Large Spills: Flush with water. Prevent from entering sewers or waterways.
+VIII. HANDLING and STORAGE
+Store in a cool, dry, well-ventilated area away from incompatible materials. Keep containers tightly closed.
+IX. ADDITIONAL INFORMATION
+This material is classified as an oxidizer and may cause fire if mixed with combustible materials.
+2US74ASTM198
+Hach Company certifies that this Material Safety Data Sheet contains accurate information to the best of our knowledge. However, we do not accept liability for any injury or loss caused by misuse of this product.

@@ -1,0 +1,50 @@
+JAPCA 36:413-417 (1990)
+
+A Comparative Study of Environmental Tobacco Smoke Particulate Mass Measurements in an Environment Chamber
+
+Body: L. J. Iregbreeßen, Donald L. Heisler, Anthony L. Angel, James M. Gurley, Thomas A. Stischke, and C. R. Green
+U.S. EPA, Research Triangle Park, North Carolina
+
+Particulate mass concentrations have been made on environmental tobacco smoke (ETS) to assess the relative accuracy of several measurement techniques in an environment chamber. Measurements were obtained by three methods: nephelometry, a gravimetric/spectrophotometric procedure, and particle counting. Two nephelometers were used; one was calibrated with aerosolized polystyrene latex spheres and the other was not. The average mass concentrations determined by each method were compared to those achieved by emitting one entire cigarette in the chamber. Statistical comparisons were made among procedures employing the gravimetric/spectrophotometric method, the nephelometer methods, and particle counts. The nephelometers gave significantly lower values than the filter determination. In one case, a correction factor was applied to the nephelometry-based procedure to bring it into agreement with the filter measurement. The particle counter measurements were also low compared with the filter measurement. It is concluded that nephelometry cannot be used for quantitative ETS monitoring without careful calibration. Furthermore, the response of an uncalibrated nephelometer varies considerably. A comparison of gravimetric/spectrophotometric and particle-counting methods showed good agreement. It is believed that the results obtained by the gravimetric/spectrophotometric procedure are most reliable.
+
+Significant errors can be introduced if nephelometry is used as a sole means for ETS monitoring. The use of aerosolized polystyrene latex spheres to calibrate a nephelometer improves its accuracy. A comparison of particle counting and filter determination showed good agreement, but particle counters underestimate mass concentrations. It is recommended that gravimetric/spectrophotometric procedures be used when quantitative measurements are required.
+
+The purpose of this study was to evaluate the relative accuracy of several techniques for measuring particulate mass concentrations in an environment chamber. The techniques evaluated were nephelometry, a gravimetric/spectrophotometric procedure, and particle counting.
+
+Materials and Methods
+Environment Chamber: A 10 m³ stainless steel environment chamber was used for all experiments. The chamber was located in a temperature-controlled room.
+
+Nephelometry: Two TSI Model 300A nephelometers were used to measure light scattering by particulate matter. One nephelometer was calibrated with aerosolized polystyrene latex spheres (Dow Chemical Co., Midland, MI) and the other was not. The calibration procedure followed that described previously (Heisler et al., 1986).
+
+Gravimetric/Spectrophotometric Procedure: Air samples were drawn through a series of filters at a constant flow rate. The filters were weighed before and after exposure to ETS. The mass concentrations were determined by subtracting the initial filter weight from the final filter weight and dividing by the volume of air sampled. Filter color was measured using a spectrophotometer (Perkin-Elmer Lambda 2).
+
+Particle Counting: A TSI Model 3306 particle counter was used to measure the number of particles in each size range. The data were corrected for background particle concentrations.
+
+Cigarette Smoking Procedure: For each measurement, one person
+STH
+207
+577
+
+experiment smoked a cigarette releasing smoke into the chamber through an opening in the wall. The smoker inhaled and exhaled normally, simulating mainstream smoke (MS-SM). The smoking rate (puff volume and puff frequency) was 30 mL/puff at 2 puffs/s. Each puff lasted for approximately 6 s. Two puffs were one puff profile used to simulate inhalation and exhalation pattern. The cigarette was smoked until it burned out. All experiments were performed and the concentrations were recorded every 15 s. The burning time of a cigarette is about 8 min. One experiment included a background (10 mL smoke-free air) for 30 min, followed by one cigarette smoking in the chamber. The average particulate mass concentration was determined using a TSI Model 146 particle size analyzer. Particle number concentrations were recorded at 2.5 μg/m³ and 10 μg/m³. Filter background readings were taken to correct for filter weight changes due to ETS exposure. The background filter readings were subtracted from the final filter weights.
+
+Results
+The results of the particulate mass measurements are shown in Table 1. The gravimetric/spectrophotometric procedure gave higher values than the nephelometry-based procedure and particle counting. The uncalibrated nephelometer gave significantly lower values than the calibrated nephelometer. The difference between the two nephelometers was approximately a factor of 2.
+
+The average particulate mass concentration determined by the gravimetric/spectrophotometric procedure was 14 μg/m³. The average particulate mass concentration determined by the calibrated nephelometer was 7 μg/m³. The average particulate mass concentration determined by the uncalibrated nephelometer was 4 μg/m³. The average particulate mass concentration determined by particle counting was 12 μg/m³.
+
+Discussion
+The results of this study show that nephelometry cannot be used for quantitative ETS monitoring without careful calibration. The use of aerosolized polystyrene latex spheres to calibrate a nephelometer improves its accuracy. The particle counter underestimates mass concentrations. It is recommended that gravimetric/spectrophotometric procedures be used when quantitative measurements are required.
+
+The difference between the gravimetric/spectrophotometric procedure and the calibrated nephelometer may be due to differences in the collection efficiency of the filters and the nephelometer. The filter collection efficiency depends on particle size and shape, while the nephelometer response depends on particle size, shape, and refractive index.
+
+The difference between the calibrated nephelometer and the particle counter may be due to differences in the sensitivity of the two instruments. The nephelometer is more sensitive to small particles than the particle counter.
+
+The uncalibrated nephelometer gave significantly lower values than the calibrated nephelometer. This is because the uncalibrated nephelometer was not corrected for background light scattering.
+
+Conclusions
+Nephelometry cannot be used for quantitative ETS monitoring without careful calibration. The use of aerosolized polystyrene latex spheres to calibrate a nephelometer improves its accuracy. Particle counters underestimate mass concentrations. It is recommended that gravimetric/spectrophotometric procedures be used when quantitative measurements are required.
+
+References
+Heisler, D. L., Angel, A. L., and Green, C. R. (1986) An improved method for measuring particulate matter in environmental tobacco smoke. JAPCA 35: 1074-1078.
+
+[End of Image Text]

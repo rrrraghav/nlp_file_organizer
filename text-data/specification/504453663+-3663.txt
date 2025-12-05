@@ -1,0 +1,87 @@
+PHYSICAL TEST VARIABLES
+TOBACCO ANALYSIS
+1978
+Nov.
+SIEVE
+6 mesh
+4.68 5.11 4.80 4.80
+10 mesh
+23.31 28.21 27.10 27.10
+Long Strands, %
+29.99 31.35 32.50 32.50
+16 mesh
+27.28 25.13 24.92 26.92
+20 mesh
+25.50 23.82 21.11 23.37
+Midlengths, %
+53.78 52.26 53.13 53.13
+28 mesh
+9.06 9.42 10.31 10.31
+Pan
+3.19 3.58 3.50 3.50
+Fines, %
+12.27 13.40 13.81 13.81
+STEMS
+SPD, %
+G-5, %
+NO NO NO No
+Total, % SPD/GS
+Coarse, % SPD/GS
+
+CHEMICAL TEST VARIABLES
+
+SMOKE
+Butt Length, mm.
+35 35 35 35
+Number puffs/cig.
+9.6 8.8 7.7 7.7
+Nicotine, mg/cig.
+0.83 0.80 0.66 0.66
+Nicotine, mg/puff
+0.09 0.09 0.09 0.09
+FTC "Tar", mg/cig.
+13.6 13.2 11.8 11.8
+FTC "Tar", mg/puff
+1.5 1.4 1.0 1.0
+CO, me/cig.
+16.3 11.3 9.6 9.6
+NO, ug/cig.
+188 218 153 153
+Menthol, mg/cig.
+( )
+pH, unit
+5.7 5.6 6.0 6.0
+Acetaldehyde, ug/cig.
+926 806 660 660
+Formaldehyde, ug/cig.
+318 276 242 242
+Total phenols, ug/cig.
+25.1 23.1 21.1 21.1
+
+PHENOL XYLEN
+Test, T.F.P.
+Plastic Xylene
+I. Phenol, ug
+II. o-Cresol, ug
+III. m-Cresol, ug
+IV. p-Cresol, ug
+V. Xylenols, ug
+VI. Guaiacol, ug
+VII. Catechol, ug
+VIII. Resin, mg
+
+Moisture, %
+2.10 2.10 2.10 2.10
+Total alkaloids, %
+1.34 1.29 1.18 1.18
+Reducing sugars, %
+0.41 0.37 0.35 0.35
+
+WATER SOLUBLE SUBSTANCES
+
+Moisture, %
+2.10 2.10 2.10 2.10
+Total solids, %
+97.90 97.90 97.90 97.90
+Water soluble matter, %
+13.45 13.45 13.45 13.45

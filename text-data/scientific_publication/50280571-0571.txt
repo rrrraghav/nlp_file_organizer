@@ -1,0 +1,56 @@
+000/9554/126/0325582.00/0
+DRUG METABOLISM AND DISPOSITION Vol. 12, No. 6
+Copyright © 1984 by The American Society for Pharmacology and Experimental Therapeutics Printed in U.S.A.
+
+EVIDENCE OF STEREOSPECIFICITY IN THE *IN VIVO* METHYLATION OF [¹⁴C(]-α)-NICOTINE IN THE GUINEA PIG
+
+K. C. CUNDY, C. S. GODIN, and P. A. CROOKS
+College of Pharmacy, Division of Medicinal Chemistry and Pharmacognosy, University of Kentucky
+(Received April 4, 1984; accepted June 16, 1984)
+
+ABSTRACT:
+
+In vivo metabolism of [¹⁴C]-α-nicotine to N-methylnicotin in the guinea pig appears to be a stereospecific bio transformation, involv-
+ing only the R+ isomer. The detection and quantification of urinary radiolabeled nicotine metabolites after ip injection of either [¹⁴C]-α-nicotine or [²H₃]-nicotine was carried out on an HPLC cation-exchange system. Utilizing the recently discovered phenomenon of differential enantiomeric association, the stereo-
+
+chemistry of the methylation pathway was determined. Significant differences in the tissue distribution of ¹⁴C label from [¹⁴C]-α-]
+vs. [²H₃]-nicotine-treated animals were observed 24 hr after
+administration. An unidentified metabolite with high affinity on cation-exchange chromatography, was detected as a metabolite of [¹⁴C]-α-nicotine, but was not observed as a metabolite of [²H₃]-nicotine.
+
+The metabolic transformation of the tobacco alkaloid nicotine has been extensively studied in recent years (1–4) and various analytical systems have been utilized in the identification and quantification of nicotine metabolites. Most of these analytical systems have utilized GC/MS (5–9) and, more recently, GLC-mass spectrometric techniques (8–10). While these methods of analysis are sensitive and reliable procedures that can be used to deter-
+mine the formation and disposition of nicotine in biological fluids (10), they suffer from a major disadvantage in that only relatively nonpolar, volatile components can usually be analyzed with
+
+nicotine utilizing cation-exchange high performance liquid chro-
+matography, a method of analysis which allows the determina-
+tion of both polar and nonpolar metabolites, and which is ideally suited for the identification and quantification of charged, quater-
+nary ammonium compounds. Our current communication ex-
+amines the formation and quantification of methylated metabo-
+lites in the urine of guinea pigs to whom [¹⁴C]-α-nicotine had been administered. These data are discussed in relation to the stereochemical specificity of nicotine methylation.
+
+Materials and Methods
+Animals and Compounds: Male SPF specific pathogen free) guinea pigs (250 ± 25 g) were obtained from Charles River Co. (Wilmington, MA). [¹⁴C]-α-nicotine (specific activity, 38 mCi/mmol) was synthesized as described previously (11). [²H₃]-Nicotine was purchased from Merck Sharp & Dohme, Ltd. (Haarlem, The Netherlands). All compounds were dissolved in sterile saline for injection.
+
+Experimental Design: Guinea pigs were divided into three groups of four animals each. Group 1 received a single ip injection of 2 mg/kg [¹⁴C]-α-nicotine. Group 2 received a single ip injection of 2 mg/kg [²H₃]-nicotine. Group 3 consisted of control animals that received an ip injection of sterile saline. Urine was collected at 24 hr postinjection.
+
+HPLC Cation-Exchange Analysis: Urinary metabolites were analyzed by reversed-phase HPLC utilizing a cation-exchange column (Ultrasphere DEAO, 5 μm, 10 × 250 mm; Beckman Instruments, Fullerton, CA). The mobile phase consisted of a gradient of acetonitrile in 0.1 M ammonium acetate buffer, pH 3.0. The flow rate was 1 ml/min. Radioactivity was detected by passing the eluent through a flow-proportional counter (Beckman Model LSX/2000). Peak areas were recorded and compared between groups.
+
+Results:
+
+The tissue distribution of [¹⁴C]-α-nicotine in the guinea pig after 24 hr is shown in Table 1. Significant differences were observed in the relative amounts of radioactivity found in various tissues from animals treated with [¹⁴C]-α-nicotine versus those treated with [²H₃]-nicotine. Specifically, the liver and kidney contained significantly more radioactivity per gram tissue in the [¹⁴C]-α-nicotine group than in the [²H₃]-nicotine group (p < 0.05).
+
+Figure 1 shows a representative HPLC cation-exchange chromatogram of urinary metabolites from a guinea pig treated with [¹⁴C]-α-nicotine. A peak corresponding to N-methylnicotin was observed at approximately 14 min. An unidentified metabolite, designated “X,” exhibited high affinity for the cation-exchange resin and eluted later in the gradient. This metabolite was detected only in the urine of animals treated with [¹⁴C]-α-nicotine and was not observed in the urine of animals treated with [²H₃]-nicotine or saline.
+
+Discussion:
+
+The results presented here demonstrate that the metabolism of [¹⁴C]-α-nicotine in the guinea pig is stereospecific, involving only the R+ isomer. The differences in tissue distribution of ¹⁴C label between [¹⁴C]-α- and [²H₃]-nicotine-treated animals suggest that the two isomers are metabolized by different pathways.
+
+The identification of an unidentified metabolite “X” which is unique to the [¹⁴C]-α-nicotine group, provides further evidence for stereospecificity in nicotine metabolism. The high affinity of this metabolite for the cation-exchange resin suggests that it is a highly polar, quaternary ammonium compound.
+
+(Figure 1)
+(Table 1)
+
+References:
+(List of references follows)
+
+
+

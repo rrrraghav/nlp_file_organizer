@@ -1,0 +1,19 @@
+PHILIP MORRIS U.S.A.
+
+INTER-OFFICE CORRESPONDENCE
+
+Richmond, Virginia
+
+To: R. R. Izac Date: April 11, 1991
+
+From: S. Drew D. Drew
+
+Subject: The Application of Tobacco Solubles to Bright Base Web Using Two Different Methods
+
+Introduction
+
+The reconstituted leaf (RL) and impaction trapped cigarette smoke condensate (IT CSC) are standard materials used in analytical and biological tobacco research. Tobacco solubles, from the cross over process, are sprayed on base web (BW) to produce the RL filler. The RL filler is made into model cigarettes and smoked to produce IT CSC. Various BCR research studies involve the modification of the burley solubles applied to the BW. Treatment of the tobacco solubles may cause changes in sample consistency. A change in sample consistency can make spraying solubles on BW difficult or impossible. An alternate method of applying tobacco solubles to BW would ensure the evaluation of modified tobacco solubles not suitable for spraying. In this study bright (Br) BW was soaked or sprayed with BuS1, tobacco solubles to determine the efficiency, accuracy, and reliability of soaking BrBW versus spraying BrBW to produce model fillers.
+
+Methods
+
+Burley S1 (BuS1) was applied to BrBW by either the conventional spray method or by soaking. To produce a soaked sample, BuS1 was poured over the BrBW and stirred with a spatula until all of the sample was absorbed. The BrBW on which the BuS1 was sprayed was rotated during application. Reconstituted solutions of BuS1 were applied to different batch sizes of BrBW filler. Sample stock concentrations ranged from 0.52 to 0.95 g/mL. The target range for solids in each model filter was 45%. Treated fillers were air dried and equilibrated in a conditioned laboratory (70°F RH) for a minimum of 24 hours. After air drying, model filters were crushed to eliminate clumps, made into cigarettes and smoked. Replicate smokings were conducted in experiments #3 and #4. Each cigarette weighed approximately 1.0 gram. The IT CSCs from the treated fillers were made into 10mg/mL DMSO stock solutions and submitted for Salmonella (S/M) testing (1:2). To reduce the number of test plates in experiment #4, the 15.0 gram soaked and sprayed C batch samples were not tested in the S/M assay (2). Samples were stored at -80°C prior to testing. Model fillers were submitted to ARD for analysis.

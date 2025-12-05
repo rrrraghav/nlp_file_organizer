@@ -1,0 +1,71 @@
+Carcinogenesis, Vol. 3, No. 5, pp. 513–536, 1982
+
+Sequential 2-acetylaminofluorene – phenobarbital exposure induces a cytosolic aldehyde dehydrogenase during rat hepatocarcinogenesis
+
+Bibb Allen and Ronald Lindahl'
+
+Biochemistry Program, and Developmental Biology Section, Department of Biology, The University of Alabama, University, AL 35486, USA.
+
+(Received on 31 December 1981; accepted on 5 March 1982)
+
+Abstract
+
+A significant change in hepatic aldehyde dehydrogenase activity has been observed in Sprague-Dawley rats during the promotion phase of hepatocarcinogenesis induced by treatment using dietary 2-acetylaminofluorene (2-AAF) followed by exposure using various phenobarbital (PB). Rats possessing only 2-AAF or PB do not possess this new aldehyde dehydrogenase activity. The phenotype is characterized by the appearance of a cytosolic isoenzyme kinetically, electrophoretically and immunochemically distinct from all other normal rat aldehyde dehydrogenase isozymes and from aldehyde dehydrogenases inducible in 2-AAF induced hepatomas. The new isoenzyme is NAD-dependent, displays broad substrate specificity and occurs in several lines of rats by PB. However, the population of animals in which it has been observed is heterogeneous with respect to aldehyde dehydrogenase induction by dietary PB. Since no other study involving PB has previously noted this isozyme, the appearance may signify a truly new inducible form. The results suggest that 2-AAF and PB exposure can induce a cytosolic aldehyde dehydrogenase during rat hepatocarcinogenesis.
+
+Introduction
+
+Aldehyde dehydrogenases (ALDH) are a family of enzymes which catalyze the reversible oxidation of aldehydes to corresponding carboxylic acids (1, 2). Mammals possess at least three isozymes found in mitochondrial micro and/or microsomal fractions (4,7). These isozymes can be differentiated on the basis of substrate and coenzyme preference, substrate Km, immunochemical properties and sensitivity to inhibitors.
+
+In addition to these basal isozymes, several aldehyde de hydrogenases can be induced by various xenobiotics in normal liver (8–14). Among these are two very effective promoters of hepatocarcinogenesis, phenobarbital (PB) and 2,3,7,8-tetrachlorodibenzo-p-dioxin (TCDD), PB induces a cytosolic aldehyde dehydrogenase in certain genetically defined lines and certain strains of rats (8–10, 13). A second cytosolic isozyme inducible by TCDD is found in both responsive and non-responsive lines (11–13). Although the tumor aldehyde dehydrogenase isozymes differ in a number of properties from the TCDD-inducible isozymes, the TCDD-inducible form is immunochemically identical to at least one of the tumor isozymes (15). Neither the tumor nor TCDD-inducible isozymes are related to the PB inducible isozyme (11, 15).
+
+Maximal induction of aldehyde dehydrogenase activity oc curs within 3 days of PB exposure and within 14 days following TCDD exposure (8, 11). In as much as some of the hepatomas possessing the tumor aldehyde dehydrogenases have been induced by a treatment protocol employing 2-AAF as a primary agent, and at least one tumor isozyme is TCDD inducible, it has been difficult to determine whether it was of interest to determine when the tumor aldehyde de hydrogenase phenotype first detectable during the tumor induction process. To this end we began an experiment utilizing rats exposed to 2-AAF followed by PB to examine the appearance of a new cytosolic aldehyde dehydrogenase activity.
+
+Materials and Methods
+
+Animals
+
+Male Sprague-Dawley rats (Charles River) were used in all experiments. Animals were housed in individual metabolic cages and fed ad libitum a casein-based diet (16). The experimental design is shown in Figure 1. Group A consisted of rats receiving only 2-AAF in the diet. Group B consisted of rats receiving PB in the diet. Group C consisted of rats receiving 2-AAF followed by PB. All animals were killed at various times after initiation of PB exposure.
+
+Chemicals
+
+2-Acetylaminofluorene was obtained from Sigma Chemical Co., St. Louis, Missouri. Phenobarbital was obtained from Merck & Co., Rahway, New Jersey.
+
+Aldehyde Dehydrogenase Assay
+
+Aldehyde dehydrogenase activity was measured using the method described by Nakane et al. (17) with modifications (18). The assay mixture contained 0.1 M Tris-HCl buffer pH 7.4, 0.2 mM NAD+, and 0.1 unit of horseradish peroxidase. Substrates used were acetaldehyde, propionaldehyde, butanal, crotonaldehyde and 2-methylbutanal. Protein concentrations were determined by the method of Ouchterlony (19).
+
+Immunochemical Studies
+
+Cytosolic fractions were prepared from rat liver homogenates as described previously (18). Immunological studies were performed using antisera raised against normal rat liver aldehyde dehydrogenase, TCDD inducible aldehyde dehydrogenase and hepatoma aldehyde dehydrogenase.
+
+Results
+
+A new cytosolic aldehyde dehydrogenase activity appears in rats exposed to 2-AAF followed by PB (Group C) (Figure 2). This activity is not observed in animals receiving only 2-AAF (Group A) or only PB (Group B). The appearance of the new isoenzyme occurs between 14 and 28 days after initiation of PB exposure.
+
+The new aldehyde dehydrogenase is kinetically distinct from all other rat liver aldehyde dehydrogenases (Figure 3). It displays broad substrate specificity, utilizing acetaldehyde, propionaldehyde, butanal, crotonaldehyde and 2-methylbutanal as substrates. The Km values for these substrates are similar to those of the PB inducible cytosolic aldehyde dehydrogenase (8).
+
+The new aldehyde dehydrogenase is electrophoretically distinct from all other rat liver aldehyde dehydrogenases (Figure 4). It migrates at approximately 50 kd on SDS gels. Immunochemical studies indicate that the new isoenzyme is immunochemically distinct from normal rat liver aldehyde dehydrogenase, TCDD inducible aldehyde dehydrogenase and hepatoma aldehyde dehydrogenase (Figure 5).
+
+Discussion
+
+The appearance of a new cytosolic aldehyde dehydrogenase activity in rats exposed to 2-AAF followed by PB suggests that this treatment protocol induces a truly new inducible form. The phenotype is kinetically, electrophoretically and immunochemically distinct from all other rat liver aldehyde dehydrogenases.
+
+The induction of this new isoenzyme may be important in the process of hepatocarcinogenesis. Aldehyde dehydrogenases play an important role in detoxifying reactive aldehydes which are produced during lipid peroxidation (20). The appearance of a new aldehyde dehydrogenase activity may represent an attempt by the cell to protect itself from these toxic metabolites.
+
+Further studies are needed to characterize this new aldehyde dehydrogenase isoenzyme and to determine its role in hepatocarcinogenesis.
+
+Acknowledgements
+
+This work was supported by National Cancer Institute Grant CA 29417.
+
+References
+
+1.  Bell, B. A., & Yetman, R. L. (1976). Aldehyde dehydrogenases. Advances in Enzymology, 48, 235–289.
+2.  Nakane, Y., Bell, B. A., & Yetman, R. L. (1976). Purification and characterization of aldehyde dehydrogenase from rat liver. The Journal of Biological Chemistry, 251, 4079–4086.
+3.  Poole, J. K., & Harrison, D. J. (1977). Distribution of aldehyde dehydrogenases in mammalian tissues. Biochemical Journal, 143, 1–8.
+4.  Bell, B. A., Nakane, Y., & Yetman, R. L. (1976). Properties of aldehyde dehydrogenase from rabbit liver. The Journal of Biological Chemistry, 251, 4087–4094.
+5.  Lindahl, R., & Håkansson, M. (1976). Induction of hepatic aldehyde dehydrogenases by phenobarbital and other xenobiotics in the rat. Biochemical Biophysical Research Communications, 73, 121–128.
+6.  Poland, A., Glover, E. C., & Scheffey, M. (1975). Tumorigenic effects of 2,3,7,8-tetrachlorodibenzo-p-dioxin in the F344 rat. Cancer Research, 35, 2680–2686.
+7.  Bell, B. A., & Yetman, R. L. (1978). Aldehyde dehydrogenases. Federation Proceedings, 37, 2372–2377.
+8.  Lindahl, R., Håkansson, M., & Lindström, J. (1976). Induction of a cytosolic aldehyde dehydrogenase in rat liver by phenobarbital and 2,3,7,8-tetrachlorodibenzo-p-dioxin. Biochemical Biophysical Research Communications, 74, 105–112.
+9.  Håkansson, M., Lindahl, R., & Lindström, J. (1977). Genetic and strain differences in the induction of hepatic aldehyde dehydrogenases by phenobarbital. Biochemical Genetics, 

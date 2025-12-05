@@ -1,0 +1,70 @@
+THE DATA GROUP INCORPORATED
+Executive Plan
+Elkins Park, Pa. 19117
+
+Study #6067
+October, 1979
+1-4
+5-
+Questionnaire #
+Brand
+Age
+Sex
+Amount Smoked
+
+(ASK TO SPEAK TO NAMED INDIVIDUAL.)
+Good morning/afternoon/evening. I’m Mr. _______ calling long distance from The Data Group in Philadelphia.
+We are conducting a survey to determine your opinions about certain products, and we would like to ask you a few questions about them. (ASK RESPONDENT TO GET THEIR NOTE SHEET, IF HANDY.) (GO DIRECTLY TO Q. A)
+
+A. About how many packs of each product number did you use, smoke? (DO NOT READ LIST)
+
+
+
+PRODUCT #351	PRODUCT #
+None (did not smoke any) 1
+Less than a pack 2
+1 or 2 packs 3
+3 or 4 packs (all) 4
+
+(IF RESPONDENT SAID "NONE" OF BOTH PRODUCTS, ASK Q. B.)
+(IF RESPONDENT SMOKED “NONE” OF ONLY ONE PRODUCT, SKIP TO Q. C)
+(IF RESPONDENT SMOKED “AT LEAST SOME” OF BOTH PRODUCTS, SKIP TO Q. 1)
+
+B. Why didn’t you smoke the cigarettes we sent to you? (DO NOT READ LIST)	C. Why didn't you smoke the [READ PRODUCT NOT SMOKED]? (DO NOT READ LIST)
+Product didn’t arrive 1	Misplaced cigarettes 1
+Misplaced cigarettes 2	No interest 2
+Cigarettes arrived damaged 3	Other (SPECIFY) 3
+Terminate No interest 4	Other (SPECIFY) 5
+(T-B)		(T-C)
+
+Didn’t have the time 6
+Wasn't home 7
+Was sick 8
+Other (SPECIFY) 9
+
+SKIP Q. D	ASK Q. D
+
+Didn’t have the time 1
+Wasn't home 2
+Was sick 3
+Other (SPECIFY) 4
+
+D. Since we would very much like to get your opinions about both of the products we have sent to you, may
+you call us back in a day or two after you have had a chance to try both products?
+
+ASK Q. D	Yes
+Terminate	No
+
+E. When would be the best day to reach you?
+Would [INSERT DAY OF WEEK] be a good day for you, please?
+
+TIME OF CALL BACK: A.M. P.M.
+F. If we called you tomorrow, would that be a good time?
+
+G. (IF RESPONDENT IS UNDER 21 YEARS OF AGE) MAY I ASK YOU IF YOU ARE OVER 18 YEARS OLD?
+
+H. (IF RESPONDENT IS NOT A CURRENT SMOKER) AT WHAT TIME DID YOU STOP SMOKING? DAY? MO.? YEAR?
+
+I. THANK YOU FOR YOUR COOPERATION. HAVE A NICE DAY!
+
+0424-354

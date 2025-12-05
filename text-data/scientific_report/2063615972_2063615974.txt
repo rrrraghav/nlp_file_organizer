@@ -1,0 +1,49 @@
+CHARGE NUMBER:                                    6906
+
+PROGRAM TITLE:                                  BIOLOGICAL EFFECTS OF SMOKE
+
+PERIOD COVERED:                                 May 1-31, 1981
+
+PROJECT LEADER:                                R. A. Pages
+
+WRITTEN BY:                                     H. H. Tickle
+
+DATE OF REPORT:                                June 9, 1981
+
+An annual report was issued during this period.¹
+
+YEAST MITOTIC GENE CONVERSION ASSAY (with 6908)²
+
+To confirm and extend the results reported last month³,
+twelve base fractions were tested in duplicate and their specific
+activities were compared to the measured levels of 2-amino-α-carboline
+(2AC), harman, and norharman. The results showed a correlation between
+2AC concentration and base fraction activity (r = 0.738, p<0.01). Experi-
+ments are planned to determine if 2AC is active in this assay.
+
+In the above experiments, a 2RI base fraction prepared with
+the use of ether gave a linear dose response at doses similar to a 2RI
+IT CSC (0.2-0.6 mg/plate).³ Because earlier experiments had shown that
+base fractions prepared by the ether method were active at much lower
+doses (<0.1 mg/plate)⁴, an experiment was conducted to retest IT CSC
+base fractions (including one from 2RI) which had been prepared by the
+ether extraction and stored at -80°C for more than a year.⁵ The results
+showed that the old base fractions were active in the previously observed
+low dose range. Additional experiments are planned to investigate the
+discrepancy between the activities of the old and new 2RI base fractions.
+
+2. L5178Y THYMINE KINASE MUTATION ASSAY⁶,⁷
+
+The results of several experiments conducted this month
+indicated that the cloning efficiency (CE) problem is not a reflection
+of the variation observed in the assay. Additional intensive efforts
+are in progress to investigate the cause(s) of the CE problem.
+
+3. BHK CELL TRANSFORMATION ASSAY⁸
+
+Final work on the assay was completed with the issuance of
+a completion report.⁹
+
+
+
+210651977

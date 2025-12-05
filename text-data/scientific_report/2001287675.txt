@@ -1,0 +1,18 @@
+PROJECT NUMBER: 0400
+PROJECT TITLE: Low Density Rod Development
+PROJECT LEADER: R. S. Mullins
+PERIOD COVERED: October, 1987
+
+LOW DENSITY ROD
+
+A. Objective: Develop a continuous process for the production of reduced density cigarettes.
+
+B. Results: Efforts this month have concentrated on starting up the new tipper installed on the low density rod cigarette maker. Since the tipper was obtained from the warehouse, considerable time has been required to identify and correct storage-related problems such as missing or frozen parts. In addition, several changes had to be made to configure the tipper for production of cigarettes in the desired wrapper size and rod weight. The softness of the low density cigarette rods required that the tipper be adjusted more precisely to minimize the need to “push” the rods into alignment. Thus far, the longest continuous run made on the tipper was 1/2 hour in duration during which 50 mg light cigarettes were produced at a production rate of 100 cpm. Since the tipper now operates with a production well mechanically, development efforts are being directed towards the tipping of cigarettes having a 25% density reduction.
+
+The difference in firmness between conventional cigarettes containing coated (4 Genu L200) but uncorrected filler and cigarettes containing uncoated filler was found to be much greater than was predicted by the model based on the blend composition and the weight of the fillers, which had a CV of 0.73 oz/cpm. The control cigarette firmness was 0.63 mm, while the coated filler cigarette firmness was 0.82 mm. The model projected that the coated filler, which had a CV of 0.41 mm, would produce a cigarette firmness of 0.59 mm, an improvement of 0.43 mm. The measured firmness of the cigarettes produced with the coated filler was 0.22 mm, an improvement of 0.06 mm. This result might indicate that shred stiffness is a larger contributor than previously thought. Additional testing is planned to determine the reason for the discrepancy. Improved firms of bound filter construction at pin as a binder.
+
+C. Plans: Undertake an on-line tipping of bound cigarettes having a 25% density reduction. Identify and evaluate cigarette papers with low binding characteristics. Test the tipper’s ability to handle cigarettes with a lower density.
+
+
+
+200128F675

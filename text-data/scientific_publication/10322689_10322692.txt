@@ -1,0 +1,53 @@
+ANNAL N. Y. ACADEMY OF SCIENCES VOL. 72 ART. 12
+553-576 FEB 6, 1979
+
+MYOCARDIAL EFFICIENCY
+
+R. J. Bing and G. Michai
+
+Department of Medicine, Washington University School of Medicine and the Washington
+University Medical Service, Barnes Hospital, St. Louis, Mo.
+
+Faithful adherence to the topic of heart efficiency would lead to a discussion
+of dynamic events such as resistance, flow, and pressure. The following
+paragraphs, however, are restricted to a review of two factors that influence
+the calculation of myocardial efficiency: anaerobic metabolism (glycolysis)
+and oxygen consumption of the non-working heart. The final portions of the
+paper are devoted to a discussion of myocardial energy utilization.
+
+The efficiency of the heart can be determined by the ratio of the thermal
+equivalent of the work performed to the heat liberated. Therefore, it can
+be indirectly calculated by comparing the work performed with the latter
+oxygen usage. The former is synonymous with energy utilization; the latter
+represents total energy production.’ Determinations of myocardial efficiency
+from the oxygen consumption of the heart cannot be made unless one is sure
+that anaerobic glycolysis heart muscle is absent. An additional difficulty
+in the calculation of myocardial efficiency arises from the fact that these
+calculations are valid only so long as the energy produced, aside from being
+degraded into heat, is utilized exclusively for “useful” work.” This represents
+only the mechanical work expended by the heart in overcoming resistance to
+the systemic and pulmonary circulation and in imparting momentum to the
+blood stream. Therefore, a knowledge of the oxygen consumption of the heart
+is essential in the determination of myocardial efficiency.
+
+In the presence of constant external work, the efficiency of the beating heart
+depends to a large extent on the oxygen consumption of the resting organ.
+The distribution of coronary area has made it possible to study the
+metabolism of the heart in blood-let animals and in man.’ These studies
+have indicated that fatty acids furnish the greatest contribution to the total
+energy production of carbohydrates and fasting state, the relationship between
+the blood glucose and fat metabolism is not always clear. In adult dogs, total
+production is about 1 to 3%. The heart can use carbohydrate as a source of
+energy in general.* However, the bulk of utilization of the heart occurs; for
+example, carbohydrate glycolysis normally and fatty acids as neutral fats.
+The results of one study at a given time suggest that the heart is using
+no carbohydrates whatsoever.” This is not always the case, however, as
+other studies have shown that the heart can use glucose in considerable amounts
+when it is available.
+
+The metabolism of the non-working heart is also important in the calculation
+of myocardial efficiency. The oxygen consumption of the resting heart is about
+3 to 4 ml per kilogram per minute in the dog and approximately 5 to 6 ml
+per kilogram per minute in man. This value represents the energy required
+for maintaining the ionic balance across the cell membrane, for active transport
+processes, and for other metabolic activities.

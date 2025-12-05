@@ -1,0 +1,20 @@
+EFFICIENT LABORATORY EXPERIMENTS FOR TESTING THE MUTAGENICITY OF COMPOUNDS IN INDOOR AIR
+
+K. O. Bowman
+Mathematical Sciences Section
+Engineering Physics and Mathematics Division
+Oak Ridge National Laboratory
+P. O. Box 2008
+Oak Ridge, Tennessee 37831-6367
+
+Marvin A. Kastenbaum
+16933 Timber Lakes Drive, S.W.
+Fort Myers, Florida 33908
+
+FINAL REPORT TO CIAR
+
+Tables of sample sizes for determining the significance of mutation frequencies (1) have proved useful to geneticists who face the problem of testing the significance of observed increases in mutation frequencies. These tables were derived on the assumption that the observed number of mutations is a Poisson variable. More often than not, however, the reported number of mutations is, in fact, the sum of mutations observed in several replications of the same experiment. Such replication introduces additional variation (overdispersion), that is not accounted for if only the aggregate is considered in the analysis. This failure to account for such overdispersion affects the statistical analyses employed to determine the significance levels of differences between groups or experimental treatments. In particular, such deviations from the Poisson, together with the use of Poisson-based statistical tests can lead to an excess of “false positive” results. The ultimate objective of our CIAR-sponsored research is to provide a correction for the overdispersion in Poisson-based statistical tests, thereby reducing the Type I error rates.
+
+In pursuing this objective, we sought to characterize data sets by mathematical models that are more realistic than those generally encountered in the research literature. That is to say, we eschewed the simplistic assumptions of Poisson and binomial distributions in favor of “models” that might better characterize the observed data. Some of these "models" - the negative-binomial and the beta-binomial - are well-known to statisticians, and are often used by them. Yet, only rarely, if ever, are they to be found in the literature of practitioner-biologist. Others, such as the Pearson-type distributions, have been in the statistics literature
+
+20252433

@@ -1,0 +1,36 @@
+12mg/306
+
+Control is: 306
+CONTROL PROTOTYPE
+* PERFORMANCE 12mg
+FTC Tar, mg 15.8 12.1
+Tar/Puff, mg 1.56 1.37
+Nicotine, mg/cigt. 1.20 0.92
+CO, mg/cigt. 15.0 12.1
+Puffs/cigt. 10.1 8.8
+Total Cigarette RTD, mmH2O 109. 121.
+Cigarette Length, mm 84.4 84.0!!
+Static Burn Time, ms/main 57. 63.0
+Mass Burn Rate, mg/min 49. 58.
+Butt Length, mm 28. 28.
+
+* TOBACCO-ROD PROPERTIES
+Circumference, mm 24.9 24.8
+Wrapper Component Type cit cit
+Wrapper Component Percent 0.40 2.00
+Permeability, CORESTA (sec) 31.(16.) 46.(12.)
+Wt. of Tob., g 0.761 0.735
+Rod Density, g/cc .244 .238
+Rod Length, mm 63.5 63.0
+Cuts Per Inch 15. 15.
+Expanded Tobacco, % 14. 16.
+
+* FILTER PROPERTIES
+Filter Type CAT CAT
+Filter RTD, mm H2O 68. 85.
+Filter Length, mm 20.7 21.0
+Fiber Density 9.9 11.0
+Tiping Paper Len., mm 15. 15.
+Ventilation, % 28.0
+
+2051036345

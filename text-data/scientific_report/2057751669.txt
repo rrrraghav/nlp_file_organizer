@@ -1,0 +1,50 @@
+piahawg
+PRODUCT TESTING LABORATORY Philip Morris USA
+Preliminary Laboratory Averages Report Confidential
+
+Report Date: 02/23/95 3:16 PM Reported By: HUGHES, SANDRA
+Requestor: D9586-27 Date Submitted: 01/20/95
+Submiter: Barbara Monahan Date Received: 01/20/95
+Request Type: inn Date Completed:
+Activity: 4209 Approved By: NOT APPROVED
+
+Description.: 95-0269 - MERIT XS IMG LSS #4 (VENT/TCE) KS
+
+* DATA HAS NOT FINAL REVIEW/APPROVAL SUBJECT TO CHANGE
+
+Test Categories/Tests 95.BY.108 95.BY.108 95.C#3
+Smoke Result Result Result
+Suck Length, mm Rdy2test 1.1 1.0
+FTC Tar, mg/cigt. Rdy2setup 1.2 1.0
+FTC TPM, mg/cigt.  0.09 0.06
+FTC Nicotine, mg/cigt. 0.07 Complete
+FTC Pafta(s), mg/cigt.  0.05 6.6
+CO, mg/cigt. Rdy2setup Rdy2setup Rdy2setup
+NO, mg/cigt. Rdy2setup Rdy2setup Rdy2setup
+NCN, mg/cigt. Rdy2setup Rdy2setup Rdy2setup
+HCHO (Plug Out), mg/cigt. Rdy2setup Rdy2setup Rdy2setup
+RCHO, mg/cigt. Rdy2setup Rdy2setup Rdy2setup
+Water (Plug Out), mg/cigt.  0.2
+Tar Puff, mg
+Total RPD, mm of H2O 100 93
+Smoke Burn Time, min. 84.1 84.1 84.0
+Length, mm 24.85 24.0 24.0
+Paper 24.85 24.0 24.0
+Circumference, mm 3:16 Complete
+Filter
+Fill Density, CORESTA Unit. 2.5 2.6
+RD, mm of H2O 2.5 2.6
+Water Retention, mg 2.8 2.7
+Pressure Drop, mm of H2O Rdy2test 4.3 4.1
+Filter Mass, mg Rdy2setup 90.2 89.4
+Carbon Density, mg/g Rdy2setup Complete
+Rod Density, mg/g  Complete
+Total Diameter, mm Rdy2test 7.6 7.5
+Core (Dry), mm Rdy2test 1.3 1.3
+Overwrap (Dry), mm Rdy2test 0.2 0.2
+Binder (Dry), mm Rdy2test 0.2 0.2
+Vibration, mm Rdy2setup  Rdy2setup
+Pressure, mm of H2O Rdy2setup 23.8 24.1
+Filter Length, mm Rdy2test 16.7 16.5
+
+95-0269-50

@@ -1,0 +1,64 @@
+Proc. Natl. Acad. Sci. USA
+Vol. 90, pp. 4308–4310, May 1993
+Genetics
+
+General involvement of hypoxia-inducible factor 1 in transcriptional response to hypoxia
+
+GUANG L. WANG and GREGG L. SEMENZA
+
+Center for Molecular Genetics, Departments of Pediatrics and Medicine, The Johns Hopkins University School of Medicine, Baltimore, MD 21205
+
+Communicated by Victor A. McKusick, February 11, 1993
+
+ABSTRACT Transcription of the human erythropoietin (EPO) gene is activated in HepG3 cells exposed to hypoxia. Hypoxia-inducible factor 1 (HIF-1) is a nuclear factor whose DNA binding activity is induced by hypoxia in HepG3 cells, and HIF-1 binds at a site in the EPO gene enhancer that is required for hypoxic activation of transcription. In this paper, we demonstrate that HIF-1 DNA binding activity is also induced by hypoxia in a variety of mammalian cell lines in which the EPO gene is not transcribed. The composition of the HIF-1 DNA binding complex and its isolated Hif-1β subunit bind at the same sequence elements as do HIF-1 DNA binding activity produced by non-EPO-producing cells, suggesting that HIF-1 binding eliminates inducibility. These results provide evidence for a general mammalian cellular response to hypoxia.
+
+Cells sense maintan total extracellular and intracellular fluid volume balance. Hypoxia is one of the major stimuli regulating this balance. It is estimated that 2% of normal arterial oxygen saturation corresponds to an hypoxia condition in peripheral tissues (1). The response to hypoxia involves several mechanisms, including increased ventilation, circulatory adjustments, and stimulation of erythropoiesis. Erythropoietin (EPO) is a glycoprotein hormone that stimulates the production of red blood cells (2). EPO gene transcription is regulated by hypoxia (3-5), and this regulation appears to involve both positive and negative control elements (6, 7).
+
+We have previously shown that human erythroid cells contain a nuclear factor that binds to sequences in the EPO gene enhancer region and mediates transcriptional activation of the EPO gene in response to hypoxia (8). We have designated this factor as hypoxia-inducible factor 1 (HIF-1). HIF-1 is composed of two subunits, Hif-1α and Hif-1β (9). The Hif-1α subunit is rapidly degraded under normoxic conditions but is stabilized in hypoxic cells (10). The Hif-1β subunit is constitutively expressed.
+
+In this paper, we report that HIF-1 DNA binding activity is induced by hypoxia in HepG3 cells, a human hepatoma cell line that does not normally express the EPO gene. We show that HIF-1 binds to a specific sequence in the EPO gene enhancer and that this binding is required for hypoxic activation of transcription. We also demonstrate that HIF-1 DNA binding
+
+activity induced by hypoxia that binds specifically to the enhancer site 1 sequence but not to a mutant sequence containing a 3-nt substitution that eliminated enhancer function in transient expression assays. The Hif-1β subunit is established by transient expression and electrophoretic mobility shift assay (EMSA) (9), and it is conserved in the enhancer of the mouse EPO gene (10). Treatment of HepG3 cells with cycloheximide inhibited the hypoxic inducibility of HIF-1 DNA binding activity (9, 11). These results provided further evidence for the importance of HIF-1 in EPO gene transcriptional activation by hypoxia and suggested that induction of HIF-1 activity requires de novo protein synthesis.
+
+A growing number of other mammalian genes have been reported whose expression is induced by hypoxia (12-15). The molecular basis for induction has not been established for any of these genes, although induction of vascular endothelial growth factor RNA is inhibited by cycloheximide (14). To determine whether HIF-1 plays a general role in the transcriptional activation of gene expression in response to hypoxia, we examined the cells in which the EPO gene is not transcribed. We found that HIF-1 DNA binding activity, including Hif-1β subunit (16) and Hif-1α (9), is induced by hypoxia in HepG3 cells, NIH 3T3 fibroblasts, and embryonic kidney cells (HEK). The composition of the HIF-1 DNA binding complex and its isolated Hif-1β subunit bind at the same sequence elements as do HIF-1 DNA binding activity produced by non-EPO-producing cells. These results suggest that HIF-1 is a general regulator of gene expression in response to hypoxia.
+
+MATERIALS AND METHODS
+
+Cells: HepG3 cells were obtained from ATCC (Rockville, MD). NIH 3T3 fibroblasts and HEK cells were obtained as previously described (9). Cells were maintained in Dulbecco’s modified Eagle’s medium supplemented with 10% fetal bovine serum and antibiotics.
+
+Hypoxia: Cells were incubated in a hypoxic chamber containing 1% O2 for the times indicated. Oxygen levels were monitored by oxygen sensor.
+
+Nuclear Extracts: Nuclear extracts were prepared from cells exposed to hypoxia or normoxia as described previously (9).
+
+DNA Binding Assay: DNA binding assays were performed using gel shift assay as described previously (9). The consensus HIF-1 binding site is 5′-CCGNNNCG −3′. Oligonucleotides corresponding to the HIF-1 binding site in the EPO gene enhancer (HIF-1s) and a mutant version of this sequence (mutant HIF-1s) were synthesized.
+
+Results
+
+HIF-1 DNA Binding Activity Is Induced by Hypoxia in Non-EPO-Producing Cells
+
+To determine whether HIF-1 is involved in the transcriptional response to hypoxia in cells that do not normally express the EPO gene, we examined HepG3 cells, NIH 3T3 fibroblasts, and HEK cells for HIF-1 DNA binding activity. We found that HIF-1 DNA binding activity was induced by hypoxia in all three cell types (Fig. 1A). The level of HIF-1 DNA binding activity was higher in HepG3 cells than in NIH 3T3 or HEK cells.
+
+HIF-1 Binds to the Same Sequence Elements in EPO and Non-EPO Genes
+
+To determine whether HIF-1 binds to the same sequence elements in the EPO gene enhancer as it does in non-EPO genes, we performed DNA binding assays using oligonucleotides corresponding to the HIF-1 binding site in the EPO gene enhancer (HIF-1s) and a mutant version of this sequence (mutant HIF-1s). We found that HIF-1 bound specifically to the HIF-1s oligonucleotide in all three cell types (Fig. 1B). The binding was abolished by incubation with excess mutant HIF-1s oligonucleotide, indicating that the interaction was specific.
+
+DISCUSSION
+
+Our results demonstrate that HIF-1 DNA binding activity is induced by hypoxia in HepG3 cells, NIH 3T3 fibroblasts, and HEK cells. We also show that HIF-1 binds to the same sequence elements in the EPO gene enhancer as it does in non-EPO genes. These results suggest that HIF-1 is a general regulator of gene expression in response to hypoxia.
+
+The induction of HIF-1 DNA binding activity by hypoxia requires de novo protein synthesis (9, 11). This suggests that HIF-1 is regulated at the level of transcription or translation. The Hif-1α subunit is rapidly degraded under normoxic conditions but is stabilized in hypoxic cells (10). It is possible that the stabilization of Hif-1α is responsible for the induction of HIF-1 DNA binding activity by hypoxia.
+
+The fact that HIF-1 binds to the same sequence elements in the EPO gene enhancer as it does in non-EPO genes suggests that HIF-1 may play a role in the transcriptional regulation of other genes in response to hypoxia. Further studies are needed to identify these genes and to determine how HIF-1 regulates their expression.
+
+ACKNOWLEDGMENTS
+
+We thank Dr. Joan Massagué for providing the Hif-1β subunit antibody. This work was supported by National Institutes of Health grant HL43587.
+
+LITERATURE Cited
+
+1.  Severinghaus, J. W. 1974. Environ. Health Perspect. 10:27–36
+2.  Erythropoietin. 1986. In Handbook of Experimental Hematology, 2nd ed., edited by Goodman, M. and Hollingsworth, G. M. pp. 541–578. Martinus Nijhoff Publishing, The Hague.
+3.  Nowak, E. J., Bunn, H. F., Plumpton, J., Friedmann, T., and Root, A. W. 1986. Proc. Natl. Acad. Sci. USA 83:4275–4279.
+4.  Frank, P., Koerner, R., and Barton, N. H. 1987. DNA 6:207–214.
+5.  Crawford, T. B., Eaton, J. W., Ittleman, G., Berger, U., and Stark, J. R. 1988. Genes Dev. 2:1331–1338.
+6.  Frank, P., Koerner, R., and Barton, N. H. 1987. Nucleic Acids Res. 15:46

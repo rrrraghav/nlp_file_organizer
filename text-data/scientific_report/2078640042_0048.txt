@@ -1,0 +1,23 @@
+MS Methyl Ethyl Ketone
+
+y = -0.1263*x + 9.8929 x + 9.5607
+R² = 0.7449
+
+MA “tar” (mg/cig)
+
+More 120
+Newport 100 HP.M
+CamelReg NF
+Parliament
+VA Slim Sup S
+Dura U.I.T
+
+µg/cig
+250
+200
+150
+100
+50
+0
+2078640042
+MA_MS_RESULTS_A_090909.xls

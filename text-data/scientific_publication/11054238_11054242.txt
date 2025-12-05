@@ -1,0 +1,53 @@
+Proc. Natl. Acad. Sci. USA
+Vol. 91, No. 4093-4097, April 1994
+Biochemistry
+
+Avian erythroblastosis virus E26: Only one (myb) of two cell-derived coding regions is necessary for oncogenicity
+(leukemia/cooperating oncogenes)
+
+YUE WU and PETER DUESBERG*
+Department of Molecular and Cell Biology, Stanley Hall, University of California at Berkeley, Berkeley, CA 94720
+Contributed by Peter Duesberg, December 29, 1993
+
+ABSTRACT. The oncogene hypothesis postulates that mu-
+tated cellular genes, termed proto-oncogenes, function as cancer
+genes because they are related to retroviral onc genes. How-
+ever, most known retroviral onc genes and their cellular proto-
+genes from cancers are not sufficient for oncogenicity. There-
+fore, it has been proposed that mutated proto-oncogenes depend
+on other oncogenic factors for transformation. The sequence
+of viral avian leukosis virus E26 includes coding regions derived
+from two cellular genes: myb and a novel gene. It has
+hybrid gene has been proposed to be a model for two-
+step oncogenesis. Here we show that only the myb region is
+necessary. myb and Δmyb deletion mutants of cloned E26
+proviral DNA were constructed, and these recombinant viruses, pro-
+duced by transfected primary chicken embryo cells, were tested
+for leukemogenicity in newborn chicks. The Δmyb deletion mutant was just as leukemogenic as the wild-type
+virus and a myb deletion mutant lacked leukemogenicity.
+The results show that the Δmyb deletion mutant failed to
+transform chick embryo fibroblasts because it lacked a
+region necessary for transformation. By reverse transcrip-
+tion polymerase chain reaction (PCR) method, E26 from the
+leukemic chicks was detected in both the parental and
+the transformed cells. The presence of E26 DNA by
+gave a positive signal after amplification. E26 cDNA by the
+same procedure gave a positive signal. It is concluded that
+wild type and Δmyb region mutants of E26 can infect
+cells, forge and propagate in vivo. It is also shown that
+the myb and Δmyb region mutants of E26 can transform
+chick embryo fibroblasts in vitro. The results show that the
+myb gene is sufficient for transformation.
+
+Fig. 1. Genetic structures of E26 and the E26 myb
+and Δmyb deletion mutants. (A) Restriction map of the E26 myb
+deletion mutant, a prototype of cellular coding regions (see
+the text). The open boxes represent the myb and novel genes
+that are flanked by LTRs. The sizes of the restriction frag-
+ments are indicated in base pairs (bp). (B) Schematic represen-
+tation of the E26 provirus, showing the positions of the LTRs
+and the myb and novel genes. The arrows indicate the direction
+of transcription. (C) Genetic structure of the E26 Δmyb dele-
+tion mutant.
+
+5249

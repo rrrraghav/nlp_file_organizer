@@ -1,0 +1,11 @@
+27.OCT.98
+
+Portable Document Format (*.PDF) Files
+-- a proposed solution for electronic document
+exchange and management for WSA
+
+Mingda Zhang, Ph.D.
+
+WSA Meeting, Hong Kong, October 26, 1998
+
+2076630778

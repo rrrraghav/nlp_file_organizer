@@ -1,0 +1,19 @@
+TABLE III
+---------
+Comparison of Winston vs. Marlboro - Sidestream
+Two Sample t-test, alpha = 0.05
+
+85 mm pair	100 mm pair
+
+Nicotine	+	.
+Particulate Matter	+	.
+CO	+	.
+CO2	+	.
+NO	+	.
+Ammonia	+	.
+Benzo[a]pyrene	+	.
+"Total Smoke"	+	.
+
+
+
+50545.63/3

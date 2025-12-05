@@ -1,0 +1,49 @@
+Lactesene
+20% v/v
+N.S./Exp.# (or page) Date 9801/09/1D) 11-12-91 Enzymes: Batch# 2.2 ml of 9%/ml of six D.O.
+
+Sterility Checks: Total Inciner Plate Nutrient Agar Plate Machine Setup
+Overlay + "soft agar"
+Overlay + #9 Mix (0.5ml)
+Overlay + #9 Fraction (0.5ml)
+Overlay + TA100 Cells (0.5ml)
+Overlay + TA100 Cells (0.5ml)
+Overlay + E.O. (0.1ml)
+
+Salmonella Strain: -68 Mix +68 Mix
+Control Dose Corr Avg Corr Avg
+(%) (%) (%) (%)
+Overlay+ Cells 4.9 4.9 3.7 3.7
+DMSO 2.5 2.5 1.4 1.4
+DMSO + #9 Mix (0.5ml) 6.8 6.8 4.6 4.6
+DMSO + #9 Fraction (0.5ml) 4.9 4.9 3.7 3.7
+DMSO + TA100 Cells (0.5ml) 2.5 2.5 1.4 1.4
+DMSO + TA100 Cells (0.5ml) 6.8 6.8 4.6 4.6
+DMSO + E.O. (0.1ml) 4.9 4.9 3.7 3.7
+
+Sterility w/ Cells - < .59
+Sterility w/o Cells - < .59
+
+TA100 Stock
+Titer:
+Avg
+Response time:
+Amplicillin N.E.
+250 ug/ml 14 min raw
+RI value: 0.0
+
+TA100 Stock
+(%)
+A.V.
+M.
+Response time
+(min)
+3.7
+6.8 5.9 9.1
+.46 .45 4
+.46 .45 4
+.46 .45 4
+.46 .45 4
+.46 .45 4
+
+205614901

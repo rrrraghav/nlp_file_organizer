@@ -1,0 +1,45 @@
+WINONA RESEARCH, INC.
+1651 East Morten Avenue
+Phoenix, AZ 85020
+
+BHSS
+NO. 1602-40515
+JULY, 1984
+
+
+
+SCREENER
+
+
+
+
+NAME: TELEPHONE:( )
+ADDRESS:
+CITY: STATE: ZIP CODE:
+INT. NAME/NUMBER: DATE:
+
+
+
+Hello, I’m calling long distance from Winona Research, a national
+opinion research company in Phoenix, Arizona. We would like to interview (SOMEONE)
+(A MAN) (A WOMAN) in your household.
+
+la. But, first of all, can you please tell me what county you live in?
+Other ……………. 1 -> THANK RESPONDENT & TERMINATE
+Don’t know ……… 2
+
+
+
+lb. And, are you under 18, between 18 and 34, or 35 years of age or older?
+Under 18 ……………. 1 -> SKIP TO Q.2
+18 - 34 ……………. 2 CHECK QUOTA. IF FILLED,
+35 or over ……………. 3 ASK Q.I.C. OTHERWISE
+
+lc. Do you smoke cigarettes?
+Yes ……………. 1 -> SKIP TO Q.3
+No ……………. 2
+
+
+
+7/24/84 ba -1-
+2040084117

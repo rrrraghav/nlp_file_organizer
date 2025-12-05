@@ -1,0 +1,38 @@
+PHILIP MORRIS INCORPORATED
+
+INTER-OFFICE CORRESPONDENCE
+
+RICHMOND, VIRGINIA
+
+To: Dr. H. Wakeman Date: January 12, 1982
+
+From: T. A. Budne
+
+Subject: Report on Incidence of Coughing Among Cigarette Smokers
+Reference: H.T.L. Report 10B, June 1961;
+J. B. Lincoln Memo to R & D Committee, Dec. 22, 1981
+
+Part I of the H.T.L. Report gives the number of respondents who smoke each brand. Combining this data with that contained in Jet Lincoln’s memorandum of December 21, 1981 yields the following data:
+
+Brands No. Chronic No. Non-Chronic Total Number of
+Smoked Coughers Coughers Smokers Interviewed
+
+Kent 22 198 220
+Parliament 6 43 44
+Tareyon 12 61 73
+
+TOTALS 40 302 342
+
+The appropriate application (for independence) of the statistical Chi-Square test gives a value of 1.5. The interpretation to be given is that—even if the three hi-di brands in question were identical, we could expect to see the difference observed, or even greater differences, in about 40 per cent of all samples of identical size by pure chance alone.
+
+Even if the size of the samples for each of the brands were doubled, and the per cent coughers were the same as now reported, this again could be purely a matter of chance (Chi-Square value = 2.1) with a 30 per cent chance of getting even greater differences among the percentages of observed coughers.
+
+Furthermore, as Ed Gray notes in his memorandum of December 28, 1981, a preponderance of chronic smokers among the Tareyon smokers could further influence the per cent of Tareyon coughers toward the higher side.
+
+Based on the facts presented here, there is no basis whatever for singling out Tareyon as a brand which shows a higher incidence of chronic coughers.
+
+TAB:BR
+
+
+
+100852141

@@ -1,0 +1,24 @@
+AN EXAMPLE OF EXTRA-POISSON VARIATION
+SUGGESTING AN UNDER-SPECIFIED MODEL
+
+S. JAMES KILPATRICK
+Medical College of Virginia, Richmond, Va., U.S.A. 23298-0032
+
+INTRODUCTION
+
+There is now an extensive literature on environmental tobacco smoke (ETS). Several meta-analyses of this literature have combined risk estimates for lung cancer from different studies weighted by the quality and size of the study. Thus, in their meta-analysis, Law et al. (1986) give considerable attention which use different figures from Hirayama’s study, determining whether the husband's or wife's age was used to adjust the cumulative exposure. Since Hirayama’s constitutes about 20% of all lung cancer deaths in the ETS literature, it is important to understand the details of Hirayama’s construction of a global estimate. Here, it is shown that a proper analysis of Hirayama’s study leads to a non-significant association between ETS and the risk of death from lung cancer in non-smoking wives.
+
+Hirayama (1981) reports an age standardized risk ratio of 1.50 for lung cancer among non-smoking women married to heavy smokers, and finds a highly significant trend (P < 0.001) between the amount smoked by husbands and the lung cancer mortality of their non-smoking wives. He also interprets this association as arising from a causal relationship between husband’s smoking and wife's lung cancer.
+
+These results indicate the possible importance of passive or indirect smoking as one of the causal factors of lung cancer.
+(Hirayama, 1981)
+
+THE STUDY
+
+Dr. Hirayama’s study links deaths from all causes occurring in the period 1966-1981 to a questionnaire given in late 1965 to approximately 250,000 Japanese adults. About 11 of those age 40 in 29 Health Center Districts in 6 Japanese prefectures were asked generally about their smoking status. Although not originally designed as a study of the association between passive smoking and health, Dr. Hirayama subsequently linked the mortality of wives who were classified as non-smokers with their husband’s smoking status and, if he was a smoker, with the amount smoked.
+
+Hirayama's work classification is based on only one query at the time of the survey as to whether the respondent occasionally, and, if so, how much smoker or an “obscure” cigarette-a-day. He has stated that individuals who reported smoking "occasionally" were considered non-smokers in his study. In addition, Hirayama did not inquire about other sources of ETS exposure, such as from relatives or co-workers.  He also did not inquire about the number of cigarettes smoked per day by the husband.  Dr. Hirayama’s data includes information on the number of years that husbands smoked.
+
+(Hirayama, 1981)
+
+20258860

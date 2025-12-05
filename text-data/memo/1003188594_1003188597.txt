@@ -1,0 +1,52 @@
+PHILIP MORRIS U. S. A.
+
+INTER-OFFICE CORRESPONDENCE
+
+RICHMOND, VIRGINIA
+
+Mr. W. F. Kuhn Date: August 13, 1975
+
+Michael Penn
+
+Subject: Trip Report - Mammalian Cell and Tissue Culture: Special Topics : Catholic University of America, Washington, D. C., July 21-25, 1975 (Course Director: Dr. Roland M. Nardone)
+
+The Mammalian Cell and Tissue Culture Course consisted, for the most part, of lectures covering a variety of applications of tissue culture techniques. Laboratory exercises con-
+sisted of experiments dealing with radiotautography, cell synchrony,
+cellular toxicity, and lymphocyte collection. The speakers, from
+private and governmental institutions, spoke on particular ap-
+plications of tissue culture in their research.
+
+Summarized below are some topics discussed that I think
+are of special interest to the research here at Philip Morris:
+
+Chemical Carcinogens In Vitro - P. Donovan (N.C.I.)
+P. Donovan, who has worked extensively with the "Di Paolo
+Assay", spoke on the applications of tissue culture for carcino-
+genesis screening. He stated that day-to-day variation in
+the results of this assay can be minimized by carefully prescreening
+all sera, media and trypsin. In regard to DiPaolo's system,
+Donovan stated that with a slight modification - he now puts
+down the X-irradiated rat cell feeder layers instead of plating
+the HE 2 cells 24 hr after the feeder layers - he gets an in-
+creased plating efficiency of up to 30%. Donovan credits his
+quantitative and reproducible results to his careful selection
+of feeder layers and his ability to keep the cell environment
+stable. He discourages the use of chemicals, such as mitomycin
+C, to obtain feeder layers because of the unknown effects such
+chemicals may have on the cells. Donovan stated that the trans-
+formed cells are able to grow to produce colonies in soft agar.
+In addition, he has found no virus activity in the HE cells.
+
+Toxicity Testing In Vitro - R. Nardone (Catholic U.)
+Dr. Nardone spoke on the importance of an "ideal" toxicity
+testing system and the importance of relating in vitro systems to
+in vivo systems. The following is a list of suitable parameters
+for the X-irradiating cells to investigate the “ideal” system:
+synchronicity, maximum cell population, growth rate, viability,
+sister chromatid exchange frequency, chromosomal aberrations,
+gap junctional communication and induction of DNA synthesis.
+He pointed out that the ideal toxicity testing system would be
+one that is reproducible, rapid, and sensitive to low doses of
+chemicals. He feels that a combination of several assays is
+necessary to obtain a complete picture of the toxic effects of a
+given chemical.

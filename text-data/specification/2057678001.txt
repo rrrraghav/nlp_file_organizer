@@ -1,0 +1,47 @@
+STOCKTON STREET
+NORTHWIND 100’S MEN. S. P. - 1130 (PC) Effective Date: August 1, 1982
+
+PRELIMINARY
+
+CIGARETTE DESCRIPTIVE FOR NORTHWIND 100'S MENTHOL S.P.
+
+Length - 99.5 mm
+Circumference - 24.8 mm
+Filter - 31.5 mm
+
+Cigarette Body:
+Filler - Northwind
+Cuts - 30/inch
+Paper - Sch.110-6/Ec.753/Del.110-6; 27.0 mm x 6500 M; P.M. Material Code 10-111-A
+
+Print Dia Machine Number
+Ink Marlboro Black #1-376, Mark VIII; P.M. Material Code 60-906-A OR DA APPROVED
+Marlboro Black #37077, Mark IX; P.M. Material Code 60-915-A EQUAL
+Circumference - 24.8 mm
+
+Length - 68.0 mm
+
+Rod RTD - 2.1 inches of water (1.9-2.3 inches of water)
+
+Cigarette:
+Tipping - 72 mm x 3200 M White DCRL (OSR-156) P.M. Material Code 12-204-A
+Tipping Adhesive - Findley 314-384; P.M. Material Code 62-920-A
+Ajax 563-6; P.M. Material Code 61-001-A
+
+Pack Moisture - 12.65%
+
+Total RTD - 4.90 inches of water - Diluted
+Plug RTD - 4.30 inches of water
+
+Dilution Target - 302 ± 5%
+
+Glue Roller Drawing - #B-105547 (See Engineering for latest revision number)
+
+Patch Size - 8.5 mm x 20 mm
+
+Prepared by: Debbie J. Morgan Approved by: Operations Services
+/bjw
+
+This supersedes specification dated May 10, 1982. Reason for Change:
+Moisture target changed from 12.70% to 12.65%.
+20576300

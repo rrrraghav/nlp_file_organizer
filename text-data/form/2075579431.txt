@@ -1,0 +1,30 @@
+P. 1
+
+* * * COMMUNICATION RESULT REPORT ( AUG. 13. 1999 5:27PM ) * * *
+
+FILE MODE OPTION ADDRESS (GROUP) TTI RESULT PAGE
+261 MEMORY TX 913054006012 OK P. 5/5
+
+REASON FOR ERROR
+E-1) HOOK UP OR LINE FAIL E-3) BUSY
+E-3) NO ANSWER E-3) NO FACSIMILE CONNECTION
+
+PM
+PHILLIP MORRIS
+
+Privileged & Confidential
+Facsimile Transmission
+Legal Department
+120 Park Avenue
+New York, NY 10017-5592
+
+Date: 8/13/99
+
+Attention: Bill Geraghty
+
+COMPANY: Engle Trial Site
+FAX NO.: 305/400-6012
+Subject: Hening Affidavit
+
+Sender: John J. Mulderig
+Sender Telephone #: 917/663-3871

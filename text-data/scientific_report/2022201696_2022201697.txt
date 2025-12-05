@@ -1,0 +1,26 @@
+PROJECT NUMBER: 1811
+PROJECT TITLE : Process Chemistry Development
+PROJECT LEADER : G. D. Koritis
+PERIOD COVERED : February, 1991
+
+I. CAST LEAF DEVELOPMENT
+
+A. Objective: To investigate appropriate binder systems to be used as an alternative to the current processes.
+
+B. Results: The physical testing of various reconstituted tobacco sheets made in the Cast Leaf Lab has been completed. The data indicates that guar binder produces much stronger sheets than pectin or pectinylar binders, an that the preliminary subjective screening with handmade cigarettes did not show any significant advantage of pectin over guar. Both binders were found to be subjectively acceptable. Additional sheet quantities with 8 parts guar and varying levels of DAP (0, 1.5 and 2.5) were made in the Cast Leaf Lab for machine made cigarettes and further testing (CL subjective).
+
+A method that improves the processability of a “hybrid” BL/RL sheet in the laboratory has been developed, and the plans are to scale-up the procedure in the Cast Leaf Lab during the week of 3/4 for further testing (physical/subjectives). The method involves the treatment of a portion of the tobacco feedstock (20-40 percent) with DAP/NH.OH as per RCB followed by an acidification step prior to adding the binder with the balance of the tobacco feedstock to form a combined slurry for casting.
+
+Several SIVA formulations were made in the Cast Leaf Lab in an attempt to match the RLB/RLTC (50/50) subjectives for TSA. The subjective screening of these formulations is currently in progress by Flavor Technology personnel with handmade cigarettes. Attempts to improve the SIVA sheet physicals by increasing the guar binder level from 4 to 6 parts in the formulation containing a 50/50 mixture of 120 and 400 mesh size TSA feedstock were not successful. This tobacco blend was found to require 10 parts guar to produce a very good sheet, free of cracks. The problems may be due to the tobacco particle size distribution in the blend. This problem is currently being investigated.
+
+Other binder systems currently under investigation are locust bean gum and starch.
+
+C. Plans:
+
+1. Produce machine made cigarettes with guar bound sheets and varying levels of DAP to evaluate cigarette performance (CL subjective).
+
+2. Scale-up the “hybrid” sheet formulation and produce larger quantities of sheet in the Cast Leaf Lab for physical and subjective testing.
+
+
+
+                                                                        202208196

@@ -1,0 +1,66 @@
+Jowr. Research U.S. Geol. Survey
+Vol. 1, No. 3, Supp. Ood 12, pp. 513-541
+
+THE ENTHALPIES OF FORMATION OF NESQUEHONITE,
+MgCO₃ · 3H₂O, AND HYDROMAGNESITE, 5MgO·4CO₂ · 5H₂O
+
+BY RICHARD A. ROBIE and BRUCE S. HEMINGWAY, Silver Spring, Md.
+
+Abstract.—The enthalpies of formation, ΔH°f, of nesquehonite,
+MgCO₃ · 3H₂O, and hydromagnesite, 5MgO·4CO₂ · 5H₂O, have been
+determined by high-solution calorimetry. For the reaction
+
+Mg(OH)₂+ CO₂(g) + 3H₂O(l) → MgCO₃ · 3H₂O(s),
+the enthalpy change at 298.15 K is -29.78140 cal mol⁻¹. For the
+reaction
+
+5MgO(s) + 4CO₂(g) + 5H₂O(l) → 5MgO·4CO₂ · 5H₂O(s),
+the enthalpy change at 298.15 K is -120.3160 cal mol⁻¹. MgCO₃
+· 3H₂O uses the standard mullite stability and standard Gibbs free energy of
+formation, ΔG°f, are -412.040(120) cal mol⁻¹ and ΔH°f for 5MgO·4CO₂ · 5H₂O
+are -1,557.090(250) and -1,401.716(280) cal.
+
+Recently Robie and Hemingway (1972b) presented heat
+capacity measurements for nesquehonite between 12 and 310 K
+and for hydromagnesite between 298 and 350 K, and 1/T
+for the entropy changes ΔS° of the three minerals in this
+report were calculated from these data. The enthalpy of
+formation, ΔH°f, is a fundamental thermodynamic property
+of a substance; it represents the heat absorbed or evolved
+in the formation of one mole of the substance from its
+elements in their standard states.
+
+The reactions used to determine the enthalpy change for
+nesquehonite 1 were
+
+MgCO₃ · 3H₂O(s) → [285HCl + 3,641H₂] (aq) (1)
+
+[MgCl₂ + 285HCl + 3,645H₂O](ad) + CO₂(g) (2)
+
+Mg(OH)₂ (s) → [MgCl₂ + 285HCl + 3,642H₂O] (aq), and (4)
+[MgCl₂ + 285HCl + 3,645H₂O](ad) (5)
+
+Adding equations 4 and 5 subtracting reaction 3 yields
+
+MgCO₃ · CO₂(g) + 3H₂O(l) → Mg(OH)₂·3H₂O(s) (3)
+
+from which ΔH°(1) = ΔH°(4) - ΔH°(3). The enthalpy
+change for reactions were used to obtain the
+values shown in table 2.
+
+Table 2. Enthalpies of Formation at 298.15 K,
+MgCO₃ · 3H₂O (s), and 5MgO·4CO₂ · 5H₂O (s)
+
+Compound                                    ΔH°f (cal mol⁻¹)   E(kJ/mol)
+Nesquehonite, MgCO₃ · 3H₂O(s)              -29.78140            -25.36
+Hydromagnesite, 5MgO·4CO₂ · 5H₂O(s)       -120.3160             -101.68
+
+The standard Gibbs free energy of formation, ΔG°f, for
+nesquehonite and hydromagnesite were calculated from the
+enthalpy of formation and heat capacity data using the
+equation
+
+ΔG°f = ΔH°f - TΔS°f (6)
+
+Notice: This material may be protected
+by copyright law (Title 17, U.S. Code)

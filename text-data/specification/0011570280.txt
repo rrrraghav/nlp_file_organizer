@@ -1,0 +1,65 @@
+Date 5/5/79
+
+SAMPLE SPECIFICATIONS FOR COST REDUCT REQUEST
+
+Approved by Mr. P. E. Atkins
+cc: Mr. T. F. Riehl (2)
+Ms. P. F. Wagner
+Mr. C. L. Domeck
+
+Sequencing Dept. Proj. No. 8234-78-1 1979-57 Pilot Plant Proj. No. 0234 81 Date Mfg 4/18/79
+Tested by Ms. P. F. Wagner Designed by
+Purpose Sample Manufacture of Kool Mild’s KS
+
+Cigarette Code 463/483 483/463 Cigarette
+Length (cm) 84 84
+Analysis Code 234106 234112 Circumference (mm) 24.9 24.9
+Masked Analysis Code 115 Maker/Speed (rpm) 1750 1750
+End Pack Code 90570 90570 Tobacco Section
+Tobacco Code 463 M 483 M Weight (mg)
+Slip No. 11614, 12616 #1, 2 & 3 Length (cm) 59 59
+Skip No. #7 Tobacco % (age) 698 684
+Blend Unfactory MARK %) K.M.K.S. XLP-2671 Density (gals/cr) 240 235
+Closing C.8 Ext. T.S. Tar (mg/s)
+Turkey (Graded MARK) XCP-292 Supplier Grade B-556 B-753
+Flue-cured Permeability (Coresta) - 43
+Top Dressing Flavor 02-21-79 (1) 02-21-79(1) Pore.net (Coresta)
+Operation Date 4-11-79 4-11-79 Burn Additives # C-39.825 C-1220.879
+Blend Cases 32 - 0.9 Citrate + 0.9 Citrate
+Moisture Ret. (°) 13.1 13.1 Non-Tobacco wt. 168 169
+Nature (B) 4.5 4.5 Avg. Tar Weight (mg) 38 38
+Filler (B) 2.0 2.0  % Nicotine (weight) 1.41 1.48
+Stem (B) 2.0 2.0  % Sugar (weight) 47.61 55.88
+Flue Cured (B) 3.2 3.2  % Protein (weight) 2.09 2.09
+Dark Air Dried (B) 2.5 2.5  % Moisture (weight) 48.01 46.41
+Burley (B) 3.2 3.2  % Ash (weight) 0.31 0.31
+Maryland (B) 2.5 2.5  % Water (weight) 1.19 1.18
+Virginia (B) 4.5 4.5  Total Solids (%) 67.8 67.8
+L.A. Type (Grade) B-556 B-753  pH 6.2 6.2
+L.A. Moisture (%) 10.9 10.9  Reducing Sugars (mg/s) 44 44
+L.A. Tar (mg/s) 28 28  Free Alkaloids (mg/s) 5.3 5.3
+L.A. Nicotine (%) 1.67 1.67  Total Alkaloids (mg/s) 9.4 9.4
+L.A. Density (gals/cr) 240 235  Water-Soluble Matter (mg/s) 84 84
+L.A. Pore.net (Coresta) - 43  Filter Length (mm) 26.9 26.9
+L.A. Permeability (Coresta) Filter Diameter (mm) 8.4 8.4
+L.A. Burn Additives # C-39.825 C-1220.879 Filter Coresta Density (gals/cr) 160 160
+L.A. Citrate + 0.9 Citrate Filter Coresta Pore.net (Coresta) -
+L.A. Non-Tobacco wt. 168 169  Filter Coresta Burn Additives #
+L.A. Avg. Tar Weight (mg) 38 38  Filter Coresta Citrate +
+L.A. % Nicotine (weight) 1.41 1.48  Filter Coresta Non-Tobacco wt.
+L.A. % Sugar (weight) 47.61 55.88  Filter Coresta Avg. Tar Weight (mg)
+L.A. % Protein (weight) 2.09 2.09  Filter Coresta % Nicotine (weight)
+L.A. % Moisture (weight) 48.01 46.41  Filter Coresta % Sugar (weight)
+L.A. % Ash (weight) 0.31 0.31  Filter Coresta % Protein (weight)
+L.A. % Water (weight) 1.19 1.18  Filter Coresta % Moisture (weight)
+L.A. Total Solids (%) 67.8 67.8  Filter Coresta % Ash (weight)
+L.A. pH 6.2 6.2  Filter Coresta % Water (weight)
+L.A. Reducing Sugars (mg/s) 44 44  Filter Coresta Total Solids (%)
+L.A. Free Alkaloids (mg/s) 5.3 5.3  Filter Coresta pH
+L.A. Total Alkaloids (mg/s) 9.4 9.4  Filter Coresta Reducing Sugars (mg/s)
+L.A. Water-Soluble Matter (mg/s) 84 84  Filter Coresta Free Alkaloids (mg/s)
+L.A. Filter Length (mm) 26.9 26.9  Filter Coresta Total Alkaloids (mg/s)
+L.A. Filter Diameter (mm) 8.4 8.4  Filter Coresta Water-Soluble Matter (mg/s)
+
+
+

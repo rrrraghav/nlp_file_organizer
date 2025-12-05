@@ -1,0 +1,62 @@
+WILLIAMS TOBACCO CORP.
+SAMPLE SPECIFICATIONS B-132-62
+
+Development Center Project No. B-132-62 Requesting Dept. Project No. R&D 8-323
+
+Cigarette Code 323038 323039
+Bottom Pack Code VICEORY 84 VICEORY 84
+
+Flue-Cured
+Burley
+PSC Added
+Turkish Added
+WTS Added
+
+Casing
+Burley VICEORY 84 VICEORY 84
+Flue-Cured.
+Flue-Cured.
+
+Top Dressing
+Flavor VICEORY 84 VICEORY 84
+
+Filter Rod
+Material 3,3-44 3,3-44
+Length (mm) 126 126
+Circumference (mm) 24.7 24.7
+Pressure Drop (*) 1.4 1.4
+Additive 11% of 6/5 Pz 11% of 6/5 Pz
+Plug Wrap S-322 S-322
+
+Cigarette
+Length (mm) 84 84
+Circumference (mm) 25.0 25.0
+Weight * *
+Tipping Material Cork Cork
+Tipping Length (mm) 26 26
+Filter Length (mm) 21 21
+
+Tobacco Section
+Length (mm) 63 63
+Blade Weight (mg) 812 812
+Density (mg/cc) 259 259
+Package (1) R-556 (1) R-556
+
+Packaging
+Paper Type None None
+Label Length
+Closure
+Cellophane
+Tear Tape
+
+Carton Type 1 Tray 1 Tray
+
+Quantity Requested
+Special Instructions (1) Three glue lines will be applied to inner
+surface of cigarette paper. Mr. Hammer wants in-
+structions for National Stick Adhesive 1108 with pre-
+provision for its use. Rignoritative.
+
+Requested by Dr. R. R. Kirkman Date: 11/28/68
+
+Charge B-132

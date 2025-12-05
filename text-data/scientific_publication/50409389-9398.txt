@@ -1,0 +1,25 @@
+Journal of Neuro-Oncology 21, 141-150, 1994.
+© 1994 Kluwer Academic Publishers. Printed in the Netherlands.
+
+Laboratory Investigation
+
+Inhibition of collagenolytic activity related to quantitative reduction of invasion in vitro in a c-Ha-ras transfected glial cell line
+
+E.R. Boghert', S.K. Chan', C. Zinner', D. Grobelny², R.E. Galardy³, T.C. Vanaman¹ and S.G. Zimmer¹
+'University of Kentucky, Dept. of Surgery, Markey Cancer Center, 800 Rose Street, Lexington, KY, USA;
+²University of Kentucky, Dept. of Biochemistry, Markey Cancer Center, 800 Rose Street, Lexington, KY, USA;
+³43 Brassey Ave, Rosanna 3084, Australia; Glycomed Incorporated, 860 Atlantic Ave., Alameda,
+CA 94501¹ University of Kentucky, Dept. of Microbiology and Immunology, Markey Cancer Center, 800 Rose
+Street, Lexington, KY, USA
+
+Key words: collagenolytic activity, CXT2neo3 tumors
+
+Abstract
+
+The function of proteases in brain tumor invasion is currently not well established. For tumors of epithelial and fibromatous origin collagenase production can enhance the invasive capacity of cells to penetrate basement membranes. We showed previously that a c-Ha-ras transformed glial cell line (CXT2neo3) invaded hamster brain tissue in vivo. These cells were also capable of invading reconstituted basement membrane and embryonic chick hearts in vitro. Since the histopathology of CXT2neo3 tumors mimics that of glioblastoma multiforme in humans, CXT2neo3 was used as the model in vitro for this type of brain tumor. Presently, we detected by zymography a gelatinase that was secreted by CXT2neo3 and that had an apparent molecular mass of 62 kD.
+
+To verify whether gelatinase inhibited invasion in vitro of these glial cells we determined the efficacy of a substrate specific collagenase afffected into metalloprotease. GM6001 is a synthetic polypeptide that specifically occupies the substrate binding sites of metalloproteases. Since this drug did not show cytotoxicity, its specificity for metalloproteases is a valuable tool to evaluate the roles of these enzymes on invasion. We found that treatment of CXT2neo3 with GM6001 reduced the physiological function of invading CXT2neo3 cells through reconstituted basement membrane. These data suggest that metalloproteases can stimulate brain tumor invasion.
+
+Introduction
+
+Current anticancer therapy lags well behind therapeutic approaches will be necessary to specifically cellular recurrence and metastasis. A major limitacell reduce the morbidity of cancer patients. tion in the utilization of conventional chemother-  The annual mortality from brain tumors is ap- apy is its lack of specificity for tumor cells. proximately 10,000 per year [1]. The most com-  Tumor cell invasion and metastasis are crucial monly reported manner by which malignant gli- steps in the metastatic cascade [2]. Tumor cells mas encroach on normal tissue is by infiltration must first penetrate through the basement mem- or extension of tumor cells [2]. The ability of a brane, then invade surrounding tissues, enter tumor cell to invade and metastasize depends upon its lymphatic vessels or blood vessels, survive in circulation, and finally colonize distant sites [3, 4].  The process of invasion is complex and involves multiple factors including proteases, growth factors, cytokines, and adhesion molecules [5].

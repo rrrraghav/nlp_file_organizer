@@ -1,0 +1,35 @@
+CABARRUS COUNTY                                            4
+MERIT ULTRA LIGHTS 100 REGULAR SP                   EFFECTIVE DATE: 01/18/89
+BRAND CODE-1030 (31D)                                STANDARD PRODUCTION
+
+PHYSICAL MEASUREMENTS
+
+TOBACCO ROD LENGTH            :   65.0           MM
+TIPPING LENGTH                 :   36.000          MM
+CIGARETTE PAPER WIDTH         :   27.25          MM
+CIRCUMFERENCE                  :   24.80          MM
+CALCULATED VOLUME             :  3.328.1163      CUBIC MM
+CALCULATED DENSITY            :   22.3629        GMS/CC
+
+MOISTURE
+
+PACK MOISTURE                   :    12.85         % W/W
+
+TARGET WEIGHTS
+
+FILLER WEIGHT                  :     .7402700      GRAMS
+CALCULATED WEIGHT             :     1.600          LBS./1000
+PAPER AND PASTE                :     .0967631      GRAMS
+ROD WEIGHT                     :     .7919803      GRAMS
+TIPPING AND ADHESIVE           :     .0452122      GRAMS
+TOTAL LESS PLUG               :     .8395723      GRAMS
+
+
+
+REASON FOR CHANGE :  PH-HOUR PACK MOISTURE TARGET CHANGED FROM 12.65%
+                         TO 12.85% TO STANDARDIZE SP MOISTURE TARGETS.
+                         TARGET FILLER WEIGHT INCREASED. 2031313422
+
+PREPARED BY :  S. M. HAYWOOD                       PRINTING DATE     :   1/17/88
+PREPARATION DATE : 1/17/88                           PRINTING TIME    :   1:39:11
+APPROVED BY:                                          SUPERSEDES SPECIFICATION DATED: 1/17/87

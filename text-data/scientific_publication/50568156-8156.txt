@@ -1,0 +1,24 @@
+Cell and Tissue
+Research
+
+C. U. Voog Res. (1983) 274:665 665
+© Springer-Verlag 1983
+
+β- and β-receptor control of catecholamine secretion
+from isolated adrenal medulla cells
+
+A. Greenberger* and O. Zinder
+
+Department of Clinical Biochemistry, Rambam Medical Center and the Faculty of Medicine, Technion,
+Haifa, Israel
+
+Summary. The regulation of secretion of catecholamines from bovine adrenal medulla cells was investigated by use of an improved and highly efficient method for isolating table and response cells from this tissue. The method involves an in situ collagenase perfusion affecting only the connective tissue matrix on the medulla while leaving the cortex intact. It allows retention both of epinephrine and norepinephrine in response to stimulation by 100 mM acetylcholine. The ratio of epinephrine to norepinephrine in the medium following non-stimulated (basal) release was similar to that found in the intact cells. On the other hand, a lower ratio of epinephrine to norepinephrine was found in the medium following stimulation by acetylcholine due mainly to preferential secretion of norepinephrine. This release ceased after 15 min of incubation and consisted of 10–20% of the catecholamines initially present in the cells. L-isoproterenol (2)µM was found to inhibit total catecholamine secretion; however, it stimulated norepinephrine release. Addition of isoproterenol caused a stimulation of release while propranolol was inhibitory. Norepinephrine inhibited total release not favoring any specific catechol. Other β-agonists, such as clonidine, also had an inhibitory effect. These results suggest a receptor-mediated mechanism for the fine regulation of secretion from the adrenal medulla.
+
+Key words: Adrenal medulla Exocytosis Catecholamines Adrenergic receptors
+
+Pre-synaptic inhibition of neurotransmitter release has been shown to exist in the peripheral and central nervous system (Engelberger & Karrer 1976). The presence of inhibitory autoreceptors is thought to be a general phenomenon in neurotransmitter release from a variety of tissues, and is considered to be a mechanism for fine regulation of the release process. These effects in brain have
+
+*Send reprint requests to Dr. Oren Zinder, Department of Clinical Biochemistry, Rambam Medical Center and the Faculty of Medicine, Haifa, Israel.
+
+~08 32 0746 0655 302 20
+5056816

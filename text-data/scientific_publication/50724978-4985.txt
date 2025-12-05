@@ -1,0 +1,37 @@
+Immunogenetics 39: 40–55, 1994
+
+Immunogenetics
+© Springer-Verlag 1994
+
+P1 and cosmid clones define the organization of 280 kb of the mouse H-2 complex containing the Cps-1 and Hsp70 loci
+
+David I. Gasseri, Nat L. Sternberg, James C. Pierce, Audrey Goldner-Sauve, Hongshu Feng,
+Asifa K. Haqi, Thomas Sples, Clayton Hunt, Kenneth H. Buetow, David D. Chaplin
+
+'Department of Genetics, University of Pennsylvania School of Medicine, 420 Conte Building, Philadelphia, PA 19104, USA
+*Fox Chase Cancer Center, 770 Butternut Avenue, Philadelphia, PA 19111, USA
+Division of Tumor Virology, Dana-Farber Cancer Institute, Harvard Medical School, 44 Binney Street, Boston, MA 02115, USA
+*Immunogenetics, Inc., 318 Research Park Boulevard, Bozeman, MT 59715, USA
+Fox Chase Cancer Center, 770 Butternut Avenue, Philadelphia, PA 19111, USA
+'Howard Hughes Medical Institute and Department of Internal Medicine, Washington University School of Medicine, 4929 Audubon
+Avenue, St. Louis, MO 63108, USA
+
+Received June 22, 1993
+
+Abstract. A 280 kilobase (kb) contig was isolated from mouse genomic P1 and cosmid libraries, using as probes human cDNA and genomic DNA fragments that map in the interval between the second component of complement and tumor necrosis factor genes of the H-2A complex. The clone arrangement demonstrates synteny of eleven mouse genes that are homologous to genes initially mapped within the human major histocompatibility (MHC) region. These include the major homozygous BAT1/HLA-B associated transcript 2 through BAT19 and also three Hsp70-related genes. Five P1 clones form a contig of 280 kb that spans from the BAT19 through BAT2. Twelve cosmid clones are arranged in three con- tigs that confirm the structure of the P1 contig and link the most distal homology to the Cps-1 re- gion mapping at 15 cM. The sequences contain poly- morphisms, including a 3' flanking region of BAT19 with a pronounced Alu repeat polymorphism. Key words: H-2 complex—mouse—human MHC—cosmid clones—P1 clones
+
+Introduction
+The human major histocompatibility complex (MHC) re- gion is characterized by an extraordinary degree of genetic complexity and polymorphism (Bodmer, 1986; Dorling et al. 1986). The region contains genes involved in antigen presentation, complement activation, and other immune functions (Bentzen et al. 1988b; Fried- man et al. 1988b), as well as pseudogenes and nonfunc- tional sequences. Several genes within the human MHC re- gion have identifiable murine homologs, including HLA-A, -B, -C (Stephens et al. 1985; Gyllensten et al. 1986) and tumor necrosis factor α (TNFα) (Barclay et al. 1988b; Kohr et al. 1988b), tumor necrosis factor β, and β₂ (Spies et al. 1986), and a number of additional genes designated BAT1 through BAT19 (HLA-B associated transcripts; Spies et al. 1989) or GI-G10 (Sargent et al. 1989 a). Although most of the mouse MHC has been cloned by chromosome walking using cosmid vectors (Steinmetz et al. 1986b; Gyllensten et al. 1986; Chaplin et al. 1988; Fisher et al. 1985; Privalov et al. 1985; Stephen et al. 1986), much of the region between H2S and H-2D, which is homologous to the HLA region above, has not yet been partitioned in molecular terms. This region is of particular interest because genes con- taining several apparent transcripts appear to map in a row along this genomic axis with respect to TNFα (Collins et al. 1988b), the locus that controls the poly- morphisms in the H-2K and H-2D alleles (Shimizu et al. 1987). We have isolated a series of P1 and cosmid clones from a mouse genomic library using human cDNA and genomic DNA probes to define this region. The cloned sequences span approximately 280 kb, contain eleven genes homologous to those initially mapped within the human MHC region, and include three Hsp70-related genes.
+
+Materials and Methods
+Genomic Library Construction
+A genomic P1 phage library was constructed from Balb/c mouse tail DNA using the pBluescript SK(+) vector (Stratagene) as described previously (Lawitts et al. 1988). A cosmid library was con- structed in the SuperCos 1 vector (Stra- tagene) following the manufacturer’s instructions.
+
+Probes
+The probes used to isolate the clones were human cDNA clones pBAT19, pTNFα, and pCNA (Barclay et al. 1988b; Kohr et al. 1988b; Collins et al. 1988b) and a genomic DNA fragment from human chromosome 6p21.3 that hybridizes to the HLA-B region (Friedman et al. 1988a).
+
+Screening of Libraries
+The P1 and cosmid libraries were screened by hybridization using standard protocols (Maniatis et al. 1982). The probes were labeled with 32P dCTP using random primers (Feigenbaum et al. 1983) or with biotinylated nucleotides using the UT system (Leder- man et al. 1984). Hybridization was performed at 65°C for 16–20 h in 50% formamide, 6× SSC, 1% BSA, and 1% Ficoll. Washing was done at room temperature in 2× SSC, 0.1% Tween-20, followed by a final wash at 65°C in 2× SSC, 0.1% Tween-20.
+
+Contig Assembly
+The P1 and cosmid clones were assembled into contigs based on the restriction maps generated by partial digests and hybridization to overlapping probes. The order of the clones was determined by comparing the restriction maps and by using a combination of partial and full-length probes.

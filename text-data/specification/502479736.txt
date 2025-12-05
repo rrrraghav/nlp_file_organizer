@@ -1,0 +1,58 @@
+Analysis 1
+
+85107
+
+TABLE II
+
+ANALYSIS OF CIGARETTE SMOKE FROM CELLANEOUS MATERIAL CONTAINING NO NICOTINE
+
+Characteristic -g Sample GS68-A GS68-B GS68-C GS23-A GS23-B GS23-C
+pH 1.79 1.80 1.84 1.85 1.84 1.84
+Moisture -g 1.10 1.06 1.08 1.10 1.08 1.08
+T.M. dry basis -g 7.32 7.25 7.39 7.41 7.32 7.39
+Nicotine -mg 5.16 5.25 5.16 5.16 5.25 5.16
+Nornicotine -mg 7.16 7.18 7.16 7.16 7.18 7.16
+Carbon monoxide, mg.
+Melan -mg. None None None None None None
+Tar, total -mg.
+Resin, total -mg.
+Water-mg.
+Ash -mg.
+0.002 0.002 0.002 0.002 0.002 0.002
+pH
+6.38-6.59 6.41-6.63 6.38-6.57 6.38-6.59 6.41-6.63 6.38-6.57
+Puff I
+6.20-6.37 6.22-6.41 6.20-6.37 6.20-6.37 6.22-6.41 6.20-6.37
+Puff II
+6.78-6.98 6.80-6.98 6.78-6.98 6.78-6.98 6.80-6.98 6.78-6.98
+%
+6.25-6.43 6.27-6.45 6.25-6.43 6.25-6.43 6.27-6.45 6.25-6.43
+Formaldehyde -µg.
+Acetaldehyde -µg.
+Acetone -µg.
+Acrolein -µg.
+Crotonaldehyde -µg.
+Hydrogen cyanide -µg.
+Polycyclic hydrocarbons, µg.
+
+Sample GS68-A GS68-B GS68-C GS23-A GS23-B GS23-C
+159 157 159 159 157 159
+22 24 22 22 24 22
+37 36 37 37 36 37
+18 18 18 18 18 18
+29.6 29.5 29.6 29.6 29.5 29.6
+24 25 24 24 25 24
+130 131 130 130 131 130
+70.2 70.2 70.2 70.2 70.2 70.2
+30 30 30 30 30 30
+45 45 45 45 45 45
+19 19 19 19 19 19
+68.9 68.9 68.9 68.9 68.9 68.9
+22.3 22.3 22.3 22.3 22.3 22.3
+6.2 6.0 6.2 6.2 6.0 6.2
+7.2 7.2 7.2 7.2 7.2 7.2
+5.4 5.4 5.4 5.4 5.4 5.4
+
+per cigarette
+
+GS23-1 3936

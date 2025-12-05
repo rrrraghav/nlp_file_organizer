@@ -1,0 +1,54 @@
+Activation of the Ki-ras protooncogene in spontaneously occurring
+and chemically induced lung tumors of the strain A mouse
+
+(lung adenoma/adenocarcinoma/point mutations/chemical carcinogenesis)
+
+MING YAO*, UNS CANDIAN*, ROBERT R. MARRON†, GARY D. STONER†, and MARSHALL W. ANDERSON*
+
+*National Institute of Environmental Health Sciences, Research Triangle Park, NC 27709; and †Medical College of Ohio, Toledo, OH 43609
+Communicated by James A. Miller, January 17, 1989 (received for review October 26, 1988)
+
+ABSTRACT The strain A mouse has a high incidence of spontaneous lung tumors and is susceptible to lung tumor induction by chemical carcinogens. By in situ hybridization assay, Southern blot analysis, and DNA amplification techniques, we detected activated Ki-ras oncogenes in the DNAs of both spontaneously and chemically induced lung tumors. In the 12 mice with spontaneous lung tumors, Ki-ras mutations were found in 8 (67%) of the tumors; in the 12 mice that developed tumors after methylnitrosourea (MNU) induction, Ki-ras mutations were detected in 9 (75%) of the induced lung tumors were seen in 12, whereas 9 of the chemically induced lung tumors had activated Ki-ras oncogenes. The presence of activated Ki-ras oncogenes in chemically induced lung tumors was correlated with the ability of MNU to produce dramatically increased incidence of Ki-ras oncogene mutations. These data suggest that a Ki-ras protooncogene mutation may serve as a critical step in the pathogenesis of lung tumors in this mouse model.
+
+INTRODUCTION STRAIN A mice are known to have a high incidence of spontaneous lung tumors (1, 2). The strain is also highly susceptible to chemical carcinogenesis, particularly when treated with methylnitrosourea (MNU) (3). MNU induces lung adenomas and adenocarcinomas in this mouse strain at a very high frequency. We have been investigating the molecular events involved in the pathogenesis of spontaneous and chemically induced lung tumors in strain A mice. Protooncogenes are normal genes that regulate cell growth and differentiation. Mutations in protooncogenes can convert them into oncogenes, which promote uncontrolled cell proliferation and tumor formation (4). The ras gene family is a group of protooncogenes that play an important role in cell signaling pathways involved in cell growth and differentiation (5). Activation of the Ki-ras gene has been found to be associated with various human cancers (6, 7). In this paper, we report our findings on the detection of activated Ki-ras oncogenes in spontaneously occurring and chemically induced lung tumors of strain A mice. The results provide further evidence that activation of a ras oncogene is an important step in the development of lung tumors.
+
+MATERIALS AND METHODS
+
+Rodent Tumors. Spontaneous lung tumors were obtained from unbred, 54 to 77-week-old strain A/J mice (Jackson Laboratory). Chemically induced lung tumors were obtained from strain A/J mice (6-8 weeks old, The Jackson Laboratories) were administered MNU intraperitoneally at a dose of 30 mg/kg body weight. [3H]Thymidine was administered i.p. at a dose of 150 µCi/g body weight 24 hours after MNU administration with liquid nitrogen.
+
+Tissue Processing. Tissues were processed as described previously (8). Tissue sections were cut at 5 µm thickness on a cryostat and mounted on poly-L-lysine coated slides. The slides were stored at -20°C until used for in situ hybridization. DNA was isolated from tumor tissue using standard methods (9).
+
+In Situ Hybridization. In situ hybridization was performed as described previously (10). Briefly, sections were prehybridized with 50% formamide/2× SSC (3× saline-sodium citrate) at 37°C for 30 min. The slides were then hybridized with a riboprobe specific for the Ki-ras oncogene (11) in 50% formamide/2× SSC overnight at 42°C. After hybridization, the slides were washed successively with 2× SSC at 42°C and 2× SSC/0.1% Tween 20 at room temperature. The slides were then treated with RNase A (1 mg/ml) in 2× SSC at 37°C for 30 min, followed by washing with 2× SSC/0.1% Tween 20 at room temperature. Finally, the slides were dehydrated in a series of ethanol washes and counterstained with DAPI (diaminophenyleneindole).
+
+Southern Blot Analysis. DNA samples were digested with EcoRI or HindIII, separated on 0.8% agarose gels, transferred to nylon membranes, and hybridized with a 32P-labeled Ki-ras cDNA probe (12). Hybridization was performed under high stringency conditions.
+
+DNA Amplification. DNA amplification was performed using the polymerase chain reaction (PCR) method (13). The primers used were designed based on the published sequence of the human Ki-ras gene (14). PCR products were separated on 2% agarose gels and visualized by ethidium bromide staining.
+
+RESULTS
+
+Detection of Activated Ki-ras Oncogenes in Spontaneous Lung Tumors. In situ hybridization analysis revealed that activated Ki-ras oncogenes were present in 8 of 12 (67%) spontaneous lung tumors (Fig. 1A). The signal intensity varied among the tumors, suggesting different levels of Ki-ras gene amplification. Southern blot analysis confirmed the presence of amplified Ki-ras sequences in DNA samples from these tumors (Fig. 2A). PCR analysis detected mutations in the codon 12 region of the Ki-ras gene in 7 of 8 tumors with activated Ki-ras oncogenes (Fig. 3A).
+
+Detection of Activated Ki-ras Oncogenes in Chemically Induced Lung Tumors. In situ hybridization analysis revealed that activated Ki-ras oncogenes were present in 9 of 12 (75%) chemically induced lung tumors (Fig. 1B). Southern blot analysis confirmed the presence of amplified Ki-ras sequences in DNA samples from these tumors (Fig. 2B). PCR analysis detected mutations in the codon 12 region of the Ki-ras gene in 8 of 9 tumors with activated Ki-ras oncogenes (Fig. 3B).
+
+Correlation Between MNU Treatment and Ki-ras Oncogene Mutations. The incidence of spontaneous lung tumors in strain A mice is approximately 40% by 1 year of age (1). In this study, we found that MNU treatment significantly increased the incidence of lung tumors in strain A mice. Of the 12 mice treated with MNU, 9 developed lung tumors. The presence of activated Ki-ras oncogenes in chemically induced lung tumors was correlated with the ability of MNU to produce dramatically increased incidence of Ki-ras oncogene mutations.
+
+DISCUSSION
+
+Our findings demonstrate that activated Ki-ras oncogenes are frequently present in spontaneously occurring and chemically induced lung tumors of strain A mice. The detection of activated Ki-ras oncogenes in both types of tumors suggests that this genetic alteration may play a role in the pathogenesis of lung tumors in this mouse model. The high incidence of spontaneous lung tumors in strain A mice, coupled with their susceptibility to chemical carcinogenesis, makes them an ideal model for studying the molecular events involved in lung tumor development.
+
+The presence of activated Ki-ras oncogenes in chemically induced lung tumors was correlated with the ability of MNU to produce dramatically increased incidence of Ki-ras oncogene mutations. This suggests that MNU may directly induce mutations in the Ki-ras gene or that it may create a cellular environment that is more conducive to Ki-ras oncogene activation.
+
+The results of this study provide further evidence that activation of a ras oncogene is an important step in the development of lung tumors. Future studies will focus on investigating the role of activated Ki-ras oncogenes in the progression of lung tumors and on identifying other genetic alterations that may contribute to their development.
+
+ACKNOWLEDGMENTS
+
+We thank Dr. James A. Miller for his valuable advice and support. This research was supported by National Cancer Institute grant CA49701.
+
+LITERATURE Cited
+
+1.  Stewart, F. W., Jr. (1973) J. Natl. Cancer Inst. 50, 1283-1286.
+2.  Stewart, F. W., Jr., and Ford, D. L. (1975) Cancer Res. 35, 3476-3482.
+3.  Ford, D. L., Stewart, F. W., Jr., and DeBakey, M. E. (1970) J. Natl. Cancer Inst. 44, 715-722.
+4.  Weinberg, R. A. (1983) Science 222, 1286-1289.
+5.  Crawford, T. L., and Barber, J. M. (1986) Annu. Rev. Biochem. 55, 709-749.
+6.  Landis, H. N., Barnett, D., Stott, C., McArthur, G. A., & Ho, P. T. (

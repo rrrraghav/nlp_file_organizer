@@ -1,0 +1,50 @@
+MARKETING RESEARCH SERVICES, INC.
+15 EAST EIGHTH STREET
+CINCINNATI, OHIO 45202
+(513) 579-1555
+1992 CONTINUOUS TRACKING STUDY
+NOVEMBER, 1992
+MRS #2338
+(11/1/92)
+
+QUITTER — SMOKING HOUSEHOLD
+
+1A. Hello, I’m _____ of Marketing Research Services, a
+national public opinion firm calling long distance from Cincinnati,
+Ohio. I'd like to ask you a few questions, and your answers, of course,
+will be kept entirely confidential. We’re talking to people 18 years of
+age and over, so first of all, are you 18 or over?
+
+Yes – 1 ASK Q.1B
+No – 2 ASK: May I speak to someone
+who is 18 or over?
+
+IF NO ONE 18 OR OVER IS AT HOME NOW WHO CAN BE INTERVIEWED, THANK AND
+ARRANGE TO CALL BACK. IF NECESSARY, RE-INTRODUCE YOURSELF AND PROCEED.
+
+IF NO ADULT 18+ LIVES IN HOUSEHOLD, TERMINATE AND TALLY.
+
+1B. And since we are talking to a cross-section of people all over the United
+States, could you tell me, do you live in a… (READ LIST)
+
+Big city – 1
+Small city – 2
+Town – 3
+Suburb – 4
+Out in the country – 5
+Or what? (SPECIFY) - 6
+DO NOT READ IDK - 7
+Refused - 8
+
+2. Are there any people in this household, including yourself, who are 18
+years of age or over and smoke cigarettes?
+
+Yesl – 1 ASK Q.3
+No – 2 GO TO Q.4 (“NON-SMOKER —
+NON-SMOKING HOUSEHOLD” SURVEY)
+
+CALLBACK DATE: CALLBACK TIME:
+NAME: AGE:
+TELEPHONE: TIME ZONE: B C M P
+STATE CODE: COUNTY CODE:
+20600285358

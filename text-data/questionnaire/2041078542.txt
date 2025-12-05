@@ -1,0 +1,47 @@
+MARKETING INFORMATION SYSTEMS, INC. #838185
+100 Syive Avenue August, 1985
+Englewood Cliffs, New Jersey 07632
+1-800-631-1623/201-547-6900
+
+DH AD/PACK TEST (HL)
+(Screener)
+
+Hello, I’m ____ of Marketing Information Systems. We're conducting an opinion survey today among people between the ages of 18 and 54 about various products used in the household and I’d like to ask you a few questions. CARD 1 COL. 6 (7)
+
+1. First of all, are you between the ages of 18 and 54?
+Yes... ( ) No... ( ) (THANK AND TERMINATE)
+
+2. And are you between 18 and 34 years of age, or between 35 and 54 years of age?
+18 - 34....... 8[ ) –1] (CHECK QUOTAS)
+35 - 54....... ]–2]
+
+3. (RECORD, DO NOT ASK:)
+Male................... 9[ ) –1] (CHECK QUOTAS)
+Female............... ]–2]
+
+4. (RECORD, DO NOT ASK:)
+White.................. 10[ ) –1]
+Black.................. ]–2]
+
+5. Next, I’m going to read you a list of products. For each one I read, please tell me if you yourself use the product. The first one is... (READ IN ENTITE LIST ONE AT A TIME AND RECORD)
+
+Antacids............... Yes No ( )
+Aspirin................ ]–1] ( )
+Beer.................... ]–2] ( )
+Breakfast cereals..... ]–3] ( )
+Cigarettes............. ]–4] ( ) THANK AND TERMINATE
+Diet soda.............. ]–5] ( )
+Frozen vegetables...... ]–6] ( )
+
+WHEN ASKING Q.6 AND/OR Q.8, PROBE FOR EXACT OCCUPATION. IF JOURNALISM, PUBLIC RELATIONS, ADVERTISING, OR MARKETING ANSWERED IN EITHER DETAILED OR GENERAL, THANK RESPONDENT AND TERMINATE.
+
+6. Since we’re talking to people all across the country, we're interested in talking to a cross-section of people in different occupations. What is your occupation?
+(WRITE IN FULL)
+
+IF RESPONDENT GIVES A GENERAL OCCUPATION SUCH AS SALES OR MANUFACTURING, ASK: “Do you work in a plant involved in the production?” (TERMINATE IF RESPONDENT ANSWERS, "CIGARETTES")
+(WRITE IN EXACT TITLE)
+
+7. Are you married?
+Yes................... 9[ ) –1] No............... ]–2] Do not wish to say.... ]–3]
+
+2047085/42

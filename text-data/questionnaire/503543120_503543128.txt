@@ -1,0 +1,69 @@
+MARC
+
+STATE COUNTY CITY TELEPHONE NUMBER INTERVIEWER’S
+CODE CODE CODE NUMBER
+
+DATE TIME STARTED # OF MIN.
+TIME ENDED
+Hello. We are with M/A/R/C Consumer Research, an independent research company. We are conducting a survey and would like to include you or someone in your house-hold among the people we are talking to.
+
+1. How many adults 18 years old or older are there living in your household? (NO. OF ADULTS)
+
+2. (IF LESS THAN 2, SKIP TO Q. 3. OTHERWISE CONTINUE)
+To help us select a person for interview, please tell me the first initial of the sex of the adults in your house starting with the oldest first and going down to the youngest. (RECORD ON GRID BELOW)
+
+(FOR EACH PERSON ASK:)
+
+(RECORD SEX)
+2b. 1s (he/she) 18-34 years old or, 35 years older? (RECORD ON GRID BELOW)
+
+3. Does [he/she] smoke cigarettes? (IF NO, SKIP TO NEXT ADULT. IF NO ONE SMOKES, SKIP TO QUESTION NUMBER 4.)
+
+4. What brand of cigarettes does [he/she] smoke most often? (RECORD ON GRID BELOW)
+
+5. Is that a filter or non-filter cigarette? (RECORD ON GRID BELOW)
+
+6. And is that a menthol or non-menthol cigarette? (RECORD ON GRID BELOW)
+
+0.7 0.24 0.18 0.39 0.18
+1 2 3 4 5
+1 2 3 4 5
+1 2 3 4 5
+1 2 3 4 5
+1 2 3 4 5
+1 2 3 4 5
+1 2 3 4 5
+1 2 3 4 5
+1 2 3 4 5
+1 2 3 4 5
+
+(SKIP TO NEXT ADULT)
+SMOKER NO. (SA1, SA2, etc.) (FAILURE TO DETERMINE
+SMOKING STATUS WILL RESULT IN REJECTION)
+ANOTHER HOUSEHOLD MEMBER? YES NO
+
+7. Approximately how many cigarettes does [he/she] smoke per day? (NO. OF CIGARETTES)
+A full pack (approximately 20)
+Less than a full pack
+More than a full pack
+
+8.  Do you as a person smoke cigarettes?
+(IF NO, SKIP TO Q. 9.)
+
+(SKIP TO NEXT PERSON)
+SMOKER NO. (SA1, SA2, etc.) (FAILURE TO DETERMINE
+SMOKING STATUS WILL RESULT IN REJECTION)
+ANOTHER HOUSEHOLD MEMBER? YES NO
+
+9. What brand of cigarettes do you smoke most often? (RECORD ON GRID BELOW)
+
+10. Is that a filter or non-filter cigarette? (RECORD ON GRID BELOW)
+
+11. And is that a menthol or non-menthol cigarette? (RECORD ON GRID BELOW)
+
+0.7 0.24 0.18 0.39 0.18
+1 2 3 4 5
+1 2 3 4 5
+1 2 3 4 5
+
+SO5A 3120

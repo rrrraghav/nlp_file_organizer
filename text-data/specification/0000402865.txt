@@ -1,0 +1,161 @@
+RS-6398 (0411)
+
+SAMPLE SPECIFICATIONS/PILOT PLANT WORK REQUEST
+Date Rec'd.
+Approved by:
+Requesting Dept. No. EL-555
+Subject/Purpose:
+Merlin No.
+Current Grade (Specify)
+Analysis Code
+(Level 1)
+Analysis Code
+(Level 2)
+End Product Code
+(Level 3)
+Tobacco Code
+(Level 4)
+Skip No.
+Blend (Factory Yield)
+Casing
+Burley (Moisture %)
+Top Dressing
+Operation No. (HANDLD)
+Dort Code
+Menthol Ret. (%)
+Moisture (%)
+Nicotine (%)
+Reduction (%)
+Circulation
+Pressure Drop (Pi)
+Plug Wrap (mm)
+Plug Wrap (mm) (Corrected)
+Machine No.
+And Maker
+Line No.
+(Level 1)
+Line No.
+(Level 2)
+Line No.
+(Level 3)
+Line No.
+(Level 4)
+Blend (Factory Yield)
+Casing
+Burley (Moisture %)
+Top Dressing
+XFT-308-309
+Dort Code
+Menthol Ret. (%)
+Moisture (%)
+Nicotine (%)
+Reduction (%)
+Circulation
+Pressure Drop (Pi)
+Plug Wrap (mm)
+Plug Wrap (mm) (Corrected)
+Machine No.
+And Maker
+Line No.
+(Level 1)
+Line No.
+(Level 2)
+Line No.
+(Level 3)
+Line No.
+(Level 4)
+
+Requestor: D. SCHNEIDER
+Approved by: T.D. WARRICK
+Date Mfg.
+Requested By:
+Quality Required
+Quantity Requested
+4000s 4000s
+Marketing Research
+Tech Dept. L
+Superior - Color
+(Levels 4)
+26 30
+17 21
+Type (Dist. M.E.) [mm]
+Per-Pack Weight (Gms)
+Perm.-Act. (Corrected)
+Bobbin Width (mm)
+Filter Length (mm)
+V.O.L. (mm)
+Skip Size (12x12) (24/16)
+% Ventilation Ext.
+Plug Wrap (mm) (Corrected)
+Machine No.
+And Maker
+Line No.
+(Level 1)
+Line No.
+(Level 2)
+Line No.
+(Level 3)
+Line No.
+(Level 4)
+Type (Dist. M.E.) [mm]
+Per-Pack Weight (Gms)
+Perm.-Act. (Corrected)
+Bobbin Width (mm)
+Filter Length (mm)
+V.O.L. (mm)
+Skip Size (12x12) (24/16)
+% Ventilation Ext.
+Plug Wrap (mm) (Corrected)
+Machine No.
+And Maker
+Line No.
+(Level 1)
+Line No.
+(Level 2)
+Line No.
+(Level 3)
+Line No.
+(Level 4)
+
+43389 10% 1
+375 375
+255 255
+26 26
+255 255
+26 26
+255 255
+26 26
+255 255
+26 26
+255 255
+26 26
+255 255
+26 26
+255 255
+26 26
+
+RS-6398 (0411)
+SAMPLE SPECIFICATIONS/PILOT PLANT WORK REQUEST
+Date Rec'd.
+Approved by:
+Requesting Dept. No. EL-555
+Subject/Purpose:
+Merlin No.
+Current Grade (Specify)
+Analysis Code
+Analysis Code
+End Product Code
+Tobacco Code
+
+RS-6398 (0411)
+SAMPLE SPECIFICATIONS/PILOT PLANT WORK REQUEST
+Date Rec'd.
+Approved by:
+Requesting Dept. No. EL-555
+Subject/Purpose:
+Merlin No.
+Current Grade (Specify)
+Analysis Code
+Analysis Code
+End Product Code
+Tobacco Code

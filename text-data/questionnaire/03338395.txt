@@ -1,0 +1,52 @@
+QUICK FACTS/CALL
+(212) 243-0598
+VALIDATION CONTROL
+151-10-76
+JUNE 1976
+CIGARETTE STUDY
+(CALL BACK QUESTIONNAIRE)
+
+Hello [RESPONDENT’S NAME], I am calling from NPI Research Inc. We recently asked you four packs of cigarettes and would like to get your opinion of them. (IF RESPONDENT IS NOT AVAILABLE, FIND OUT WHEN HE/SHE WILL BE AVAILABLE.)
+
+Have you smoked any Kent Gold Lights Menthol packs I gave you on [DATE]?
+(6)
+YES  NO   (SKIP TO Q.1c)
+Why didn’t you smoke any of the packs I gave you? (ASK Q.1b)
+(7)
+
+[TERMINATE]
+(8)
+
+How many packs/cigarettes have you smoked? (IF LESS THAN ONE PACK, ASK Q.1d)
+(9)
+
+Why didn't you smoke more than (ANSWER TO Q.1c)?
+(10)
+(11)
+(12)
+[TERMINATE]
+(CIRCLE APPROPRIATE PACK COLOR RESPONDENT SMOKED)
+
+Based on your experience, how do you like Kent Golden Lights Menthol cigarettes? (PROBE FOR SPECIFICS)
+(13)
+(14)
+(15)
+
+And based on your experience, do you dislike about Kent Golden Lights Menthol cigarettes? (PROBE FOR SPECIFICS)
+(16)
+
+Have you ever smoked any other menthol cigarettes? (IF NO, SKIP TO Q.3)
+(17)
+
+Which ones? 
+(18)
+
+How often do you smoke them?
+(19)
+
+[TERMINATE]
+(20)
+
+
+
+033B395

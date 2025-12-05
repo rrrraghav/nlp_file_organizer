@@ -1,0 +1,66 @@
+TEST PANEL
+
+(LUBBOCK COMMUNICATIONS) Monitored by: SK 35
+(800) 479-6202 Edited by:
+Comp. Form
+
+
+
+7 9 4 3 0 2
+
+
+
+
+
+State Code County Code Sex/Age Area Code Telephone Number Interviewer
+11 17 18 20 22 23 24 25 26 27 28 29 30 31 32 33 34
+
+
+
+DATE ____/____/____ TIME STARTED TIME ENDED NO. OF MIN
+Hello, I’m _____ with W/A/R/C Consumer Research, an independent research company, calling long distance. We're conducting a survey on peoples use of consumer products and would like to include someone in your home 18 years of age or older among the people we are interviewing nation-wide.
+
+
+
+Doval ces
+#4-99-0500
+
+
+
+
+(36)
+Pre Wave . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 1
+Post Wave I . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 2
+Post Wave II . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 3
+
+(37)
+Test Market . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 1
+
+(38)
+Balance of U.S. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 2
+
+(39)
+Special Screening . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 1
+Random Selection . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 2
+
+1a. Have you smoked any cigarettes in the past seven days, or not?
+
+Yes (39)
+No (ASK FOR ANOTHER SCREENE) (40)
+IF NO, ASK & EXAMINE: 2
+( ) 7 ( ) 8 ( ) 9 ( ) 10 ( ) 11 ( ) 12 ( ) 13 ( ) 14
+
+1b. _____ many cigarettes do you usually smoke per day? Less than one (ASK FOR ANOTHER SCREENER) (41)
+DAILY SCREENER (42)
+
+
+
+0-15 (43)
+16-25 (44)
+26-39 (45)
+40 or more (46)
+
+
+
+
+(SLSA 10895

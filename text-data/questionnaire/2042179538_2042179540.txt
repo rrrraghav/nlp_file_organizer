@@ -1,0 +1,26 @@
+WINONA MRB, INC. (12-13)01
+8200 Humboldt Avenue South MUL DIRECT MARKETING
+Minneapolis, Minnesota 55431 TRIER RECONTACT
+JOB NO. 1602-90979
+NOVEMBER, 1989
+
+SMOKERS
+
+Market RESP. #: (See sample/callback form)
+Indianapolis .1 (03) (07-11)
+Portland .2 (See sample/callback form)
+(14-23)
+TELEPHONE #: (See sample/callback form)
+
+Hello, I’m _____ calling long distance from WINONA RESEARCH in Phoenix,
+Arizona. We are a national opinion research company and would like to conduct a brief
+interview with ____[READ NAME]_____.
+
+Person on phone . . . . .1 --> CONTINUE
+
+Person is available . . . . .2 --> REINTRODUCE YOURSELF AND CONTINUE
+
+Person is not available . . . .3 --> ARRANGE CALLBACK ON SAMPLE/CALLBACK
+FORM BELOW YELLOW LINE
+
+11/15/89/snc 2042179638

@@ -1,0 +1,24 @@
+PROJECT NUMBER: 1758
+PROJECT TITLE: Tobacco Cell Wall Research
+PROJECT LEADER: G. H. Bokelman
+PERIOD COVERED: July, 1987
+
+I. COMPOSITION OF DUST SAMPLES FROM THE CABARRUS PRIMARY (G. Bokelman and J. Stinler)
+
+A. Objective: Determine whether one or more components in the cigarette blend make disproportionately large contributions to the total amount of dust generated at the Primary in Cabarrus.
+
+B. Results: Using control blends, multiple linear regression analysis revealed that an accurate mathematical model for predicting the tobacco composition of these dust samples required only four predictor (or independent) variables: calcium, aspartic acid, B-methylvaleric acid (ratio of sample to standard) and cellulose index.
+
+C. Conclusions: It was found that there was a significant, but highly variable, content of sand in every dust sample. Comparison of the predicted compositions of the dust samples with the ratios of the cigarette blend components actually processed at the Cabarrus Primary led to a number of findings: (1) there is a relationship between collection site and composition of dust sample, (2) Oriental leaf appears to be the most friable of all the tobacco components, (3) bright lamina are, but burley lamina are the least friable tobacco components, and (4) stem, which is a major component of RL, has intermediate friability.
+
+In summary, there were two major conclusions: (1) Oriental leaf is the only tobacco component which has a disproportionately great tendency to form dust and (2) sand is prevalent in all dust samples.
+
+D. Plans: Analyses also will be run on another set of dust samples that has been requested from the Cabarrus Primary. In collaboration with Mary Ellen Gantz, a friability study will be run on DBC bright, DBC burley and RT uncased filler to see if supporting data can be obtained regarding the tendency of Oriental leaf to form dust. In addition, silicon analyses will be performed on a number of tobacco components in an effort to determine the source of the sand in the Primary.
+
+II. GEL PERMEATION CHROMATOGRAPHY OF DEGRADED CITRUS PECTIN (S. Baldwin)
+
+A. Objective: Determine the molecular weight distribution of one or more samples of degraded citrus pectin being considered for use as a binding agent.
+
+B. Background: All methods for determining the molecular weights of pectin give relatively values. For example, gel size exclusion chromatography is used to determine the average molecular weight.
+
+69

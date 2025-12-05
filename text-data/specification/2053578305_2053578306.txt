@@ -1,0 +1,58 @@
+Witco MATERIAL SAFETY DATA SHEET 005789
+
+N.F.P.A.
+
+
+
+SECTION I Page 1 of 2
+WITCO MANUFACTURING DIVISION OR SUBSIDIARY PRODUCT SA 824 5277
+Southwest Petro-Chem (Stewart Warner Alemite) EMERGENCY TELEPHONE
+ADDRESS NUMBER, STREET, CITY, STATE, ZIP CODE MANUFACTURER
+1400 South Harrison, Olathe, Kansas 66061 (913 ) 782-5800
+CHEMICAL NAME OR FAMILY FORMULA CHEM TREC 1-800-424-9300
+Petroleum Hydrocarbon Not Appropriate
+
+SECTION II - CHEMICAL AND PHYSICAL PROPERTIES
+Above VAPOR PRESSURE (mm Hg at 20°C) VAPOR DENSITY (AIR = 1) SPECIFIC GRAVITY (H₂O=1)
+BOILING PT. 149 °C 300°F Not Determined 0.940
+MELTING PT.  - °C - °F SOLUBILITY IN H₂O AT 25°C STRONG ACID ☐ STABLE ☑
+EVAPORATION RATE ( * ) UNSTABLE
+Not Determined Negligible PERCENT VOLATILE BY WT. %
+HAZARDOUS DECOMPOSITION PRODUCTS Not Determined
+Carbon Monoxide, Carbon Dioxide
+
+INCOMPATIBILITY (KEEP AWAY FROM)
+Strong oxidizing agents such as: Chromic Acid, Hydrogen Peroxide, Bromine.
+
+
+
+LIST ALL TOXIC AND HAZARDOUS INGREDIENTS
+
+
+
+
+SECTION III - FIRE AND EXPLOSION DATA
+Above C.O.C. Not Determined
+FLASH POINT (METHOD USED) 149 °C 300°F Carbon Dioxide FLAMMABLE LIMITS % LOWER UPPER
+EXTINGUISHING MEDIA  XY ORGANIC CHEMICALS X SELF WATERWAY ☑ Foam Waterfog, Sand, Earth
+SPECIAL FIRE FIGHTING PROCEDURES
+Firefighters should wear a self contained breathing apparatus.
+
+UNUSUAL FIRE AND EXPLOSION HAZARDS
+Dense smoke.
+
+
+
+SECTION IV - HEALTH HAZARD DATA
+PERMISSIBLE CONCENTRATIONS (AIR) EFFECTS OF OVEREXPOSURE
+Not established May cause skin and eye irritation with prolonged contact.
+
+TOXICOLOGICAL PROPERTIES
+EYES Flush with large amounts of water for at least 15 minutes. Call a physician.
+SKIN Contact will produce irritation. Wash affected area with soap and water. Call a physician
+if irritation persists.
+INGESTION  Not known.
+
+
+
+2035789305

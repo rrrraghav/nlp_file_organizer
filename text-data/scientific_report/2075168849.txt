@@ -1,0 +1,32 @@
+Philip Morris USA Confidential
+Print Date: 01/19/98 Page #: 1
+
+RESEARCH AND DEVELOPMENT
+CHEMICAL ANALYSIS SECTION
+SERVICE REQUEST DATA SHEET
+
+Submitter: M. HARRISON     Request Code: C98011
+Co-Submitter:                     Project Code:
+Loc: 4458
+Program : 700481
+Submitted On: 01/19/98 Completed On: 01/19/98
+
+Request Description:
+LICORICE & CHOCOLATE
+
+Glycyrrhizic Acid by LC     CSA K-1        CSA K-2
+Theobromine by LC            CANCEL       9.06
+                                 1.20          CANCEL
+
+Abbreviations: W.D. - Not Detected By Method Used I.S. - Insufficient Sample
+Comments: Ref: J97090
+
+Sample Description           Analytical Sample Preparation
+CSA K-1   LICORICE             NONE
+CSA K-2   LICORICE             NONE
+
+DOC-ID: P0622
+
+
+
+207516849

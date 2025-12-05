@@ -1,0 +1,37 @@
+RESEARCH AND DEVELOPMENT, NEUCHATEL - QUARTERLY REPORT
+
+DIVISION : PROCESS DEVELOPMENT
+SUBJECT TITLE : CEZZANNE
+PERIOD COVERED : JANUARY - MARCH 1987
+WRITTEN BY : Frattolillo-A. (ANF)
+KEYWORDS : amf, dryer, pmh, boz
+
+ABSTRACT
+--------------------
+Start-up of AMF Legg annular dryers in BOZ; trials and related evaluations.
+
+OBJECTIVE
+--------------------
+To qualify the AMF Legg annular dryers in BOZ on the Marlboro blend.
+
+During week 6, 1987, the start-up of two newly installed AMF Legg dryers took place at PMH-BOZ. Full assistance was given by R&D Process Development Neuchâtel, and representatives of the Engineering Group Richmond.
+
+On the basis of a program established by the local management and in order to find the best AMF dryer set-up, some fine-tuning trials were carried out prior to the test run. The results of these pre-trials were evaluated and the set-up parameters reviewed and finalized for a first test run (Batch No. 654) as shown below :
+
+AMF Dryer Set-up
+--------------------
+Tobacco flow        5’000 kg/h at 19.5% OV
+Hood pressure       4.0 %
+Pre-heat           0.5 bar
+Steam pressure coil  1.2 bar
+Pre-heat air flow   20 m min.
+Steam pressure (hot air unit) 6.5 bar
+Dryer sieve air supply 3.5 bar
+Pre-heat & booster
+air inlet temperature + 125 °C
+Exhaust air temperature + 65 °C
+Inlet tobacco OV     19.5 %
+Exit tobacco OV      12.9 %
+
+- 42 -
+202863932

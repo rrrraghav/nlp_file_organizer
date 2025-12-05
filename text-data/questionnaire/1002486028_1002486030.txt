@@ -1,0 +1,68 @@
+O'BRIEN-SHERWOOD ASSOCIATES INC.
+57-16 WOODSIDE AVENUE
+WOODSIDE, NEW YORK 11327
+
+Smoking Survey - Wave 3
+BJ-9
+
+Hello, I’m an interviewer from O’Brien-Sherwood Company. We are doing a survey on smoking.
+Do you smoke cigarettes? [IF "NO" TERMINATE]
+
+1. What is your regular brand of cigarettes, the brand you smoke most often?
+
+la. Is that the king size [ ], 100's [ ], 120’s [ ], or the very short ones [ ]?
+(Regular Not An Acceptable Answer)
+
+lb. Is that menthol [ ] or non-menthol [ ]?
+
+lc. And does it have the word "lights" or "milds" in its name? Yes No
+
+2. How long have you smoked that brand?
+
+3. Some brands come in more than one type or size. Before you started smoking (BRAND IN Q. 1.), were you smoking some other type or size of [THAT BRAND] or were you smoking
+some other brand? Same brand always same type and size (SKIP TO Q. 6)
+Same brand other type or size (ASK Q. 4.)
+Other brand (SKIP TO Q. 5.)
+
+4. What other type or size of (BRAND NAME) did you smoke most often before you started smoking this type and size?
+
+4a. Is that the king size [ ], 100’s [ ], 120's [ ], or the very short ones [ ]?
+(Regular Not an Acceptable Answer)
+
+4b. Is that menthol [ ] or non-menthol [ ]?
+
+4c. And does it have the word "lights" or "milds" in its name? Yes No (NOW SKIP TO Q. 6)
+
+5. What one brand did you smoke?
+
+5a. Is that the king size [ ], 100’s [ ], 120's [ ], or the very short ones [ ]?
+(Regular Not An Acceptable Answer)
+
+5b. Is that menthol [ ] or non-menthol [ ]?
+
+5c. And does it have the word "lights" or "milds" in its name? Yes No
+
+6. If there another brand that you smoke occasionally? Yes No (SKIP TO Q. 7)
+Or if “YES” - What brand is that?
+
+6a. Is that the king size [ ], 100’s [ ], 120's [ ], or the very short ones [ ]?
+
+6b. Is that menthol [ ] or non-menthol [ ]?
+
+6c. And does it have the word "lights" or "milds" in its name? Yes No
+
+7. About how many packs of cigarettes do you smoke each week? ____packs
+
+8. On average, how many cigarettes do you smoke per day? ____cigarettes
+
+9. Do you smoke at least 5 cigarettes a day? Yes No
+
+10. Do you work? Yes No
+If “YES” -  What kind of business or industry? ____
+Do you work in a factory? [ ] Do you work outdoors? [ ] Do you work near non-smokers? [ ]
+
+11. Considering your health, would you say that your smoking is: Excellent [ ], Good [ ], Fair [ ], Poor [ ] or Very Poor [ ]?
+
+
+
+100248628

@@ -1,0 +1,37 @@
+CTR PROGRESS REPORT
+
+Submit this form with Second Renewal only; do not submit with a First Renewal.
+
+1. Grant number 3644 2. Progress Period from 7/1/98 to 6/30/99
+(Period described in this report)
+
+3. Name of Investigator: Richard B. Gaynor
+
+4. Title of Original Grant: Characterization of the Cellular Transcription
+Factor TMF
+
+5. Abstract of the Specific Aims as stated in the original application:
+
+The TATA element is a critical regulatory region required for gene expression in a variety of organisms, promoted by RNA polymerase II. A cellular transcription factor designated TATA binding protein (TBP) binds and activates gene expression from the TATA element. In an attempt to identify other cellular factors that bind to the TATA element, we cloned a cellular factor that we designated TMF. TMF binds to a variety of viral and cellular TATA elements and functions as a negative regulator of TBP by preventing the binding of TBP. Chromosomal mapping of TMF indicates that it is a member of a gene family localized on chromosome 3p12-p21 which is a frequent site of deletions in lung and renal carcinoma. This region of chromosome 3 is the location of potential suppressor oncogenes.
+
+We wish to determine the role of TMF on regulating cellular gene expression and growth properties. The specific aims are: (1) To analyze the biochemical properties and regulation of TMF. (2) To assay the gene expression of TMF in normal and tumor tissue. (3) To characterize the genomic structure of TMF and related family members. (4) To determine the role of TMF on reversing the malignant properties of renal and lung carcinomas. These studies should be useful in determining the function of TMP and how it may be involved in regulating cellular growth properties.
+
+6. Report of Progress.
+
+Attach to this form no more than 4 pages describing your progress in the last 18 months. (Staple separately). Do not staple or affix this CTR Progress Report to the Application Form.)
+
+7. List all publications (author, title and journal) resulting from the current CTR award that contain a printed acknowledgement of CTR support.
+
+For manuscripts, the designation "in press" means you have a preprint; otherwise use “accepted for publication by…”
+
+Do not list publications that do not acknowledge CTR support.
+
+Seelver J-S., Muchard C., Susse A., and Gaynor R.B.: Activation of HIV-1 gene expression by the cellular transcription factor PRDI-BF1. J. Virology 68:1002-1009, 1994.
+
+Qu A., Seelver J-S., Gaynor R.B., and Tian Y.: Identification of a novel human HL-60 cell line sensitive to interferon. Blut 59:278-283, 1994.
+
+Seelver J-S., Muchard C., Susse A., and Gaynor R.B.: The cellular transcription factor PRDI-BF1 is a negative regulator of HIV-1 gene expression. AIDS Research and Therapy 10(Suppl. 2): abstract 239, 1994.
+
+Gaynor R.B.: Transcription factors in human leukemia. Leukemia Research 18:1577-1579, 1994.
+
+(PRDI-BF1 is also known as TMF)
