@@ -7,4 +7,6 @@ numpy
 scikit-learn
 tensorflow
 transformers
+tf-keras
 keras
+torch

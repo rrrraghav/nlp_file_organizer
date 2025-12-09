@@ -10,6 +10,7 @@ Loads pre-trained models from disk:
 import pickle
 from pathlib import Path
 from typing import Tuple, Optional
+import torch
 
 # Optional imports
 try:
@@ -142,31 +143,74 @@ def load_tokenizer_and_rnn(models_dir: Path) -> Tuple[Optional[object], Optional
 def load_roberta(models_dir: Path, preset: Optional[str] = None) -> Optional[object]:
     """
     Load RoBERTa/HuggingFace model pipeline.
-    
+
     Args:
-        models_dir: Directory containing model files
-        preset: Optional model identifier (local path or HuggingFace model ID)
-        
+        models_dir: Directory containing model files (project-local).
+        preset: Optional model identifier (local path or HuggingFace model ID).
+                Can be a Path object or a string with an absolute path.
+
     Returns:
         Pipeline object or None if unavailable
     """
     if not HAS_TRANSFORMERS or pipeline is None:
+        print("transformers not available -> cannot load RoBERTa pipeline")
         return None
-    
+
+    device = 0 if torch.cuda.is_available() else -1  # GPU if available, else CPU
+
     try:
+        # If a preset is provided, treat it either as a local path or an HF id
         if preset:
-            # Load from preset (local path or HF model ID)
-            return pipeline("text-classification", model=str(preset), 
-                          tokenizer=str(preset), return_all_scores=True)
-        
-        # Try local roberta directory
-        local = models_dir / "roberta"
+            # accept Path or string
+            p = Path(preset)
+            if p.exists():
+                # local model folder -> pass as model and tokenizer to pipeline
+                return pipeline(
+                    "text-classification",
+                    model=str(p),
+                    tokenizer=str(p),
+                    return_all_scores=True,
+                    device=device,
+                )
+            else:
+                # preset is probably a HF model id (e.g. "distilroberta-base")
+                return pipeline(
+                    "text-classification",
+                    model=preset,
+                    tokenizer=preset,
+                    return_all_scores=True,
+                    device=device,
+                )
+
+        # No preset: try the most common local locations
+        # 1) models/roberta
+        local = Path(models_dir) / "roberta"
         if local.exists():
-            return pipeline("text-classification", model=str(local), 
-                          tokenizer=str(local), return_all_scores=True)
+            return pipeline(
+                "text-classification",
+                model=str(local),
+                tokenizer=str(local),
+                return_all_scores=True,
+                device=device,
+            )
+
+        # 2) models/RoBERTa-data/final_roberta_model (your provided structure)
+        alt = Path(models_dir) / "RoBERTa-data" / "final_roberta_model"
+        if alt.exists():
+            return pipeline(
+                "text-classification",
+                model=str(alt),
+                tokenizer=str(alt),
+                return_all_scores=True,
+                device=device,
+            )
+
     except Exception as e:
+        # keep a helpful message for debugging
         print(f"Warning: Failed to load RoBERTa model: {e}")
         return None
-    
+
+    # nothing found
     return None
+
 
