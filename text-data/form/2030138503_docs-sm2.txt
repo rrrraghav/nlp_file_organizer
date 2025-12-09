@@ -1,0 +1,54 @@
+CHEMICAL INVENTORY SHEET
+
+NOTE: An individual form must be completed for each chemical, product or substance inventoried, if container size or type differs, an additional inventory sheet must be completed. Confidential
+
+Accurate inventory requires that all of the following are answered:
+
+1. Date 11/1/92 2. Facility Name Philip Morris v. ABC
+3. Description Ional Station
+4. Site Location Park 500
+5. Trade Name As Appears on Label West Scientist Labs
+Iodine Solution .028%
+6. Other Common Name(s)
+7. Product/Catalog Number(s) LC 15630-2
+8. Manufacturer’s Name Lab Chem
+Address 860 William Pitt Way
+City Pittsburgh State PA Zip 15238 Telephone 412-824-5223
+9. Distributor's Name (if applicable)
+Address Regent Labs
+City City State Zip 61710 Telephone 1-800-766-7050
+
+10. Storage Area - Ground (Circle one code) 11. Storage Area - Building (Circle one code)
+A Above Ground B Below Ground Inside Building
+Outside Building
+
+12. Containers/Storage Type (Circle one code)
+A Above Ground Tank G Carboy N Glass Bottles or Jars
+B Bulk or Ground Tank H Silo O Plastic Bottles or Jugs
+C Tank Inside Building I Filter Drum P Tote Bin
+D Steel Drum J Bag/Box/Container Q Wall Container
+E Plastic or Non-Metallic Drum K Box R Rail Car
+F Can L Cylinder R Other
+
+15. Storage Conditions - Pressure (Circle one code) 14. Storage Conditions - Temperature (Circle one code)
+A Greater than Ambient Pressure (Absolute) A Ambient Temperature
+B Equal to Ambient Pressure C Less than Ambient Pressure B Greater than Ambient Temperature
+C Less than Ambient Pressure D Less than Ambient Temperature
+E Cryogenic Conditions
+
+16. Maximum Number Containers Stored 17. Container Capacity (Round)
+24 18. Average Daily Amount Stored - Pds (Round)
+19. Maximum Asset Stored ($) 20. No. of Days On-Site
+$3,112.00 21. No. of Cylinders On-Site
+22. U.F. Location(s) 23. Area/Room Location(s) 24. Hazard Class
+U.F. 258 Area 258 Room Flammable
+25. Is this material flammable? Yes 26. Is this material corrosive? No
+27. Is this material toxic? Yes 28. Is this material reactive? No
+29. Is this material radioactive? No 30. Is this material an oxidizer? No
+31. Other Hazards (e.g., pressure, cryogenic) 32. Special Precautions
+None None
+
+33. Name of Person Completing Form
+Robert A. Klinger
+Signature Date 11/1/92
+34. Title Environmental Health & Safety Specialist

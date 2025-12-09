@@ -1,0 +1,61 @@
+CRC CONTRACT RESEARCH CENTER
+
+FORM NO. 11 27-CW 98 SIL/MCM                                    Form approved:
+07-86
+
+GROUP AND INDIVIDUAL IN-LIFE OBSERVATIONS   PROJECT NO.: B3277
+
+Group code: 0016 Day of study: 62    Date: 6/Aug. 97
+
+GROUP                                     MALES       FEMALES
+Time                                       ☐             ☐
+Total number of rats                         20            ☐
+Decreased spontaneous activity                ☐             ☐
+Trembling                                    ☐             ☐
+Partially or fully closed eyelids              ☐             ☐
+Harderian gland secretion                     ☐             ☐
+Partially or fully wet or moist fur           ☐             ☐
+Abnormal breathing                            ☐             ☐
+INDIVIDUAL                                 0016 0018 0020 0026
+Rat number                                  07    07     07      07
+Sex                                         M       F        M       F
+Time                                        11:36 11:36 11:36 11:36
+
+SCORE                                     ☐             ☐
+Spontaneous activity°                         ☐             ☐
+Reaction to sound/touch °                     ☐             ☐
+Decreased turning reflex °                    ☐             ☐
+Decreased gripping ability °                  ☐             ☐
+Closed eyelids °                              ☐             ☐
+Harderian gland secretion °                   ☐             ☐
+Trembling °                                  ☐             ☐
+Abnormal breathing                            ☐             ☐
+
+CHECK°                                     ☐             ☐
+Hair changes: rough                          ☐             ☐
+moist/wet (%)                             ☐             ☐
+discoloration (e.g., yellow/brown)           ☐             ☐
+hairloss (%)                                ☐             ☐
+Skin changes                                 ☐             ☐
+Wounds                                       ☐             ☐
+High-legged gait                             ☐             ☐
+Incisions                                    ☐             ☐
+
+REMARKS                                     ☐             ☐
+
+
+
+2505119474
+
+Error codes: A. writing, B. calculation, C. mixing
+D. reading, E. Copy, F - other with explanation
+
+crock report
+04 AUG 1997
+
+° Grades: 0 = normal, +1 = slight decrease, -2 = marked decrease, -3 = strong decrease
++1 = slight increase, +2 = marked increase, +3 = strong increase
+° Grades: 0 = normal, +1 = slight, +2 = marked, +3 = severe
+° coc. Check
+
+002563

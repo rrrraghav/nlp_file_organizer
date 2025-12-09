@@ -1,0 +1,34 @@
+Date: October 22, 1999 WSA CATEGORIZATION FORM
+Title: Nicotine carcinogenicity Reviewer: Dr. Roger Walk
+
+Related to: Health/Safety Regulatory Product Change Credibility
+
+Completeness of Scientific Information Review 1 2 3 4 5 Not Reviewed
+Systems of Internal Knowledge 1 2 3 4 5 Not Reviewed
+
+Scientific Evaluation: Quality 1 2 3 4 5 Completeness 1 2 3 4 5
+(Click on gray area to begin entering text. Do not use hard returns. You are limited to 1000 characters.)
+Single study by Bock reported indications for co-carcinogenicity effect, not clear whether study was repeated;
+huge number of in vitro genotoxic studies with indications for genotoxicity; nicotine is cytotoxic in some in vitro
+
+Potential Contribution to a PM Smoking/Health Program: 1 2 3 4 5
+Importance: (Click on gray area to begin entering text. Do not use hard returns. You are limited to 750 characters.)
+Reduction of tar/nicotine programs as required by some regulations
+
+PROPOSITIONS
+
+Monitor Literature Type: Inhalation studies, combustion effects
+Research Type:
+Likely to be done elsewhere Type:
+Product Modification Effort Type:
+Company Position Type:
+Other:
+Anticipated Duration of Work: 2 years
+
+Justification (Click on gray area to begin entering text. Do not use hard returns. You are limited to 750 characters.)
+Due diligence, position should clearly what the significance of the Bock data is
+
+CRITICAL MODERATE LOW
+Doc Code: P6821 1 = Low 5 = High
+
+2078562901

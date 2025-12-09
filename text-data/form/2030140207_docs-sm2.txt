@@ -1,0 +1,42 @@
+Worksheet
+
+DATE: 12-24-02
+TECHNICIAN C. Riel
+
+WILSCO-MIVS Test Study
+
+# VOLATILE SOLIDS Total Solids, ppm
+& Volatile Solids
+
+Foamster
+1. Use foam only as applicable, not hot.
+2. Do not use with the Total Solids microwave.
+3. Find efficient composite does not use the microwave.
+
+SAMPLE TIME (A) VOLUME
+(B) WEIGHT
+(C) WEIGHT OF
+(D) TOTAL
+(E) % VOLATILE
+SOLIDS
+of Sample, gms. of Filtered & Dried SAMPLE, gms. FILTERED SAMPLE, gms. SOLIDS (4-8) ppm (4-8) x 100
+
+B-365 @ 09:05 10.61 0.1152 0.1152 2178 0.1204 82.3 % 82.3%
+B-366 @ 09:07 10.61 0.1152 0.1152 2178 0.1204 82.3 % 82.3%
+B-367 @ 09:09 10.61 0.1466 0.1147 2955 0.1203 82.6 % 82.6%
+B-368 @ 09:11 10.61 0.1466 0.1147 2955 0.1203 82.6 % 82.6%
+B-369 @ 09:13 10.56 83:2187 83:2187 29465 83:2187 -0.0003 82.5%
+
+B-342 @ 09:15 10.56 73:1167 73:1167 29465 73:1167 82.3%
+B-343 @ 09:17 10.56 83:6097 83:5577 29465 83:5650 82.5%
+B-344 @ 09:19 10.56 93:5697 93:5577 29465 93:5650 82.5%
+B-345 @ 09:21 10.56 82.3 %
+
+Note: Coating fixed to 5 mm film for the New Model
+
+Confidential
+Philip Morris V ABC
+
+
+
+2030140207

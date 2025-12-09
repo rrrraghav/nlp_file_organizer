@@ -1,0 +1,9 @@
+TRANSMISSION REPORT
+************************************
+MM MEDIA DEPT ( MAR 15 '99 02:30PM )
+------------------------------------
+DATE START REMOTE TERMINAL MODE TIME RESULTS TOTAL FILE
+TIME IDENTIFICATION PAGES CODE NO.
+MAR 15 02:29PM REDBOOK ADVERTISING G3EST 01:12" OK 84
+************************************
+20840691

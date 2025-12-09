@@ -1,0 +1,30 @@
+RJR INTEROFFICE MEMORANDUM
+
+Subject: Weekly Highlights Date: June 27, 1984
+R&D Scientific Information
+Services Library.
+
+To: D. H. Pfehl From: R. D. Ralph
+
+ITEM FOR WEEKLY BRIEF
+
+o The R&D Scientific Information Services Library is participating in the beta testing of a telecommunications software package, "SEARCHMASTER," developed by SDC Search Services. The package allows experienced on-line searchers to build a number of search “prompts” which be used by novice searchers to access external databases without any prior knowledge of them. Four of the major online vendor systems are accommodated by the package. Beta testing will continue until July 18. 331/32
+
+ITEMS OF GENERAL INTEREST
+
+o Summer students were helping to evaluate the documents in our “maniple” files. The first pass should be completed by the fall. Much of the material is redundant of documents already in the permanent collection. A good portion of that remaining is out-of-date and will be discarded. When the reviews complete the surviving documents will be microfilmed and discarded.
+
+o A third BioSite MacroBITS tape containing 550 citations has been put up onto disk in the HP3000. The citations are ready for programmatic conversion for automated entry into MINISIS.
+
+o The old RDLIB database has been destroyed. All records have been transferred into existing databases.
+
+o Hilda Foster and I attended the first session of the basic TDP course Friday. The second session is scheduled for Monday.
+
+o Pam Nelson left us this week to join the staff of the Technical Company. We wish her well and will miss her very much.
+
+
+
+R. D. Ralph, Sr. R&D Literature Scientist
+
+X: R&D Technical Services Managers
+RO: R&D Scientific Information Services Library Staff 508016

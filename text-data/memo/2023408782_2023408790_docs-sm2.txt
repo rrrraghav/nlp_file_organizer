@@ -1,0 +1,16 @@
+PHILIP MORRIS U. S. A.
+
+INTER-OFFICE CORRESPONDENCE
+Richmond, Virginia
+
+To: Ms. R. D. Kinser Date: 4 April 1991.
+From: A. H. Warfield, S. A. Haut, C. K. Keene, and W. R. Morgan
+Subject: Current Theoretical Considerations on the Origin of MS NNK from Water-Washed Fillers and BaseweBs
+
+Hot water washing (as in the RL process) results in base webs (BWs) with greatly reduced MS NNK and NAT levels relative to corresponding levels from feedstocks, but MS NNK levels are not reduced by this process. The same phenomenon occurs when cut filler is exhaustively washed with water at room temperature. The MS NNK delivered by water-washed fillers and BWs has been referred to as pyrosynthetic NNK.
+
+The pyrosynthetic formation of TSNAs in MS smoke has been studied for several years by Project 6908.¹ Although not included in official documentation previously, the most common hypothesis used to explain the failure of water extraction to remove the source of MS NNK was as follows: there is a reaction which amine precursor remaining in the extracted filler which reacts with a nitrosating agent, also derived from a water-insoluble source, to form NNK. The water-insoluble amine precursor undergoes pyrolysis cleavage, either before or after nitrosation, and then the NNK transfers to MS. Alternatively, bound nicotine itself may be nitrosated during smoking. None of the above theories include any explanation of how or when these MS NNK precursors are formed. As a result of recent discussions in Project 6908, a new hypothesis has been advanced which encompasses most of the previous theories as well as some new ideas. The current hypothesis is stated below:
+
+Some of the nicotine present in tobacco becomes bound before curing is complete. Part of the bound nicotine is oxidized to bound pseudonicotine (PNS) or related NNK precursor, and a small portion of this bound pseudonicotine is nitrosated during to yield bound NNK, while a portion may remain in nitrosatable form. Water extraction does not remove all bound NNK or the remaining bound NNK precursors. NNK is released from the bound form and is also pyrolyzed from bound partially NNK precursors (or bound nicotine) during smoking and then the released bound NNK transfers as MS (or no decomposition)
+
+In the remainder of this memo, the derivation of the above hypothesis described with plans that have been made to support or disprove the accompanying theory presented.

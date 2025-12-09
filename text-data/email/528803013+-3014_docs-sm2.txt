@@ -1,0 +1,36 @@
+From: Reavis, Mary D.
+
+To: Crotts, Debbie; Ferrell, Henry B.; Gillespie, Ron; Kreeger, Billy; Jones, Jim R.; Keegan, Mary Jo; Kennedy, Jerry W.; Cole, Ron W.; Ainsworth, W.E. (Gene); Anderson, J. Stanley; Cook, Bruce A.; Dobbins, Judy; Drew, Chris G.; Ellis, Maurine P.; Evans, Glenda M.; Foreman, James S.; Freeman, Harvey W.; Grissler, Cindy M.; Hatch, Pat; Hemric, Jackie; Holmes, Mona H.; Hyde, Timothy N.; Lowstetter, Jean S.; Calhoun, Alan B.; Farmer, Joseph S.; Gaillard, Ralph C.; Gunzenhauser, Chris J.; Hein, Carl; Jones, Mickey L.; Blixit, Charles A.; Donahue, Dan W.; Earle, K. Bradford; Adams, Walter P.; Beck, Steve; Bennett, Rex; Berrier, Ken; Bonfil, Hubert F.; Brooks, Paul (Phil) R.; Cloud, Betty J.; Dalton, Robert L.; Davis, Dave; Daugherty, William E.; Hauser, Dennis S.; Hicks, Donna R.; Holley, Ernest S.; Hoss, Brad J.; Hunter, Vince V.; Isley, James T.; Jackson, Mark E.; Jarrell, Michael W.; Kallam, Denny G.; Lane, Lynn L.; Lawrence, C. Thomas (Buddy); Love, William G.; Brevard, George P., Brown, R. Allen; Casey, R. E.; Edens, Mike S.; Hood, Vernon H.; Hooven, Bobby W.; Hunter, Bob E.; Ayers, Moor <AM> 2142; Cook, Floyd <KAM> 2142; Flory, Bob <AB> 6000; Hennessy, Gary <AM> 1146; Jamison, Mark <AM> 2142; Angell, John R.; Handy, Vernon *; Jones, Steve B. *
+
+CC:
+BCC:
+
+Primary Date: 5/7/1996 12:55:00 PM
+Last Modified Date: 2001-Nov-20 00:27:49
+Last Touched Date:
+Sent Date: 1996-May-07 12:52:00
+Received Date: 1996-May-07 12:55:00
+Subject: CORRECTION: Company Cellular Phone PIN
+
+Attachments:
+
+RIIT Circular User:
+
+Effective Monday, July 7, 1996, RIIT will be using a new technology with an improved, more secure cellular phone PIN. This new PIN feature is designed to protect company property and prevent unauthorized use.
+
+The existing PIN, which is set to expire on that date, is the first four digits of your Social Security number, ten times. For example, if your social security card begins with 1234, your PIN will be 123412341234.
+
+We are implementing a new system that requires you to create a new, personal PIN. This new PIN must:
+
+*   Be between 6 and 12 digits long
+*   Not be easily guessable (birthdays, anniversaries, etc.)
+*   Not be the same as your old PIN
+
+To set up your new PIN, please visit http://www.riit.com/pin by Friday, May 10, 1996.
+
+If you have any questions, please contact RIIT User Support at 704-372-5888.
+
+Thank you,
+
+Mary D. Reavis
+704/372-5888

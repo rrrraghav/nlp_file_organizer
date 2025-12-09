@@ -1,0 +1,80 @@
+COPY
+
+
+
+DATE 5-1-93
+Technician Kelly
+
+% SUSPENDED SOLIDS, ppm
+TOTAL SOLIDS, ppm
+% VOLATILE SOLIDS
+
+Footnotes:
+1. Also known as (VSS) (odors suspended solids.)
+2. Include weights only as applicable, may not
+be necessary with microwave.
+3. Find ethanol composite does not use the microwave.
+
+
+
+SAMPLE TIME  (a)
+SAMPLE VOLUME
+NO.   mL
+3     5
+
+(b)
+WEIGHT
+of FILTER
+& RESIDUE
+(g)
+
+(c)
+TS
+(TOTAL SSS)
+(g x 10 ppm)
+
+(d)
+WT OF
+FILTER
++ CRUCIBLE
+& ASSAYED
+SAMPLE (g)
+
+(e)
+TOTAL
+% SOLIDS
+(d-b) x 10
+ppm
+
+(f)
+% VOLATILES
+((c-e)/c)x 100
+
+
+
+3.  Tank sample 8:30 AM   .64    .579     2.1
+11:30 AM Tank #2 13:30 PM .64   .579      2.1
+
+Blank   1095       .579
+Sample 1  1095   .579 - .112    .467
+Sample 2  1095   .579 - .112     .467
+Sample 3  1095   .579 - .187   1.712
+Sample 4  1095   .579 - .187    1.712
+Sample 5  1095   .579 - .187     1.712
+Blank   1095   .579 - .187      1.712
+.658- .035 = .623    .74%
+
+
+
+Note: See bottom of this page for % Recovery calculation of solids.
+
+
+
+
+
+Confidential
+Philip Morris N.ABC,
+
+
+
+2030146144

@@ -1,0 +1,47 @@
+Parameter: Dissolved Oxygen
+Method: Electrode
+12/17/90
+
+VAOO_
+
+1. If samples are collected, is collection carried out with
+   a minimum of turbulence and air bubble formation?
+
+2. If samples are collected, is the sample bottle allowed to
+   overflow several times its volume?
+
+3. Is analysis performed immediately (within 15 minutes)?
+
+4. Are meter and electrode operable and providing
+   consistent readings?
+
+5. Is membrane in good condition without trapped air bubbles?
+
+6. Is correct filling solution used in electrode?
+
+7. Is meter calibrated before use or at least daily?
+
+8. Is calibration procedure performed according to
+   manufacturer’s instructions? fol low all instr...
+
+9. Is sample stirred during analysis?
+
+10. Is the sample analysis procedure performed according
+    to manufacturer's instructions?
+
+11. Is meter stabilized before reading D.O.?
+
+12. Is electrode stored according to manufacturer’s instructions?
+   Keep...
+
+Comments:
+
+
+
+Rating: o Satisfactory o Qualified o Unsatisfactory
+
+Problems:
+
+
+
+2030162652

@@ -1,0 +1,29 @@
+DECISION TREE ESTIMATION OF TOXIC RISK
+
+NAME DATE
+J. R. Reid, P. D. Schickedantz September 24, 1980
+
+COMPOUND NAME
+Ethyl 3-Hydroxy-4-methylpentanoate
+
+STRUCTURE
+
+
+
+ESTIMATED TOXICITY CLASS   LORILLARD COMPOUND CODE NUMBER
+I       A18
+
+COMMENTS
+This ester of a simple aliphatic hydroxy acid was estimated as being
+in the toxicity class I category.
+
+
+
+
+00934638
+
+
+
+
+
+LORILLARD RESEARCH CENTER FORM 115 80

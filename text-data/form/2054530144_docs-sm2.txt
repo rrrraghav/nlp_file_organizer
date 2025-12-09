@@ -1,0 +1,43 @@
+EXHIBIT 2
+
+RECORDS INVENTORY FORM
+
+Inventoried by: S.R. Metmeier Telephone: 137 Date:
+Department Code: 02MF0161
+Location Code: 16138
+Record Category Code: MP419 Vital (Y/N):
+
+***********************************************************************
+* COMPLETE 1 FORM FOR EACH RECORD CATEGORY CODE WITHIN EACH LOCATION *
+***********************************************************************
+
+
+
+File Sequence Media Year Dates
+Structure + Shear drawings
+Material Specs
+Material Use - Overalls
+Disposal
+11
+
+
+
+
+Form Received By (Records Coordinator): KEY TO MEDIA CODES:
+A = Audio Tape
+B = Blueprint/Drawing
+C = Computer Tape Cartridge
+D = Diskette
+H = Hard Disk
+M = Microfiche/Jackets
+O = Optical (Laser) Disk
+P = Paper
+R = Microfilm Roll
+S = Slide
+V = Video Tape
+X = X-Ray
+
+Date Received: 205438014
+
+
+

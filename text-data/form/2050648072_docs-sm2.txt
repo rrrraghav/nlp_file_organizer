@@ -1,0 +1,33 @@
+TECHNICIAN REPORT DATE: Aug 26 1993
+
+PRODUCT DESIGNATION RLBT RLT Domestic Export
+
+LINE ONE
+LINE TWO
+
+1-7 7-3 3-11
+1. Complete Accountability logsheet. ✓ ✓
+2. Clean Auto - Analyzer aisle ✓ ✓
+3. Clean IA and Grinder Room ✓
+4. Clean GC / HPLC aisle ✓ ✓
+5. Clean Middle (solubles) aisle ✓
+6. Clean Grinders. ✓
+7. Make-up Bottle Cart ✓
+8. Samples pending. YES/NO YES/NO YES/NO
+
+Technician Shift
+11pm - 7am BA W B D
+7am - 3pm RON/OLS A
+3pm - 11pm Mery | C
+
+COMMENTS:
+Problems in Machine room at first of
+shift with doctor blade. Down @ 2 hours
+Cleaned behind blade and changed reel
+running better
+7-3" Line up from previous shift @ 1804
+3-11 ncv
+
+AUTHORS RPT WKS
+REV 5/90
+205063072

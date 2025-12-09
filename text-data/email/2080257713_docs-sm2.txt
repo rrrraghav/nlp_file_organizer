@@ -1,0 +1,42 @@
+Rittweger, Karen 1
+
+208025713
+
+From: Andrew Browning [Andrew.Browning@chf-leoburnett.com]
+Sent: Thursday, July 13, 2000 9:40 AM
+To: Karen.Rittweger@gmusacom; Kristen Lyon@gmusacom
+Cc: Cheryl.L.Singletary@gmusacom; Helene.Bolanos@gmusacom; Loren.L.Kelley@gmusacom;
+ Margaret.C.Rush@gmusacom; Mark.A.Cavone@gmusacom; Sonya.C.Rush@gmusacom
+Subject: Marlboro Midas on the Database
+
+Karen,
+
+In order to add “Midas” to the survey three things will need to occur.
+
+1. The survey template will need to be updated. I am working with the Corporate group on timing for the update but their initial response is that it would take approximately one week.
+
+2. The database will need to be updated to capture the new information. This would only take 24 hours to complete. In regards to setting a default for Marlboro Midas to Menthol. At the present time Suppliers do not handle default logic due to data quality concerns. We are requesting that you set Marlboro Midas as the default in the database then an alert/no response would be considered Menthol if the database can not handle combination defaults. This is a change that is being investigated and
+
+You only need to set Marlboro Midas (if someone writes that as
+"Midas" they are referring to menthol)
+
+3. The data entry suppliers would need to update their programs to allow for this new value on the retailer level question. I have spoken with Fullintent about timing, and due to significant programming requests and issues already on the priority list, they estimate it will take approximately two weeks to complete this. Thus, we would not recommend changing the survey until after this point in time.
+
+In regards to your second question concerning the Regular Brand Question. The suppliers are currently set up to capture all brands. We have been asked to investigate whether or not Marlboro is being captured as a brand on the survey. This is, in fact,
+only for Marlboro Brands given it is tied into an Audit process that the Tarleton group and I are working on.
+
+To ensure we are all aligned, can you please confirm when you expect these three items to be completed? Please let me know if you would like me to follow up with any of these individuals directly.
+
+In the meantime, if you have any questions, please don't hesitate to contact me.
+
+Thanks,
+
+Andrew Browning
+
+Senior Data Analyst
+
+CHF + Leob Burnett
+
+5525 North Park Drive
+Irvine, CA 92618
+(714) 263-4000

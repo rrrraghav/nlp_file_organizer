@@ -1,0 +1,55 @@
+SOLICITATION
+
+INTERNAL CORRESPONDENCE
+
+COPY
+
+TO: J. L. BARSTOW
+DEPT. C.C.O.
+FROM: R. L. GOODWIN /7/
+SUBJECT: SCREEN SIZES FOR SMALL STACK FORMAT
+
+DATE: JULY 16, 1977
+
+Thank you in sending your current design specifications for
+removal of small stack as a screening device.
+
+We concur and would recommend starting with a 6 inch size screen.
+Our operating experience is gained in using thin metal strip material,
+so we suggest the initial size be a standard one. This should be
+allowed for in our budget.
+
+The table below gives the screen specifications for the 6 inch size as
+well as for some of the potential future sizes. All are based on
+a 0.012 inch thick wire cloth specification. Stainless steel screen
+surfaces should be used to all cases.
+
+TABLE I
+
+STANDARD MESH WIRE CLOTH SPECIFICATIONS
+
+MESH Opening Wire Diameter 2 Open
+SIZE (In.) (In.) Area
+6
+0.048
+0.012
+65.6
+4
+0.033
+0.012
+76.0
+2
+0.020
+0.012
+79.6
+
+
+
+Dave Stoller
+R. L. G.
+
+M.S.
+
+
+
+65507 0 6 7 6

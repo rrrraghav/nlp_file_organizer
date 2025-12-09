@@ -1,0 +1,43 @@
+HRC
+
+COMPOUND PHYSICAL PARAMETERS
+
+FILE NUMBER LOT NUMBER
+B158
+PHYSICAL STATE
+Clear colorless liquid
+pH
+The pH of a 50% concentration of B158 in 73.6% dioxane/water solution was
+calculated to be 5.2 at 25°C according to the extrapolation procedure
+of Dr. P.D. Grieder, Lorillard Research Center, Accession Number
+1662. Reference OR110-14.
+
+SPECIFIC GRAVITY
+The specific gravity of B158 at 25°C is 0.897–0.910.
+
+SOLUBILITY
+MISSIBLE SOLVENTS
+B158 is soluble in ethanol at 0.2 g/mL, with stirring, at room temperature.
+Reference BC20-69.
+
+B158 is soluble in corn oil at 0.5 g/0.5 mL, with stirring, at room
+temperature. Reference BC20-69.
+
+CNS
+B158 is soluble in corn oil at 0.5 g/0.5 mL, with stirring, at room
+temperature. Reference BC20-69.
+
+ACUTE CARDIOVASCULAR
+B158 is insoluble for this procedure. Reference BC30-101.
+
+STORAGE RECOMMENDATIONS
+Refrigerate in amber glass bottle at no more than 8°C.
+
+COMPOUND SENSITIVE TO
+□ AIR □ HEAT □ MOISTURE □ OTHER
+
+SAFETY COMMENTS (SUGGESTED HANDLING PROCEDURE)
+
+87452638
+Signed, by Elizabeth M. Cleage Date October 26, 1987
+LORILLARD RESEARCH CENTER FORM E-1033

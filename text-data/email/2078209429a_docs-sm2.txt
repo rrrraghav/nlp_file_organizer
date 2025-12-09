@@ -1,0 +1,26 @@
+Original Message
+From: SRB14
+Sent: Sunday, October 17, 1999 10:58 PM
+To: Sherrill, Bobby E.
+Cc: New Wells, KA# Customer #
+Subject:
+
+2078309429A
+
+Joe-
+
+Per our conversation regarding old wholesale account # 53710 ( Box Wholesale) being purchased by Discount Distributors, and the new KA# 59067 matching with new customer number.
+
+The account has been ordering product from CS as usual, however they have been ordering under old# 53710. Richmond CS currently has #53710 as
+Discount Distributors customer #. This is a huge problem for the account receiving credit for purchases when their Midas KA# is 59067.
+
+I spoke with Bobby Sherrill Accts. Receivable Supervisor / Richmond CS, and they are currently receiving Discount Dist. #2 orders under #53710 ( sold to, ship to) and paying the bills is #39815 ( bill to, payer) Discount Distributors parent company.
+We need an interface built in to get the exchange for credit of purchases from 53710 to 59067....
+
+I am needing some direction to get this corrected in Richmond and ensure PM STARS is receiving the tapes with the correct KA#. purchases.
+
+Help.....
+Jim Krebs
+918-254-0500 ext.17
+
+3

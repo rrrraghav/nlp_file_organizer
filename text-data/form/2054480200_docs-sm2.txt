@@ -1,0 +1,39 @@
+06MFPS76
+40264
+N70012
+
+RECORDS INVENTORY FORM
+
+Inventoried by: Gloria Stephan Telephone: 788-5263 Date: 10-14-91
+
+Location of Records: File Cabinet Against Right Wall In Primary (N70012)
+
+Cost Center #: N-72, L68 Cost Center Name: Quality Assurance
+
+Record Category Code: Library & Reference Vital (Y/N):
+
+**************************************************************************
+* COMPLETE 1 FORM FOR EACH RECORD CATEGORY CODE WITHIN EACH LOCATION *
+**************************************************************************
+
+Sequence of File Titles Media & Year Dates
+Volume
+
+Safety Audits Statistics P 1991
+
+Accident Analysis, Accident/Incident Report P 1991
+
+
+
+Form Received By (Records Coordinator): KEY TO MEDIA CODES (VOLUME): A = Audio Tape (Each)
+C = Computer Tape Cartridge (Each)
+D = Disketta (Each)
+H = Hard Disk (Each)
+M = Microfiche (Inches)
+P = Paper (Inches)
+R = Microfilm Roll (Each)
+S = Slides (Inches)
+V = Video Tape (Each)
+X = X-Rays (Inches)
+
+Date Received: 20543000

@@ -1,0 +1,50 @@
+FORM 41077
+P&M INC. REV. 9/80
+
+Philip Morris Incorporated
+Records Management
+Operating Company
+PW USA
+
+RECORDS RETENTION SCHEDULE
+
+LOCATION
+NEW YORK OFFICE
+
+FUNCTION/SUBSECTION – FLEET
+MARKETING ADMINISTRATION
+
+RECORD TITLE             RETENTION PERIOD
+                                    ON-SITE   OFF-SITE    TOTAL
+                                 ORSA      CARLSTADT
+( ) CORRESPONDENCE          CUR 1        2         CUR 3
+FLEET FILES - ACTIVE %       TER           TER        TER
+AUTO ACCIDENT – INACTIVE
+SYSTEM FILES – PENDING
+MONTHLY BILLINGS & EXPENSE
+MONTHLY BILLINGS : LEASING
+COMPUTER HARDCOPY LISTINGS
+OF PARTS
+
+12 mos.   6      6     12 mos.
+                                CUR
+                                SUP
+
+REMARKS
+Do not destroy until completion of IRS Income Tax Audit.
+After resolved, file is placed in car file.
+Official copy in Corp. Finance Acct. Dept.
+
+Key to Codes
+CUR = Current Year
+SUP = Until Superseded
+TER = Terminated
+ORSA = Onsite Retrieval Storage Effective 1982
+
+Authorization
+
+Department Head
+Philip Morris Corporate
+Records Management
+Date: 7/16/85
+Signature:  Approve

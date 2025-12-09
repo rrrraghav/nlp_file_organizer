@@ -1,0 +1,68 @@
+PARK RD - STOCK INVENTORY FORM
+
+ACTUAL UNIT COST:
+T. T.
+(TO CONNECT ZONE AND TIP)
+VENDOR CODE:
+
+SLIM CODE #
+Description (Describe Main Function): CLAMP
+
+Manufacturer & Mfg. Part Number (Do Not Abbreviate): H 079-020-0051/IST
+Commercial Part Number: N/L/T
+
+Machine or Equipment Part as Used On: (2442467) 5” CYCLEAN CLEANER
+
+Additional Information or Specifications:
+
+Estimated First Year Annual Usage: 5 Recommended Minimum Stock: 5
+OEM Manufacturer: BIRD EESCHER WYSS INC.
+Full Name & Address: MANSFIELD, MA 02048
+
+Equipment on which Part is used (use side if necessary) Equipment Description, Model # & Serial#
+Commercial Number: 5” BIRD CLEANER
+22-320 321
+22-325 324
+52-174 176
+
+Date Installed or Installed: 4/1/89
+Date of Equipment:
+Total Number of Machines Applications: 10
+
+Will Replace? Yes Other Mfg. Part Model #:
+Has Material Been Tested & Approved by QA?
+
+20305040
+
+
+
+Plant Area(s) to be used in:
+Emergency Situations? Yes
+Can Shop Make It? No
+Mech. or Elec. Shop? Mech.
+Can Vendor Repair? Yes
+Commercial Supplier: N/A
+(Full Name & Address)
+Originator: R. KARR Date: 4/2/89
+Orig. Supt: Date:
+Maint. Supt: Date:
+Maint. Mgr.: Date:
+
+Analysis Management Use ONLY
+
+
+
+VENDOR
+Yes X
+No X
+Mech. ✓
+Elec. ✓
+
+First RO #:
+Date Entered MRO:
+Final to Originator:
+Unit of Measure:
+
+
+
+SFIRM XL/S 02/31/93

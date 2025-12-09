@@ -1,0 +1,14 @@
+TRANSMISSION REPORT
+
+***************************************
+MM MEDIA DEPT ( NOV 23 '98 02:42PM )
+***************************************
+DATE START REMOTE TERMINAL MODE TIME RESULTS TOTAL DEPT. FILE
+TIME IDENTIFICATION PAGES CODE NO.
+NOV 23 02:42PM
+423755598 GST 01"29" OK 02
+***************************************
+
+
+
+267070176

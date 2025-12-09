@@ -1,0 +1,45 @@
+39.KW 90 WREMWO LAUF.NR.WM
+
+Erläuterungen zum Lauffezel! für Dokumente
+
+(1) Der Bezug auf dem Lauffezel! einigen (Report, Protocol, Application o. ä.).
+
+(2) Jede Weitergabe des Dokuments ist auf der Vorderseite durch Ausgabedatum beim Weitergebenden und Eingangdatum beim Empfänger mit Datum und Zeichen zu dokumentieren.
+
+(3) Die in der folgenden Tabelle aufgeführten Stationen sind für jedes Dokument in der angegebenen Reihenfolge zu durchlaufen und auf der Vorderseite des Lauffezel!s einzutragen. Treten geplante oder ungeplante Abweichungen auf, so müssen diese Abweichungen in der folgenden Tabelle vermerkt werden:
+
+STATION
+BEMERKUNG
+DATUM
+ZN
+
+Freigabe Autor
+
+Freigabe SD bzw. Coordinator
+
+Editierung
+
+DP-Meeting (a)
+
+GLP-Check
+
+Language-Check
+
+LR Standards-Prüfung
+
+QA-Freigabe
+
+Approval GM oder Reviewer
+
+Binden
+
+Versend
+
+(4) Der Lauffezel! ist Teil des Project Management Files (PMF), verbleibt bis zum Ausgang des Dokuments jedoch beim Dokument und wird erst danach im PMF eingeordnet.
+
+(a) Im Anschluß an das DP-Meeting werden die weiteren Stationen und der Reviewer festgelegt.
+
+
+
+24. Sep. 1980 QA
+2505106238

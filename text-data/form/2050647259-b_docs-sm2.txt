@@ -1,0 +1,34 @@
+TECHNICIAN REPORT DATE: July, 25 1993
+
+PRODUCT DESIGNATION RLBT RLT Domestic Export
+LINE ONE X
+LINE TWO
+LINE THREE
+
+1. Complete Accountability logsheet. 11-7 7-3 3-11
+2. Clean Auto-Analyzer aisle Yes
+3. Clean IA and Grinder Room Yes
+4. Clean Middle side and GC/HPLC area. Yes
+5. Clean Finished Sheet Grinders. No
+6. Clean Base Web Grinders. No
+7. Make-up Bottle Cart. No
+8. Samples pending.
+
+Technician YES / NO YES / NO YES / NO
+11pm - 7am Shift
+7am - 3pm M.McClintin D
+3pm - 11pm B
+
+COMMENTS:
+11-7 GENERAL PERIODS OF DOWNTIME DUE TO STOCK PREP, LOW LEVELS, Loose
+FILTER, LINE SPEED DOWN TO 77% FROM @ 0230
+DUMPING 2 TONS FOR LOW DM LEVEL/GI
+3 REJECTS. STOP OVER FLOW
+
+7-3 "C" Smooth SHIFT
+3-11 “B” Smooth SHIFT
+
+2004472598
+
+A:TRANSCRIPTED
+REV:16191

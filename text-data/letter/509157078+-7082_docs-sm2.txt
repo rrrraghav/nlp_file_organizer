@@ -1,0 +1,21 @@
+RJR Statistical Support InterOffice Memorandum
+
+SUBJECT: Visible Sidestream Smoke Measurement DATE: January 24, 1985
+
+TO: Joe Inman FROM: Michael J. Morton
+
+Brand R&D
+
+INTRODUCTION
+
+Sidestream smoke measurements were taken on 52 products: 11 prototype products, 16 ultra low tar products, and 25 top brands. The measurements reported were visible absorbance values. Each number reported is the average of 3 readings. Two different devices were used to make the sidestream smoke measurements. Forty-five products were measured on one device and the remaining 7 were measured on the other. Some products, a monitor product and NON 85, were smoked on both machines to assess differences in the two devices, and to monitor the machines’ performance.
+
+The primary goal of the study was to determine which of the 11 prototype products give off less visible sidestream smoke than all of the 41 commercial products. Additionally, a comparison was made of the two measurement devices and the visible sidestream smoke values for all products in the study were compared.
+
+I will first describe the results of a comparison between the two measurement devices and then I will describe the comparison that was made among the 52 products.
+
+DEVICE COMPARISON
+
+An analysis of variance on the two measurement devices showed an average difference of about .0178 visible absorbance units between the two machines. (The newer machine read about .0136 absorbance units lower than the original machine.) That difference was not quite significant at the .05 level (it yielded a p-value of .060). So there is some indication of difference between the two machines, but it is not statistically significant at one standard level. The difference was relatively constant for both types of cigarettes used to monitor the machines. The difference was (.018) units for the so-called Monitor product (which had an average absorbance of .077) and (.017) units for NON 85 (which had an average absorbance of about .74).
+
+In the next section, comparisons are made between the products, both assuming that two devices are indistinguishable, and after adjusting for estimated device difference. The conclusion about which prototype products distinguish themselves from other products is not changed according to assumption is made.

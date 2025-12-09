@@ -1,0 +1,45 @@
+CONFIDENTIAL
+
+Project Alert
+
+Summary Information
+Alert # 96-0821 Revision # Status XTBA
+Issue Date Aug 23, 96 Count Date Aug 30, 96 Sent to IR - programmer not yet assign
+Author Brian Robbins OK Friday
+Title 7-11 2% Discount Card Scan Date Sep 2, 96 Extract Date Sep 2, 96
+Program # 601523 QA Scan Date Sep 8, 96
+Files to be sent out? No OK MTS Date
+Type of File (Research) Mailfile
+
+Resource/Print  U.S. only Print Printer Date Mail Date
+# 200
+
+Contacts
+Brand: Lucinda Sheer Alt Brand: Lucy Russell
+Promo Production: Printer:
+Mailment: Mailer:
+Distribution
+If you want to delete someone from the Distribution List goto the cell and key in 2 spaces!!!
+1 2 3 4 5 OK
+RJR-DMG Joyce Bagby Lucy Russell
+TB-Acct Services Patty Scott
+Non-Email Nancy Carpenter Veronica Carolyn Brown Brian Robbins
+RJR-IR Janet Myers Mary Gauthier
+RJR-BIAD: OK
+RJR Other: OK
+
+Key Information
+New Mailfile? No DB Mail# No BRC: T91 MPID:
+Research? No PID to MF (Y/N) No
+Analysis? No Scan? No Suppression? No
+Project Objectives
+Need Data Entry Layout and Estimate for the code listed above
+
+Project Description
+Please print "Attach 1" for details. A copy of this piece will be forwarded via courier to both RJR and TBM - Dallas
+
+
+
+9250 8-597
+
+11\MS\MAR\2:\work\Alerts\960821XRF.WPG

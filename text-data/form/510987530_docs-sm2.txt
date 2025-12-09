@@ -1,0 +1,61 @@
+.Sec Int. Chem. Rec. Cf.
+Ken Rush
+
+ABSTRACT FORM
+
+
+
+25th Tobacco Chemists Research Conference
+Louisville, Kentucky October 6-8, 1971
+
+1. Abstract should be not less than 125 words nor more than 225 words. It should
+be included in the space designated below.
+
+2. Original should be on this form and the original and three copies, carbon or
+other type, are requested. (For format, see Sample Abstract enclosed.)
+
+3. Please note: (a) Title is all capitals.
+(b) Location follows author name if multiple authors are at
+different locations.
+(c) Presenting author is underlined.
+(d) Use single spacing.
+
+4. Projection requirements: 3" x 4-1/4”  ; 2" x 2" Other _______
+
+5. Estimated delivery time: ______ Minutes.
+
+6. Abstract should be received not later than July 23, 1971.
+
+7. Mail original and 3 copies of Abstract to: Dr. Robert C. Benedict, Eastern
+Regional Research Laboratories, U.S.D.A., 600 East Mermaid Lane,
+Wyndmoor, Pennsylvania 19018
+
+
+
+AUTOMATED METHOD FOR THE DETERMINATION OF PLASTICIZERS
+IN Cigarette FILTER ROD MATERIAL
+
+A. J. Sensabaugh and Kenneth L. Rush, R. J. Reynolds
+Tobacco Company, Research Division, 115 Chestnut Street,
+Winston-Salem, North Carolina 27001
+
+An automated method is proposed for the colorimetric determination of triacetin and
+triethylene glycol diacetate plasticizers in cellulose acetate cigarette filter rods.
+
+Should the identity of the plasticizer be unknown, initial testing must include a
+simple qualitative analysis by GC. Sample preparation consists of extraction of
+plasticizer from the filter material with methanol. Then the reaction of the extracted
+acetate with hydroxylamine, followed by an addition of ferric chloride, yields a
+ferric hydroxamate complex producing a violet color. The absorption maximum of the
+complex is at 500 nm and follows Beer’s Law from 0-800 µg/ml. The optical density range
+is 0.00-0.700.
+
+The simplicity of this procedure lends itself well to use with automated instrumenta-
+tion. It has been adapted for use on the Robit ChemSet which permits the performance of
+analyses at a rate of ten hour, uses the standards necessary for a concentration
+curve. The method has been shown to accurately well if either triacetin or triethylene
+glycol diacetate is present; with a relative recovery-for-total plasticizer of 98 ± 2%.
+
+
+
+51398 330

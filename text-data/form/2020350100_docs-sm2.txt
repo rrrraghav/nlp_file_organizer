@@ -1,0 +1,46 @@
+Philip Morris Job Order Request Form
+(Preparation Guidelines on Reverse Side)
+
+R-1092 3/86
+
+1. JOB TITLE: Cartridge Assembly Machinery 2. JOB # PRIORITY FUNDS
+APP#
+
+3. JOB DESCRIPTION:
+
+Design and fabricate machinery to receive a multiple of Printed Tube Assemblies, cut them to final length, form the ends of the tubes, and assemble the Printed Tube Assemblar with other tubular components forming a Cartridge.
+
+4. GENERAL INFORMATION: 5. ESTIMATES: 6. ACCOUNTING INFORMATION:
+DATE 09 July 92 TOTAL COST 401,900 DATE ISSUED
+LOCATION Engineering START DATE July 1992 CAPITAL
+COST CENTER 4D2 COMPLETION DATE June 1993 EXPENSE
+ENVIR. CNTRL NO. COST OF DISPOSAL
+REQUESTOR R. L. Lee
+COORDINATOR J. A. Carboni
+
+7. COMPLETE ALL QUESTIONS:
+A) Is the retirement of any P.M. equipment involved? □ NO  □ YES DISPOSAL REQUEST ATTACHED
+B) Is any P.M. labor involved? □ NO  □ YES $
+C) Are any P.M. parts or materials involved? □ NO  □ YES ASSET #
+D) Is the modification of P.M. equipment involved? □ NO  □ YES
+E) Is any P.M. equipment to be relocated? □ NO  X YES ASSET TRANSFER FORM ATTACHED
+F) Is sales tax or freight included in total cost? □ NO  X YES
+
+8. ANALYSIS OF ESTIMATED TOTAL COST:
+
+EQUIPMENT TO BE PURCHASED / WORK TO BE PERFORMED QUANTITY ASSET # TOTAL COST
+Cartridge Assembly Machine 1 401,900
+
+Total $401,900
+
+2020350100
+
+9. APPROVALS: 10. NOTICE OF COMPLETION:
+Rhm REQUESTOR
+gl Carboni COORDINATOR
+REQUESTOR SIGNATURE
+Dept. MGR.
+BL Scz 97
+7/13/92
+ml4 7/14/92
+OTHER OTHER

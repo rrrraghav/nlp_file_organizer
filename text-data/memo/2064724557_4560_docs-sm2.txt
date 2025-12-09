@@ -1,0 +1,40 @@
+PHILIP MORRIS U.S.A.
+INTEROFFICE CORRESPONDENCE
+Richmond, Virginia
+
+To: Debbie Newman Date: September 8, 1998
+From: Toni Penn & Nellie Thompson
+Subject: Paper Matrix Study
+
+Please find listed below the results for the Paper Matrix Study. Cigarettes were manufactured July 14,
+1998. Blends were Marlboro KS and MILL. Cigarettes tested randomly, cigarettes contained weight
+bands. 96 replicates were performed for each model.
+
+Description:
+
+Cigarette  Cigarette   Paper    Base Sheet   Char   Crease   Corona   Basis
+Code Description Code       Code         Var.     Weight
+98.GD.225 Control P&FC      609        46
+98.GD.226 Test P&FD       Var. 308
+98.GD.228 Test P&FE       Var. 309
+98.GD.230 Test P&FF       Var. 307
+98.GD.232 Test P&FG       Var. 305
+98.GD.234 Test P&FH       Var. 306
+98.GD.236 Test P&FI       Var. 302
+98.GD.238 Test P&FK       Var. 305
+98.GD.239 Test P&FC       609
+98.GD.240 Control P&FD       Var. 308
+98.GD.241 Test P&FE       46
+98.GD.243 Test P&FF       Var. 309
+98.GD.245 Test P&FG       Var. 307
+98.GD.247 Test P&FH       Var. 304
+98.GD.249 Test P&FI       Var. 305
+98.GD.251 Test P&FK       Var. 303
+98.GD.253 Test P&FC       Var. 306
+98.GD.255 Test P&FE       Var. 302
+
+DOC CODE: 06/22/14
+
+
+
+208472A557

@@ -1,0 +1,35 @@
+INTEROFFICE MEMORANDUM
+
+SUBJECT: Hematology Endpoints DATE: July 29, 1986.
+TO: Dr. F. H. Ayres FROM: C. R. E. Cogginz
+
+Attached to this note you will find the raw data and basic statistics for the hematology endpoints in the 14-day CD study.
+
+The abbreviations used in the MINITAB tables are as follows :
+
+Group 1, machine control;
+Group 2, 527 ppm;
+Group 3, 1091 ppm;
+Group 4, 1800 ppm.
+
+The findings can be summarized as follows :
+
+RBC numbers increased slightly with dose, with similar increases in Hb. There was a strong, positive association between dose and blood Ret. HCT values in females also increased with dose, with a less marked change in males. Hct values were increased by the same amount in all smoke-exposed groups.
+
+We did not have any decrease in WBC as seen in the smoke study; the mean concentration in the low dose group was higher than the mean concentration in all other groups (both sexes). Lymphocytes and PMNs (4:) were unaffected by treatment, with no obvious trend in the monocyte data.
+
+
+
+C. R. E. Cogginz
+
+CRE:ital
+
+Attachment
+
+xc: G. T. Burger
+A. H. Hayes
+D. R. Hayes
+A. T. Hosberg
+R. L. Suber
+
+50581 595

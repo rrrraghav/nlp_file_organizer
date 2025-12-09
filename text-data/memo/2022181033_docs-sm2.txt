@@ -1,0 +1,41 @@
+6503
+
+PHILLIP MORRIS U. S. A.
+
+INTER-OFFICE CORRESPONDENCE
+
+Richmond, Virginia
+
+To: J. Charles
+From: D. Self A. Duff Date: November 25, 1991
+Subject: Analytical Results on AccuCrop
+
+A commercial product, AccuDrop, marketed as a "Cigarette Filter Solution" that claims to be able to remove 95% of the Tar and Nicotine from cigarettes was analyzed for its chemical composition. Benzoic and Sorbic Acids were analyzed by ARD Method E-99. Sugars were analyzed by ARD Method E-72, but modified to include Maltose. Citric Acid was analyzed by ARD Method E-88. Elemental Composition was performed by XRF.
+
+AccuDrop Analysis
+
+Compound AccuCrop Concentration
+Benzoic Acid 750 µg/g
+Sorbic Acid 545 µg/g
+Glucose 9.0 %
+Maltose 10.2 %
+Citric Acid 2.8 µg/g
+Elemental Analysis K, Ca, P, Mn, and Fe detected.
+
+Unable to detect sodium by XRF at low levels.
+
+References:
+1. ARD Method E-99, Notebook 9154, p. 1.
+2. ARD Method E-72, Notebook 8808, p. 66.
+3. ARD Method E-88, Notebook 8808, p. 67.
+4. ARD Method for XRF, Notebook 8501, p. 155-156.
+
+cc: R. Fenner
+R. Ferguson
+B. Handy
+D. Ingraham
+G. Vilcins
+D. Watson
+Central Files
+
+C91-06603

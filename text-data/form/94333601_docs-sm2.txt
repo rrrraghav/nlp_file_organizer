@@ -1,0 +1,71 @@
+New York State Department of Taxation and Finance
+CT-3 General Business Corporation
+Franchise Tax Return For calendar year 1991
+
+1991 Article 9-A beginning for taxable only
+
+Employer Identification number File number You must report your
+15-1651781 name, EIN, address or
+LORILLARD TOBACCO COMPANY other information
+ONE PARK AVENUE  Date received
+C/O TAX DEPARTMENT - 12TH FLOOR   DTF-93, All. II
+NEW YORK NY 10016 is now obsolete. If
+Trade name Business telephone number you use Form
+                                    Business activity code no.
+Principal business activity State or country of incorporation  date 510040
+MTG. TOBACCO PRODUCTS DE 5/15/89 Foreign corporations only, date
+Is this return for a step acquisition   Yes X No If this is an association or publicly traded partnership, attach
+or consolidation on or after April 16, 1988?  statement.
+
+A Payments - pay amount shown on line 70 – Make check payable to: New York State Corporation Tax
+Payment enclosed
+1 Federal Income before net operating loss and special deductions. 1 338,626,492
+2 Interest on federal, state, municipal and other obligations not included on line 1. 2 
+3 Interest paid to a corporate stockholder owning more than 50% of issued and outstanding stock. 3 390,000,000
+4 Deductions directly attributable to subsidiary capital (attach list). 4 (58)
+5 Deductions indirectly attributable to subsidiary capital (attach list). 5 331,729
+6 New York State, other state and local taxes deducted on your federal return (see instructions). 6 8,385,143
+7 Capital loss carryover used in the computation of line 1 (attach Form CT-303). 7
+8 Other additions [attach list – see instructions]. 8
+9 Add lines 1 through 8. 9 768,646,155
+10 Income from subsidiary capital (from CT-ATT, line 300) . 10
+11 50% of dividends from subsidiaries (see instructions). 11 384,323,077
+12 New York State operating surplus (from CT-3, line 36). 12 390,000,000
+13 Alternative minimum tax deduction (attach Form CT-355). 13
+14  Credit for insurance premiums paid (see instructions) . 14 (1,783,188)
+15 Credit for taxes paid to other states or countries (see instructions). 15 (2,906,238)
+16 Other credits [attach list – see instructions]. 16 (2,333,333)
+17 Add lines 10 through 16. 17 384,323,077
+18  Net income (Subtract line 17 from line 9). 18 384,323,078
+19  Multiply line 18 by .075. 19 28,824,230
+20  Credits against tax (see instructions) . 20 (6,333,333)
+21  Tax due (Subtract line 20 from line 19). 21 22,490,897
+22  Estimated tax paid. 22 22,490,897
+23  Balance due (Subtract line 22 from line 21). 23
+24  Penalties. 24
+25  Interest. 25
+26  Add lines 24 and 25. 26
+27  Total amount due (Add line 23 and line 26). 27
+28  Overpayment (Subtract line 21 from line 22). 28
+29  Amount you may credit to next year. 29
+30  If line 27 is more than line 22, make check payable to the New York State Corporation Tax Fund.
+
+B Information - Complete if applicable.
+31 Name and address of each person who owns 5% or more of your stock. (Attach Form CT-386)
+32  Were any shares of your stock publicly traded? Yes X No If yes, attach list.
+33  If you are a financial institution, complete lines 34 through 37.
+34  Total assets at the end of the year.
+35  Gross receipts for the year.
+36  Net earnings from investments.
+37  Taxable income apportioned to New York State.
+
+C Attachments - Check appropriate boxes.
+X Form CT-303 (Capital Loss Carryover)
+Form CT-355 (Alternative Minimum Tax)
+Form CT-ATT (Subsidiary Capital Information)
+Form CT-386 (Ownership Information)
+Other:
+
+
+
+

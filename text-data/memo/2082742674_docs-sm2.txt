@@ -1,0 +1,19 @@
+MEMORANDUM
+
+December 28, 1989
+
+TO: J. H. Bell
+
+FROM: R-Chung Wu
+
+SUBJECT: A Review on the Study of Reducing Mutagenicity of Tars Generated from Various Materials
+
+Since July 25, we have performed more than 100 experiments. A summary of the results is attached in Appendix A. We found that there are two ways to reduce the mutagenicity of tar generated either from pyrolysis or smoking: by lowering the pyrolysis/smoking temperature or by diluting highly mutagenic tar with low mutagenic tarr.
+
+The progress of our study can be divided into two stages. The first stage is a series of preliminary tests which were carried out in the testing room 11 to 16. We used #1580 tobacco (1) as the test sample and pyrolyzed it at various temperatures and flow rates. Ames test was used to detect the mutagenic activity of tar. This set of data, as discussed in the previous report (2), shows that the mutagenicity of tar increases with the increase of pyrolysis temperature (Figure 1). It also shows that the flow rate has a certain degree of effect on the mutagenicity of tar due to the fact that the compound(s) responsible for the activity [are] low volatile (Figure 2).
+
+The next stage is a series of screening tests of some basic materials and mixtures of these materials with other additives. The results of those basic materials are listed in Table 1. The relative values used in this table are based on the value of #1580 tobacco, which is assigned as 100. The reason to use a relative value is that, from time to time, the biological activity of the experiments is not quite good probably due to the biological variability as shown in Appendix A. Column 9, #1580 is thus used as an internal reference.
+
+From Table 1, we found that tar from Whatman #42 filter paper (#42) burns in air, the alpha-cellulose (3SYS7) has very high activity while tar from Burley tobacco has near zero activity. In addition, when the samples of the #42 and Burley tobacco were pyrolyzed, the mutagenicity had virtually no mutagenic effect if the UV light was on. Burley tobacco may next be high in about 50 mg/g ash. The total tar yield of tobacco is approximately 30 mg/g. We are now trying to isolate the mutagenic component(s) from #42 and alpha-cellulose. It seems that the mutagenic components are somewhat similar to those found in #1580 tobacco. The isolation of these compounds will be reported later.
+
+R-CW:js

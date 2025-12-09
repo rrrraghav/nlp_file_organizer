@@ -1,0 +1,43 @@
+INTERNAL CORRESPONDENCE
+
+                                    U.S. ARMY MATERIEL COMMAND
+                                    WASHINGTON 25, D.C.
+
+FORM AY-380
+NUMBER       DATE      SUBJECT MATTER
+                                       19 July 1976
+APPENDIX A
+
+The 147th Division was activated. They terminated.
+
+1.  IN 71-3/9
+    a837258 Current Vehicle ID concept 10 revisions in
+        progress.
+
+2.  IN 71-3/10
+    a837259 Current Vehicle ID concept 10 revisions in
+        progress.
+
+3.  IN 71-3/11
+    a837260 Current Vehicle ID concept 10 revisions in
+        progress.
+
+4.  IN 71-3/12
+    a837261 Current Vehicle ID concept 10 revisions in
+        progress.
+
+DOD shows very little difference between the 3 and 4 digit military vehicle
+identifiers. The current a837259 concept is to use 3 digits as opposed
+to 4 digits.
+
+The differences between the 3 and 4 digit vehicle identifiers are signal length.
+(3-digit) is 19 characters & width, (4-digit) is 20 characters & width. Military
+vehicle identifier is a number that identifies a specific military vehicle.
+Reasons for the 3/4 character difference are the subsequent requirements.
+
+
+
+                                        J. L. BAKER
+                                       MAJ, QM Corps
+
+ATTACHMENT

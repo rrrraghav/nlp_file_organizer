@@ -1,0 +1,54 @@
+PHILIP MORRIS RESEARCH CENTER
+
+New ☐ Known ☑
+
+CR - 2408 Emp. Formula C₈H₁₄NO₆
+Mol. Weight 163.17
+
+Lit. Ref. A. G. Sanchez and J. V. del Pino, Carbohydrate Res., 1, 421 (1966)
+
+Name 1-Amino-1-deoxy-β-L-rhamnopyranose (Rhamnosylamine)
+
+STRUCTURE: METHOD OF PREP:
+
+H₃C
+|
+HO - C - OH
+|
+NH₂
+|
+H  OH
+
+L-Rhamose + NH₃ MeOH → CR-2408
+
+NB# 9001 Pg # 6-8
+Sample # 8001-3
+MP 117-118 BP
+(lit. 116)
+
+To be tested for (amounts supplied):
+
+IR Number Date Solvent
+3453 2/7/84 NM
+UV
+NMR 12823 12/20/83 D₂O
+MS
+Anal. # From
+Date
+
+Derivatives:
+
+Recrystallization GC, TLC Data:
+Recrystallized from H₂O/MeOH
+
+
+
+C Calcd. Found
+H
+N
+
+Comments:
+
+Date 2/7/84 Submitter Project # 2515
+Approved
+[Signature]

@@ -1,0 +1,44 @@
+Document Change Order (DCO)
+
+Originating Organization/Originator: Date: 6/7/99
+COA/Pam Lieberman
+Change Control Number: Document Control No.:
+X New Document QA-01-002
+☐ Revised Document Revision No. 01
+☐ Retired Document
+Document Title:
+Investigation of Alleged Physical Effect Complaint, Level 1
+Description of Change:
+
+Original Issue
+Reason For Change:
+Original Issue
+
+Affected Organization Review and Concurrence
+X Manufacturing ☐ Customer Service & Distribution X QS/I&C
+☐ Information Services X Commercial Product & Process Development Leaf
+☐ Purchasing ☐ New Technology Research & Development
+☐ Operations Planning X Scientific Technical Services
+X Human Resources ☐ Process Commercial & Engineering
+
+Legal and Regulatory Review
+Required: X Yes ☐ No If no describe reason:
+Reviewed By: Date: Subsequent Review Required?
+Legal Yes ☐ No
+QS/I&C Yes ☐ No
+
+Prerequisites
+Training Requirements:
+X Yes Attach Training Requirements
+No Describe Reason:
+Other Prerequisites:
+
+Change Authorization
+Title Name Signature Date
+VP, QSIC Judy A. Carboni 208204343
+Sr. VP, Operations John R. Nelson
+Authorization Denied
+
+Change Effective Date:
+QP-01-002 Revision 02 12/7/99
+D. Miller

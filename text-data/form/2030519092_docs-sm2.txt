@@ -1,0 +1,57 @@
+DAILY PRODUCTION AND DOWNTIME REPORT
+
+LINE: H
+DATE: 1-34-97
+
+Shift: D
+Supv.: B.M. Fo
+Rejects: 0
+Confidential
+Feedback:
+Rejects:
+Primary Reasons Rejected:
+Test # 2 - Stressed Area, All st. ok
+Test # 3 - Stressed Area, All st. ok
+Test # 4 - Stressed Area, All st. ok
+Test # 5 - Public change
+Test # 6 - Public change
+Test # 7 - Stressed Area, All st. ok
+1810
+0
+BP
+-5770
+
+Shift Production: 5732
+BH
+Feedback:
+Rejects:
+Prodhatic
+Shift Time: 7AM - 3PM (8)
+TIME UP TIME DOWN REASON EXPLANATION
+215 16292
+145 16292
+175 16292
+Shift: A
+Supv.: Shaps Made change to tell/tell up
+Estelle Brome
+BH
+Rejects:
+Primary Reasons Rejected:
+0
+16292
+
+Shift Production: 5680
+Shift: C
+Supv.: Dottie
+TIME UP TIME DOWN REASON EXPLANATION
+Shift Time: 11PM - 7AM (8)
+2030519092
+TOTALS:
+TOTAL BH
+PRODUCTION: 18.0 / 638
+REJECTS: 181
+
+TOTAL MINUTES/SHIFT:
+Shift Production: 6130
+TOTALS:
+Shift Producer:

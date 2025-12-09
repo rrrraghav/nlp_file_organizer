@@ -1,0 +1,27 @@
+LIMIT REVISION REQUEST FORM
+
+1. Requested By: Lohn A. Yonge Est. #82 Date Requested: 10/23 Date Required: 11-97
+
+2. SPC System:  On-Line Off-Line Other: Test data needs
+
+3. Quality Measure: TOM location pr shift in minterial
+
+4. Reason For Change: minterial
+
+5. Data Range Dates: 8-1-97 thru 10-17-97. Exclude:
+
+1. Through 5 To Be Filled Out By The Requester Recommendation: Implement New: Reviewer Comments:
+Because:
+Chart Type:
+X-Bar S Other: Construct control chart
+
+Current Limits: Proposed Limits:
+UCL UCL CL LCL UCL CL LCL
+
+Analyst: CSB, RPL, NLS-O (MS) Date: 10-23 Date:
+Reviewed By: CSB, RPL, NLS-O (MS) Date: 11-97 File Number: 45
+Data Coordinator: RVB, TJH. Date:
+
+Effective Date: Confidential
+Philip Morris VALPC
+Page 1 of 2 Initials:

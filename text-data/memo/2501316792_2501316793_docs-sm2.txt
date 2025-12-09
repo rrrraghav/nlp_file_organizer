@@ -1,0 +1,36 @@
+PHILIP MORRIS U. S. A.
+
+INTER-OFFICE CORRESPONDENCE
+
+RICHMOND, VIRGINIA
+
+To: Jim Charles Date: February 15, 1979
+
+From: Gary Forrest and Gunars Vilcins
+
+Subject: Puff-by-Puff Determination of Ammonia from Expanded
+Tobacco Cigarettes
+
+Cigarettes X6DEBC through X6DEFG were analyzed by
+tunable diode laser spectroscopy for mainstream whole
+smoke ammonia delivery on a puff-by-puff basis. The
+results of duplicate determinations are shown below.
+
+MICROGRAMS OF AMMONIA
+
+CODE   X6DEBC  X6DEBD  X6DEBE  X6DEBF  X6DEFG
+PUff # DETN    1     2      1     2      1     2      1     2      1     2
+1       3.5 2.2   2.5 3.0   1.7 1.6   4.0 9.4   2.0 1.8
+2       1.2 1.8   1.7 1.4   1.6 1.0   8.5 12.0  1.0 1.4
+3       1.1 1.7   1.9 1.7   1.7 1.2   12.1 16.5  1.6 1.9
+4       1.4 1.6   2.2 2.4   1.6 1.7   17.2 18.9  1.7 1.1
+5       1.4 1.5   2.7 2.7   2.2 1.9   17.7 30.8  2.2 2.5
+6       1.6 1.8         -     -    2.1 32.6 32.7  2.6
+7       2.0 2.1
+
+Total/Cigt.   12.5 14.8  11.1 11.2  11.9 9.4   92.1 120.2  11 8.8
+Total/Puff    1.8 1.9   2.2 2.2   1.0 1.6   15.4 20.0  1.9 1.8
+Avg. Total/Cigt. 13.6       11.1        10.5    106.2     9.9
+Avg. Total/Puff   1.8         2.2          1.8      17.7     1.8
+
+2503163792

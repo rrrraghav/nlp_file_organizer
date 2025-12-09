@@ -1,0 +1,59 @@
+CONFIDENTIAL
+Project Alert
+
+Summary Information
+Alert # 97-0227 Revision #
+Issue Date Mar 11, 97 Status XTBA Revision Comments:
+Author Melissa Andrews Count Date Mar 11, 97 Sent to IR - programmer not yet assign
+Brand Sales OK Scan Date Mar 11, 97 Tuesday Not enough time!
+Title Plain Counts Extract Date Mar 12, 97 Tuesday OK
+Program # 700506 QA Scan Date Mar 13, 97 Wednesday OK
+Files to be sent out? No OK MPS Date Thursday OK
+Type of File (Research, Mailing, FTH) Mail Date
+
+IR Use Only
+Control # Complexity 2 (1-Easy, 2-Sorta Easy, 3-Normal,
+Resource/Org. MA RefPerson HTS 4-Kinda Hard, 5-PhD Required)
+Board Number: 208 Aggression IR
+Contacts
+Brand: K. Wadell Alt Brand: Jacquie McLaurin
+Promo Production: Karen Hughes Printer: Meredith Webb
+Fulfillment Mailer:
+If you want to delete someone from the Distribution List goto the cell and key in 2 spaces!!!
+
+Distribution
+1 2 3 4 5 OK
+IR-DMG: Lucy Russel
+TB-Account Services: Melissa Andrew
+Non-Mail: Shannon Arfield Mary Cloudier OK
+IR-MRD: Janet Myers OK
+IR-Other: OK
+
+Key Information
+env.Mail/s? No DR Main? No BRC’s:
+Count? Yes PID to MP? No MPID:
+Research? No Suppressed? No
+Analysis? No PID to MP FF? No
+Scan? Yes
+
+Ask Information
+Adv./RR Alert? RR
+reason No Ask/RSP RR
+
+Project Objectives
+We need results for a potential program with Plaid Pantry.
+
+Project Description
+This program will be sponsored by Winston Select/Salem/Camel and will include Franchise and Competitive smokers.
+
+Status:
+0 = Signed AND
+1 = Age AIR,
+2 = Appr’d & R&D
+3 = Update date after sign
+4 = Complete and sent to TB (Franchise) OK
+5 = File in IR - Mailing # 700506
+
+
+
+5/22/98

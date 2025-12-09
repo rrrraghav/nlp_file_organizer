@@ -2,6 +2,7 @@ import os
 import base64
 import asyncio
 import aiohttp
+from tqdm.asyncio import tqdm
 
 BASE_URL = "http://127.0.0.1:1234/v1/chat/completions"
 MODEL = "google/gemma-3-12b"
@@ -83,6 +84,12 @@ async def process_image_llm(session, image_path, semaphore):
         
         async with session.post(BASE_URL, json=payload) as response:
             result = await response.json()
+            
+            # check for errors in the response
+            if 'choices' not in result:
+                print(f"Error processing {image_path}: {result}")
+                return ""
+            
             return result['choices'][0]['message']['content']
     
 async def process_single_image(session, image_path, output_text_path, semaphore):
@@ -99,18 +106,65 @@ async def process_single_image(session, image_path, output_text_path, semaphore)
     if os.path.exists(output_text_path):
         return
     
-    # extract text using vision model
-    extracted_text = await process_image_llm(session, image_path, semaphore)
+    try:
+        # extract text using vision model
+        extracted_text = await process_image_llm(session, image_path, semaphore)
+        
+        # check if text was extracted and is not empty/whitespace
+        if extracted_text and extracted_text.strip():
+            with open(output_text_path, 'w', encoding='utf-8') as txt_file:
+                txt_file.write(extracted_text)
+        else:
+            print(f"No text extracted from {image_path}, skipping...")
+    except Exception as e:
+        print(f"Failed to process {image_path}: {e}")
+
+async def process_dataset(session, source_root, output_root, semaphore, suffix=""):
+    """
+    Process all images in a single dataset
     
-    if extracted_text:
-        with open(output_text_path, 'w', encoding='utf-8') as txt_file:
-            txt_file.write(extracted_text)
+    Args:
+        session (aiohttp.ClientSession): Shared HTTP session for async requests
+        source_root (str): Root folder containing category folders with images
+        output_root (str): Root folder where extracted text will be saved
+        semaphore (asyncio.Semaphore): Controls concurrent request limit
+        suffix (str): Suffix to append to filenames (e.g., "_docs-sm2")
+    
+    Returns:
+        dict: Dictionary mapping category names to lists of tasks
+    """
+    tasks_by_category = {}
+    category_folders = list_folders(source_root)
+    
+    for category in category_folders:
+        # make output folder for this category
+        output_category_path = os.path.join(output_root, category)
+        os.makedirs(output_category_path, exist_ok=True)
+        
+        # get all image files in this category
+        category_path = os.path.join(source_root, category)
+        image_files = get_folder_files(category_path)
+        
+        category_tasks = []
+        # create async tasks for each image file
+        for image_path in image_files:
+            filename = os.path.basename(image_path)
+            file_id = os.path.splitext(filename)[0]
+            output_text_path = os.path.join(output_category_path, f"{file_id}{suffix}.txt")
+            
+            task = process_single_image(session, image_path, output_text_path, semaphore)
+            category_tasks.append(task)
+        
+        # store tasks for this category
+        category_key = f"{category}{suffix}" if suffix else category
+        tasks_by_category[category_key] = category_tasks
+    
+    return tasks_by_category
 
 async def main():
     """
-    Process all images in category folders
+    Process all images in category folders from multiple datasets
     """
-    source_root = "docs-sm"
     output_root = "text-data"
     
     # config for how many images are processed simultaneously
@@ -119,34 +173,29 @@ async def main():
     
     os.makedirs(output_root, exist_ok=True)
 
-    category_folders = list_folders(source_root)
-    
-    tasks = []
-
     semaphore = asyncio.Semaphore(MAX_CONCURRENT_REQUESTS)
     
     # create aiohttp session (reuse for all requests)
     async with aiohttp.ClientSession() as session:
-        for category in category_folders:
-            # make output folder for this category
-            output_category_path = os.path.join(output_root, category)
-            os.makedirs(output_category_path, exist_ok=True)
-            
-            # get all image files in this category
-            category_path = os.path.join(source_root, category)
-            image_files = get_folder_files(category_path)
-            
-            # create async tasks for each image file
-            for image_path in image_files:
-                filename = os.path.basename(image_path)
-                file_id = os.path.splitext(filename)[0]
-                output_text_path = os.path.join(output_category_path, f"{file_id}.txt")
-                
-                task = process_single_image(session, image_path, output_text_path, semaphore)
-                tasks.append(task)
+        # process docs-sm dataset (no suffix)
+        print("Gathering tasks for docs-sm...")
+        tasks_sm = await process_dataset(session, "docs-sm", output_root, semaphore, suffix="")
         
-        # run all tasks concurrently (asyncio will manage the semaphore limits)
-        await asyncio.gather(*tasks)
+        # process docs-sm2 dataset (with suffix)
+        print("Gathering tasks for docs-sm2...")
+        tasks_sm2 = await process_dataset(session, "docs-sm2", output_root, semaphore, suffix="_docs-sm2")
+        
+        # combine all tasks by category
+        all_tasks_by_category = {**tasks_sm, **tasks_sm2}
+        
+        # process each category with its own progress bar
+        print("\nProcessing images by category:")
+        for category, tasks in all_tasks_by_category.items():
+            if tasks:  # only show progress bar if there are tasks
+                print(f"\n{category}: {len(tasks)} images")
+                # wrap tasks with tqdm progress bar
+                for coro in tqdm.as_completed(tasks, desc=category, total=len(tasks)):
+                    await coro
 
 if __name__ == "__main__":
     asyncio.run(main())

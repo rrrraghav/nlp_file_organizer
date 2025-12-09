@@ -1,0 +1,39 @@
+RJR CONFIDENTIAL
+
+To: Kathleen Gallivan
+From: Bill Proctor
+Subject: Pricing System
+Date: July 17, 1995
+
+This requests your help with an analysis to evaluate a tactical change to the execution of our pricing strategies.
+
+Background:
+
+Jim Maguire has suggested we simplify the execution of the pricing strategies by determining a division-wide discount value for our RJR Brands rather than the rep determining the discount value on a store by store basis. In order to evaluate that tactical change, we want to simulate it first.
+
+Methodology:
+
+•	Sort stores by division and class of trade within division (SM, CG, CO, and all other ex MI)
+
+•	For each class of trade within division, calculate the average discount value needed to obtain a $0.35/$3.53/5.30 price on Savory Snacks across stores in which the rep has executed a discount. Round the simulated discount value to the nearest nickel for packs and the nearest $0.50 for cartons. If the rep has not executed a discount, do not include that store in the average and do not substitute an average discount value for that store. The discount value for stores in which the rep has not executed a discount should remain zero.
+
+•	For each store in each class of trade/division combination, substitute the average discount value for the discount value actually worked. (Again if the discount value is zero, it should remain zero.) Recalculate the net price in each store based on the simulated discount value.
+
+•	Create a dummy database just like the real database but with simulated values for discounts and net prices.
+
+•	Run our current grid store only reports against the dummy database to enable BI/ADP comparisons of the simulated reports vs the actual current reports. This will enable us to evaluate the impact of the tactical change on the data and very importantly enable us to estimate the financial impact.
+
+I don’t know how this request compares to priorities outside the pricing system.  Please indicate that Jim Maguire asks him about this daily. Therefore, he has asked that we complete this analysis by the end of the week.
+
+Ed
+
+Ed Hardiman
+Business Information and Analysis
+ce 
+
+Frank Beck/Bill White/Kathy Moore/Peggy Full
+
+52480 8333
+
+RJR000005030519
+70,000 4299

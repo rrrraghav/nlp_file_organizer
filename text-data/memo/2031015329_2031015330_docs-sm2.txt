@@ -1,0 +1,38 @@
+PARK 500 - CUSTOMER INQUIRY
+INTER-COMPANY CORRESPONDENCE
+Chester, Virginia
+
+To: Evelyn Harris, Stockton Street Supervisor Date: November 2, 1993
+From: N. L. Simon-Owens (Ext. 751-1967) /46/-0
+Subject: Results of Park 500’s Internal Investigation of Stockton Street Customer Inquiry about Increase in Pads
+
+cc: Ellis Hargress and Donald Lumpkin
+
+Date contacted (when): Friday, October 15, 1993
+Name of contact (who): Evelyn Harris, Blending Supervisor
+Customer location (where): Stockton Street
+Reason for contact (why): increase in pads
+Details given (why): We have experienced an increase in pads during the last two days that have resulted in as much as two (2) hours daily downtime. Requested that I come and look at what is happening today’s shutdown for the week and will start back up on Tuesday, October 19, 1993.
+I will be out of town on Tuesday, but will stop by Stockton Street at 6:30 a.m. on Wednesday, October 20, 1993. The visit on Wednesday will involve observing C- and A-shift operations and gathering additional input from Operators and Supervisors.
+
+INITIAL CUSTOMER LOCATION VISIT - Wednesday, October 20, 1993
+
+Persons involved: Evelyn Harris, Blending Supervisor (A-Shift); Darin Layne, Blending Supervisor (C-Shift); Paul Sabo, Mechanical Engineer; Donald Lumpkin, Blending Area Supervisor; Roosevelt Dillard, A-Shift Front-Feeder Operator; Dale Wood, A-Shift Back-end Separator Operator; and other C-Shift Operators.
+
+Initial findings:
+Observed 8 hourly operators hand separating pads from tube. Tube had been removed from separator discharge area during the previous C-shift operation. According to the C-shift Supervisor’s inventory at 7:00 a.m., there were 10,937 lbs. of pads accumulated by shift end. At 1:30 p.m. there has been an inventory of 411 lbs. of pads.
+
+Approximate hourly output is 40% RLR and 40% RL-T in blend.
+Running-ups primarily occur at the metal detector at the exit of the steam cylinder.
+Pad level has been progressively getting worse during the last two weeks.
+
+W/E 10/10/93 = 10,937 lbs.
+W/E 10/17/93 = 5,585 lbs.
+W/E 10/24/93 = 2,161 lbs.
+W/E 10/31/93 = 785 lbs.
+
+C-Shift used duct to unload pads bulk bin 2 (100’s of) on 10/15/93 at 11:00 p.m. (approx. 6,000 lbs.)
+(LR - PP) (FR – PP) (FR – 2 ½) (PP – 2 ½) (PP – 2 ½) (PP – 2 ½) (PP – 2 ½) (PP – 2 ½) (PP – 2 ½)
+The product line is monitored through the use of a Honeywell 1750 D.C.S. (Distributed Control System). The system has been programmed to automatically divert pads to bin 3 when the level in bin 2 reaches a predetermined high point. This automatic diversion is not working correctly and pads are overflowing into bin 3.
+
+Recommend that the Honeywell D.C.S. be inspected to repair the automatic diverting system.

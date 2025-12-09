@@ -1,0 +1,34 @@
+INBiFO Institut für biologische Forschung : Köln
+26 Jan. 00 NDA/MVO X:\MWO\QA\CHECK\S(90003347).DOC
+
+ÜBERPRÜFUNG VON P 0500/3347 DURCH QA SEITE-NR.: 1 von 2
+
+TITEL: In Vitro Cytotoxicity of Mainstream Smoke Fractions of the Research Cigarettes
+96.NL.140, 99.AZ.203, 99.AZ.204, and 99.AZ.205
+Neutral Red Uptake Assay with Mouse Embryo BALB/c 3T3 Cells
+Project PM 80310 (PT)
+
+PRÜFZEITPUNKT: 25.Jan.2000
+
+ÜBERPRÜFTER PARAMETER BEANSTANDUNG
+
+Gewinnung von TPM und GVP
+Study Plan keine
+SOPs
+Abrauchen der Zigaretten
+Filterwägung
+Etikettierung
+Protokollführung
+Exposition der Zellen
+Study Plan
+SOPs
+Herstellung einer Verdünnungsreihe
+Beschicken der Mikrotiterplatten
+Etikettierung
+Protokollführung
+
+BEMERKUNG: Studie nach den GLP-Grundsätzen des ChemG
+
+26.Jan.2000 QA: DATUM/ZN
+                                                     2505108125
+                                                      0044

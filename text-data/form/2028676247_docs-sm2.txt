@@ -1,0 +1,47 @@
+EP 0 438 862 A3
+
+European Patent       Application Number
+Office                        EP   90 31 2658
+
+DOCUMENTS CONSIDERED TO BE RELEVANT
+Category  Citation of document with indications, where appropriate,    Relevant
+                                                                      to claim
+A     EP-A-0 368 002 (REYNOLDS TOBACCO CY)                       A24F/47/00
+A      US-A-3 200 819 (GILBERT)
+
+
+
+TECHNICAL FIELDS
+SEARCHED (Int. Cl.)
+
+A28F
+A61M
+
+
+
+
+
+The present search report has been drawn up for all claims.
+
+Place of search          Date of completion of the search        Examiner
+THE HAGUE                      01 APRIL 1992                       VAN BOGAERT J.
+
+
+
+CATEGORY OF CITED DOCUMENTS
+X : particularly relevant if taken alone
+Y : particularly relevant if combined with another document of the same category
+A : technological background
+O : non-teaching reference
+P : intermediate document
+
+T : theory or principle underlying the invention
+E : earlier patent document, but published after the filing date
+D : document cited for other reasons
+L : document does not identify priority claims
+& : member of the same patent family corresponding document
+
+
+
+2029876247
+2

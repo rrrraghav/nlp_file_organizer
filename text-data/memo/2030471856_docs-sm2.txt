@@ -1,0 +1,44 @@
+PARK 500
+
+INTER - OFFICE CORRESPONDENCE
+
+Chester, Virginia
+
+To: L. J. Fox Date: August 29, 1990
+From: J. F. Edwards/E. B. Stultz
+Subject: Variable Speed Motor Drives for Line I Tunnel Dryer Fans
+
+Attached for your review and consideration is a Purchase Requisition
+in the amount of $80,415. These monies are to cover the associated
+costs to install nine (9) variable speed motor drives on Line I Tunnel
+Dryer Fans. This expenditure is part of Appropriation No. B-257, J.O.
+No. 7871.
+
+The recommended single source is Electric Motor & Contracting Co.
+(E.M.C.). This vendor provides the most economical and best quality
+Toshiba drive at the best price and delivery. They will provide
+training, engineering and installation assistance at little or no
+additional cost. An analysis of various drive considerations is
+attached.
+
+This project is scheduled to begin during the November, 1990 Line I
+Shutdown.
+
+Please request written bids from E.M.C. and Alpha Drive Systems for
+the attached Toshiba drives. Delivery of the Toshiba Variable Speed
+Motor Drives can be obtained through E.M.C. within the next three to
+four weeks. This allows enough time to complete the physical
+installation of the drives prior to shutdown. Final wiring and
+control installation and testing could then be completed within the
+plant shut down time frame.
+
+cc: M. J. Abel
+L. E. Allen-Hawkins/Gomes
+D. A. Clark
+H. W. Gray
+A. V. Loving
+W. O. Haynes
+G. A. McConnell
+Central Files AE11-0001
+
+2030471856

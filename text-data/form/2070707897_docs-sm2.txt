@@ -1,0 +1,16 @@
+TRANSMISSION RESULT REPORT (NOV 21 '98 03:26PM)
+
+P.M. = 00H (AUTO)
+
+------------------------------------------------------------------------------------
+DATE START REMOTE TERMINAL TIME RE- MODE TOTAL PERSONAL LABEL FILE
+NOV 23 03:25PM IDENTIFICATION 2123677397 01:05" OK ES 03 NO.
+------------------------------------------------------------------------------------
+
+EJECT >REDUCTION  @)STANDARD @)FORWARDING )MEMORY (/)CONFIDENTIAL  &)BATCH
+®DETAIL   ®)TRANSFER
+®)FINE    ®)POLLING
+
+
+
+20707897

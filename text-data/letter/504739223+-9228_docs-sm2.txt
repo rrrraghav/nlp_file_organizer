@@ -1,0 +1,39 @@
+RJ Reynolds INTEROFFICE MEMORANDUM
+
+SUBJECT: Irritation Test 9
+Percent Wet Particulate Matter DATE: March 26, 1985
++APP 1
+
+To: File FROM: Daniel Kurtz
+
+BACKGROUND
+
+This study was designed to examine the shape of the psychophysical curve relating perceived sidestream smoke attribute magnitude to the percent wet particulate matter left in the sidestream smoke. Previous studies have examined the effect of total removal of particulate matter and include Irritation Tests 1,2,3 and 6 (report on Irritation Test 6 will be forthcoming).
+
+METHODS
+
+Testing was similar to that reported by Gayle Ryan in SED Test Report No. API.
+
+CAMEL LIGHT 85’s were chosen on the basis of draft (12.2 to 13.4 cm H2O) and % dilution (27% to 34%). Product manipulation was as follows:
+
+A. 92.5X WTFM - filter holder without filter
+B. 55.5X WTFM - filter with two fat short tubes
+C. 34.6X WTPM - filter with one fat short tube
+D. 17.5X WTFM - filter with one long skinny tube
+E. 15.5X WTFM - filter with no dilution tubes.
+
+The filter holder was placed directly above the smoking chamber with the aid of a Delrin connector. A similar connector was placed on the air side of the filter to which a Teflon Tee was attached. Also to this were the dilution air and the exit tube to the solinoid box.
+
+The method for calibrating the filter pads is described in Appendix A.
+
+As in prior tests Gayle Ryan was responsible for subject performance evaluations and statistical analysis. Ruth Webb and Sandra Jacobs shared the responsibility for arranging test schedules, running the test and data entry.
+
+Evaluations were performed on 9 sensory attributes (attachment 1) using unstructured line scales (attachment 2).
+
+RESULTS
+
+The results of manipulating wet particulate matter are shown in Graphs 1, 2 & 3 and Table 4. Generally, as attributes of Impact, Eye irritation, Nasal Irritation, astringent, Ashray and Paper are decreased.
+
+
+
+50473-9223

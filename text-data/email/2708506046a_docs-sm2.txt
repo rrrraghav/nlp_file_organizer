@@ -1,0 +1,50 @@
+From: Clark Jennie (Leo Burnett)
+Sent: Thursday, July 19, 2001 4:25 PM
+To: Hades, Dwight
+Subject: RE: LOOK AT ME Request for approval Stage 2 Selection Overlap Report
+
+Hi Dwight,
+
+All the numbers for stage 2 sign-off match with the exception of Marlboro. The Monarch counts for Marlboro are higher than the Acio counts. I think it’s kind of weird. Can you help me figure out why? Could it be a problem with the way we're looking at the 200 and 300 series program numbers? I don’t know but it doesn’t seem right that only one brand’s numbers are different.
+
+Jennie
+
+>>> "Haden, Dwight" <Dwight.Haden@comusa.com> 07/19 21:48 PM >>>
+Approval enclosed. Dwight
+<<Management Approval FAQ Stage 2.doc>>
+
+--- Original Message ---
+> From: Cohen Brian - booben (STEP@Brian.cohen@action.com)
+> Sent: Wednesday, July 18, 2001 11:07 PM
+> To: Kelly, Lauren ; Clark, Jennie (Leo Burnett) ; "Dwight, Haden"
+> [B-mail]; Gutnick Karen - kqutri
+> Cc: O’Connor Kevin - kocon; Ward David - daward; Valene Mary - mavalex;
+> “Donna Mains (B-mail)” ; Claggett, Tom (Leo Burnett) ; "Gillis, Lisa (Leo
+> Burnett)"
+> Subject: Request for approval Stage 2 Selection Overlap Report
+> Hi,
+>
+> Attached, please find the documents for approval Stage 2 of the Selection
+> Overlap Report. Let me know if there are any questions about the
+> documents.
+>
+> Provided is a report run for the past 19 months which simulates the DB2
+> report in the “comparison” database and the numbers compare favorably.
+>
+> Also provided is a SQL verification script and calculation verifications
+> to chat verify against the data in the Monarch database.
+>
+> Please fill out the attached form and return by 7/25.
+>
+> Thanks,
+> Brian
+
+> - - -
+> File: Management Approval FAQ Stage 2.doc
+> <<File: Selection Overlap Report.pdf>>
+> <<File: 07_19_2001_Overlap_Report_v3.xls>>
+
+
+
+1
+2708506046A

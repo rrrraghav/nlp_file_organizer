@@ -1,0 +1,17 @@
+203536576841B
+
+—Original Message—
+From: Murphy, Robert
+Sent: Friday, February 02, 2001 @ 5:59 PM
+To: Daragan, Karen M.
+Cc:
+Subject: FW: YSP Literature Database Update
+
+I have created a folder in nydatalprocess\Literature Database called "murphyv1". Please give this user (who is a
+PMMC employee) the normal rights to the user folders here.
+
+Also, please give murphyv1 full rights to the top level of the YSP server, mirroring the access rights currently assigned
+to Paula Desel (deselp). Afterward, you can remove deselp’s access rights completely.
+
+Karen: please click on “Reply All” and approve this access request for Ginny Murphy. Also please confirm that Paula
+Desel is no longer to have access to the YSP servers.

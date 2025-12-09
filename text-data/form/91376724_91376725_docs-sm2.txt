@@ -1,0 +1,39 @@
+SALES PROMOTION
+ESTIMATED BRAND EXPENDITURE FORM
+BRAND SPECIFIC
+
+IF THIS IS A NEW SCHEDULE # SUPPLY:
+CHARGE YEAR: 2024
+USAGE PERIOD: FROM 1/1/24 TO 6/30/24
+*PROGRAM #: 94-002
+*BRAND #: 1675
+PROGRAM DESC.: Retail Prom. *PROGRAM TYPE: 2
+PROGRAM BUDGETED: $
+
+ITEM        ITEM DESCRIPTION      CODE   ACCT.  QTY.    ITEM COST     TOTAL
+CODE #                                      #          $           $
+1 LONG STRIP                      834   680   11         39.65        339.57
+2 SHRT STRIP                       834   680   0          28.50        0.00
+3 H/S WIRE CARD                   834   680   0          11.50        0.00
+4                                    834   680   0         19.50        0.00
+5                                    834   680   0         23.65        0.00
+6 50 #/AC COUNTER DISPLAY       834   680   0          40.00        0.00
+7 ROLL CARD STRIP                  834   680   0          31.00        0.00
+8 GIVE CHANNEL CARD                834   680   0          37.00        0.00
+9 5X8 FISTER                      834   680   0          31.00       918
+10 STRAPPER                       834   680   0         42.85        0.00
+11                                    834   680   0         36.00        0.00
+12 SHELF TALKER                   834   680   0          31.00        0.00
+13 MIRROR                          834   680   0         26.00        0.00
+14 CHANNEL II                     834   680   0         15.00        0.00
+
+EBS/P - Form Date Aug 04, 1999
+TYPE CODES: C.M. R.H. #A.
+*PROGRAM TYPE: 2 Retail Promotion
+3 Media Marketing
+4 Coupon
+5 Special Emphasis
+6 Field Promotions
+8 Merchandise
+
+TOTAL Delivered Expense: 14,350

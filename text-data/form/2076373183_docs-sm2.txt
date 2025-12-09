@@ -1,0 +1,45 @@
+04710 9/86
+
+REQUEST FOR MACHINE-MADE EXPERIMENTAL CIGARETTES   B 4
+                                    1/27/89
+Deliver to: O/C
+IBM Code Pack Code
+TBW Lab 436
+X TOCA
+CF
+CH
+Requested by B.Hand / J.Hinkle EXT. No. 514881 Date 1/27/89  Proj. No. 4009
+Purpose Studio - Ultra Slim Trim N/49 AC Doublewrap
+
+No. Cigarettes Required 1500 each
+Filler Supplied Lbs.
+Filler Code (1) TOCA   (4) TOKA    49
+(2) TOKA  (5) TOCCA     
+(3) TOKA   (6) TOKA      49
+Cigt. Circ. 17.0 mm Rod Wt. .570 Cigt. Rod Length 1/25
+(1) Cigarette Paper Filter Code Tipping Code Width mm Dilution %
+8-623F  White L6b   49 60
+" " DR 2015/161 " " " "
+" " DR 2015/1616 " " " "
+" " " " " " "
+
+IBM Code RED TOTAL WT TOTAL DIL% AVG MADE PACKED
+X TOCA 1 179.5 5.16 .57 1 78.15 558 266
+" " 2 179.5 5.16 .57 1 78.15 558 266
+" " 3 179.5 5.16 .57 1 78.15 558 266
+(1) TOCA 4 179.5 5.16 .57 1 78.15 558 266
+" " 5 179.5 5.16 .57 1 78.15 558 266
+(2) TOKA 6 179.5 5.16 .57 1 78.15 558 266
+" " 7 179.5 5.16 .57 1 78.15 558 266
+(3) TOKA 8 179.5 5.16 .57 1 78.15 558 266
+" " 9 179.5 5.16 .57 1 78.15 558 266
+(4) TOKA 10 179.5 5.16 .57 1 78.15 558 266
+
+ADDITIONAL SPECIFICATIONS:
+Please equip filters when running.
+Requester will supply DBS filters.
+Please save all leftover paper.
+Please save all leftover DBS filters.
+
+Completed:   89-007-4
+Shipped :

@@ -1,0 +1,40 @@
+08/08 '93 10:35 FAX 41 36 312 476 FTR R&D Niel CH -> INIFo Koeln
+
+@003
+
+PHILIP MORRIS EUROPE
+
+RESEARCH & DEVELOPMENT
+
+Inter-Office Correspondence
+
+To: Distribution list
+From: Renaud-J.K.
+Date: August 6, 1993
+Subject: MH-30 inter-laboratory study
+
+cc: E.B. Sanders / R. Ferguson (Richmond) / J. Babey
+
+Distribution : O. Coppie, Universal Leaf Tobacco
+R. Davis, RTD Richmond
+A. Schroth, R&D Neuchâtel
+
+OBJECTIVE
+
+To carry out an interlaboratory comparison of the determination of MH-30 by HPLC [1] and to compare HPLC figures with results obtained by the standard colorimetric method ISO-4876.
+
+PARTICIPATING LABORATORIES
+
+The following five laboratories took part to the study:
+
+PM-USA (CPA Laboratory) : HPLC method
+PM-USA2 (S.S. Yang) : HPLC method
+PM-Europe : HPLC method
+Universal Leaf Tobacco : HPLC method
+INIFo : ISO-4876
+
+SAMPLES
+
+Tobacco samples containing MH-30 at five different levels ranging from 40 to 110 ppm were selected. For each level, six replicate analyses were carried out. The tests were analyzed over two days as described in the note accompanying the samples [2].
+
+2029168407

@@ -1,0 +1,45 @@
+Date: 6-8-91
+
+NOx
+
+
+
+Technician: R. Craven
+
+
+
+
+
+DATE	SAMPLE I.D.	 DILUTION	 CONFIDENTIAL	 CONC.	 ACTUAL CONC.
+6-17-91	Blank
+	0.80 ppm NO2 Std.	 .548	 auto zero
+	0.80 ppm NO2 Std.	 .553	 0.80 ppm
+
+6-17-91	Final Eff.	 1/100	 .347
+	Sec. Eff.	 1/100	 .376	 .349
+	Pci Eff.	 10/25	 .017	 .0425
+	Comb. Int.	 2/25	  1.811
+	Line-1	 2/100	 1.496
+	Line-2	 2/100	 .597	 .2985
+	Line-3	 2/100	 .707	 .3535
+	Line-4	 10/50	 .283	 1.415
+	MDC/DMC	  1.148
+
+	.548
+Cal Eff = .553 = (1.009 x.00) = 100.9%
+
+
+
+Checks
+6-17-91 Blank	 .548
+	0.80 ppm NO2 Std.	 .548
+	0.80 ppm NO2 Std.	 .544
+
+6-17-91 Pci Eff.	 15/25	 0.030	 .051
+	Comb. Int.	 4/50	 1.837	 46.85
+	Line-1	 1/100	 0.440	 49.0
+	MDC	 2/50	 0.506	 1.01
+
+
+
+2030133269

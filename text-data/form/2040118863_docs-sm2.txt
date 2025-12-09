@@ -1,0 +1,32 @@
+TRANSMISSION RESULT REPORT ...................... JAN '96 05:05PM( ) ....................... (AUTO)
+
+THE FOLLOWING FILE(S) ERASED
+
+FILE FILE TYPE OPTION TEL NO. PAGE RESULT
+074 MEMORY TX 94032000 11/11 OK
+918847663210 11/11 OK
+518042744700 11/11 OK
+
+ERRORS
+
+1) HANG UP OR LINE FAIL 2) BUSY 3) NO ANSWER 4) NO FACSIMILE CONNECTION
+
+PHILLIP MORRIS
+
+Facsimile Transmission
+
+Legal Department
+120 Park Avenue
+New York, NY 10017-5592
+
+26-011.853
+
+Date: 1/11/96
+
+Attention: Marty Barrington By Hand
+Denise Keane By Hand
+John Mulderig By Hand
+David Murphy 212/403-2000
+Chip Nunley 804/788-6218
+Jim Schardt 804/274-4780
+Chuck Wall By Hand

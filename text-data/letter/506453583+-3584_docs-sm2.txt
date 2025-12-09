@@ -1,0 +1,33 @@
+DRL APR 25 1988 RECD
+
+April 18 - April 22, 1988
+
+TO: Mr. B. M. Wagner
+
+SUBJECT: Project URP Weekly Status
+
+Central Laboratory Services representatives attended VRP status meetings 4/19 & 4/20. The meetings are summarized as follows:
+
+Cigarette Paper
+
+R&D will address the need for a specification on Sodium Acetate in URP paper. Sodium Acetate is found in URP paper as a result of the bleaching process.
+
+The presence of Sodium Acetate causes a discrepancy between the method Euista uses for Potassium Acetate and the method R&D uses for Potassium Acetate. Euista’s method detects as Potassium Acetate reports both Potassium and Sodium acetate as Potassium Acetate. QA is able to test for and report Potassium Acetate, Sodium Acetate or Total Acetate. The specifications are currently written addresses only Potassium Acetate levels.
+
+The April 12th shipment of URP paper contained no Potassium Acetate but had significant amounts of Sodium Acetate.
+
+Visible Sidestream Apparatus/Measurement
+
+The Visible Sidestream Apparatus is to be delivered to QA 4/21. Operator training and correlation testing will begin as soon as the apparatus is operational.
+
+R&D is to provide written test methods to QA prior to analysis of test market product.
+
+The test market product will be jointly tested by R&D and QA. Both the 85 and 100 mm brand styles will be split, with each lab testing half of the samples.
+
+Brand R&D has requested QA assistance in measuring visible sidestream smoke on prototypes. QA will provide assistance to R&D as provided on other analytical methods, i.e. QA will assist R&D with overflow prototype testing, provided the additional analyses will not put QA in an overtime situation.
+
+Manufacturing Start-up
+
+Manufacturing start-up is scheduled for May 24.
+
+50645 3938

@@ -1,0 +1,26 @@
+PHILLIP MORRIS RESEARCH CENTER
+
+New ☑ Known ☐ CR 1336 Emp. Formula C₁₄H₂₁N₃
+Mol. Weight 176.26
+
+Lit. Ref.
+
+Name (2S,5S)-1,2-dimethyl-5-(3-pyridyl)pyrrolidine [α’e-5’-methyl-nicotine]
+
+STRUCTURE: METHOD OF PREP:
+
+CH₃ CH₃
+CR-1330 NaBH CR-1336
+
+NB# 6502 Pg # 5 Solubility: Common organic solvents
+Sample # 6502-2F
+MP BP n45°/0.15 mmHg To be tested for (amounts supplied):
+Number Date Solvent 1.0 g Available
+IR 25403 2/27 TF Derivatives:
+UV
+NMR 2418R 2/22 CDCl₁
+MS Anal. # 0-9038 From Galbraith Recrystallization, GC, TLC Data:
+Date 3/4/74 TLC: R=0.73 (CH₃OH, C₂H₅NH₂OH : 60:4 trace) G.C.: Ret. Time = 5.2 min; SB-30
+Comments: [α]²³ = -31.2 (c=0.44, C₂H₅OH 1600
+Date 3/7/74 Submitter Edward B. Jaskol Project # 2500
+Approved Edward B. Jaskole

@@ -1,0 +1,53 @@
+JP No. WT1-017.LOC PAGE: 1 of 4
+
+PHILIP MORRIS USA
+JOB PROCEDURE
+
+ISSUE DATE: 11/05/93 SUPERSEDES:
+
+APPLICABLE TO: Waste Water/Maintenance
+
+SUBJECT: Lockout/Tagout Procedure for Emergency Instrument Air Compressor
+
+REQUIRED PERSONAL PROTECTIVE EQUIPMENT:
+
+Leather Gloves, Safety Glasses
+
+REQUIRED TOOLS & EQUIPMENT:
+
+Locks, Tags, Chain
+
+APPROVAL APPROVAL APPROVAL
+G.W. Wilson M.Hull BOJangan
+
+BASIC JOB PROCEDURE
+
+I. Potential Hazards
+
+A. Low overhead obstructions and/or congested work area could result in lacerations, concussion, or contusions.
+
+B. Severe crush injury and/or amputation could result from unexpected operation of air compressor.
+
+C. Injury could result from contact with high pressure air.
+
+D. Flying objects/debris could result in lacerations, eye injuries, or injuries from embedded objects.
+
+E. Slips and falls could result due to wet or oily working surfaces.
+
+F. Slips and falls could result from improper housekeeping practices.
+
+G. Contact with high pressure air may result in amputation or lacerations.
+
+H. Hearing loss could result from prolonged/repeated exposure to machine noise without hearing protection.
+
+I. Contact with hot surfaces will result in burns to the skin.
+
+J. Electrical shock or death could result from:
+
+1. Frayed, exposed, or improperly grounded wiring.
+
+2. Unauthorized tampering with energized electrical circuits.
+
+K. Bodily injury may result from slips and falls from elevated surfaces (ascending/descending).
+
+2030179917

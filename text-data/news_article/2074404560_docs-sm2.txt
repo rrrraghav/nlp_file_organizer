@@ -1,0 +1,47 @@
+REVIEW & OUTLOOK
+
+Rethinking Risk
+
+When the new Republican Congress convenes in January, one of the priorities ought to be addressing what Lamar Alexander calls the “regulatory state”—the tangle of rules and regulations enacted into law by Congress and federal agencies. This is an everyday pressing priority in the environmental arena, where Congress and various executive branch agencies have spent decades creating a morass of detail with negligible or nonexistent risk.
+
+Environmental regulation is the source of much public outrage nowadays. Often, it’s because underlying rules because Congress’s understanding of scientific realities is often inadequate and impossibly vague to meet their goals. The real rule-making has drifted to the bureaucracy, which in turn produced their own Rule 604s—complex regulations that emerge from a most unlikely source—the government itself—to support the contention that environmental agencies hang theirs little any relation to the actual risks they are supposed to address.
+
+The Department of Energy has just released a report titled “Scientific Assessments of Biological Effects of Radiofrequency Electromagnetic Fields.” It’s a dense, 700-page document that attempts to assess the scientific basis for concerns about radiofrequency radiation from cell phones and other wireless devices. The report concludes that there is no evidence that such radiation poses a health risk.
+
+The EPA has taken a similar approach with asbestos. For years, environmental groups have demanded a ban on the product’s use, claiming it causes cancer. The EPA, however, has resisted calls for a ban, arguing that the risks from asbestos are not great enough to justify the economic disruption that would result from eliminating its use.
+
+The problem is that both agencies—the EPA and DOE—are using risk assessments that are based on flawed methodologies. They’re essentially saying that because they can’t detect a risk, there isn’t one. This approach is particularly problematic when it comes to substances like asbestos and radiofrequency radiation, which have been the subject of intense public debate.
+
+The EPA’s assessment of asbestos, for example, relied on studies that were conducted decades ago and that used outdated methodologies. The agency also failed to adequately consider evidence suggesting that asbestos exposure can cause a range of health problems beyond cancer, such as respiratory illnesses and neurological disorders.
+
+Similarly, the DOE’s assessment of radiofrequency radiation was based on studies that did not account for the fact that people are increasingly exposed to this type of radiation through multiple sources, such as cell phones, wireless routers, and smart meters. The agency also failed to adequately consider evidence suggesting that radiofrequency radiation can interfere with biological processes.
+
+The problem is compounded by the fact that both agencies are using risk assessments that are based on a flawed understanding of how risks accumulate. They’re essentially treating each substance in isolation, without considering the potential for synergistic effects—the possibility that exposure to multiple substances can increase the overall risk.
+
+This approach is particularly dangerous when it comes to contaminants like pesticides and industrial chemicals, which are often present in the environment in complex mixtures. The EPA, for example, has been criticized for its assessment of atrazine, a widely used herbicide that has been linked to birth defects and other health problems. The agency’s assessment failed to adequately consider evidence suggesting that atrazine can interact with other pesticides to increase their toxicity.
+
+The same is true for the assessment of per- and polyfluoroalkyl substances (PFAS), a group of chemicals that are widely used in nonstick cookware, firefighting foam, and food packaging. PFAS have been linked to cancer, immune system problems, and developmental delays. The EPA’s assessment of PFAS has been criticized for failing to adequately consider evidence suggesting that these chemicals can accumulate in the body over time and cause long-term health effects.
+
+The problem is not limited to environmental contaminants. It extends to other areas of regulation as well, such as food safety and water quality. The Food and Drug Administration (FDA), for example, has been criticized for its assessment of genetically modified organisms (GMOs). The agency’s assessment failed to adequately consider evidence suggesting that GMOs can cause allergic reactions or other health problems.
+
+The EPA’s assessment of the safety of drinking water is similarly flawed. The agency relies on risk assessments that are based on outdated data and methodologies. As a result, it has failed to identify many contaminants that pose a threat to public health. For example, the EPA has not yet established limits for 1,4-dioxane, a synthetic industrial chemical that is commonly used as a solvent and stabilizer in various products, including detergents, cosmetics, and pharmaceuticals. 1,4-Dioxane is a probable human carcinogen, but the EPA has been slow to take action to protect public health.
+
+The problem with these risk assessments is not simply that they are flawed. It’s also that they are often used to justify regulations that have little or no scientific basis. This can lead to unnecessary costs for businesses and consumers, as well as a loss of freedom and innovation.
+
+What’s needed is a fundamental rethinking of how we assess risks. We need to move away from the current system, which relies on flawed methodologies and outdated data, and embrace a more rigorous and transparent approach. This would involve using better data, developing more sophisticated models, and incorporating input from a wider range of experts.
+
+It also would involve recognizing that risk assessment is not an exact science. There will always be uncertainty involved, and we need to be comfortable with that uncertainty. We shouldn’t let the fear of making mistakes paralyze us into inaction. Instead, we should use the best available information to make informed decisions and then be willing to adjust our course as new information becomes available.
+
+One promising approach is to adopt a “weight of evidence” framework for risk assessment. This would involve considering all available data—not just studies that support a particular conclusion—and weighing the strength of each line of evidence. This would help to ensure that decisions are based on a comprehensive understanding of the risks involved.
+
+Another important step is to increase transparency in the risk assessment process. Agencies should be required to disclose all of the data and methodologies they use, as well as any potential conflicts of interest. This would allow for greater public scrutiny and accountability.
+
+Finally, we need to recognize that risk assessment is not just a technical exercise. It’s also a political one. Decisions about how to manage risks often involve trade-offs between competing values, such as economic growth, environmental protection, and public health. These trade-offs should be made explicitly and transparently, with input from all stakeholders.
+
+The new Republican Congress has an opportunity to address these problems. It can pass legislation that reforms the risk assessment process and ensures that regulations are based on sound science. It also can hold agencies accountable for their decisions and ensure that they are acting in the public interest.
+
+This is not going to be easy. There will be resistance from those who benefit from the current system—such as environmental groups and industries that rely on government subsidies. But the stakes are too high to back down. The future of our economy and our environment depends on it.
+
+
+
+WALL STREET JOURNAL (US EDITION) JANUARY 9, 2015

@@ -1,0 +1,33 @@
+WSA 2001 Proposed Project Plan
+
+Project Name: Method Development (Styrene DNA adducts)
+
+Objective: In rat lung homogenates from the RASS/DEE study, styrene DNA adducts will be quantified either by ESI-MS or by ICP/MS.
+
+Deliverable(s): Memo
+Need Addressed: ASSAYS
+
+Plan Area (select one): Understanding S&H  ☐ Communication ☐ Acceptance ☐ Harm Reduction
+Disease (select one): Cancer ☑ CVD ☐ COPD ☐ Repro ☐ All ☐ Other ☐ (specify)
+Project Leader: Stabbart, R. Tactics and Milestones: Target Date:
+Tactics: Start of the co-operation with Prof. Dr. Linscheid, Humboldt Universitaet zu Berlin 48 CW 2000
+Milestones: Contract with Prof. Dr. Linscheid
+
+Tactics: Preparation of a styrene DNA adduct standard (in vivo) 5 CW 2001
+Milestones: License for this study at INBIFO (approximately 5 rats)
+
+Tactics: Determination of styrene DNA adduct standard 13 CW 2001
+Milestones: Draft results
+
+Tactics: Determination of styrene DNA adducts in rat lungs exposed to 1RAF-MS 26 CW 2001
+Milestones: Draft results
+
+Tactics: Determination of styrene DNA adducts (RASS/DEE study) 13 CW 2002
+Milestones: Memo
+
+INTERNAL RESOURCES (WSA, INBIFO) CRITICAL RESOURCE ALLOCATION EXTERNAL Resources (other PMUSA, external vendors)
+40 h of team AC, 40 h of team BC, 40 h of team PY Group of Prof. Dr. M. Linscheid
+
+250537613
+
+WSA_PLANNING 2001 RST3.DOC Date: 11-15-00

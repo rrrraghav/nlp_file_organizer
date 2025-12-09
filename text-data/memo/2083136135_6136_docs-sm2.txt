@@ -1,0 +1,36 @@
+PHILIP MORRIS U.S.A. CONFIDENTIAL
+
+INTEROFFICE CORRESPONDENCE
+Richmond, Virginia
+
+To: D. Self Date: June 2, 2000
+
+From: M. Chang -
+
+Subject: May 2000 Monthly Summary, C2R200
+
+GROUP NAME: Materials and Elemental Analysis Group
+
+Activity Types of Samples Analytical Number Number Time
+or activities Techniques of of (month)
+Samples Analyses
+
+P00165 Method Application CV AAS 0.8
+Application Method development for collection of
+mercury using Au-Pt trap for mainstream
+smoke.
+
+C2R200 AMA Activities Miscellaneous Activities 0.2
+
+P00165 Method Application
+• The analytical precision curve for the two-stage gold amalgamation system was further studied within a concentration range from 0.1 ng to 10 ng of Hg. As expected, the precision at the low concentration was not as good as at the high concentration. 5.9% RSD for 0.1 ng Hg versus 0.3 % RSD for 10 ng Hg.
+• The individual trap efficiency of the Au-Pt traps was studied using a standard solution of 10 ng/L Hg standard. The maximum difference was found being less than 1% that indicates the precise set-up for the two stage gold amalgamation system.
+• The effect of Au-Pt gauze was studied by connecting two Au-Pt traps in series and the mercury amount was analyzed independently. The gauze of mercury breakthrough, based on the second Au-Pt trap, was found to be 1% for 5 ng of Hg and 1.5% for 10 ng of Hg.
+• The instrument LOD, 0.01 ng, was determined based on 10 replicates of purge and traps of reagent blanks.
+• The method LOD, 0.1 ng, was also determined based on 10 replicates of smoking blanks.
+• 3 ng of Hg was spiked onto the Au trap before smoking the 18+ cigarette for method accuracy study.
+• Only 60% recovery was observed which could be attributed to two reasons: first, the quantity of Au was not enough to trap both mercury and volatile organic vapor passing through the heated sodium precipitation, and the other is due to retention on the Au trap caused by the adsorption of organic vapors. To solve this problem, a small amount of activated charcoal placed gold trap to decompose organic vapor before the gas of smoke entering the Au trap.
+
+2087365165
+
+DOC CODE: D05 2626

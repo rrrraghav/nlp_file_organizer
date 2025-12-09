@@ -1,0 +1,63 @@
+CRC CONTRACT RESEARCH CENTER
+
+FORM NO. 11 27 CW 98 SIL/MCM
+
+
+
+GROUP AND INDIVIDUAL IN-LIFE OBSERVATIONS PROJECT NO.: B 32 71
+
+Group code 4,1 Day of study 18 Date: 22 June 97
+
+GROUP
+Time 14:00
+Total number of rats 20
+Decreased spontaneous activity 0
+Trembling 0
+Partially or fully closed eyelids 0
+Harderian gland secretion 0
+Partially or fully wet or moist fur 0
+Abnormal breathing 0
+
+INDIVIDUAL
+Rat number 04115 04116 04117
+Sex M F M
+Time 14:00 14:00 14:00
+SCORE Spontaneous activityª 2 0 0
+Reaction to sound/touchª 0 0 0
+Decreased turning reflexª 0 0 0
+Decreased gripping abilityª 0 0 0
+Closed eyelidsª 0 0 0
+Harderian gland secretionª 0 0 0
+Tremblingª 0 0 0
+Abnormal breathing 0 0 0
+
+CHECK®
+Hair changes: rough 0 0 0
+moist/wet (%) 0 2 0
+discoloration (e.g., yellow/brown) 0 0 80
+hairloss (%) 0 0 0
+
+Skin changes
+Wounds
+High-legged gait
+Incisions
+
+REMARKS 04117 yellow discoloration ½ of hind end of back
+
+
+
+206146386
+
+Error codes: A writing, B calculation, C mixing up, D reading, E copy. F other with explanation
+
+Initials: Date: 23 JUN 1997
+ORACLE ctp/t R Initials SR:
+24 JUL 1997
+002303
+
+
+
+ª Grades: 0 = normal, +1 = slight decrease, -2 = marked decrease, -3 = strong decrease
++1 = slight increase, +2 = marked increase.
+® Grades: 0 = normal, +1 = slight, +2 = marked, +3 = severe
+Check: 0 = normal, x = finding, describe if necessary

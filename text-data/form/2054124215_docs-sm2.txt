@@ -1,0 +1,65 @@
+RETENTION SCHEDULE MAINTENANCE FORM
+
+TO: Records Department
+FROM: Debbie Blackwelder
+NAME OF DEPARTMENT: 06 MFP-NAS - Primary Processing Engineering
+AUTHORIZED SIGNATURE:
+
+(RESPONSIBLE RECORDS MANAGEMENT GROUP)
+(RECORDS COORDINATOR)
+
+(DEPARTMENT HEAD)
+
+[NOTE: You will receive a separate memorandum providing you with any new record category codes or with reasons for denial of requested additions or changes.]
+
+Record Category
+
+
+
+Requested  Category
+Revision* Code
+ADD   100
+ADD   200
+ADD   300
+ADD   400
+ADD   500
+ADD   600
+ADD   700
+ADD   800
+
+
+
+Personnel Files
+Information
+Production Reports
+Technical Manuals
+
+RESERVATION PERIOD
+
+In Dept. In Storage Total
+Sup  Sup  Sup
+Sup  Sup  Sup
+Sup  Sup  Sup
+Sup  Sup  Sup
+Sup  Sup  Sup
+Sup  Sup  Sup
+Sup  Sup  Sup
+
+
+
+You must attach a description of records in each new category requested and reasons for any suggested retention period changes.
+
+2064121AQS
+
+ADD = Add to the records retention schedule
+REV = Revise the records retention schedule
+DEL = Delete from the records retention schedule
+CAT = Change the record category description
+RPD = Change the retention period for a category
+
+FOR RECORDS MANAGEMENT USE
+
+
+
+Responsible Records Management Group Approval: Date:
+Legal Counsel Approval: Date:

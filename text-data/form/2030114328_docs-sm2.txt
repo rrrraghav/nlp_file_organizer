@@ -1,0 +1,56 @@
+LOCKOUT NO: PAGE:
+
+PHILIP MORRIS U.S.A. LOCKOUT 010 1 OF 4
+ISSUE DATE: SUPERSEDES:
+08/28/90 01/23/90
+APPLICABLE TO:
+Waste Water/Maintenance
+UPDATE RESPONSIBILITY:
+Area Supervisor
+
+SUBJECT:
+
+Lockout/Tagout Procedure for #3 Sludge Press
+
+APPROVAL: APPROVAL: LOSS PREVENTION APPROVAL:
+G.W. Wilson D.T. Parient KEY POINTS
+
+BASIC JOB PROCEDURE
+
+Job Steps
+
+1. Notify all affected employees that the lockout/
+   tagout will be performed.
+
+2. Shut down equipment by normal stopping pro-
+   cedure and ensure equipment has come to a
+   complete stop.
+
+3. Lock out/tag out the following potentially
+   hazardous energy sources per Park 500 Lockout
+   Policy. See attachment for energy isolation
+   locations.
+
+a. Electrical - Disconnects shall be in the
+   "OFF" position, locked and tagged with a
+   Philip Morris-supplied locking device.
+   This provides a positive means to physical-
+   ly isolate energy from the equipment.
+   Always stand to the side and look away
+   from a switch box when activating on/
+   off switch. This will minimize potential
+   exposure should an electrical arc occur.
+
+a. Death or serious injury could
+   result from disconnecting or
+   exploding while equipment is
+   under load/running. Electrical
+   shock & burn could result
+   from frayed, exposed or im-
+   properly grounded wiring or
+   unauthorized tampering with
+   energized electrical circuits.
+
+
+
+2030114328

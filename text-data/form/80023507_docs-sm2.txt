@@ -1,0 +1,42 @@
+COMPOUND PHYSICAL PARAMETERS
+
+CODE NO. A58 LOT NO. CR65-133
+
+APPEARANCE Clear yellowish liquid
+
+Reference: OR110-104
+
+The pH of a 10% concentration of A58 in a 62.6% dioxane/H₂O solution
+was calculated to be 3.46 at 23° R.
+according to the calculations procedures by Dr. P. D.
+Schlickedantz,  Lorillard Research Center Accession Number 1662.
+
+SOLUBILITY
+(See SOP for Biological Solutions)
+
+Reference: RC20-54
+
+A58 forms a stable emulsion in 1% Methyl cellulose at room
+temperature, with stirring.
+
+ANIMAL DATA
+(See SOP for Determination of Solubility of Materials for
+Acute Cardiovascular and Respiratory Effects Study in Beagle Dogs)
+
+Reference: RC20-54
+
+A58 is not soluble according to this protocol.
+
+STORAGE CONDITIONS
+Refrigerate in amber glass bottle at no more than 9°C
+
+COMPOUND SENSITIVE TO:
+□ AIR □ HEAT  □ MOISTURE □ OTHER
+
+SAFETY COMMENTS/SUGGESTED HANDLING PROCEDURES
+
+
+
+Signature: America A. Porter   Date: 7/14/83
+
+LORILLARD RESEARCH CENTER FORM 51-260

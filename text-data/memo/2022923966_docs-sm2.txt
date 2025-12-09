@@ -1,0 +1,34 @@
+INTER-OFFICE CORRESPONDENCE
+
+Richmond, Virginia
+
+
+
+To: Mr. A. I. Palmer Date: January 25, 1989
+
+From: R. W. Dwyer
+
+Subject: Concentric Filter Design - Clarification of D455
+
+Recently, PTR has shown an interest in concentric CA filters. They believe that a filter which delivers peripheral smoke preferentially will have an enhanced subjective appeal. This belief is based on the conception that more flavorful smoke is generated at the periphery of the combustion zone, and this smoke travels the length of the cigarette without appreciable mixing with the core smoke.
+
+In an attempt to exploit this behavior, Chris Campbell and I have developed a concept for a filter design which should increase the preferential delivery of peripheral smoke. The problem with a conventional concentric filter is that each section will have a characteristic resistance to flow. This means that the flowing smoke will partition itself between two sections in proportion to their resistances. Therefore, the core and peripheral smokes will mix at the rod/filter interface as they exit the path of least resistance.
+
+Our idea is to construct concentric filters with two different materials, one having a greater density than the other, so that the pressure drop across each section has the same resistance to flow. This insures that there would be no mixing of the peripheral and core smokes at the filter entrance. Once the smoke enters the filter sections, the one with the higher efficiency will remove more of its fraction of the smoke, thereby leading to a preferential delivery from the lower efficiency section. Thus, if the lower efficiency section is at the periphery, the smoke emerging from the filter would have a higher concentration of peripheral smoke.
+
+We have several materials at hand for constructing such filters. The lower-efficiency section can be made from paper, cotton, or ultra-low density polypropylene fibers.
+
+
+
+/s/
+cc: C. Campbell
+J. Charles
+P. Gauvine
+H. Miyabayashi
+R. W. Dwyer
+
+
+
+
+
+2012295306

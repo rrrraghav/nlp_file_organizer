@@ -1,0 +1,43 @@
+PHILIP MORRIS U. S. A.
+
+INTER-OFFICE CORRESPONDENCE
+RICHMOND, VIRGINIA
+
+40097-3
+C79—01571
+
+To: Mr. C. L. Coates
+From: W. A. Geiszler Date: April 2, 1979
+Subject: Milprint Tipping for Marlboro Lights
+
+Six master rolls of Marlboro Lights tipping from Milprint have been run
+to date on the mechanical perforators at 20th Street. This tipping is printed
+on Schweitzer’s GSR-110 bassheet.
+
+The master rolls have run well on the perforators and slitters. The gold
+control line seems to be working satisfactorily on the Fife guide sensors.
+It has not been necessary to make slitting knife adjustments to keep the print
+in registration on the slitter.
+
+There areas where some improvement can be made to the Milprint master
+rolls:
+
+1. Each master roll should have a unique identification number.
+
+2. The rolls should be stacked with cores vertical, rather than
+cores horizontal, on the pallets.
+
+3. The trim from each edge of the master roll broke several times
+during slitting, especially the trim from the edge without the
+guideline. Increasing trim width to 1/8 inch should help
+prevent the breakage and subsequent entanglement.
+
+
+
+pbw
+cc: R. Carnes
+J. Cooper
+
+W. A. Geiszler
+
+40097600

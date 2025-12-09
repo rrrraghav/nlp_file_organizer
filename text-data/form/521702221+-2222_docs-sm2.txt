@@ -1,0 +1,58 @@
+Health Hazard VH-0039
+Minimal.....0 HEALTH 1
+Slight.......1 FLAMMABILITY 0
+Moderate...2 REATIVITY 0
+Serious......3
+Severe…….4
+
+Information on this form is proprietary information and
+furnished solely for the use of our customers.
+
+Date of prep. 8/21/91 Prepared by R. Voedish
+
+SECTION I
+
+Manufacturer’s Name: Lewter International
+Street Address: 990 Skokie Blvd
+City, State and Zip: Northbrook, IL. 60062
+Emergency Telephone Number: 708-498-4700
+Product Class:
+Trade Name:
+Manufacturer's Code Identification: 1843(031)
+
+SECTION II – HAZARDOUS INGREDIENTS
+
+Ingredient: N/A Hazard Data: N/A
+
+All the components of this
+product and/or this product
+itself are contained on the
+TSCA inventory.
+
+SECTION III – PHYSICAL DATA
+
+Boiling Range (F) Vapor Density: Liquid Density: Percent
+>600 vs. air Heavier vs. water Volatile
+Lighter XX Lighter Wt.
+0
+
+Appearance: Evaporation Rate Faster
+Amber Liquid vs. Butyl Acetate Slower X
+
+Type of Odor:
+
+SECTION IV – FIRE & EXPLOSION DATA
+
+Flammability Classification Flash Point (F) LEL N/A
+Class IIIB >300
+DOT Not regulated
+
+Extinguishing Media: DRY
+FOAM X ALCOHOL FOAM CARBON DIOXIDE CHEMICAL WATER OTHER
+
+UNUSUAL FIRE AND EXPLOSION HAZARDS: NONE
+
+SPECIAL FIREFIGHTING PROCEDURES:
+use water to cool any closed containers exposed to heat
+
+9/21/70 23

@@ -1,0 +1,38 @@
+Philip Morris USA Business
+
+Notice of Intended Asset Disposal
+
+The following asset (s) will be disposed of if no response is received by the originator within twenty (20) days of this notice.
+
+Description	Asset Number	Purchase Date	Original Cost
+1. EG&G Lock-in Amp Model 5204, s/n 26123	R40045600	8/83	6,756.67
+2. Tektronix Oscilloscope CS502, s/n B039322, for 19” rack	R40014800	1982	2,045.00
+3. Stanford Research Lock-in Amp Model SR510, s/n 2220	R40279400	8/89	3,034.00
+4. NPC Thomson-CSF Power Supply Model 109R, s/n 7-158493	Expense Item	900.00
+
+Originator: Milton E. Parrish Date: 9/14/99
+Location: T-521
+Telephone Number: 4-3490
+
+Transfer Request
+
+Requester: Date:
+Location:
+Transfer Instructions:
+Transfer Approvals (to be obtained by requester):
+Facility Manager:
+or
+Facility Designee:
+
+Disposal-Suspension Request
+
+Requester: Date:
+Location:
+Reason for Disposal Suspension:
+Date to Resume Disposal Procedure:
+Disposal-Suspension Approvals (to be obtained by requester):
+Facility Manager:
+or
+Facility Designee:
+
+DOC CODE: A0680

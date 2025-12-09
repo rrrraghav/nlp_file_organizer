@@ -1,0 +1,24 @@
+RJRT Interoffice Memorandum
+
+Subj: Analysis of Triethylene Glycol Date: February 6, 1987
+
+To: Mr. Jerry W. Lawson From: H. L. Chung
+Brand R&D D. S. Moore
+J. C. Aldridge
+Applied R&D
+
+The sample of triethylene glycol (TEG) submitted was analyzed for its pyrolyzates and impurities as follows. A small amount of the sample was pyrolyzed at two temperatures (700°C and 200°C). The pyroly- zates were then analyzed by an on-line pyrolysis/GC/MS system. A 60-m DB-5 fused silica capillary column was used. The GC column temperature was held at 35°C for 5 minutes and then programmed to 280°C at 3°C/min. The pyrolyzates were identified and are listed with their relative percentages as below:
+
+% Compound (700°C)
+15.99 Acetaldehyde
+0.05 1,3-Dioxolane
+0.26 1,3-Dioxolane, 2-methyl-
+0.10 1,4-Dioxane
+0.16 Diethylene glycol
+82.84 Triethylene glycol
+
+Only a trace amount of 1,4-dioxane was detected at 200°C. Diethylene glycol and 1,4-dioxane were identified by comparing their mass spectra and retention times with standard chemicals (Aldrich Chemical Co.).
+
+The triethylene glycol submitted was analyzed for impurities as follows. A small amount of the sample was analyzed by GC/MS. A 60-m OW-351 fused silica capillary column was used. The temperature of the GC column was held at 35°C for 5 minutes and then programmed to 220°C at 3°C/min. Only approximately 0.078% of diethylene glycol relative to triethylene glycol was found.
+
+51807 7487

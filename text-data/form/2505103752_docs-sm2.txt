@@ -1,0 +1,36 @@
+INBiFO institut für biologische Forschung GmbH
+
+                                        INBiFO
+                                  Contract Research
+INBiFO GmbH • Fuggerstr. 3 • 51149 Cologne • Germany
+Telephon [02203] 803-1
+Telex  412203 803-362
+                                Original
+                                Ablage
+
+To: Clinton E. Blake   Fax No.: 001-804-752-5600
+From: Falk Radtke     Date: February 22, 2000
+Total Number of Pages: 7  Telefax Message No.: 3728
+
+□ URGENT          □ PLEASE COMMENT        □ PLEASE REPLY
+
+Re: Requested Technical Documentation of Phytee miniCON-535 Controller Board
+
+Dear Clint:
+
+Please find attached the requested technical documentation of the Phytee microcontroller board used
+in the INBiFO trigger setup. The compiled data sheets are part of the hardware manual. Please give
+me a call, if you need the complete manual and I will sent you a copy via courier. However, my
+understanding was that a comparable hardware being available at your lab will work as well.
+
+Kind regards,
+
+Falk
+
+2505103762
+
+
+
+U:\CON\KONR_FALK\UN.DOC                                  Team Register Cologne 1998-07
+                                                            General Manager: Dr. Wolf Nehmhaus
+                                                                                     07/98

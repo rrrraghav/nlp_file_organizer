@@ -1,0 +1,36 @@
+INBIFO Institut für biologische Forschung - Köln
+FORM 2 KW 82 DRSP/RM RM3 (DIV) A6
+
+GASCHROMATOGRAPHISCHE BESTIMMUNG.
+
+A 13050.M
+
+Nachgewiesene Substanz:
+
+Probenart:
+
+PROBENBEZEICHNUNG MESSGRÖSSE (a) KONZENTRATION
+(Peakflächen- verhältnis) ( ) BEMERKUNGEN
+
+S1 0.220 CR=4890 (Nic.)
+S2 0.356
+S3 0.500
+S4 0.920
+
+61 0.233
+62 0.360
+63 0.531
+64 0.951 CR=4890
+
+71 0.178 CR. 4934 (Nic.)
+72 0.295
+73 0.423
+74 0.660
+
+10. 08. 82 Ke
+Datum, ZN
+
+(a) zutreffendes eintragen: Peakhöhe (nm), Peakfläche,Peakflächen-
+Verhältnis oder Peakflächen-verhältnis.
+
+37.RM81

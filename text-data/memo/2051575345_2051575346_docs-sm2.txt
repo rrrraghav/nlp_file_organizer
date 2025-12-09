@@ -1,0 +1,28 @@
+PHILIP MORRIS U. S. A.
+
+INTER - OFFICE CORRESPONDENCE
+
+Richmond, Virginia
+
+To: B. Handy Date: November 1, 1989
+
+From: N. Jensen
+
+Subject: Mass Spectral Analysis of Residue from ART Pilot Plant
+
+GC-MS analysis was performed on a sample of residue obtained from the reactor at the ART pilot plant. This sample was originally submitted by Jose Nepomuceno, request code 289095, sample code 236. The sample was taken up in hexane and analyzed by GC-MS using the JEOL SX-102 mass spectrometer. A 15 meter, DB-5, 0.25 μm column was used with conditions of initial temperature 100°C, heating rate of 10°/min., and final temperature of 325°C with a ten minute hold time. The mass spectrometer was operated in the electron impact mode (EI) with 70 eV ionization potential, 10 KeV acceleration and a scan speed of 1 scan/sec over the mass range 10-800.
+
+Figure 1 shows the total ion chromatogram for the sample. Important components include: hexane solvent (scan 671), neophthyiadiene (scan 516), (1S,2E,4R,7E,11E)-2,7,11-tridecatriene-4,6-diol (scan 746) and a number of long-chained hydrocarbons in the region of 850-1300. Although most of the components in the region of scan 850-1300 are long-chained hydrocarbon waxes, there are two notable exceptions. The first is the component observed at scan 1158 which has a structure that likely contains a substituted aromatic character and an aliphatic chain. The second is the component observed at scan 1205 which appears to have a cholestane type structure. Absolute identification of these compounds has not been achieved.
+
+Comparison of this material to ART materials analyzed previously reveals no components unique to this residue (see memo: Mass Spectral Analyses of ART Samples to D. Leyden, from N. Jensen 9/22/89). If one prepares this material to solid material obtained as residue from higher pressure BTU runs, the major difference is in relative distribution of various components. For this residue sample, the abundances of neophthyiadiene and waxes are typical of the cholestane type compound are increased with the restriction of aliphatic hydrocarbons.
+
+It is my recommendation that further work be done on this material to determine its origin. It is possible that this material represents a reaction product which is not normally observed in ART reactor runs. Further investigation would involve preparation of this residue as solid material and analysis by GC-MS after derivatization with trimethylsilyl chloride. This would allow for better separation and identification of the various components.
+
+Please direct any questions to my attention.
+
+NJN/sdb
+cc: D. Leyden
+
+
+
+891101

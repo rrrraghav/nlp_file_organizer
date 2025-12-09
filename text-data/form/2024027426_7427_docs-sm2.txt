@@ -1,0 +1,44 @@
+SIDESTREAM VISIBILITY ID (H 1677 )
+
+Requestor: Paine/Kalliance Date: 911211 Paper Code Number XHABP-9A
+
+Paper 158 nominal 90.7-14 (85% hydromagnesite /15% brucite) with 15%
+nominal Multiflex MM ICC... by analysis, 10.29% of .053 NM-158
+brucite and 13.738 calcium carbonate.
+
+Basis Weight (g/m²) 45.2 Porosity (CORESTA) 4.9 [20 cm]
+
+Sizing Agents (type and level) 7.9% nominal K succinate 67.0% by analysis
+
+Cross-reference Similar Models
+
+Comments: By ICC, 5.58 Ca, 3.28 Mg, 2.88 K.
+
+SEE H1676 FOR CONSTRUCTION
+
+Tobacco Filler Filter Cigarette Weight 381
+
+Method (check one) Other Rizla Super Rizla Luxury
+
+Date Cigarettes Prepared Number prepared By
+
+SINGLE-PORT SIDESTREAM VISIBILITY DATA:
+
+n = 2 % Attenuation .23 Static Burn Time (min.) .1 S.D. .01
+Extinction Coefficient .34 S.D. .02 EC x SBT .06
+
+Ash Adhesion 4 Color 2 Fall off 3 Solidity 5
+
+Analyst Dates Analyzed
+
+% Reduction 55 relative to with EC .75 S.D. n =
+
+SUBJECTIVE SCREENING:
+
+Smoker Notebook Reference
+Relative Rating Comments
+
+Smoker Notebook Reference
+Relative Rating Comments
+
+20240726

@@ -1,0 +1,39 @@
+INBiFO institut für biologische Forschung Köln
+FORM 27.KW 85 ERO/MNO R250 B2
+
+HIT
+REPORT/DOCUMENTATION-LAUFZETTEL (a) p 0268 / 2117
+
+BLATT- NR. 2
+
+TITEL: Mutagenicity of Whole Smoke TPW of Test Cigarette
+SNOOPY-1A Obtained with Various Puff Volumes,
+Plate Incorporation Assay on Salmonella Typhimurium
+Strains Ta98 and TA100 (PT)
+
+VORGANG STELLE DATUM ZN
+BZW. PERSON EIN GANG AUSGANG
+
+Freigabe LATHE 1.Aug.85 1. Aug.85 Me
+Rep-Sc RWA 1.Aug.85 6.Aug.85 La
+Vorarbeiten TMe 6.Aug.85 8.Aug.85 Me
+Korrekturen PME 8.Aug.85 8.Aug.85 RiE
+4  Ula 9.Aug.85 8. Aug.85
+Prüfung  RIE
+Anlages und Freigabe S.D. FIE 20.Aug.85 22.Aug.85 Si
+Korrekturen MHA 23.Aug.85 23.Aug.85
+Prüfung GA CDA 26. Aug. 1985 1. Sep. 1985
+Korrekter  SSU 4.Sep.85 4. Sep.85 Si
+S4-Freigabe WHD 5. Sep.85
+Korrektur SSU 13.Sep.85 17.Sep.85 Pa
+Bearbeitungsname von Internen,  20.Sep.85
+Anm. - Freigabe LHTD 17. Sep. 85
+Ausdruck/Abh. Korrektur SSA 19. Sep.85
+e Buch/Bild  SIA 19. Sep.85 19. Sep.85
+Klassifizierung SSU 23.Sep.85 23. Sep.85
+
+(a) Erläuterungen siehe Rückseite
+
+
+
+2021082659

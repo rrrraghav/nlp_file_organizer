@@ -1,0 +1,39 @@
+Sample Number 2309
+
+Sample Date 1/16/92 Confidential
+Observation Date 1/20/95
+Philip Morris
+
+Filament Abundance:
+0   1   2   3   4   5   6
+None Few Some Common Very Abundant Excessive
+
+Filament Effect on Floc Structure:
+Little or None Bridging Open Floc Structure
+
+Morphology of Floc: Firm Weak Round Irregular Compact Diffuse
+
+Size (µm): <150 150-500 >500
+(% in range) 80 20
+
+Features: Free cells in suspension Neisser positive cell clumps
+Zoogloea's few amorphous. India Ink Test
+Spirochaetes Chlorine damage to filaments
+Inorganic/Organic Particles
+
+FILAMENTOUS MICROORGANISM SUMMARY:
+
+Rank Abundance Rank Abundance
+Nocardia sp. M. parvicaella
+Type 1701 Type 0581
+S. natans Type 0092
+Type 021N Type 0803
+Thiothrix sp. Type 1851
+Type 0041 Type 0961
+H. hydrossis Type 0675
+N. limicola Other
+Fungus Other
+
+Remarks Park 500 Basin # 3 MLSS at effluent end of basin.
+
+2030164656

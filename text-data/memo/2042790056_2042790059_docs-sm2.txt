@@ -1,0 +1,25 @@
+EXHIBIT 5.
+
+PHILIP MORRIS INCORPORATED
+
+INTER-OFFICE CORRESPONDENCE
+
+RICHMOND, VIRGINIA
+
+To: Mr. L. F. Meyer Date: December 4, 1980
+
+From: Warren Claflin, Cliff Lilly, Peter Martin
+
+Subject: "Percent Tar Free" Claim On Cigarettes
+
+A recently developed line of marketing strategy for low delivery cigarettes has been to label the brand as being “percent tar free," as opposed to using conventional FTC tar values. In an article in Fortune (Page 121, November 17, 1980), Brown and Williamson explained that "percent tar free" was derived by dividing the weight of tar in a puff by the total weight of all material in a puff, including the dilution air because of the particulate phase and enhanced quantities of the major combustion gases (carbon dioxide and carbon monoxide). Cigarette dilution combines an air stream with the smoke stream in a given proportion by volume and passes the resultant nicotine through a cellulose acetate filter to remove a fraction of the tar, nicotine, and water. The percent of each component removed is different and depends on the specific filter efficiency. The volume percent of the gaseous components in the stream is not significantly changed by the filtration because the particulate phase occupies such a small percentage by volume. An air particulate stream that is a 90-10% ratio by weight is a 99.9-0.1% ratio by volume, because of the large differences in density between the gases and solids.
+
+The weight percent of the smoke stream was evaluated using the data presented by Baker at the Smoke/TGRC meeting in Richmond, Virginia and is shown in Column 6 of Table 1. These numbers are in good agreement with previous results of M. E. Hobbs. Invited Paper, CORESTA/TCRC, Williamsburg, Va. 1972. Combining these values with known molecular weights (Table 1, Column 2), the volume percent composition of the stream is evaluated and is shown in Column 4 of Table 1. This value is then combined with the dilution air stream in a smoke ratio (100-D) where D is the cigarette dilution factor as given next shown in Column 5 of Table 1. The "percent tar free" result and water contents delivered to the smoker, have been measured and are determinable less than high accuracy. The total gas plus particulate volume percent air capacity of the stream is given in Column 7 while the percent of each component is shown in Column 8.
+
+The data presented in Table 1 indicates that the "percent tar free" claim can be made for a cigarette with a dilution factor of approximately 2.5, which would yield a smoke ratio of 97.5.
+
+Sincerely,
+
+WLC/CL/PM: jdb
+December 4, 1980
+RIC-80-2498

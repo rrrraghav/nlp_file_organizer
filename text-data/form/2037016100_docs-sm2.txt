@@ -1,0 +1,57 @@
+JP NO. WTR-015.LOC PAGE: 1 of 3
+
+PHILIP MORRIS USA
+JOB PROCEDURE
+
+SUPERSEDES:
+
+ISSUE DATE: 11/05/93
+
+APPLICABLE TO: Waste Water/Maintenance
+
+SUBJECT: Lockout/Tagout Procedure for Settling Basin Sludge Collectors #1, #2, #3
+
+REQUIRED PERSONAL PROTECTIVE EQUIPMENT:
+
+Leather Gloves, Safety Glasses
+
+REQUIRED TOOLS & EQUIPMENT:
+
+Locks, Tags
+
+APPROVAL
+G.W. Wilson APPROVAL
+A.J. Hull APPROVAL
+P.O. Langan
+
+BASIC JOB PROCEDURE
+
+I. Potential Hazards
+
+A. Severe crush injury and/or amputation could result from unexpected operation of sludge collector.
+
+B. Flying objects/debris could result in lacerations, eye injuries or injuries from embedded objects.
+
+C. Slips and falls could result due to wet or oily working surfaces.
+
+D. Slips and falls could result from improper housekeeping practices.
+
+E. Electrical shock or death could result from:
+
+1. Frayed, exposed, or improperly grounded wiring.
+
+2. Unauthorized tampering with energized electrical circuits.
+
+F. Bodily injury may result from slips and falls from elevated surfaces (ascending/descending).
+
+G. Death or serious injury could result from disconnect box arcing or exploding when turning on/off.
+
+H. Severe injury could occur if hair or loose fitting clothing comes in contact with moving parts of machinery.
+
+II. Job Steps
+
+A. Notify all affected employees that the lockout/tagout will be performed.
+
+B. Shutdown equipment by normal stopping procedures and ensure equipment has come to a complete stop.
+
+2037016100

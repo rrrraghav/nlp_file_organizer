@@ -1,0 +1,24 @@
+PHILIP MORRIS U. S. A.
+INTER-OFFICE CORRESPONDENCE
+RICHMOND, VIRGINIA
+
+To: Mr. J. D. Schardt Date: June 14, 1985
+From: G. D. Kerits
+Subject: PM CASE 641 DIVISION III
+
+Craig in U.S. Patent 2,583,548 teaches the treatment of cellulosic pulp containing 1 to 6% of fibers with an excessive amount (10%) of a calcium chloride solution which gives a salt to fiber dry weight ratio from 1.67
+to 10; causing the pulp containing the calcium chloride to a prolonged mechanical treatment, and then adding a soluble salt such as sodium carbonate to react with the calcium chloride to form a precipitated calcium compound pigment.
+
+Our case (Serial No. 519,619) differs from that of Craig in that the cellulosic pulp is caused to swell and hydrate by chemical means by reacting the cellulosic pulp with an ammonium and/or alkali metal hydroxides which in addition force the polyvalent metal ions to be fixed in the cellulosic matrix either as a water insoluble precipitate or as a "salt"
+of the cellulosic matrix. Both of these mechanisms of precipitating or fixing metallic ions uniformly in the cellulosic matrix are probably responsible for altering the constitution of the cellulosic substrate and for improving the subjective character of smoke. The required amounts of precipitated or fixed metal ions needed to achieve this effect is significantly lower than that practiced by Craig for a different purpose. (In our case the ratio of salt to cellulosic material is less than 0.1).
+
+Briskin, et al., (U.S. Patent 3,640,285) deals with the treatment of cigarette paper containing calcium or magnesium or strontium or barium oxalate, pivalate, tannate. This paper could be produced by treating an existing cigarette paper containing calcium carbonate with oxalic acid or pivalic or tannic, or by adding the desired salt to the cellulosic pulp used in the original formation of the paper web (see column 2 lines 65-69).
+
+In this case, Briskin teaches the selection of one salt over another for a cigarette paper and his method of treatment in way teaches or makes obvious the treatment of cellulosic material with hydroxides of ammonium
+and/or alkalies to uniformly fix a polyvalent metal cation to the cellulosic matrix. In column 2 lines 37-38 "the oxalic acid solution or other equivalent calcium carbonate to insoluble calcium oxalate." We do not see any relation in this statement to those of ours since Briskin concerns only cigarette paper, i.e., thinner material. See also columns 1 and 2.
+Furthermore, Briskin, et al., gives a range of 1 to 8% by weight of calcium carbonate whereas our ranges are considerably lower.
+
+We have investigated the use of magnesium in PM CASE 641 as a substitute for calcium. Magnesium tends to give a more yellow smoke than does calcium.
+
+GDK:js
+20858457

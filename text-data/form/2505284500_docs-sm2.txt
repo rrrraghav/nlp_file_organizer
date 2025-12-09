@@ -1,0 +1,40 @@
+9.18.99
+
+Scientific Area: Methodology - Assays In Vivo - Genotoxicity
+
+Project Name: Establishment of the Ex Vivo HPRT Assay
+
+Objective: Establishment of an ex vivo HPRT mutation assay in rat type II cells as a genotoxic marker indicative for the potential carcinogenic activity of cigarette smoke in order to complement our PI testing battery
+
+Project Leader: Weisensee, D.
+
+Tactics and Milestones: Target Date:
+
+The ex vivo genotoxicity assay (HPRT) utilizes cells that have been exposed in the intact organism. Isolated target cells may also be useful for other endpoints (DNA analysis, comet assay).
+
+1. Optimization of cell isolation from control rats by sub-characterization of ex vivo pulmonary cells types (e.g., antibodies to surfactant proteins, alkaline phosphatase, keratins and surface antigens) Mar.2000
+
+2. Study the proliferative capacity of type II cell fractions to allow normalization of mutation frequencies Jun.2000
+
+3. Abstract submission (methodology) Sep.2000
+
+4. Comparison and optimization of mutation expression kinetics (in vitro and in vivo) following exposure to a model mutagen (target date depends on starting time) Jun.2001
+
+5. Planning and execution of an ex vivo positive control by instillation of rats with quartz particles using the same strain and experimental design as in the RASS/DEE study Dec.2000
+
+6. Re-evaluation of RASS/DEE study data in light of improved understanding of assay conditions Mar.2001
+
+7. Monitor literature continuous
+
+Internal Resource Allocation: External Resource Allocation:
+
+Cell Biology: 55%
+CRC (Installation): 1 %
+
+| OBT Objective: | Activity Area: | Scientific Area: |
+|---|---|---|
+| 3E1 | 18 | IE | 59 |
+
+Submitted By: D. Weisensee
+
+Doc Code: P0622 Document in Binder! Date: 12/08/99

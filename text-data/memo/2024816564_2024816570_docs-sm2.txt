@@ -1,0 +1,34 @@
+PHILIP MORRIS U.S. A.
+
+INTER - OFFICE CORRESPONDENCE
+
+Richmond, Virginia
+
+To: R. Comes Date: April 5, 1990
+
+From: CKY Tatum City Station
+
+Subject: Smoking Chamber Results : High Basis Weight Paper I
+
+Cigarette models made with a series of medium basis weight papers were tested in the smoking chamber. All cigarettes were smoked at initial conditions of 72 degrees Fahrenheit and 60% relative humidity.
+
+The following models were made using a 45 g/m² basis weight paper treated with various amounts of monobasic potassium phosphate additive:
+
+Sample Base Sheet  KH₂PO₄ (analyzed)   8-Port - (1)
+ID Code    Ext. Gain %
+X8D9CRL KC PLX   0% (base sheet) 1.25
+X8D9CRP-1   "   2.2%   1.06
+X8D9CRP  "   9.8%   0.72
+X8D9CRP "   14.1%   0.56
+
+All models were made with Marlboro filler with aftercut.
+
+All results are listed in the attached tables. The data presented is averaged for the number of runs and cigarettes smoked as indicated in the appropriately labeled columns. Data generated on the CORESTA prototype smoking machine for both static and dynamic conditions are also reported. Results are the average of three 3-cigarette runs for each model.
+
+Comments concerning individual analyses and testing conditions are listed below.
+
+* Cases are measured by on-line analyzers. Measurement starts one minute after the mixing fan is turned on. Concentrations are determined (2) computer which subtracts the averaged baseline (background) from average plateau readings obtained after mixing. Data are reported for CO, CO₂, and NO.
+
+*   TEOM particulate mass is collected during separate five-cigarette runs. Measurement is achieved using a TEOM mass monitor. The number concentration, based on particles per cubic centimeter per cigarette, is determined simultaneously using the CPC particulate number monitor.
+
+* Opacity is determined by a newly environmental instrument called a Transmittance Spectrometer (product of Thermo Environmental). The device measures the reduction of amount of light transmitted to the with the detector caused by the presence of cigarette smoke. As such it’s on-line analyzers measurement starts one minute after

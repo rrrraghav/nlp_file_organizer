@@ -1,0 +1,62 @@
+CIU
+
+Test Substance Data Sheet
+
+This test substance data sheet is designed to assist HRC to comply with prevailing regulatory requirements and to ensure efficient completion of studies.
+
+We would appreciate it if this data sheet is completed to the best of your present knowledge and submitted to HRC prior to or with any test substance.
+
+Information given on this data sheet will be treated in confidence. Completion of Items 2, 4, and 5 and parts of Item 3 are essential for compliance with present legislation in the United Kingdom.
+
+This data sheet is specifically intended for application to short term mammalian studies.
+
+1.  Sponsoring Company:
+    Address:
+
+    Lorillard, Inc.
+    420 English Street
+    P.O. Box 21689
+    Greensboro, North Carolina 27420-1688
+    U.S.A.
+
+2.  TEST SUBSTANCE IDENTIFICATION
+
+    a. Test substance identification B122
+        Batch/Lot number:
+
+    b. Chemical name: Alcohol / Propylene Glycol Mixture
+
+    or
+
+    Chemical class:
+
+    c. Identity of major impurities/solvents: No known major impurities. Assume 100% purity.
+
+    d. Intended usage: Potential flavor additive.
+
+3.  PHYSICAL AND CHEMICAL PROPERTIES:
+
+    a. pH ….5.60….
+
+    b. Flammability (flash point) 66°F
+
+    c. Melting point .
+
+    d. Boiling point .398°C
+
+    e. Vapour pressure .1.24°C @ 25.9
+
+    f. Specific gravity .0. 8997
+
+    g. Stability Stable: Avoid Heat, Flames, Oxidizing Agents.
+
+    h. Solubility *
+        a. in typical water
+        b. in typical non polar organic solvents
+        c. in typical
+
+97402332
+
+For insoluble solid substances grinding may be necessary to prepare suitable suspensions.
+
+* Typical solvents used are methanol, acetone, vegetable oil, liquid paraffin.

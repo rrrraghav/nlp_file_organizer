@@ -1,0 +1,53 @@
+FACTORY TEST – Cigarette, Filter and Testing Specifications
+
+Factory Test No.: 3000 Project Leader: Project No.: -2820
+Brand: WINSTON Approved:
+Purpose of Test: To prepare current WINSTON-KS, a modified WINSTON-KS, and Marlboro-KS
+cigarettes for evaluation on MRD and TB panels.
+Special Instruction: Make on Mark IX equipment. Weight versus firmness required on all parts.
+Use Jet transport on Part B.
+
+STORY TEST NUMBER/PART
+IN TEA SPECIFICATIONS 3000-A 3000-B 3000-C
+Test Item 2.9/41,000 3.3/39,000 (JT) Marlboro-KS
+Filter Pressure Drop (mm.) 72 68 purchased from
+Filter Length (mm.) 21 21 the local
+Circumference (mm.) 24.60 market.
+Plasticizer (% and Type) 7% E-18F 7% E-19F
+Plug Wrap (I.D. No.) 622 592
+CIGARETTE SPECIFICATIONS
+Total Cigarette Length (mm.) 84 84
+Total Tobacco Length (mm.) 63 63
+Tobacco Rod Length (mm.) 24.90 24.80
+Circumference (mm.) 1.0177 1.000
+Cigarette Weight (grams) .853 .853
+Cigarette Paper (I.D. No.) 853
+Tipping (porosity) 50 50
+Total Width(mm.) Cork Cork
+Color Electrostatic
+Type 4 mm band
+Perforation Lines and Location None A-535-68
+Print I.D. No. None
+
+CIGARETTE PACKAGING
+Mono-branded Cigarettes (cm) 60 60
+Plain Monadic Wrappers
+Smoke First Wrappers
+Smoke Second Wrappers
+Printed (Specify Brand)
+Branded Cigarettes (cm.) 15 mm. 15 mm.
+Bonding Width 18 mm. 18 mm. 38 mm
+Position, from mouth end None None
+Plain Monadic Wrappers 30 30
+Smoke First Wrappers
+Smoke Second Wrappers 90 90
+Smoke First/Smoke Second 180 90
+Smoke First/Smoke Fast Wrappers
+Wrappers .570
+
+PACK-CARTONS REQUIRED
+Number of U.S. Mail Packs: 12
+Number of Retail Packs: 12
+Number of Test Packs: 12
+
+SN2356818

@@ -1,0 +1,41 @@
+Lib. 3.4
+
+Author: P. C. Markunas MRR-A, 1961, No. 10
+Analytical Research
+
+To: Mr. Kenneth H. Hoover October 25, 1961
+Director of Research
+
+Re: MONTHLY RESEARCH REPORT Period Covered:
+Analytical Research September 18 to October 18
+1961, No. 10
+
+A. ANALYSIS OF TOBACCO SMOKE
+
+1. Determination of Polycyclic Hydrocarbons by Phosphometry
+
+Cigarettes containing the additives listed in Table 1, along with a control, were smoked on the analytical smoking machine. The smoke condensates obtained were analyzed spectrophotometrically for fluorene, benzo[b]fluorenhone and 3,4-benzpyrene. The values obtained are also listed in this table.
+
+TABLE I
+
+POLYCYCLIC HYDROCARBONS IN FLUE-CURED TOBACCO SMOKE
+
+Polycyclic Hydrocarbon Content, µg./100 Cig.
+Additive Fluorene Benzo[b]fluorenhone 3,4-Benzpyrene
+Control 15.40 1.28 2.16
+Attapulgus clay, 3% 12.70 1.15 1.79
+Calcium carbonate, 5% 11.58 1.15 1.70
+Hydroquinone, 5% 13.72 1.20 2.10
+Nusic acid, 5% 11.92 1.07 1.79
+
+B. DEVELOPMENT OF ANALYTICAL METHODS
+
+1. Determination of Acids in Nonaqueous Solvents
+
+a. Determination of Perchlorates
+
+Additional perchlorates were assayed by the following procedure: Approximately 0.5 g. of sample was weighed into a 100-ml. volumetric flask and dissolved in 10 ml. of water. The solution was diluted to the mark with pyridine and 10 ml. aliquots were titrated potentiometrically with 0.1 N tetrabutylammonium hydroxide (Bu4NOH).
+
+The perchlorates of cobalt, aluminum, zinc, manganese, lead and strontium were successfully analyzed in this manner. Chromic acid must be added to the aliquot prior to the titration of acetonate
+
+5029 4153

@@ -1,0 +1,41 @@
+INBiFO institut für biologische Forschung Köln (BRA, MNO, MMO)
+FORM 5.KW 85 RWA/PE RZ50 (DIV) A7
+
+EXPIRED ROUGH TIME/COST AND DURATION ESTIMATE P 0500 / 5423
+
+--------------------------------------------------
+
+STEP	DURATION	MANHOURS
+definition	—		
+opening	—		
+planning	—		
+establishment of assays —		
+protocol	—		
+experiments	4 WEEKS	500
+evaluation	2 "	100
+reporting	4 "	50
+storage and review	—		
+total	7 WEEKS	650
+
+Number of samples:
+
+Number of organs:
+
+Number of sections/organ:
+
+Remarks: Expansion of rough time / cost estimation because the initial objective of the study was expanded. In addition to the initial objective the following experiments should be performed:
+(1) Determination of doses of test substance in a whole body exposure chamber using wide cage with excretion pans containing water and food for 48 rats.
+(2) Determination of the ammonia concentration in a whole body exposure chamber which will contain 48 adult rats.
+
+14. Sep. 87 /Ss
+Date/Sign
+
+Nach U50h Rückmeldung beim RPC
+
+30 Jan. 1985	19.Sep.87
+QA	B
+
+
+
+51 KW 85
+GELS

@@ -1,0 +1,36 @@
+Lorillard
+
+MEMORANDUM January 23, 1981
+
+TO: Mr. John P. McGeady
+
+FROM: Burma L. Moss
+
+SUBJECT: Complete Vapor Phase Analyses, both Sidestream and Mainstream, on Samples 1787, 1792 and Golden Light Control.
+
+The vapor phase analyses as requested have been completed for the samples submitted. The results are as follows:
+
+Mainstream
+
+Permanent Gas Phase (µg/cig.)
+
+Golden Light #1787 #1792
+Control
+Oxygen 56.4 43.0 48.3
+Nitrogen 235.3 182.2 207.2
+Carbon Monoxide 7.4 7.8 9.7
+Carbon Dioxide 29.6 25.2 29.0
+
+Nitric Oxide (µg/cig.) 209.4 107.3 101.5
+Hydrogen Cyanide (µg/cig.) 86 60 53
+
+Organic Vapor Phase (µg/cig.)
+
+Golden Light #1787 #1792
+Control
+Isoprene 345.8 182.9 149.1
+Acetaldehyde 242.7 193.7 106.1
+Acetone 322.2 243.7 31.0
+Acrolein 81.5 58.2 51.4
+
+0153430

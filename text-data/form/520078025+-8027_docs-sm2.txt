@@ -1,0 +1,87 @@
+Chain Tire Pantry
+Jasper
+Store # 3072
+ORDER TO ARRIVE
+Space Allocation:
+SIS # 833670
+NO LATER THAN
+RJR = 33 %
+Store Address
+Monday 2-22-99
+PM = 50 %
+Street 2001 Skybo Rd
+Bill
+BAT = 17 %
+City Fayetteville
+SET STORE ON
+LOR = %
+State NC
+2-23-99
+PIL = %
+Zip 38314 (If known)
+* Light
+Phone 910-487-4212
+* Packs as possible under counter
+Manager (If known)
+
+PLAN-O-GRAM -- SET -- Already Installed
+Grid
+SEE ATTACHED
+
+
+
+-- SET -- Under Counter Packs (Draw Cover)
+
+
+Component Order (Shelfwall/Grid) Component Order (Under Counter Pkg)
+SKUs Description Commodity # SKUs Description Commodity #
+2 4" Gondole Sign Stader Kit 541154 2 1" Under the Counter Kit 540740
+2 4" Gondole Sign Add-on Kit 541166 2 2" Under the Counter Kit 540743
+2 Winston Sign 548015 2 3" Under the Counter Kit 540745
+2 Winston Sign 548015 2 4" Under the Counter Kit 540766
+2 Winston Sign 548024
+1 Camel Sign 546318
+1 Camel Sign 546318 Component Order (Shelfwall Boards)
+2 Camel Sign 546235 SKUs Description Commodity #
+2 Doral Sign 546235 2 4' Shelfwall Board 540743
+2 Doral Sign 550223 4 x 4' Shelfwall Boards 540743
+2 Doral Sign 550223
+1 Doral Sign 546235 Component Order (Onewall Sections)
+1 Salem Sign 546324 SKUs Description Commodity #
+1 Forely Stick Stickers 546324 2 Gall's Wall & Partition 548031
+1 Forely Stick Stickers 546327 2 Gall's Wall & Partition 548031
+2 Morgan Large Pack Stickers 49391 2 Gall's Wall & Partition 548031
+2 Morgan Large Pack Stickers 49391 2 Gall's Wall & Partition 548031
+2 Champion Large Pack Stickers 546235 2 Gall’s Wall & Partition 548031
+2 Champion Large Pack Stickers 546235 2 Gall’s Wall & Partition 548031
+2 Marl. Purse Cushions (196) 540742 2 Gall's Wall & Partition 548031
+2 Marl. Purse Cushions (196) 540742 2 Gall’s Wall & Partition 548031
+2 Marl. Purse Cushions (196) 540742 2 Gall's Wall & Partition 548031
+2 Marl. Purse Cushions (196) 540742 2 Gall’s Wall & Partition 548031
+2 Winston Sign Stader Kit 541154 2 Gall’s Wall & Partition 548031
+2 Winston Sign Stader Kit 541166 2 Gall's Wall & Partition 548031
+2 Camel Sign Stader Kit 541154 2 Gall’s Wall & Partition 548031
+2 Camel Sign Stader Kit 541166 2 Gall's Wall & Partition 548031
+2 Doral Sign Stader Kit 541154 2 Gall’s Wall & Partition 548031
+2 Doral Sign Stader Kit 541166 2 Gall's Wall & Partition 548031
+2 Salem Sign Stader Kit 541154 2 Gall’s Wall & Partition 548031
+2 Salem Sign Stader Kit 541166 2 Gall's Wall & Partition 548031
+
+SKUs Description Commodity #
+2 1" x 4' Shelfwall Board 540743
+2 2" x 4' Shelfwall Board 540745
+2 3" x 4' Shelfwall Board 540766
+2 4" x 4' Shelfwall Board 540766
+
+-- SET -- New Advertising (Shelfwall)
+SKUs Description Commodity #
+1 Winston Sign 548015
+1 Camel Sign 546318
+1 Doral Sign 546235
+1 Salem Sign 546324
+1 Forely Stick Stickers 546324
+1 Morgan Large Pack Stickers 49391
+1 Champion Large Pack Stickers 546235
+
+
+

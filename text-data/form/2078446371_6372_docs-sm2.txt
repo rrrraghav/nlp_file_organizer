@@ -1,0 +1,43 @@
+Scientific Area: ETS EXPOSURE ASSESSMENT - Computational Fluid Dynamics
+
+Project Name: Comparison of Three Air Distribution Systems by Computational Fluid Dynamic Modeling
+
+Objective: To prepare and submit a publication manuscript that compares the removal effectiveness of three different air distribution systems in a model hospitality venue by CFD modeling by July 2000.
+
+Project Leader: Daniel J. Hirnikel
+
+Tactics and Milestones: Target Date:
+1. Tactic: Model a room containing cigarette sources using a mixed air distribution system, a directional airflow system, and a displacement ventilation system.
+Milestone: All three rooms are computer modeled showing room air smoke concentration. December 1999
+2. Tactic: Write outline for manuscript.
+Milestone: Outline form completed. December 1999
+3. Tactic: Write abstract for manuscript. January 2000
+Milestone: Abstract completed.
+4. Tactic: Presentation and discussion of results with WSA scientists Milestone: Presentation. February 2000
+5. Tactic: Write manuscript for manager review. March 2000
+Milestone: Draft manuscript completed and turned over to manager.
+6. Tactic: Edit manuscript. April 2000
+Milestone: Draft manuscript submitted to manuscript review board.
+7. Tactic: Edit manuscript and submit for publication. May 2000
+Milestone: Manuscript submitted to ASHRAE/American Industrial Hygiene Journal.
+8. Tactic: Make poster presentation for Engineering Solutions to IAQ Problems. July 2000
+Milestone: Symposium held July 17-19, 2000 in Raleigh, NC.
+
+Compliance
+E: Basic Research (critical)
+Tobacco Smoke - ETS
+ETS Exposure Assessment
+
+Deliverable: Manuscript
+
+Internal Resource Allocation: External Resource Allocation:
+Daniel J. Hirnikel -20%
+Peter Lipowicz - <5%
+Gary Ruhl - <5%
+
+
+
+None. Capital Expenses:
+
+Submitted By: Daniel J. Hirnikel WSA PLANNING TEMPLATE Date: 12/01/99
+Doc Code: P622 2078446371

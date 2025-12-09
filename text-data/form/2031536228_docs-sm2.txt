@@ -1,0 +1,33 @@
+Philip Morris USA
+Industrial Hygiene
+
+STRESS CHARACTERIZATION
+
+I. IDENTIFICATION
+Location: City Plant Exposure Zone Omit
+RC MI primary #7
+1 4 8
+Year Month Day Identification #
+Sample 2 5 21 22 80
+Number: 16 18 20
+II. JOB CLASS REPRESENTATION CARD 28-1
+Employee’s Name: Last First MI
+SS #: 28 Job Code 37
+Representation: Representative B Unusual - U 42
+If R, other representative job codes: 43
+Shifts: Day - A, Evenings - B, Graveyard - C, Novel - N BCN
+A 64
+Note – Representative monitoring will be assigned to all individuals with the job code listed and the exposure zone specified. Unusual monitoring results will only be assigned to individuals specifically. For representative monitoring all appropriate shifts will be specified.
+
+III. JOB CHARACTERIZATION CARD 28-2
+Job Type: Routine/Normal - B Infrequent/Variable - V
+Start-Up S Upset/Abnormal - A
+Batch B
+Job Frequency: Times/Month Minutes/Time
+(If Appropriate, EG: Batch) 29 32
+Job Description: (Include Machines)
+B. E. Distribute
+35-79
+
+2031536228 40-050-1
+9/81

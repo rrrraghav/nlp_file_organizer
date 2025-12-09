@@ -1,0 +1,14 @@
+TRANSMISSION REPORT
+
+***************************************
+*   PMM MEDIA DEPT                   ( JUN 09 '99 12:07PM ) *
+***************************************
+DATE      START         REMOTE TERMINAL     MODE       TIME        RESULTS  TOTAL    DEPT. FILE
+                TIME      IDENTIFICATION                     PAGE# CODE NO.
+JUN 09   12:06PM          2123022535   G3EST           01:17"      OK         03
+
+***************************************
+
+
+
+                                                                   208086138

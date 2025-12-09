@@ -1,0 +1,28 @@
+INTEROFFICE MEMORANDUM R.J. Reynolds Tobacco Company
+Winston Salem, N.C. 2710
+
+RJR
+
+July 16, 1986
+
+Dr. G. R. Di Marco
+
+R&D TECHNICAL SERVICES WEEKLY STATUS REPORT
+
+GENERAL ITEMS
+
+UNISPOOL Software
+
+The UNISPOOL software package has been installed on STAFF and ADMIN HP3000 systems and is undergoing testing. UNISPOOL will provide the user with the capability of printing to devices on either system. Preliminary testing indicates that the software meets all expectations. The Licensing Agreement is being evaluated.
+
+Analytical Support for Applied R&D Study
+
+Analytical support is continuing for an applied R&D study on the effect of product tampering with cyanide. Because of the deliquescent properties of cyanide salts, undetectable contamination of tobacco with lethal levels appears unlikely. To insure maximum safety of personnel conducting analyses, a personal HCN monitor was purchased and implemented. This device will alarm when concentration of HCN exceeds 10 ppm. In addition, Dr. Lewis of our Medical Department has discussed emergency procedures should accidental HCN poisoning occur.
+
+Myvatem Filter Additive
+
+Several problems were encountered in the production of myvatem-injected filters (PD-01495A). These problems appear to be related to the application level (22 mg/rod) since there were no problems with a previous rate of 11 mg/rod. A report has been
+
+
+
+CONFIDENTIAL ECD JUL 17 1986 L

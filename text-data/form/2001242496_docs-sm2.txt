@@ -1,0 +1,50 @@
+SALMONELLA/MICROSOINE ASSAY Expt. #6 Data required for 9006 use Only
+REQUEST FORM Date samples rec'd
+Submitter C.Eris Date samples tested
+Date of Request 4/21/87 Tester Strain(s) (ampoule)
+Purpose SO: Aroclor ___, ul of SS/plate
+Experimenter(s)
+Notebook/page No.
+Date results released
+
+Additive Coating TP 100 ES#
+
+
+
+Total Number of Samples 48 Stock Conc. (mg/ml) ____ µg/µl Vol. (ml)
+Recommended Solvent Test Doses (mg/plate) Smear #1 ____ 0.1, 0.2
+Experimental Parameters (Circle appropriate choices) Smear #2 ____ 0.2
+1. Tester Strain(s) ? TA98 ATCC 653 Other ____
+2. Activation? -S Micro
+3. Procedure? Ames
+
+
+
+Sample Name Sample Description, Delivery Comments
+or Code Ref. No. and Other Important Sample mg/g
+Information or History
+
+112 SC-1 Solvent control for C-231 0.1, 0.2
+(1% STPP, 6% NaCl) Dose
+
+113 -2 0.2
+
+114 -3 0.2
+
+115 C-231A-1
+
+116 -2
+
+117 -3
+
+118 C-231B-1
+
+119 -2
+
+120 C-231C-1
+
+121 -2
+
+
+
+Smoking Notebook Ref. No.

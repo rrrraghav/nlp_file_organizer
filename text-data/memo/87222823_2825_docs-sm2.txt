@@ -1,0 +1,20 @@
+MEMORANDUM
+
+TO: L. H. Gains
+FROM: C. S. Williard
+SUBJECT: Determination of Organic Aldehyde Delivery by an Experimental Smokable Article Submitted by D. R. Smart (PROJECT B 491, 10)
+
+Introduction
+
+Samples of a prototype smokable article (hereinafter called "experimental cigarettes") were submitted by D. R. Smart for determination of aldehyde delivery. Kent III cigarettes with the tipping perforations taped were analyzed as a control.
+
+Experimental
+
+Both experimental and control cigarettes were conditioned in the smoking laboratory at standard FTC temperature and humidity conditions for a minimum of 24 hours. The first 5 puffs of each cigarette were collected under standard conditions using a 5 ml puff volume, 2 seconds duration, at one minute intervals, then a clearing puff was taken. The whole smoke was trapped in a 1.25 ml Dreschel bottle containing 50 ml of trapping reagent. The trapping reagent contained 200 ml of 1-nitro-2-propanediol hydrazine (DNHP) in acetonitrile, 20 ml of N perchloric acid diluted to 500 ml with acetonitrile. After smoking, the DMPH smoke solutions were neutralized with 2 ml of 1 N triethylamine.
+
+The DNH complexed smoke solutions were analyzed by HPLC-UV analysis at 360 nm. The Hewlett Packard 1090 M HPLC was equipped with Novapak (C18) column 3.9 x 150 mm, with a 5 µm particle size. The mobile phase was acetonitrile, water, tetrahydro-
+(60:30:10) with a flow rate of 1 ml/min. An injection volume of 10 µl was used. Following each analysis, the column was washed with acetonitrile at 2 ml/min for 30 minutes.
+
+Results
+
+The aldehyde deliveries for the experimental cigarettes verses the Kent III control cigarettes are reported in Table 1. The aldehyde deliveries were substantially less for the experimental cigarettes.
