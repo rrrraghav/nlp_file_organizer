@@ -1,0 +1,37 @@
+Fortified Smoke Studies
+
+A. Cigarette Fortification Equipment Capacity
+1. One Machine:
+   10 cigarettes/run x 7 runs/day x 7 day/wk = 490 cig.
+2. Four Machines:
+   490 cig/machine/day wk x 4 machines = 1960 maximum
+   Anticipated usable cigarettes = 1800/wk
+
+B. Toxicity Studies scheduled for January
+     The aged toxicity studies mice will be smoked with fortified smoke for a period of 4 weeks, 10 cig/day, 10 mcg/cig. At the end of the 4 week period we proposed to stop smoking and hold the mice for tumor occurrence at the time of morbidity. We propose to use the mice now adapted to smoke which have had Sendai infections. After they have been smoked with MCA or BaP or benzene treated cigarettes, they will be moved from 4801 Laboratory to 4809 Laboratory for observation. This will allow 4807 to be decontaminated and new mice to be brought into the facility.
+
+1.  MCA, 10 mcg/cig, bring 7 day weeks
+     60 mice/12 mice/machine/run = 5 machine runs/day.
+     5 machine runs x 10 cig in run = 50 cig/day.
+     50 cig/day x 28 days = 1400 cig.
+     1400 cig x 10 mcg BaP/cig = 14 gm MCA.
+     1400 cig/(650 cig/one loading machine) = 3.1 wks.
+     1400 cig/(1800 cig/4 machines) = 0.77 wks
+
+2.  BaP = same as MCA
+      1400 cig, 14 gm BaP, 0.77 wks to load on 4 machines.
+
+3. Benzene treated cig.
+     1400 cig, 0.77 wks to load on 4 machines or 3.1 wks on one machine.
+
+C. MCA Series of Fortified Smoke Studies
+      Two studies are proposed with MCA:
+
+1.  We will combine 1001A and B to determine if short term MA exposure followed by long term Standard smoke will induce tumors. This would allow more fortified smoke studies to be undertaken by first exposing to fortified smoke on the Walton and then transferring to the SEM for long term smoking which may act as a promoter. The fol- lowing studies have not included and very important group of controls. We have and include will require to study the MCA in smoke and then allow it to retire- create the inclusion of these mice will require the setting up of a new area in 4801. The equipment will be the same as in A, but the mice will be given a high dose through injection. We want to get this done as soon as possible in order to avoid further delays.  2 wk group with 10 mcg MCA, not both day 1 and day 7, but just day 1.
+
+     3 wk group with 10 mcg MCA, not both day 1 and day 7, but just day 1.
+
+
+
+                                        J.A.M.
+                                       9/14/68

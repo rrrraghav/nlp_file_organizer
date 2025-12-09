@@ -1,0 +1,29 @@
+Research Department
+
+MEMORANDUM September 27, 1971
+
+NEW IMPACT STANDARDS/715 MYF60
+
+A new series of impact standards has been developed and recently reported by B&B, Southampton (¹). Although the Southampton approach was expected to be supplementary over the chemical standards, we felt that B&B’s needs would still not be met by these now standards. Consequently, we have been pursuing the development of our own series. Preliminary results are quite encouraging.
+
+This memo covers our comments on the Southampton Report and the status of our developmental work.
+
+A. Comments on B&B Report RD-806-K
+
+Jeremy Wood’s report contains several points of immediate importance in view of ongoing WOODROSE activities and current R&D projects.
+
+1. The series of nine impact standards are designed to give more precise determination than the previous standards, covering the same impact sensation range (0 to 4.1 newtons).
+
+2. Filter cigarettes are available from B&B and Wood makes the recommendation that these new standards be used by all panels using WOODROSE.
+
+3. Very casually in passing, Wood makes the comment that impact “should be based on the whole cigarette and not merely on the first few puffs.” This is news to me.
+
+The new series is based on the relationship between extractable nicotine delivery and impact. The desired levels of impact sensation are produced by blends of two flue-cured tobaccos, subtly differing in nicotine content, in proportions to yield theoretical nicotine deliveries which give just noticeable differences (j.n.d.) in impact. Calculations for the tobacco blend formulations are based on the theory that the difference between two stimuli is what is important in determining j.n.d., and not absolute values.
+
+The impact standards, identified as IMP1, IMP2,…IMP9, were evaluated on a panel of ten men. 0.5 mg samples were used. The nicotine deliveries from each cigarette were recorded; the total average satis-faction scores ranged from 4.7 to 5.3 HR/P (half-way scale), all falling within “normal” sensory behavior for three of the j.n.d./s.
+
+(¹) Wood, J., Assessing Impact, RD-806, "Impact Standards: A Series of Special Studies for B&B," September 1971, pp. 22-25.
+
+
+
+                                        -2-

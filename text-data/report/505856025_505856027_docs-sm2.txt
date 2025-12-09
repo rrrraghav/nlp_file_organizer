@@ -1,0 +1,35 @@
+HUMAN STUDY DRAFT OUTLINE
+OCTOBER 6, 1986
+DAVID J. DOOLITTLE
+
+OBJECTIVE: To evaluate the biological activity of selected cigarettes in human beings.
+
+INDICES OF BIOLOGICAL ACTIVITY WHICH WILL BE MEASURED:
+
+a) Circulating Lymphocytes
+1) Chromosomal aberrations
+2) Sister chromatid exchanges
+
+b) Urine
+1) Mutagenicity in the ames bacterial mutation essay
+
+RATIONALE: The assessment of adverse biological activity is an important aspect of product development. While important preliminary information can be, and due to ethical considerations must be, obtained from *in vitro* systems and animal models the ultimate species of interest is the human being. Thus, measuring biological activity in human beings following exposure to the agent of interest is an integral part of safety assessment. Traditionally urine and blood cells (lymphocytes) from exposed human beings have been used to assess exposure to biologically-active materials. These techniques are the two most widely used methods for assessing biological activity in human beings and have been used by scientists around the world to measure the biological activity of cigarette smoke.
+
+EXPERIMENTAL METHODS
+
+SUBJECTS: Number of groups = 31 one non-smoking control group and two test groups
+Subjects per group approximately 25
+Sex - each group should be one-half male, one-half female.
+Age = 21-61.  Each group must be matched for age.
+Health - all potential subjects should be in good physical condition with no recent history of bacterial illness.
+subjects which contract a bacterial illness during the study should be excluded from this study.
+
+Drug use - All subjects must refrain from drug use during the study. The only exception: moderate amounts of acetaminophene or ethyl alcohol.
+
+Diet - All subjects must be on an identical diet throughout the study. Doubtful this condition are hold.
+
+DURATION OF STUDY: This is a topic for further discussion. The study should be at least four(4) weeks long. A longer study would likely be of significant benefit.
+
+As mentioned above the two indices of biological activity in this study will be mutagenic activity in urine and chromosome abnormalities in lymphocytes. The mutagens reported to be present in the urine of cigarette smokers.
+
+358-625

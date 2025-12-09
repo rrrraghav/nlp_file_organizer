@@ -1,0 +1,59 @@
+CONTROL AND MAXIMIZATION OF TOBACCO SMOKE
+DOSE IN CHRONIC ANIMAL STUDIES
+
+Why do we need inhalation studies with whole tobacco smoke,
+and what can we hope to accomplish with them? A stated purpose
+of the tobacco and health program is to develop a less hazardous
+cigarette (Reference 1). The major risks associated with tobacco smoke
+are cancer, notably respiratory tract cancer, chronic respiratory
+disease(s), and cardiovascular disease(s). While the toxicity and
+the harmful effects of individual tobacco smoke components can be
+assessed in bioassay systems not involving inhalation exposure,
+the full pathogenic potency of a mixture as tobacco
+smoke ultimately must be determined by inhalation studies with whole
+smoke. This presentation focuses on some crucial problems related
+to dosimetry and maximization of smoke exposure in tobacco smoke
+inhalation studies. We will limit our discussion to efforts aimed
+at the improvement and development of bioassays for testing the
+chronic toxicity and carcinogenicity of whole tobacco smoke in small
+laboratory rodents using passive smoke inhalation techniques.
+
+Methods to Estimate Sustained Dose
+
+Before discussing how to control and maximize the dose of
+tobacco smoke delivered to experimental animals, we need to take
+stock briefly of the major methods currently used to measure sus-
+tained dose and to suggest possible new approaches. It is important
+to remember that we will be measuring tobacco smoke components
+only, rather than whole tobacco smoke, but hopefully such measure-
+ments will be indicative of a class of compounds or a significant
+fraction of tobacco smoke. Currently two main options are avail-
+able for measuring or estimating tobacco smoke dose, with perhaps
+a third one to be added in the future. The first is to measure
+normally occurring tobacco smoke constituents (or their derivatives)
+in the body or blood of exposed animals. The simplest and
+most common principle of this approach is determination of COHb.
+The second empirical approach, developed more recently, is to label
+tobacco with chemical or radioactive tracers, then determine the
+amount of tracer in the respiratory tract or in the expired air.
+This method has more knowledge of the fate of the tracer during
+one's tissue distribution and of the smoke’s volatility,
+pyrolysis, its much more complicated than the former and requires
+etc. Typical examples of this approach are studies with decahyd ro-
+biphenyl (2,2‘) [16 hexadecane and 4-methoxybenzene (4.5)]
+and 14C-labeled tobacco (3). The last option is to use the sum
+of the mass concentrations of a number of representative smoke
+constituents as an estimate of total dose delivered to the animal.
+This approach has been used by several groups (4, 5, 6) and it
+has the advantage that it does not require special preparation
+of the tobacco. However, it is subject to the limitation that
+the selected constituents may not accurately represent the entire
+smoke mixture.
+
+References
+
+1.  U.S. Public Health Service. Reducing the health hazards of cigarette smoke. Washington, D.C., U.S. Department of Health, Education, and Welfare, 1964.
+
+
+
+58 0126 039

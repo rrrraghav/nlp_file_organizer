@@ -1,0 +1,43 @@
+D652
+
+
+
+BIOVITRO - EIDETE   8n
+
+Protein Denaturation Test
+
+1. Introduction
+
+Under the designation "Biovitro", tests were carried out in which tobacco smoke
+and tobacco smoke fractions or individual smoke components were reacted with biochemically
+active materials (for example, ferments, protein).
+
+In the year 1938, Rondoni (1) formulated the hypothesis that protein denaturation
+and carcinogenesis are independent processes. In the following years, different
+researchers held the view that carcinogenesis included small structural changes or
+drastic denaturation of biologically active macromolemes. (2,3,4,5,6). That
+tannic acid, phenol and thiourea denaturize protein has long been known, (7). In in-
+dependent tests it was later shown that these substances lead to liver and skin tumors
+(8). Argus et al. (9) recently reported on this theme. As model substances, they used
+albumin, whose reaction with water soluble carcinogens - like nitrosamines -
+was studied.
+
+This publication (5) was the starting point for our own studies. Since the methods
+used by the authors [endimetry, viscosity, and measurement of optical activity]
+seemed too insensitive, we used p-chlormercuribenzoate which react specifically with
+the - SH - groups. This reaction can be followed by UV spectrometry (10).
+
+2. Principle
+
+Egg albumin reacts at pH 7.0 with p-chlormercuribenzoate:
+
+Protein - SH + Cl. Hg. Ph  → Protein - S - Hg. Ph
+                                  HCl
+
+The 3 or 4 - SH - groups react slowly, probably due to steric hindrance (11).
+If the solution of albumin is mixed with smoke, the reaction is hastened. It is
+
+
+
+650337775
+PRODUCED FROM B&W WEB SITE

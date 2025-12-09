@@ -1,0 +1,60 @@
+Authors: J. E. Bodnar
+J. N. Schumacher
+
+Date: February 10, 1986
+
+Department: New Product
+Technologies
+
+Notebook Pp: 394319,
+394320, 394323 -
+394325, 394958
+394960
+
+Division: Analytical
+
+Dated: September 8 –
+October 7, 1987.
+
+AM, 1987, No.
+
+Previous Reports: 2
+
+No. of Pages: 23
+
+Sidestream Comparison of Alpha TM-6 Cigarettes and 1RAF
+
+Reference Cigarettes Using Capillary Gas Chromatography
+
+and Mass Selective Detection
+
+OBJECT:
+
+To compare the sidestreams produced by Alpha TM-6
+cigarettes and 1RAF reference cigarettes using capillary gas
+chromatography and mass selective detection.
+
+SUMMARY:
+
+The sidestream smoke (smoke from the lit end) of Alpha
+TM-6 cigarettes and 1RAF reference cigarettes were collected
+using the Harris Total Smoke Chamber (see Figure 1) at six
+sampling points: the upper chamber of the smoking apparatus,
+two Cambridge filter pads in series, and three methanol cold
+traps. All smokings were performed under PFC conditions.
+Solutions obtained at each sampling point containing a known
+amount of internal standard (quinoline) were examined via
+temperature programmed capillary gas chromatography using
+mass selective detection. Visual comparison of the resulting
+chromatograms showed the TM-6 sidestream to be considerably
+less complex than the 1RAF sidestream at every sampling
+point.
+
+Quantitation of the resulting peaks (relative to the
+internal standard) showed that the TM-6 sidestream contains
+fewer components (94% less in the particulate phase and 82%
+less in the vapor phase) and less total material (97% less
+in the particulate phase and 84% less in the vapor phase) than
+the 1RAF sidestream. A summary of the number of peaks and
+total amount of material round is shown in Table I.
+Interpretation of the available mass data produced thirty-one

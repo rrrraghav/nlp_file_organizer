@@ -1,0 +1,55 @@
+Abstract for ETS - Symposium in Tokyo
+
+CRG
+RLS
+
+PSYCHOPHYSIOLOGICAL RESPONSE TO ENVIRONMENTAL TOBACCO SMOKE IN AN EXPERIMENTAL
+
+SOCIAL SETTING
+
+GERHARD WINNEKE, MANFRED NEUF, ANNA ROSCOVANNU, HANS-WERNER SCHLÜTER
+
+Medizinisches Institut für Umwelthygiene der Univer-
+sität Düsseldorf, Abt. für Psychophysiologie
+
+D-4000 Düsseldorf, Fed.Rep. of Germany
+
+Results from a pilot study (I) as well as preliminary findings from an exten-
+ded study (II) will be presented, in which either non-smoking students (I) or
+non-smoking adults from the general population (II) were exposed to ETS produced
+by an active smoker in a social, experimentally controlled setting.
+
+Results from study I are based on 64 Ss of both sexes exposed to ETS corres-
+ponding to either 0, 2.5, 5, and 15 ppm CO. Duration of exposure was 60 minutes
+and CO was continuously monitored by IR-spectroscopy. Objective (eye blinks, la-
+cymal flow, blood pressure, heart rate, and respiration) as well as subjective
+measures based on questionnaire items were taken at 20° intervals. COHb was mea-
+sured before and after ETS-exposure. Significant effects of exposure were found
+for blinks, lacrimal flow, COHb, as well as for most of the questionnaire-based
+information. With the exception of the questionnaire variables exhibiting dose-
+response-relationship, the majority of dependent variables showed clear threshold
+characteristics: The 15 ppm-condition only was significantly different from the
+control level. From this finding the tentative conclusion is drawn for a no-ad-
+verse effect-level for ETS to be located between 5 and 15 ppm, rather than below
+5 ppm. (WINNEKE et al., 1984).
+
+In order to substantiate this conclusion and to gain information about the
+generalizability of the response-response a second extended study (II) was con-
+ducted, in which the psychophysiological effects of ETS-exposure were compared
+to those of noise- and odour-exposure; this study is not yet completed. The Ss of
+this study were selected from the general population living in noise- and odor-
+problem-areas of the city of Düsseldorf. Based on a social survey covering 2300
+individuals only non-smokers from extreme groups with high or low annoyance-level
+characteristics, respectively, were asked to participate in the experimental part
+of the study. These participants in a social setting were exposed to CO of
+0, 5, 10 and 15 ppm. Apart from technical modifications it is the out-come
+measures and when these will be given further information corresponding to rude
+pilot study (I), results based on the first 13 Ss will be presented in a
+later publication.
+
+Acknowledgements: We thank Mrs. Ute Kuhlmann for her help in data processing
+and Mr. Klaus-Peter Schillinger for his support in technical matters. This work
+was supported by grant 84-2056-H of the German Federal Ministry of Health.
+
+References: WINNEKE, G., NEUF, M., ROSCOVANNU, A., SCHLÜTER, H.-W.: cf. this
+volume.

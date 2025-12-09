@@ -1,0 +1,25 @@
+August 14, 1968
+
+MONTHLY REPORT
+
+August 1968
+
+Chin K. Lee
+
+GLUCOSE ISOMERASE
+
+I have been using the resorcinol method in determining the fructose produced by isomerase reaction. Although this method is sensitive enough to detect 0.025 μmoles of fructose, the reproducibility was unsatisfactory. Therefore, I sought a method which allows best differential measurement of fructose in the presence of large quantities of glucose with dependable reproducibility. The improved method was obtained by modifying the conditions employed for the resorcinol method. Briefly, the new method is as follows: 1.0 ml. of sample containing 0.1 to 5.0 μmoles of fructose, 3 ml. of 2 N HCl, and 1.0 ml. of 0.05% resorcinol in absolute ethanol are heated at 60° C. for 5 minutes and cooled immediately at 0°. Absorbance measured at 410 nu shows linear relationship with the concentration of fructose. In this method, 1 μmole of glucose give the same optical density as 0.45 μmoles of fructose (220 fold), whereas in the old method, 35 μmoles of glucose were equivalent to 0.25 μmoles of fructose (140 fold) in the optical density.
+
+The effort to purify the isomerase brought some progress. The protamine sulfate treated extract was subjected to acetone fractionation and then ammonium sulfate fractionation. The combined treatment resulted in about tenf old increase in specific activity with 90% recovery. Further purification by means of column chromatography is now under progress.
+
+ANALYTICAL SERVICE
+
+Five hundred eighty-two samples of maltose and 60 samples of fructose were analyzed during the period of July 13 to August 13.
+
+
+
+Chin K. Lee
+
+CKL:pws
+
+50698 STII

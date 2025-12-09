@@ -1,0 +1,47 @@
+[DIMETHOMORPH]
+Chronic Oral Study (83-1)
+
+EPA Reviewer: L. Hansen, Ph.D.  _Pimne L. Haren_, Date 7/60/94
+EPA Section IV, Toxicology Branch 1 (7509C) _Marlion Copl_, Date 7/28/94
+Review Section IV, Toxicology Branch 1 (7509C)
+
+DATA EVALUATION REPORT
+
+STUDY TYPE: Chronic Feeding - Dog (83-1)
+
+TOX. CHEM. NO: New Chemical
+
+P.C. CODE: 268800
+
+MRID NO.: 422339-11 (Chronic Study), 421153-06 (Range-finding Study)
+
+TEST MATERIAL: SAG 151 (Dimethomorph)
+
+SYNONYMS: CME 151; ZSO; WL 127 294; 4-[3-(4-chlorophenyl)-3-(3,4-dimethoxyphenyl)
+acryloyl]morpholine; 4-[3-(4-chlorophenyl)-3-(3,4-dimethoxyphenyl)-1-oxo-2-
+propenyl]morpholine (Agrochemicals Handbook. The Royal Society of Chemistry; 3rd.
+ed., Thomas Graham House, Cambridge, England, 1992)
+
+STUDY NUMBER: IRI 636876 (422339-11, Chronic Study); IRI 655228 (421153-06,
+.Range-finding Study)
+
+SPONSOR: Shell International Chemical Co. (Celamerk GmbH and Company KG), West
+Germany
+
+TESTING FACILITY: Inveresk Research International (IRI), Musselburgh, Scotland
+
+TITLE OF REPORT: 52 Week Dietary Toxicity Study in Dogs
+
+AUTHORS: R. Goburdhun and R.J. Greenough
+
+REPORT ISSUED: November 1, 1991
+
+EXECUTIVE SUMMARY: In a 1-year chronic toxicity study, dimethomorph (tech., 96.6%
+a.i.) was administered to four male and four female dogs at dose levels in the diet at
+concentrations of 0, 150, 450 or 1350 ppm (equivalent to doses of 0, 4.0, 12.0,
+and 36.0 mg/kg/day for males and 0, 3.5, 10.5, and 31.5 mg/kg/day for females), in a
+105-day/14-day dosing schedule.  No adverse effects were observed at the study
+limit dose (31.5 mg/kg/day) in females. The no-observed-adverse-effect level in male
+rats were 15.0 mg/kg/day, based on slight elevations of serum triglycerides above
+control values, increased relative liver weight, and hepatocellular hypertrophy at
+36.0 mg/kg/day.

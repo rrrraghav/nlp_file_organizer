@@ -1,0 +1,87 @@
+As Info...
+
+ROU Briefs 4/5/95
+for: A00/A10/A20/A30/C00/C10/C20
+
+FSC-55-A
+► COUPON RETURN PROCEDURES....The Coupon
+Management Systems has been discontinued effective
+April 1, 1995. All orders for printed coupons should
+continue to be reviewed for reasonableness using SIS.
+Ensure with increased use of the poget and
+notebooks that ordered procedures are in place
+for the return of coupons.
+
+Expired Coupons:
+Request Division Management to send, to the ROU all
+preprinted coupons that will expire. Any coupon that
+has expired or is to expire within three months is
+considered an expired coupon.
+Work with Division Management to ensure that coupons
+sent to the ROU are not lost in transit.
+
+To the extent possible, coupons should be accumulated to
+a minimum of 50 pounds (total packages) and shipped via
+Consolidated Freight with third party billing to RJT. Any
+smaller shipments under 50 pounds (total weight
+of all boxes) are to be shipped Airborne - Second Day with
+third party billing to RJT. Since this is more expensive,
+please minimize use of this shipping method. Do not return
+coupons via UPS. Please use printed matter as the
+freight description when completing 1870 log.
+
+RJT details: John Pearson (716) 426-1100 all coupons from
+all regions should be shipped to the following address:
+Number 1935, Coupon Return Processing
+RJRT/GATX Logistics Inc.
+5900 Grassy Creek Boulevard
+Winston-Salem, NC 27106
+
+Airborne - Number: John Pearson (716) 426-1100
+Any coupons that are to be shipped via Airborne should
+be shipped to the following address:
+RJRT/GATX Logistics Inc.
+c/o Airborne Express
+Number 1935, Coupon Return Processing
+5900 Grassy Creek Boulevard
+Winston-Salem, NC 27106
+
+Return only full rolls of active (unexpired) coupons. Only
+complete SKU’s can be returned and each case must be
+marked with the assigned RA number.
+
+Box up the coupons taping them shut securely, and label
+each box with your “ship from” address and the following
+address:
+
+RJRT/GATX Logistics, Inc.
+5900 Grassy Creek Boulevard
+Winston-Salem, NC 27106
+RA# _______________
+
+► BPE ENHANCEMENTS....Two new copy function have
+been added to BPE based on a suggestion submitted by
+Susan Peterson Coordinator, Ellen Garschagen. Please
+review the following steps for using these functions:
+
+1. Select Function V54 “Copy/VAP Templates” or G54-
+“Copy Generic Templates”.
+2. Select with an "X" the appropriate template you need
+copied (only 1 template at a time may be selected)
+and press “enter”.
+You may also delete templates with this function by
+entering a "D" by the appropriate templates to delete (an
+unlimited number of templates may be deleted at one
+time).
+3. Resetting the template address/PF$” codes must be
+done via the “reset” key and press “enter”.
+4. Press “enter” to copy the selected template(s) to the
+new address.
+
+► NEW INVENTORY REPORTS....The new inventory reports
+(RPT-INV-01 & RPT-INV-02) have been added to BPE.
+These reports provide a listing of all active coupons
+currently in inventory. These reports can be run by
+region, SKU or date code. Please review the user
+manual for instructions on how to access and use these
+reports.

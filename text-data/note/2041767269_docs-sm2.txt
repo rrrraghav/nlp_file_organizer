@@ -1,0 +1,26 @@
+VS DEFENSIVE MODEL
+Marcioia
+
+US Offensive OFFensive
+Not new names: Screen #1
+FMI (m.000) Female
+SNS 0-70% SOR
+SWEETSTAKES
+
+4/1,000 males
+30,000 females
+
+What is the dependent variable?
+① Actual = Post - Pre = Change
+② Normal, if pre post is
+≥ 0 = +
+Negative = 0
+③ Post same highest as possible
+
+Procedure
+Run regression model on all three to find
+out which will do best by sweetstakes
+
+We know now: Two Groups
+① smaller drop
+② larger drop

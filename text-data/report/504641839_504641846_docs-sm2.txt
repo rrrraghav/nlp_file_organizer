@@ -1,0 +1,36 @@
+kem. Bot. Inst. confidential von Dr. Biber lab.
+Attachment 1 Please do not use / Please do not copy! Februar 1985
+Forschungsberichten
+
+Ausarbeitung eines Radioimmunoassays zur
+Bestimmung von Nikotin und Cotinin in Urin
+von Rauchern und Nichtrauchern.
+
+1) Problematik
+
+Als Meßparameter zur Bestimmung der Rauchaufnahme bei Rauchern und
+Nichtrauchern (Passivrauchern) werden Nikotin und einer der Haupt-
+metaboliten von Nikotin, Cotinin, in Körper/flüssigkeiten gemessen.
+
+Die Analyse erfolgt i.a. mittels Gaschromatographie (GC) und
+Radioimmunoassay (RIA). Beide Methoden sollten natürlich vergleichbare
+Ergebnisse liefern.
+
+Von verschiedenen Arbeitsgruppen wurde ein Methodevergleich RIA – GC
+durchgeführt. Gritz et al (1) bestimmten Nikotin sowie Cotinin in Serum
+mit Hilfe von GC und RIA. Schievelbein et al (2) verglichen Serum-werte
+von 199 Probanden mit den 2 Methoden. Wie in Tab.1 zu sehen, ergab sich
+eine befriedigende Korrelation der beiden Methoden, was Serum anbelangt.
+
+Tab.1 Bestimmung von Nikotin und Cotinin in Serum
+Korrelation zwischen RIA und GC
+
+Autor Substanze n Korrelationskoeffizient
+
+Gritz et al Nikotin 9 0,95
+(1) Cotinin 19 0,94
+
+Schievelbein Nikotin 162 0,76
+et al (2) Cotinin 194 0,98
+
+5064 16 39

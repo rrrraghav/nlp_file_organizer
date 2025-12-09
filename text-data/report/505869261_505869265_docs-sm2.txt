@@ -1,0 +1,36 @@
+RETAINED SOLVENTS
+
+ISSUE:
+
+How does the preliminary specification of .50 mg. toluene/CPB and 1.48 mg. total solvent/CPB effect SPA products? Is this specification feasible to produce?
+
+RESULTS:
+
+* Retained solvent levels in Alpha CPB’s:
+
+Full Print   1/3 Print    Spec.
+(mg./CPR)  (mg./CPR) (mg./CPR)
+
+Isopropyl Acetate     1.86      .71       —
+Isopropyl Alcohol     1.85      .52       —
+n-Propyl Acetate      .86       .29       —
+Toluene                .25       .00       .50
+TOTAL                  4.02      1.60     1.48
+
+(CPB’s at four days aging analysis by Archer R & D)
+
+Ink formulations for SPA crush-proof boxes is given in Attachment 1. These formulations have been reviewed by toxicology and are acceptable.
+
+CONCLUSION:
+
+* Both one-third and full printed boxes meet toluene specifications.
+
+* The one-third printed box is close to spec on total solvents, and can be produced at current specifications.
+
+* The full printed box is out of spec on total solvents, but probability is high that levels can be reduced by the use of the vacuum chamber and/or aqueous top lacquer. Archer R & D will conduct trials to determine effectiveness of these methods in reducing total solvents in the full printed box by mid-October.
+
+* Future specifications will be based on total solvent levels.
+
+
+
+50386 9267

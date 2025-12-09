@@ -1,0 +1,21 @@
+in vitro
+
+Ames
+chromosome aberration
+mouse lymphoma (L5798) (TK)
+mammalian cell transformation (STS)
+unscheduled DNA synthesis
+
+alkaline elution
+sister chromatid exchange
+HEPT gam Trans mutation
+CE: cda bacterial mutageno
+
+in vivo
+
+micronucleus
+unscheduled DNA synthesis
+chromosome aberration
+
+SCE
+(urine mutagenicity)

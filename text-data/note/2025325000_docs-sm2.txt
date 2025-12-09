@@ -1,0 +1,30 @@
+Confidential
+Philip Morrişy ABC
+
+Future Work Required
+
+1) RL Cutting (Chevron). Tests @ Higher O/s —
+Would like to verify acceptable cutting at
+higher O/s (up to ~24%) since you’re now
+drying more in the rotary dryer.
+(Preliminary work & R&D C Pilot Plant at
+O/s up to ~47% looked OK.)
+
+2) Dryer capacity tests —
+Must determine approx. drying capacity of
+refitted (existing) cylinder box, & new
+rotary dryer (ex – Leg Annular).
+
+3) Environmental —
+Resolve air scrubbing questions, both in
+determining acceptability of ref’d process equip;
+plus air permit problems?
+
+4) On-line prototype system - (LI or LID)
+Must demonstrate physical & subjective
+acceptance of prototype system in actual
+production.
+
+
+
+20232500

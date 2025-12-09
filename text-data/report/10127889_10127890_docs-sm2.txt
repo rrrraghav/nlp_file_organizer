@@ -1,0 +1,17 @@
+Critique of Busbee Application
+
+The staff, Dr. Brennan and I met Dr. Busbee during the meeting of the CTR in June 1982 where he presented his data.
+
+In principle, the work is concerned with the transport of aromatic hydrocarbons, (the) carcinogens serum components. In addition, the importance of binding of lipophilic carcinogens to lipoproteins and their uptake is being explored. It was therefore logical for Dr. Busbee to suggest a correlation between 12-OHT and the action of carcinogens. Nor so logical is his invocation of carcinogen-initiated hyperplasia growth of cells and human atherosclerosis. In this connection he quotes [in reference 7] Benditt, who has demonstrated the tumor promoting effect of certain chemicals, but never mentioned any connection with lipophilic carcinogens. This connection is most tenuous.
+
+It is also natural for Dr. Busbee to invoke the work of Goldstein on LDL receptors.
+
+He attempts to demonstrate the close connection between transport of carcinogen (PAH) by lipoproteins, and the initiation of DNA synthesis in treated cells.
+
+TECHNIQUE:
+
+The lipoprotein preparation is quite interesting because he uses a method which he claims is new and more simple than others and that is the TK-250 column which originated in Japan. I have no experience with this column, since most people use differential ultracentrifugation or heparin-magnesium methods. The binding of PAH with benzophenone 418 is labeled as investigated. A further step, of course, is the binding of carcinogens to cellular components. He uses human lymphocytes in this connection.
+
+The last step is an investigation of carcinogen binding of DNA and the incorporation of tritiated thymidine into lymphocytes.
+
+In principle, therefore, the investigate involves in isolation of low density lipoprotein, demonstration of binding of PAH to it, and then a study of the complex to the uptake and effect on DNA synthesis in the cell

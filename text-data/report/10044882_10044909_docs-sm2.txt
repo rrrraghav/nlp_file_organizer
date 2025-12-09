@@ -1,0 +1,25 @@
+ANALYSIS OF THE GASEOUS PHASE OF CIGARETTE SMOKE
+
+A number of analyses were performed on the gaseous components
+of tobacco smoke during the first half of the twentieth century,
+but it was not until the 1950's, when the availability and wide-
+spread use of more sophisticated quantitative instrumentation made
+it possible to determine very minute concentrations, that the major
+contribution concerning the vapor phase composition appeared in
+print. Until this time, the emphasis had been placed on the
+particulate matter of cigarette smoke, which comprises little more
+than one-twentieth of the whole smoke.
+
+The analysis of cigarette smoke, composed of atmospheric
+gases and a complex mixture of substances derived from the combus-
+tion and pyrolysis of tobacco, poses a difficult problem. For
+purposes of analysis, it is convenient to separate these substances
+into a particulate phase and a gaseous phase. Several gas filtering
+materials have been reported that remove over 99 per cent of the
+smoke particulate matter. However, a glass fiber filter medium,
+Cambridge Filter No. CN-115 (Cambridge Filter Corporation, Syracuse,
+New York), most nearly meets the requirements for quantitative
+studies. This filter, originally studied by Wartman, Cogbill and
+Barlow [31], removes about 99.8 per cent of the particulate phase
+and has the added advantage of a high loading capacity without
+developing a resistance to air flow sufficient to alter the puff

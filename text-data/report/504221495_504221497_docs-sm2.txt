@@ -1,0 +1,20 @@
+TOXICOLOGY STUDIES: ON ETS
+
+This note describes approaches to evaluate the toxicology of Environmental Tobacco smoke (ETS), using exposures of laboratory animals to sidestream smoke (SSS) and mainstream smoke (MSS). I have not taken into consideration any in vitro genetic toxicology. The animal work can be divided into 2 main areas :
+
+- whole-body exposures of animals to SSS, and a comparison of the responses obtained with those obtained in animals exposed to room air.
+- nose-only comparisons of MSS and SSS (at equi-TPM presentations)
+
+In addition to the work on the “specific activity” of ETS, I believe that animal work should reflect those problems with ETS which the public conceives as being important. These include a cumulative "irritancy" important both in the acute and the non-smoker’s pulmonary carcinogenesis and reproductive effects. There is also concern about the levels of nicotine and carboxyhaemoglobin seen in non-smokers as a result of their exposure to SSS. Finally, there seems to be recent evidence indicating immunosuppression in young children who are exposed to ETS.
+
+The approach of exposing animals whole-body to SSS requires careful consideration. The doses suggested by the EPA as being the likely additive contribution of ETS to generalized air pollution (25µg per cubic meter) are very small indeed, and it could take technical skill to generate consistently such an aerosol for animal exposures. The levels are low enough to be within the noise levels of detection, and may be impractical for inhalation work in.b. The doses are around one eighty-thousandth of the doses used routinely in our comparative inhalation studies with ND3, showing that such TPM levels are technically realistic. It is important to define against what TPM level this SSS concentration would be compared. It is clear that any H2S-filtered air will effectively zero TPM will have no effect on rats. Rats and Hillarians thus need to being biologically normal active levels through a standard reason with standard versus SSS with respect to this approach. There is thus no appear to compare current TPM using shown than found a better room should be expected to have TPM concentrations of around 100 ug/m³. This should be controlled exposure level.
+
+Nothing concerning the above, whole-body exposures to SSS could, potentially by pulmonary larger, chambers only a 20L nose-only system, vary considerably in their response. The nose-only systems are likely to give more reproducible results than whole body exposures. It is important to note that the nose-only systems do not allow for any absorption of chemicals through the skin.
+
+The MSS/SSS comparisons should be made at equi-TPM presentations. This means that the total particulate matter (TPM) in both streams should be equal. The TPM levels should be measured using a filter face sampler, and the filters weighed before and after exposure. The results should be expressed as TPM per cubic meter.
+
+It is important to note that the SSS is likely to contain a higher concentration of free nicotine than the MSS. This is because the SSS is produced by burning tobacco, while the MSS is produced by smoking tobacco. As a result, animals exposed to SSS are likely to have higher levels of nicotine in their blood than animals exposed to MSS.
+
+The toxicology studies on ETS should be conducted in accordance with established protocols. The animals should be monitored closely for any signs of toxicity. The results of the studies should be reported in detail, including all relevant data and statistical analyses.
+
+J.M.H.

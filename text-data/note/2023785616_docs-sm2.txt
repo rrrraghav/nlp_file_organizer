@@ -1,0 +1,18 @@
+BI
+32.3 67.7
+Conc! %Red.
+0.39 95
+
+MLB
+78.3 21.7
+55.3 44.7
+1.53 0
+Mix
+63.2 36.8
+1.00 385
+
+Use MLB
+Capri > 50:50
+Trim > Mental
+" Single Wrap - kind (
+Low Density) Phosphoric 12mm
