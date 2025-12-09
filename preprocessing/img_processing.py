@@ -119,7 +119,7 @@ async def process_single_image(session, image_path, output_text_path, semaphore)
     except Exception as e:
         print(f"Failed to process {image_path}: {e}")
 
-async def process_dataset(session, source_root, output_root, semaphore, suffix="", allowed_categories=None):
+async def process_dataset(session, source_root, output_root, semaphore, suffix=""):
     """
     Process all images in a single dataset
     
@@ -129,17 +129,12 @@ async def process_dataset(session, source_root, output_root, semaphore, suffix="
         output_root (str): Root folder where extracted text will be saved
         semaphore (asyncio.Semaphore): Controls concurrent request limit
         suffix (str): Suffix to append to filenames (e.g., "_docs-sm2")
-        allowed_categories (list): List of category folder names to process. If None, process all.
     
     Returns:
         dict: Dictionary mapping category names to lists of tasks
     """
     tasks_by_category = {}
     category_folders = list_folders(source_root)
-    
-    # filter categories if allowed_categories is specified
-    if allowed_categories:
-        category_folders = [cat for cat in category_folders if cat in allowed_categories]
     
     for category in category_folders:
         # make output folder for this category
@@ -169,12 +164,8 @@ async def process_dataset(session, source_root, output_root, semaphore, suffix="
 async def main():
     """
     Process all images in category folders from multiple datasets
-    ONLY processing 'note' and 'report' folders
     """
     output_root = "text-data"
-    
-    # ONLY process these categories
-    ALLOWED_CATEGORIES = ["note", "report"]
     
     # config for how many images are processed simultaneously
     # semaphore make sure we never exceed this limit
@@ -186,15 +177,13 @@ async def main():
     
     # create aiohttp session (reuse for all requests)
     async with aiohttp.ClientSession() as session:
-        # process docs-sm dataset (no suffix) - only note and report
-        print("Gathering tasks for docs-sm (note & report only)...")
-        tasks_sm = await process_dataset(session, "docs-sm", output_root, semaphore, 
-                                        suffix="", allowed_categories=ALLOWED_CATEGORIES)
+        # process docs-sm dataset (no suffix)
+        print("Gathering tasks for docs-sm...")
+        tasks_sm = await process_dataset(session, "docs-sm", output_root, semaphore, suffix="")
         
-        # process docs-sm2 dataset (with suffix) - only note and report
-        print("Gathering tasks for docs-sm2 (note & report only)...")
-        tasks_sm2 = await process_dataset(session, "docs-sm2", output_root, semaphore, 
-                                         suffix="_docs-sm2", allowed_categories=ALLOWED_CATEGORIES)
+        # process docs-sm2 dataset (with suffix)
+        print("Gathering tasks for docs-sm2...")
+        tasks_sm2 = await process_dataset(session, "docs-sm2", output_root, semaphore, suffix="_docs-sm2")
         
         # combine all tasks by category
         all_tasks_by_category = {**tasks_sm, **tasks_sm2}
